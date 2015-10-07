@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Babuvirus (12)
+0.220021
+-1.
+-0.606127
+-0.0985592
+0.128524
+1
+NC_003473
+Banana bunchy top virus
+1075
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.552074
+-0.96467
+-0.527565
+0.0677768
+0.00597597
+2
+NC_003474
+Banana bunchy top virus
+1043
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.589847
+0.0961291
+0.903853
+-0.850087
+-0.306684
+3
+NC_003475
+Banana bunchy top virus
+1060
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.353951
+0.0782407
+1.
+-1.
+0.7399
+4
+NC_003476
+Banana bunchy top virus
+1089
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.670601
+0.195273
+0.351857
+0.715258
+1.
+5
+NC_003477
+Banana bunchy top virus
+1018
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+1.
+0.608328
+-1.
+-0.810608
+0.674953
+6
+NC_003479
+Banana bunchy top virus
+1111
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+-1.
+0.553757
+-0.268772
+-0.276418
+0.179625
+7
+NC_010314
+Abaca bunchy top virus (ABTV)
+1090
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.339348
+0.475453
+0.507476
+0.138087
+-0.808598
+8
+NC_010315
+Abaca bunchy top virus (ABTV)
+1057
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+-0.990992
+0.373995
+-0.441803
+-0.12669
+0.153451
+9
+NC_010316
+Abaca bunchy top virus (ABTV)
+1087
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.709542
+0.46715
+-0.161841
+0.49191
+-1.
+10
+NC_010317
+Abaca bunchy top virus (ABTV)
+1074
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.374606
+0.54545
+0.28339
+1.
+0.861452
+11
+NC_010318
+Abaca bunchy top virus (ABTV)
+1015
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}
+0.911264
+1.
+-0.926001
+-0.391068
+0.0683911
+12
+NC_010319
+Abaca bunchy top virus (ABTV)
+1099
+{root  Viruses  ssDNA viruses  Nanoviridae  Babuvirus}

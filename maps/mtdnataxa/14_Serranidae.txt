@@ -1,0 +1,346 @@
+34
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Serranidae (34)
+-0.96735
+-0.0363662
+1.
+1.
+0.193038
+1
+NC_008449
+mitochondrion Plectropomus leopardus (leopard coralgrouper)
+16714
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Plectropomus}
+0.84784
+0.626056
+0.201095
+0.20872
+-0.651999
+2
+NC_011111
+mitochondrion Epinephelus coioides (orange-spotted grouper)
+16418
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+1.
+-1.
+0.0719139
+0.255759
+-0.305422
+3
+NC_011113
+mitochondrion Epinephelus akaara (Hong Kong grouper)
+16795
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.688849
+0.599023
+0.101082
+0.285705
+-0.678503
+4
+NC_011715
+mitochondrion Epinephelus lanceolatus (giant grouper)
+16574
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.600844
+0.507946
+0.0673031
+0.267329
+-0.6217
+5
+NC_012709
+mitochondrion Anyperodon leucogrammicus (Epinephelus
+16616
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Anyperodon}
+0.9729
+1.
+0.254054
+0.222533
+-0.808928
+6
+NC_013820
+mitochondrion Epinephelus bruneus (longtooth grouper)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.616394
+0.371232
+-0.549903
+0.197046
+0.983206
+7
+NC_013829
+mitochondrion Hyporthodus septemfasciatus (convict grouper)
+16558
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Hyporthodus}
+-0.761726
+-0.0515767
+0.330102
+0.355667
+-1.
+8
+NC_013832
+mitochondrion Hypoplectrus gemma (blue hamlet)
+16911
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Serraninae  Hypoplectrus}
+0.992834
+0.995386
+0.252779
+0.226304
+-0.807218
+9
+NC_017891
+mitochondrion Epinephelus moara (kelp grouper)
+16696
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.952718
+-0.990139
+0.0554762
+0.271264
+-0.274772
+10
+NC_018773
+mitochondrion Epinephelus awoara (yellow grouper)
+16802
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.759175
+0.556599
+0.138411
+0.22013
+-0.609939
+11
+NC_020046
+mitochondrion Epinephelus fuscoguttatus (brown-marbled grouper)
+16648
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.619541
+0.316174
+-0.556808
+0.206323
+1.
+12
+NC_020047
+mitochondrion Hyporthodus octofasciatus (eightbar grouper)
+16545
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Hyporthodus}
+0.934015
+-0.930329
+0.0886
+0.275945
+-0.310437
+13
+NC_020782
+mitochondrion Epinephelus fasciatomaculosus (rock grouper)
+16682
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.909295
+0.676504
+0.107222
+0.265656
+-0.569982
+14
+NC_020784
+mitochondrion Epinephelus latifasciatus (striped grouper)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.626569
+-0.54825
+0.0173209
+0.265321
+-0.552263
+15
+NC_020785
+mitochondrion Epinephelus areolatus (areolate grouper)
+16893
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.888553
+-0.78689
+0.0119789
+0.273851
+-0.350314
+16
+NC_021133
+mitochondrion Epinephelus stictus (black-dotted grouper)
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.27224
+0.0673006
+-0.647239
+0.522247
+-0.717049
+17
+NC_021134
+mitochondrion Cephalopholis boenak (chocolate hind)
+16771
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Cephalopholis}
+-0.976087
+0.0159795
+0.985203
+0.962084
+0.145233
+18
+NC_021405
+mitochondrion Plectropomus areolatus (squaretail coralgrouper)
+16770
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Plectropomus}
+0.623302
+-0.659153
+0.0171553
+0.312807
+-0.940485
+19
+NC_021450
+mitochondrion Epinephelus quoyanus (longfin grouper)
+16797
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.56488
+0.180142
+-0.251387
+0.307469
+-0.0675911
+20
+NC_021462
+mitochondrion Epinephelus epistictus (dotted grouper)
+16920
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.634415
+-0.687097
+0.00755121
+0.289721
+-0.934327
+21
+NC_021612
+mitochondrion Epinephelus trimaculatus (threespot grouper)
+16761
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.655666
+0.496459
+0.067553
+0.21535
+-0.559438
+22
+NC_021614
+mitochondrion Cromileptes altivelis (humpback grouper)
+16497
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Cromileptes}
+0.797043
+-0.894248
+0.0891253
+0.275294
+-0.397276
+23
+NC_021765
+mitochondrion Epinephelus sexfasciatus (sixbar grouper)
+16786
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-1.
+-0.0868232
+0.0593025
+-1.
+-0.385203
+24
+NC_022138
+mitochondrion Variola louti (yellow-edged lyretail)
+16770
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Variola}
+-0.986698
+-0.0951939
+0.0502566
+-0.967862
+-0.394045
+25
+NC_022139
+mitochondrion Variola albimarginata (white-edged lyretail)
+16768
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Variola}
+0.45509
+0.210885
+-0.282228
+0.249688
+0.217438
+26
+NC_022140
+mitochondrion Triso dermopterus
+16605
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Triso}
+-0.303805
+0.113966
+-0.758764
+0.572542
+-0.741264
+27
+NC_022141
+mitochondrion Aethaloperca rogaa
+16538
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Aethaloperca}
+-0.470673
+0.0321132
+-0.639475
+0.582505
+-0.830885
+28
+NC_022142
+mitochondrion Cephalopholis argus (peacock hind)
+16767
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Cephalopholis}
+-0.3189
+0.0483836
+-1.
+0.64854
+-0.704741
+29
+NC_022143
+mitochondrion Cephalopholis sonnerati (tomato hind)
+16587
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Cephalopholis}
+0.519795
+-0.427174
+-0.0531388
+0.312683
+-0.59436
+30
+NC_022509
+mitochondrion Epinephelus merra (honeycomb grouper)
+17017
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.655237
+-0.542243
+-0.00866416
+0.282741
+-0.668178
+31
+NC_022848
+mitochondrion Epinephelus bleekeri (duskytail grouper)
+17227
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.899834
+0.705221
+0.257339
+0.228878
+-0.644324
+32
+NC_024039
+mitochondrion Epinephelus tukula (potato grouper)
+16503
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.315636
+0.0611861
+-0.96107
+0.663282
+-0.711755
+33
+NC_024100
+mitochondrion Cephalopholis sexmaculata
+16589
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Cephalopholis}
+-0.610156
+0.0237343
+0.0772178
+0.418665
+-0.670778
+34
+NC_024108
+mitochondrion Grammistes sexlineatus
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Grammistini  Grammistes}

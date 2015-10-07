@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Parastacoidea (21)
+0.864847
+-1.
+-1.
+-0.705518
+0.187012
+1
+NC_011243
+mitochondrion Cherax destructor (Australian freshwater crayfish)
+15894
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.0944031
+-0.0821236
+0.53115
+-0.332873
+0.498776
+2
+NC_022847
+mitochondrion Engaeus lengana
+15934
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+0.844067
+0.72962
+-0.0916424
+-0.316598
+0.452394
+3
+NC_022936
+mitochondrion Cherax cainii
+15801
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.597405
+-0.20412
+0.442122
+1.
+0.101247
+4
+NC_022937
+mitochondrion Cherax quadricarinatus
+15869
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.62991
+-0.265685
+0.163073
+0.931848
+0.137086
+5
+NC_022938
+mitochondrion Cherax monticola
+15917
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+1.
+1.
+-0.00197639
+-0.456946
+0.383958
+6
+NC_022939
+mitochondrion Cherax glaber
+15806
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.0671829
+-0.393646
+0.995078
+-1.
+-1.
+7
+NC_023477
+mitochondrion Engaeus lyelli
+16027
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+0.761062
+-0.490328
+-0.402328
+-0.27848
+0.521216
+8
+NC_023478
+mitochondrion Cherax robustus
+15703
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.966547
+0.706231
+-0.192062
+-0.440372
+0.362514
+9
+NC_023479
+mitochondrion Cherax quinquecarinatus
+15810
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.897481
+-0.909461
+-0.83453
+-0.507565
+0.623892
+10
+NC_023480
+mitochondrion Cherax dispar
+15675
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.811815
+-0.621904
+-0.479902
+-0.387592
+0.688178
+11
+NC_023481
+mitochondrion Cherax cairnsensis
+15600
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.972903
+0.954124
+0.0189898
+-0.439363
+0.36005
+12
+NC_023482
+mitochondrion Cherax preissii
+15809
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.451987
+0.133038
+-0.201054
+-0.320079
+0.519795
+13
+NC_023809
+mitochondrion Engaeus cunicularius
+16042
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+0.11875
+-0.193901
+0.852052
+-0.472848
+0.895225
+14
+NC_023810
+mitochondrion Geocharax gracilis
+15924
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Geocharax}
+0.299318
+-0.119032
+0.507225
+-0.354595
+0.794027
+15
+NC_023811
+mitochondrion Euastacus yarraensis (Yarra cray)
+15548
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Euastacus}
+0.965324
+0.893789
+-0.086203
+-0.427718
+0.404382
+16
+NC_024029
+mitochondrion Cherax crassimanus
+15807
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.128576
+-0.241069
+1.
+-0.561333
+1.
+17
+NC_024295
+mitochondrion Gramastacus lacus
+15764
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Gramastacus}
+-0.997858
+0.410355
+-0.91537
+-0.185231
+0.371745
+18
+NC_024441
+mitochondrion Engaeus sericatus
+17350
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+-1.
+0.425205
+-0.91052
+-0.186824
+0.353865
+19
+NC_024442
+mitochondrion Engaeus quadrimanus
+17321
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+0.0658351
+-0.0925426
+0.819765
+-0.415967
+0.709872
+20
+NC_025647
+mitochondrion Tenuibranchiurus glypticus
+17342
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Tenuibranchiurus}
+0.33903
+-0.153971
+0.482348
+-0.23489
+0.773369
+21
+NC_025957
+mitochondrion Paranephrops planifrons
+16174
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Paranephrops}

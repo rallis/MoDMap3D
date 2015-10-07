@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Iridoviridae (14)
+-0.664691
+-0.0702849
+-1.
+-0.778891
+-0.0714972
+1
+NC_001824
+Lymphocystis disease virus 1
+102653
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Lymphocystivirus}
+-0.702504
+0.17859
+-0.219394
+0.0216809
+0.357284
+2
+NC_003038
+Invertebrate iridescent virus 6
+212482
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Iridovirus}
+0.394178
+-1.
+1.
+-1.
+0.129679
+3
+NC_003494
+Infectious spleen and kidney necrosis virus
+111362
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Megalocytivirus}
+0.952851
+1.
+-0.0208415
+-0.0587419
+0.142743
+4
+NC_005832
+Ambystoma tigrinum virus
+106332
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Ranavirus}
+-0.761915
+0.202575
+-0.460791
+-0.320941
+0.277613
+5
+NC_005902
+Lymphocystis disease virus - isolate China
+186250
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Lymphocystivirus  unclassified Lymphocystivirus}
+0.842534
+0.66585
+0.116883
+-0.0449622
+0.159094
+6
+NC_005946
+Frog virus 3
+105903
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Ranavirus}
+0.140878
+-0.616569
+-0.295767
+1.
+-1.
+7
+NC_006549
+Singapore grouper iridovirus
+140131
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Ranavirus}
+0.102327
+-0.48982
+0.298895
+0.904381
+1.
+8
+NC_008187
+Invertebrate iridescent virus 3
+191100
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Chloriridovirus}
+-0.767762
+0.298196
+0.0539488
+0.248189
+0.818936
+9
+NC_015780
+Wiseana iridescent virus
+205791
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Iridovirus}
+1.
+0.942952
+0.0109547
+-0.0314978
+0.145667
+10
+NC_017940
+European catfish virus
+127732
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Ranavirus}
+-0.995974
+0.680856
+0.64872
+0.0562948
+-0.264077
+11
+NC_021901
+Invertebrate iridovirus 22
+197693
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Iridovirus}
+-0.970127
+0.648463
+0.592352
+0.0601767
+-0.235711
+12
+NC_023611
+Invertebrate iridescent virus 30
+198533
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Iridovirus}
+-0.799628
+0.336545
+0.0681478
+0.210393
+0.76481
+13
+NC_023613
+Invertebrate iridovirus 25
+204815
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Iridovirus}
+-1.
+0.686389
+0.661464
+0.0637768
+-0.288731
+14
+NC_023615
+Invertebrate iridescent virus 22
+196456
+{root  Viruses  dsDNA viruses no RNA stage  Iridoviridae  Iridovirus}

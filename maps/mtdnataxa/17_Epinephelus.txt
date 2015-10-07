@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Epinephelus (18)
+0.584564
+-0.267152
+-1.
+-0.20913
+0.719776
+1
+NC_011111
+mitochondrion Epinephelus coioides (orange-spotted grouper)
+16418
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.999694
+-0.942953
+-0.11776
+-0.213347
+0.366281
+2
+NC_011113
+mitochondrion Epinephelus akaara (Hong Kong grouper)
+16795
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.528482
+-0.168209
+-0.73887
+0.0164281
+0.455164
+3
+NC_011715
+mitochondrion Epinephelus lanceolatus (giant grouper)
+16574
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+1.
+-0.418308
+1.
+-0.18813
+0.482476
+4
+NC_013820
+mitochondrion Epinephelus bruneus (longtooth grouper)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.995805
+-0.424474
+0.965831
+-0.182689
+0.486682
+5
+NC_017891
+mitochondrion Epinephelus moara (kelp grouper)
+16696
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-1.
+-0.943802
+-0.112072
+-0.223882
+0.458582
+6
+NC_018773
+mitochondrion Epinephelus awoara (yellow grouper)
+16802
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.485091
+-0.301802
+-0.557987
+-0.0785539
+0.221158
+7
+NC_020046
+mitochondrion Epinephelus fuscoguttatus (brown-marbled grouper)
+16648
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.940505
+-1.
+-0.114277
+-0.317464
+0.439002
+8
+NC_020782
+mitochondrion Epinephelus fasciatomaculosus (rock grouper)
+16682
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.61271
+-0.359191
+-0.393034
+-0.0921707
+0.310926
+9
+NC_020784
+mitochondrion Epinephelus latifasciatus (striped grouper)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.580531
+0.308619
+-0.125778
+1.
+0.965815
+10
+NC_020785
+mitochondrion Epinephelus areolatus (areolate grouper)
+16893
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.811933
+-0.672058
+-0.0920609
+-0.0297835
+0.305992
+11
+NC_021133
+mitochondrion Epinephelus stictus (black-dotted grouper)
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.674615
+1.
+-0.0650883
+-1.
+0.341359
+12
+NC_021450
+mitochondrion Epinephelus quoyanus (longfin grouper)
+16797
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.0634865
+-0.138571
+-0.414447
+0.172655
+-1.
+13
+NC_021462
+mitochondrion Epinephelus epistictus (dotted grouper)
+16920
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.699516
+0.947217
+-0.027361
+-0.990805
+0.395973
+14
+NC_021612
+mitochondrion Epinephelus trimaculatus (threespot grouper)
+16761
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.908739
+-0.848406
+-0.0857668
+-0.265383
+0.440313
+15
+NC_021765
+mitochondrion Epinephelus sexfasciatus (sixbar grouper)
+16786
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.470038
+0.226226
+0.0985088
+0.874902
+-0.472271
+16
+NC_022509
+mitochondrion Epinephelus merra (honeycomb grouper)
+17017
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+-0.57576
+0.390606
+-0.0314488
+0.934543
+1.
+17
+NC_022848
+mitochondrion Epinephelus bleekeri (duskytail grouper)
+17227
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}
+0.672588
+-0.351011
+-0.938723
+-0.184509
+0.669633
+18
+NC_024039
+mitochondrion Epinephelus tukula (potato grouper)
+16503
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Serranoidei  Serranidae  Epinephelinae  Epinephelini  Epinephelus}

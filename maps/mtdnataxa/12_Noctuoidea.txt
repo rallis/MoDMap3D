@@ -1,0 +1,176 @@
+17
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Noctuoidea (17)
+1.
+0.724681
+1.
+-0.180076
+-0.148603
+1
+NC_011128
+mitochondrion Ochrogaster lunifer (bag-shelter moth)
+15593
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Notodontidae  Thaumetopoeinae  Ochrogaster}
+-0.0872944
+-0.297548
+-0.666253
+1.
+-0.135581
+2
+NC_012893
+mitochondrion Lymantria dispar (gypsy moth)
+15569
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Lymantriidae  Lymantria}
+-0.301382
+-0.261387
+-0.360576
+-0.11336
+0.424235
+3
+NC_014058
+mitochondrion Hyphantria cunea (fall webworm moth)
+15481
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Erebidae  Arctiinae  Hyphantria}
+-0.892928
+-0.375385
+-0.0654818
+-0.394478
+-1.
+4
+NC_014668
+mitochondrion Helicoverpa armigera (cotton bollworm)
+15347
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Heliothinae  Helicoverpa}
+-0.682892
+0.436968
+-0.255825
+-0.281896
+-0.227684
+5
+NC_015835
+mitochondrion Sesamia inferens (purple stem borer)
+15413
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Amphipyrinae  Sesamia}
+-0.421118
+-0.46717
+0.382637
+-1.
+0.0471597
+6
+NC_016067
+mitochondrion Phalera flavescens (Japanese buff-tip moth)
+15659
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Notodontidae  Phalerinae  Phalera}
+-0.600458
+0.107218
+0.0801089
+0.209572
+-0.507586
+7
+NC_019622
+mitochondrion Spodoptera exigua (beet armyworm)
+15365
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Amphipyrinae  Spodoptera}
+-0.0333183
+-0.390158
+-0.322498
+0.863542
+0.234716
+8
+NC_020342
+mitochondrion Gynaephora menyuanensis (moth)
+15770
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Lymantriidae  Gynaephora}
+-0.763566
+-0.904903
+0.769992
+0.192089
+0.932167
+9
+NC_021410
+mitochondrion Ctenoplusia agnata
+15261
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Plusiinae  Ctenoplusia}
+0.0714437
+-0.454527
+-1.
+-0.971433
+0.995455
+10
+NC_021416
+mitochondrion Amata formosae
+15463
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Erebidae  Arctiinae  Amata}
+-1.
+0.848798
+0.110481
+0.0219156
+0.460747
+11
+NC_022185
+mitochondrion Agrotis ipsilon (black cutworm moth)
+15377
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Noctuinae  Agrotis}
+-0.616581
+0.0445902
+0.184246
+0.279165
+-0.478792
+12
+NC_022676
+mitochondrion Spodoptera litura
+15388
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Amphipyrinae  Spodoptera}
+-0.971806
+0.883836
+0.0888351
+0.0453096
+0.67613
+13
+NC_022689
+mitochondrion Agrotis segetum (turnip moth)
+15378
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Noctuinae  Agrotis}
+-0.829464
+0.306341
+-0.024444
+-0.129182
+0.074768
+14
+NC_023118
+mitochondrion Mythimna separata (Pseudaletia separata)
+15332
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Hadeninae  Mythimna}
+-0.919502
+-0.336242
+0.019399
+-0.24258
+-0.752839
+15
+NC_023791
+mitochondrion Australothis rubrescens
+15382
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Heliothinae  Australothis}
+-0.827937
+-1.
+0.713002
+0.242114
+0.89677
+16
+NC_025760
+mitochondrion Ctenoplusia limbirena
+15306
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Plusiinae  Ctenoplusia}
+-0.749416
+1.
+-0.101261
+0.0850657
+1.
+17
+NC_025774
+mitochondrion Striacosta albicosta (western bean cutworm)
+15553
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Noctuoidea  Noctuidae  Noctuinae  Striacosta}

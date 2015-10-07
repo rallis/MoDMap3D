@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tephritoidea (11)
+0.787756
+0.97898
+-0.401193
+-0.0156745
+-0.2192
+1
+NC_000857
+mitochondrion Ceratitis capitata (Mediterranean fruit fly)
+15980
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Ceratitis  Ceratitis}
+0.670751
+0.591958
+1.
+1.
+-1.
+2
+NC_005333
+mitochondrion Bactrocera oleae (olive fruit fly)
+15815
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Daculus}
+-0.970639
+0.425399
+-0.0891169
+0.0619336
+-0.469275
+3
+NC_008748
+mitochondrion Bactrocera dorsalis (oriental fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+-1.
+0.416592
+-0.0862115
+0.0551317
+-0.472303
+4
+NC_009770
+mitochondrion Bactrocera papayae (papaya fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+-0.981658
+0.410995
+-0.0850934
+0.0478221
+-0.48115
+5
+NC_009771
+mitochondrion Bactrocera philippinensis (Philippines fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+-0.98177
+0.413369
+-0.0801917
+0.0723632
+-0.455959
+6
+NC_009772
+mitochondrion Bactrocera carambolae (carambola fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+0.880855
+-1.
+-0.220547
+0.0904823
+-0.14642
+7
+NC_014402
+mitochondrion Bactrocera minax (Oriental citrus fly)
+16043
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Tetradacus}
+-0.167169
+0.554316
+0.542743
+0.252889
+1.
+8
+NC_014611
+mitochondrion Bactrocera tryoni (Queensland fruit fly)
+15925
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+0.654203
+0.625704
+0.933624
+-1.
+-0.536001
+9
+NC_016056
+mitochondrion Bactrocera cucurbitae (melon fly)
+15825
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Zeugodacus}
+-0.0787195
+0.649625
+0.391278
+0.28948
+0.485949
+10
+NC_018787
+mitochondrion Bactrocera correcta (guava fruit fly)
+15936
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+1.
+1.
+-1.
+0.196588
+-0.275743
+11
+NC_020463
+mitochondrion Procecidochares utilis
+15922
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Procecidochares}

@@ -1,0 +1,606 @@
+60
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Orthoreovirus (60)
+0.643015
+-0.60089
+0.146424
+-0.786481
+-0.936677
+1
+NC_004274
+Mammalian orthoreovirus 3
+3901
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.621114
+-0.539566
+0.144085
+-0.697762
+-0.843255
+2
+NC_004275
+Mammalian orthoreovirus 3
+3916
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.875821
+-0.585928
+0.0719361
+-0.986788
+0.994648
+3
+NC_004276
+Mammalian orthoreovirus 3
+1196
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.708018
+-0.594253
+0.142527
+-0.962248
+-0.895528
+4
+NC_004277
+Mammalian orthoreovirus 3
+1416
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.921958
+-1.
+1.
+0.967542
+-0.573801
+5
+NC_004278
+Mammalian orthoreovirus 3
+2207
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.714119
+-0.571055
+0.104588
+-0.852623
+-0.785065
+6
+NC_004279
+Mammalian orthoreovirus 3
+1331
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.903344
+1.
+0.15837
+0.0643758
+-0.65494
+7
+NC_004280
+Mammalian orthoreovirus 3
+2304
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.736313
+-0.500084
+0.174741
+-0.80449
+-1.
+8
+NC_004281
+Mammalian orthoreovirus 3
+2235
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+-0.999685
+-0.443538
+0.0377845
+-0.0617257
+-0.464109
+9
+NC_004282
+Mammalian orthoreovirus 3
+3860
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.993916
+-0.845042
+-1.
+0.567177
+-0.738996
+10
+NC_004283
+Mammalian orthoreovirus 3
+1198
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+-1.
+-0.444211
+0.0304764
+-0.0567661
+-0.459956
+11
+NC_013225
+Mammalian orthoreovirus 3
+3804
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.623723
+-0.56548
+0.17355
+-0.750626
+-0.807114
+12
+NC_013226
+Mammalian orthoreovirus 3
+3870
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.901873
+0.999823
+0.156725
+0.0579429
+-0.660355
+13
+NC_013227
+Mammalian orthoreovirus 3
+2251
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.931119
+-0.983978
+0.986312
+1.
+-0.595651
+14
+NC_013228
+Mammalian orthoreovirus 3
+2127
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.653187
+-0.597375
+0.143578
+-0.776127
+-0.945074
+15
+NC_013229
+Mammalian orthoreovirus 3
+3888
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.75169
+-0.486658
+0.175991
+-0.821233
+-0.971073
+16
+NC_013230
+Mammalian orthoreovirus 3
+2241
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.705784
+-0.579184
+0.147295
+-0.952554
+-0.88833
+17
+NC_013231
+Mammalian orthoreovirus 3
+1368
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.7003
+-0.580301
+0.0848447
+-0.864916
+-0.762352
+18
+NC_013232
+Mammalian orthoreovirus 3
+1331
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+1.
+-0.856652
+-0.983241
+0.596495
+-0.757845
+19
+NC_013233
+Mammalian orthoreovirus 3
+1198
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.876206
+-0.565585
+0.0726769
+-1.
+1.
+20
+NC_013234
+Mammalian orthoreovirus 3
+1098
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.633054
+-0.523612
+0.156848
+-0.728019
+-0.798814
+21
+NC_014236
+Broome virus
+3947
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.571201
+-0.514872
+0.149999
+-0.737841
+-0.827317
+22
+NC_014237
+Broome virus
+3903
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.521837
+-0.532875
+0.119024
+-0.702321
+-0.815046
+23
+NC_014238
+Broome virus
+3848
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.647317
+-0.534505
+0.126422
+-0.712545
+-0.827823
+24
+NC_014239
+Broome virus
+2327
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.670781
+-0.53675
+0.137121
+-0.734356
+-0.77352
+25
+NC_014240
+Broome virus
+2076
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.629617
+-0.555848
+0.130946
+-0.630082
+-0.759989
+26
+NC_014241
+Broome virus
+2068
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.679296
+-0.515024
+0.107736
+-0.698106
+-0.775181
+27
+NC_014242
+Broome virus
+1316
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.681072
+-0.509794
+0.136445
+-0.728002
+-0.746691
+28
+NC_014243
+Broome virus
+1231
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.671089
+-0.473963
+0.107882
+-0.718011
+-0.79806
+29
+NC_014244
+Broome virus
+1203
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.658132
+-0.519722
+0.126779
+-0.715492
+-0.686743
+30
+NC_014245
+Broome virus
+808
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.627509
+-0.534115
+0.147061
+-0.742633
+-0.794781
+31
+NC_015126
+Avian orthoreovirus
+3958
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.520671
+-0.543885
+0.126653
+-0.728331
+-0.825834
+32
+NC_015127
+Avian orthoreovirus
+3829
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.647213
+-0.533179
+0.136785
+-0.725616
+-0.776726
+33
+NC_015128
+Avian orthoreovirus
+3907
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.665293
+-0.519618
+0.090586
+-0.694679
+-0.757631
+34
+NC_015129
+Avian orthoreovirus
+2283
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.648294
+-0.564641
+0.171292
+-0.62442
+-0.789793
+35
+NC_015130
+Avian orthoreovirus
+2158
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.67025
+-0.510323
+0.169678
+-0.716363
+-0.737173
+36
+NC_015131
+Avian orthoreovirus
+1996
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.675555
+-0.484723
+0.138122
+-0.700392
+-0.74641
+37
+NC_015132
+Avian orthoreovirus
+1645
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.683971
+-0.551073
+0.134537
+-0.750613
+-0.798095
+38
+NC_015133
+Avian orthoreovirus
+1324
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.688515
+-0.566614
+0.142677
+-0.68968
+-0.71534
+39
+NC_015134
+Avian orthoreovirus
+1202
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.694364
+-0.527552
+0.106702
+-0.717156
+-0.774317
+40
+NC_015135
+Avian orthoreovirus
+1192
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.596755
+-0.50284
+0.162216
+-0.784734
+-0.828901
+41
+NC_015877
+Baboon orthoreovirus
+3903
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.555573
+-0.508776
+0.135477
+-0.767336
+-0.837733
+42
+NC_015878
+Baboon orthoreovirus
+3838
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.605415
+-0.508457
+0.170406
+-0.711867
+-0.813804
+43
+NC_015879
+Baboon orthoreovirus
+3766
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.622284
+-0.508822
+0.155152
+-0.771229
+-0.7159
+44
+NC_015880
+Baboon orthoreovirus
+2292
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.649654
+-0.541173
+0.148953
+-0.703703
+-0.731264
+45
+NC_015881
+Baboon orthoreovirus
+2143
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.674215
+-0.531754
+0.12248
+-0.729249
+-0.700385
+46
+NC_015882
+Baboon orthoreovirus
+1892
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.653687
+-0.553205
+0.164854
+-0.671817
+-0.772698
+47
+NC_015883
+Baboon orthoreovirus
+1311
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.681331
+-0.533839
+0.157514
+-0.748652
+-0.738373
+48
+NC_015884
+Baboon orthoreovirus
+1253
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.681913
+-0.554472
+0.137425
+-0.758092
+-0.735648
+49
+NC_015885
+Baboon orthoreovirus
+887
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.683972
+-0.540958
+0.154121
+-0.718844
+-0.765663
+50
+NC_015886
+Baboon orthoreovirus
+1150
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus}
+0.641814
+-0.534626
+0.155988
+-0.768937
+-0.771584
+51
+NC_020439
+Melaka orthoreovirus
+3896
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.652587
+-0.536309
+0.161308
+-0.706339
+-0.830299
+52
+NC_020440
+Melaka orthoreovirus
+3954
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.647952
+-0.529153
+0.13194
+-0.755657
+-0.770446
+53
+NC_020441
+Melaka orthoreovirus
+2295
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.654623
+-0.564803
+0.135224
+-0.68439
+-0.777324
+54
+NC_020442
+Melaka orthoreovirus
+2145
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.704315
+-0.570928
+0.151033
+-0.631309
+-0.740292
+55
+NC_020443
+Melaka orthoreovirus
+1984
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.67362
+-0.537576
+0.117533
+-0.730447
+-0.72466
+56
+NC_020444
+Melaka orthoreovirus
+1322
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.660109
+-0.539008
+0.122382
+-0.699512
+-0.796388
+57
+NC_020445
+Melaka orthoreovirus
+1192
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.704825
+-0.52798
+0.128575
+-0.668237
+-0.721987
+58
+NC_020446
+Melaka orthoreovirus
+1184
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.569381
+-0.545656
+0.122139
+-0.750082
+-0.826373
+59
+NC_020447
+Melaka orthoreovirus
+3833
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}
+0.677027
+-0.528424
+0.118219
+-0.742984
+-0.810508
+60
+NC_020448
+Melaka orthoreovirus
+1605
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Orthoreovirus  unclassified Orthoreovirus}

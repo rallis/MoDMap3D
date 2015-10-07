@@ -1,0 +1,286 @@
+28
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Astroviridae (28)
+-0.351431
+-0.417179
+0.848782
+-0.590048
+-0.840966
+1
+NC_001943
+Mamastrovirus 1
+6813
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus}
+-0.375744
+-0.345829
+0.757514
+-0.534733
+-0.962663
+2
+NC_002469
+Mamastrovirus 13
+6440
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus}
+-0.303926
+-0.367662
+0.812239
+-0.607537
+-0.897285
+3
+NC_002470
+Turkey astrovirus
+7003
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Avastrovirus  unclassified Avastrovirus}
+-0.343597
+-0.397645
+0.829363
+-0.513326
+-0.837192
+4
+NC_003790
+Chicken astrovirus
+6927
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Avastrovirus  unclassified Avastrovirus}
+-0.381883
+-0.392179
+0.733165
+-0.490268
+-0.963692
+5
+NC_004579
+Mamastrovirus 10
+6610
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus}
+-0.311565
+-0.395204
+0.871228
+-0.595234
+-0.85627
+6
+NC_005790
+Turkey astrovirus 2
+7355
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Avastrovirus}
+0.994999
+-0.722694
+-0.292752
+-0.24249
+-0.528563
+7
+NC_011400
+Astrovirus MLB1
+6171
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.294557
+-0.386198
+0.881518
+-0.632563
+-0.841102
+8
+NC_012437
+Duck astrovirus C-NGB
+7722
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Avastrovirus  unclassified Avastrovirus}
+-0.292401
+-0.205269
+0.770825
+-0.643439
+-0.958293
+9
+NC_013060
+Astrovirus VA1
+6586
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.381095
+0.996969
+-0.407815
+-0.252455
+-0.482121
+10
+NC_013443
+HMO Astrovirus A
+6534
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+1.
+-0.716394
+-0.290061
+-0.246012
+-0.536761
+11
+NC_014320
+Astrovirus MLB1 HK05
+6171
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.288816
+-0.370122
+0.837429
+-0.617018
+-0.729485
+12
+NC_015935
+Mouse astrovirus M-52/USA/2008
+6543
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+0.0286827
+-0.433876
+0.546825
+-0.527204
+-0.633511
+13
+NC_016155
+Astrovirus MLB2
+6119
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.369155
+-0.400188
+1.
+-0.750219
+0.997644
+14
+NC_016896
+Astrovirus wild boar/WBAstV-1/2011/HUN
+6707
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.378532
+1.
+-0.399253
+-0.258302
+-0.491675
+15
+NC_018669
+Astrovirus VA2
+6531
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.426972
+-0.449334
+0.779418
+-0.415144
+-0.743122
+16
+NC_018702
+Murine astrovirus
+6838
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.296588
+-0.244768
+0.750105
+-0.636373
+-1.
+17
+NC_019026
+Astrovirus VA3
+6581
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.307323
+-0.117954
+0.680487
+-0.576603
+-0.912304
+18
+NC_019027
+Astrovirus VA4
+6518
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+0.0885493
+-0.470762
+0.508781
+-0.524025
+-0.705317
+19
+NC_019028
+Astrovirus MLB3
+6124
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.361967
+-0.348921
+0.792339
+-0.595168
+-0.95425
+20
+NC_019494
+Porcine astrovirus 3
+6460
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.382974
+-0.406944
+0.835529
+-0.408975
+-0.85581
+21
+NC_022249
+Feline astrovirus 2
+6795
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-1.
+-1.
+-0.992098
+-0.976113
+-0.609916
+22
+NC_023629
+Bovine astrovirus B76/HK
+6253
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.690467
+-0.68988
+0.432413
+1.
+-0.459101
+23
+NC_023630
+Bovine astrovirus B76-2/HK
+6301
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.702045
+-0.687162
+0.449767
+0.997388
+-0.477991
+24
+NC_023631
+Bovine astrovirus B18/HK
+6300
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.989584
+-0.987686
+-1.
+-1.
+-0.617455
+25
+NC_023632
+Bovine astrovirus B170/HK
+6317
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.383381
+-0.408549
+0.798837
+-0.507
+-0.940685
+26
+NC_023636
+Porcine astrovirus 5 (PoAstV 5)
+6500
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.539056
+-0.555986
+0.499523
+0.00470945
+-0.625778
+27
+NC_023674
+Porcine astrovirus 2 (PAstV2)
+6318
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}
+-0.352975
+-0.38983
+0.975903
+-0.753681
+1.
+28
+NC_023675
+Porcine astrovirus 4 (PAstV4)
+6639
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  Mamastrovirus  unclassified Mamastrovirus}

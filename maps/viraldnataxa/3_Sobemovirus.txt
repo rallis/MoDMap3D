@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Sobemovirus (15)
+0.950857
+0.958767
+-0.319037
+-0.703473
+-0.197382
+1
+NC_001575
+Rice yellow mottle virus
+4449
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.200059
+0.208417
+0.3798
+-0.716886
+0.188222
+2
+NC_001625
+Southern cowpea mosaic virus
+4193
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+1.
+-1.
+-0.834638
+-0.320255
+0.00892495
+3
+NC_001696
+Lucerne transient streak virus
+4279
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+-0.998181
+-0.00591763
+-0.146217
+0.00732738
+-0.165496
+4
+NC_002568
+Sesbania mosaic virus
+4148
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.880112
+0.767885
+-0.586428
+0.0198733
+0.0196367
+5
+NC_002618
+Cocksfoot mottle virus
+4082
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.862443
+0.305077
+0.763772
+-1.
+0.497988
+6
+NC_003747
+Ryegrass mottle virus
+4212
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+-1.
+-0.00869407
+-0.0778882
+-0.0877158
+-0.178914
+7
+NC_004060
+Southern bean mosaic virus
+4132
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.998673
+-0.714581
+-1.
+-0.39461
+-0.0207834
+8
+NC_004346
+Subterranean clover mottle virus
+4258
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.992324
+-0.496511
+0.657981
+0.160618
+-0.44234
+9
+NC_004553
+Turnip rosette virus
+4086
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.753232
+-0.157845
+0.218627
+1.
+1.
+10
+NC_011187
+Sowbane mosaic virus (SoMV)
+3983
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.830118
+1.
+-0.19494
+0.515116
+-0.103702
+11
+NC_011536
+Imperata yellow mottle virus
+4547
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+0.755646
+0.426067
+-0.260505
+0.495832
+-0.518031
+12
+NC_014509
+Velvet tobacco mottle virus
+4247
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus}
+-0.791491
+-0.0364742
+-0.0609921
+-0.0331419
+-0.162807
+13
+NC_016033
+Soybean yellow common mosaic virus
+4152
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus  unclassified Sobemovirus}
+0.93924
+0.0589162
+0.179687
+0.0208448
+-1.
+14
+NC_017914
+Artemisia virus A
+4138
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus  unclassified Sobemovirus}
+0.88247
+-0.468079
+1.
+0.0731366
+-0.439402
+15
+NC_018449
+Papaya lethal yellowing virus
+4145
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Sobemovirus  unclassified Sobemovirus}

@@ -1,0 +1,176 @@
+17
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cricetidae (17)
+0.712446
+0.334902
+0.260027
+-0.512709
+-0.110378
+1
+NC_003041
+mitochondrion Microtus kikuchii (Taiwan vole)
+16312
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+-0.914317
+0.687095
+0.935801
+-0.972359
+-0.149083
+2
+NC_007936
+mitochondrion Cricetulus griseus (Chinese hamster)
+16284
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Cricetulus}
+0.458094
+-0.330596
+0.449792
+-0.471016
+0.291722
+3
+NC_008064
+mitochondrion Microtus levis (East European vole)
+16283
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+-0.791294
+0.436344
+0.400327
+1.
+-0.690038
+4
+NC_013068
+mitochondrion Tscherskia triton (greater long-tailed hamster)
+16488
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Tscherskia}
+-0.683061
+-0.00469205
+0.426368
+-0.656495
+0.0238135
+5
+NC_013276
+mitochondrion Mesocricetus auratus (golden hamster)
+16264
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Mesocricetus}
+0.463856
+-0.361996
+0.424806
+-0.419868
+0.42755
+6
+NC_013563
+mitochondrion Proedromys liangshanensis (vole)
+16296
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Proedromys}
+0.148463
+-0.906876
+0.671061
+-0.591914
+-1.
+7
+NC_013571
+mitochondrion Eothenomys chinensis (Sichuan red-backed vole)
+16362
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Eothenomys}
+1.
+0.9983
+0.0545871
+-0.65052
+-0.800071
+8
+NC_015241
+mitochondrion Microtus fortis fortis (reed vole)
+16310
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+0.992901
+1.
+0.0524824
+-0.650449
+-0.799415
+9
+NC_015243
+mitochondrion Microtus fortis calamorum (Yangtze vole)
+16310
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+0.521039
+-0.312491
+0.459487
+-0.343622
+0.671972
+10
+NC_016055
+mitochondrion Neodon irene (Irene's mountain vole)
+16367
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Neodon}
+0.208751
+-0.985913
+0.802324
+-0.604149
+-0.8959
+11
+NC_016427
+mitochondrion Myodes regulus (Korean red-backed vole)
+16379
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Myodes}
+0.185165
+-1.
+0.769642
+-0.62142
+-0.910059
+12
+NC_024538
+mitochondrion Myodes glareolus (Bank vole)
+16353
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Myodes}
+-0.501923
+-0.156181
+0.32461
+-0.535452
+0.0327198
+13
+NC_024592
+mitochondrion Cricetulus kamensis (Tibetan dwarf hamster)
+16270
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Cricetulus}
+0.34726
+-0.229229
+0.213934
+-0.437287
+1.
+14
+NC_025283
+mitochondrion Lasiopodomys mandarinus (Mandarin vole)
+16375
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Lasiopodomys}
+-1.
+0.727114
+1.
+-0.976134
+-0.00229504
+15
+NC_025330
+mitochondrion Cricetulus longicaudatus (long-tailed hamster)
+16302
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Cricetulus}
+-0.578769
+-0.495261
+-1.
+-0.497102
+-0.1085
+16
+NC_025746
+mitochondrion Akodon montensis
+16378
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Sigmodontinae  Akodon}
+-0.747322
+-0.266378
+-0.765142
+-1.
+-0.629868
+17
+NC_025747
+mitochondrion Wiedomys cerradensis (cerrado red-nosed mouse)
+16346
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Sigmodontinae  Wiedomys}

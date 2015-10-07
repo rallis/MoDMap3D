@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cynoglossidae (11)
+-0.318723
+-0.360048
+-0.0593696
+-0.480115
+0.446115
+1
+NC_012825
+mitochondrion Cynoglossus semilaevis (tongue sole)
+16731
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}
+-1.
+-0.467397
+0.103354
+-0.626612
+0.72911
+2
+NC_014881
+mitochondrion Cynoglossus abbreviatus (three-lined tongue sole)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}
+1.
+-1.
+0.163491
+-0.693623
+0.929814
+3
+NC_021376
+mitochondrion Paraplagusia japonica (black cow-tongue)
+16694
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Paraplagusia}
+0.492594
+0.125213
+-1.
+-0.972422
+0.726106
+4
+NC_023224
+mitochondrion Cynoglossus sinicus
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}
+0.541719
+0.167115
+-0.984563
+-1.
+0.917935
+5
+NC_023226
+mitochondrion Cynoglossus bilineatus (fourlined tonguesole)
+16454
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}
+0.907105
+-0.937961
+0.181834
+-0.703005
+0.818763
+6
+NC_023227
+mitochondrion Paraplagusia bilineata (doublelined tonguesole)
+16985
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Paraplagusia}
+0.961389
+-0.923322
+0.14138
+-0.666965
+1.
+7
+NC_023228
+mitochondrion Paraplagusia blochii (Bloch's tonguesole)
+16611
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Paraplagusia}
+0.666059
+-0.484466
+-0.180233
+-0.469287
+-1.
+8
+NC_023229
+mitochondrion Cynoglossus puncticeps (speckled tonguesole)
+17142
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}
+-0.999686
+-0.466248
+0.102871
+-0.625578
+0.730168
+9
+NC_023230
+mitochondrion Cynoglossus lineolatus
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}
+0.77026
+1.
+1.
+-0.823597
+0.645243
+10
+NC_023445
+mitochondrion Symphurus plagiusa (blackcheek tonguefish)
+17040
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Symphurinae  Symphurus}
+0.561394
+0.00205448
+-0.315347
+1.
+0.919808
+11
+NC_023446
+mitochondrion Cynoglossus itinus
+16915
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Cynoglossidae  Cynoglossinae  Cynoglossus}

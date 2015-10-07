@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Strongyloidea (11)
+0.569581
+-0.855765
+0.237511
+-1.
+0.398242
+1
+NC_013808
+mitochondrion Cylicocyclus insigne (parasitic nematode)
+13828
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Strongylidae  Cyathostominae  Cylicocyclus}
+0.895328
+-0.794329
+0.245391
+0.161615
+-0.960861
+2
+NC_013817
+mitochondrion Oesophagostomum dentatum (pig nodule worm)
+13869
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+0.565491
+-0.910066
+0.172902
+-0.715817
+0.27494
+3
+NC_013818
+mitochondrion Strongylus vulgaris (bloodworm)
+14301
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Strongylidae  Strongylinae  Strongylus}
+-1.
+-1.
+0.518331
+0.427624
+-0.304416
+4
+NC_013821
+mitochondrion Syngamus trachea (gapeworm)
+14647
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Syngamidae  Syngamus}
+0.730482
+-0.105904
+-0.0396213
+1.
+1.
+5
+NC_013831
+mitochondrion Chabertia ovina (large-mouth bowel worm)
+13682
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Chabertia}
+1.
+-0.838849
+0.277475
+0.336152
+-1.
+6
+NC_014181
+mitochondrion Oesophagostomum quadrispinulatum (porcine nodular
+13681
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+0.0474154
+0.273403
+-1.
+-0.243606
+-0.688012
+7
+NC_023098
+mitochondrion Hypodontus macropi
+13634
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Cloacinidae  Hypodontus}
+0.373354
+-0.37317
+0.0581336
+0.0145467
+0.301335
+8
+NC_023099
+mitochondrion Macropicola ocydromi
+13659
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Strongylidae  Strongylinae  Macropicola}
+0.426604
+1.
+1.
+-0.252093
+-0.398809
+9
+NC_023782
+mitochondrion Chabertia erschowi
+13705
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Chabertia}
+0.789344
+-0.711138
+0.115218
+0.402907
+-0.335694
+10
+NC_023932
+mitochondrion Oesophagostomum asperum
+13672
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+0.635254
+-0.473095
+0.284386
+0.260964
+0.0811991
+11
+NC_023933
+mitochondrion Oesophagostomum columbianum
+13561
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}

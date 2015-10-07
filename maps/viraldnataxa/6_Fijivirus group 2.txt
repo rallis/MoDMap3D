@@ -1,0 +1,206 @@
+20
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Fijivirus group 2 (20)
+-0.711107
+-0.56982
+0.848647
+0.916738
+-0.0879843
+1
+NC_003728
+Rice black streaked dwarf virus
+3572
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.78683
+-0.285493
+0.938527
+-1.
+0.450751
+2
+NC_003729
+Rice black streaked dwarf virus
+4501
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.484287
+-0.526754
+0.62513
+1.
+0.385226
+3
+NC_003730
+Rice black streaked dwarf virus
+2193
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+0.00563671
+0.946909
+0.48067
+0.479861
+-0.625811
+4
+NC_003731
+Rice black streaked dwarf virus
+1900
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.100036
+-0.241946
+-0.144603
+0.276459
+0.269321
+5
+NC_003732
+Rice black streaked dwarf virus
+1936
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+1.
+-1.
+0.52348
+0.258753
+-0.0651493
+6
+NC_003733
+Rice black streaked dwarf virus
+1801
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-1.
+-0.80369
+-0.123757
+0.869428
+-0.279242
+7
+NC_003734
+Rice black streaked dwarf virus
+3812
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.654854
+-0.382764
+0.866395
+0.0523736
+-0.152506
+8
+NC_003735
+Rice black streaked dwarf virus
+3617
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.482639
+-0.621926
+-0.694196
+-0.32256
+-1.
+9
+NC_003736
+Rice black streaked dwarf virus
+3164
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.369196
+-0.120149
+-0.841285
+0.327235
+1.
+10
+NC_003737
+Rice black streaked dwarf virus
+2645
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+0.0313734
+-0.303585
+-0.137736
+0.418209
+0.286674
+11
+NC_008728
+Mal de Rio Cuarto virus (MRCV)
+1931
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.637481
+-0.696793
+0.920134
+0.858832
+-0.223904
+12
+NC_008729
+Mal de Rio Cuarto virus (MRCV)
+3566
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.642337
+-0.572365
+0.932714
+0.153671
+-0.349437
+13
+NC_008730
+Mal de Rio Cuarto virus (MRCV)
+3617
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.348017
+-0.115473
+-1.
+0.2911
+0.880638
+14
+NC_008731
+Mal de Rio Cuarto virus (MRCV)
+2639
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.995838
+-0.773818
+-0.170955
+0.913769
+-0.250323
+15
+NC_008732
+Mal de Rio Cuarto virus (MRCV)
+3826
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.689872
+-0.310032
+1.
+-0.959992
+0.456416
+16
+NC_008733
+Mal de Rio Cuarto virus (MRCV)
+4501
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+0.999164
+-0.967189
+0.51736
+0.187826
+-0.118278
+17
+NC_008734
+Mal de Rio Cuarto virus (MRCV)
+1798
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.461814
+-0.595461
+-0.78282
+-0.317154
+-0.991223
+18
+NC_008735
+Mal de Rio Cuarto virus (MRCV)
+3162
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.348515
+-0.393208
+0.818905
+0.837054
+0.502497
+19
+NC_008736
+Mal de Rio Cuarto virus (MRCV)
+2186
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}
+-0.100831
+1.
+0.502718
+0.62106
+-0.489654
+20
+NC_008737
+Mal de Rio Cuarto virus (MRCV)
+1870
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Fijivirus  Fijivirus group 2}

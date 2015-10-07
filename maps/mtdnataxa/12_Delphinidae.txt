@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Delphinidae (18)
+-0.225177
+-0.908588
+0.612454
+-1.
+-1.
+1
+NC_005278
+mitochondrion Lagenorhynchus albirostris (white-beaked dolphin)
+16393
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Lagenorhynchus}
+0.802858
+0.42385
+-0.00732227
+-0.0397922
+-0.451134
+2
+NC_012051
+mitochondrion Stenella attenuata (bridled dolphin)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Stenella}
+0.962949
+0.460901
+0.0143721
+0.103968
+-0.446597
+3
+NC_012053
+mitochondrion Stenella coeruleoalba (striped dolphin)
+16384
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Stenella}
+0.905778
+0.51011
+-0.0695293
+0.0347299
+-0.441507
+4
+NC_012057
+mitochondrion Sousa chinensis (Chinese white dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Sousa}
+1.
+0.499912
+0.0196982
+0.150235
+-0.411634
+5
+NC_012058
+mitochondrion Tursiops aduncus (Indo-pacific bottlenose dolphin)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+0.911473
+0.471092
+-0.000508256
+0.0498153
+-0.416772
+6
+NC_012059
+mitochondrion Tursiops truncatus (bottlenosed dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+0.933287
+0.52352
+0.0666288
+0.117162
+-0.427987
+7
+NC_012061
+mitochondrion Delphinus capensis (Longbeaked common dolphin)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Delphinus}
+-0.571876
+0.419789
+0.0188599
+-0.192999
+-0.208292
+8
+NC_012062
+mitochondrion Grampus griseus (Risso's dolphin)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Grampus}
+-0.979456
+1.
+0.0212849
+0.139369
+-0.433029
+9
+NC_019441
+mitochondrion Globicephala melas (long-finned pilot whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Globicephala}
+-0.639334
+0.4422
+-0.0160181
+-0.0136102
+-0.20451
+10
+NC_019577
+mitochondrion Pseudorca crassidens (false killer whale)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Pseudorca}
+-1.
+0.973876
+0.0438676
+0.118028
+-0.455123
+11
+NC_019578
+mitochondrion Globicephala macrorhynchus (short-finned pilot whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Globicephala}
+-0.885106
+0.839507
+0.0255435
+0.0919977
+-0.518682
+12
+NC_019588
+mitochondrion Feresa attenuata (pygmy killer whale)
+16387
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Feresa}
+-0.891636
+0.781594
+0.0334442
+0.079933
+-0.547358
+13
+NC_019589
+mitochondrion Peponocephala electra (melon-headed whale)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Peponocephala}
+-0.252424
+-0.835459
+-1.
+0.19018
+-0.654467
+14
+NC_019590
+mitochondrion Orcaella brevirostris (Irrawaddy dolphin)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcaella}
+-0.254647
+-0.872037
+-0.812807
+0.218573
+-0.495906
+15
+NC_019591
+mitochondrion Orcaella heinsohni (Australian snubfin dolphin)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcaella}
+-0.124558
+-0.568802
+0.178341
+-0.172031
+1.
+16
+NC_020696
+mitochondrion Cephalorhynchus heavisidii (Heaviside's dolphin)
+16371
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Cephalorhynchus}
+0.78172
+0.424946
+0.0631412
+0.00815488
+-0.416629
+17
+NC_022805
+mitochondrion Tursiops australis (Burrunan dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+-0.255023
+-1.
+1.
+1.
+-0.602765
+18
+NC_023889
+mitochondrion Orcinus orca (killer whale)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcinus}

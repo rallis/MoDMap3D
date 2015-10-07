@@ -1,0 +1,306 @@
+30
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tymoviridae (30)
+-0.612661
+-0.461222
+0.314812
+0.878501
+-0.0291896
+1
+NC_001480
+Eggplant mosaic virus
+6331
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.907733
+0.170435
+0.0221079
+-0.175641
+-0.833444
+2
+NC_001513
+Ononis yellow mosaic virus
+6211
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.349494
+-0.935588
+0.359943
+0.207629
+-0.389369
+3
+NC_001746
+Kennedya yellow mosaic virus
+6362
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+0.859053
+-0.0571755
+0.241874
+0.349395
+-0.582782
+4
+NC_001793
+Oat blue dwarf virus
+6509
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Marafivirus}
+-0.511618
+0.214846
+0.584223
+-0.00814498
+-0.573566
+5
+NC_001977
+Erysimum latent virus
+6035
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.00684499
+0.659155
+0.606197
+0.384337
+1.
+6
+NC_002164
+Poinsettia mosaic virus
+6099
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  unassigned Tymoviridae}
+-0.250751
+-0.628941
+0.190363
+0.335107
+-0.587701
+7
+NC_002588
+Chayote mosaic virus
+6364
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+1.
+0.752724
+0.49045
+0.892929
+-0.613825
+8
+NC_002786
+Maize rayado fino virus
+6305
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Marafivirus}
+0.688361
+-0.680465
+-0.00933761
+0.127915
+-0.430252
+9
+NC_003347
+Grapevine fleck virus
+7564
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Maculavirus}
+-0.582544
+-0.697824
+0.240921
+0.268256
+-0.164769
+10
+NC_003634
+Physalis mottle virus
+6673
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+0.0620119
+-0.165592
+0.113139
+0.358262
+-0.172715
+11
+NC_004063
+Turnip yellow mosaic virus
+6318
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+0.132132
+0.364933
+0.409853
+0.731598
+-0.668502
+12
+NC_006950
+Citrus sudden death-associated virus
+6820
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Marafivirus}
+-0.742297
+0.390206
+0.565563
+0.533385
+-0.440419
+13
+NC_007609
+Dulcamara mottle virus
+6181
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+0.0955773
+-1.
+0.0581999
+0.247945
+-0.467306
+14
+NC_009532
+Okra mosaic virus
+6223
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.319099
+0.379269
+-1.
+0.273512
+0.0521738
+15
+NC_011086
+Diascia yellow mottle virus
+6290
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus  unclassified Tymovirus}
+-0.901673
+0.591429
+0.224559
+-0.0119091
+-1.
+16
+NC_011537
+Scrophularia mottle virus
+6206
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.46126
+0.380424
+-0.986397
+0.394935
+0.0655164
+17
+NC_011538
+Nemesia ring necrosis virus
+6285
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.763082
+1.
+0.125668
+0.0660333
+-0.797145
+18
+NC_011539
+Plantago mottle virus
+6154
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-0.856901
+0.522378
+-0.0392744
+0.232313
+-0.956648
+19
+NC_011559
+Anagyris vein yellowing virus
+6151
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+0.422256
+0.418947
+0.426941
+0.282017
+-0.496526
+20
+NC_012484
+Grapevine Syrah virus 1
+6506
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Marafivirus}
+0.151122
+-0.409929
+0.216946
+-0.0802125
+-0.651714
+21
+NC_013920
+Olive latent virus 3
+7148
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Marafivirus}
+-0.991535
+-0.0564034
+0.505796
+0.726271
+-0.236846
+22
+NC_014127
+Chiltepin yellow mosaic virus
+6517
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+0.0183938
+-0.174175
+0.413654
+-0.0184887
+-0.562695
+23
+NC_015229
+Fig fleck-associated virus
+6704
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Maculavirus  unclassified Maculavirus}
+0.957491
+0.600349
+0.407115
+0.840915
+-0.615326
+24
+NC_015522
+Switchgrass mosaic virus (SwMV)
+6423
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Marafivirus}
+-0.440062
+-0.60805
+0.267445
+0.244442
+-0.404878
+25
+NC_015523
+Asclepias asymptomatic virus
+6175
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus  unclassified Tymovirus}
+-0.346031
+0.538014
+1.
+-1.
+0.260614
+26
+NC_015524
+Bombyx mori Macula-like virus
+6519
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Maculavirus  unclassified Maculavirus}
+-0.0135977
+-0.399089
+0.512656
+-0.268538
+-0.473449
+27
+NC_018703
+Culex originated Tymoviridae-like virus
+6471
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Maculavirus  unclassified Maculavirus}
+-0.959067
+-0.212528
+0.555984
+0.860648
+-0.246617
+28
+NC_020470
+Andean potato latent virus
+6337
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus}
+-1.
+0.0135882
+0.520621
+0.906853
+-0.359687
+29
+NC_020471
+Andean potato mild mosaic virus
+6226
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus  unclassified Tymovirus}
+-0.952313
+-0.142249
+0.654331
+1.
+-0.517067
+30
+NC_021851
+Tomato blistering mosaic virus
+6277
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Tymoviridae  Tymovirus  unclassified Tymovirus}

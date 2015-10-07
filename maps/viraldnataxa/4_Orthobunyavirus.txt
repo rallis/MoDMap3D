@@ -1,0 +1,306 @@
+30
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Orthobunyavirus (30)
+-0.932946
+-0.245471
+0.341678
+0.846744
+0.312883
+1
+NC_001925
+Bunyamwera virus
+6875
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.748279
+0.440585
+0.671956
+0.195602
+0.527867
+2
+NC_001926
+Bunyamwera virus
+4458
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.436806
+1.
+-0.708238
+0.634148
+-0.48065
+3
+NC_001927
+Bunyamwera virus
+961
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.898226
+-0.264782
+0.239986
+1.
+0.182741
+4
+NC_004108
+La Crosse virus
+6980
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.734489
+0.329989
+0.541294
+0.0179464
+0.520683
+5
+NC_004109
+La Crosse virus
+4527
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.410804
+0.870902
+-0.342681
+-0.00271152
+-1.
+6
+NC_004110
+La Crosse virus
+984
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.772512
+0.386306
+0.704488
+-0.049527
+0.561399
+7
+NC_005775
+Oropouche virus
+4385
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.920957
+-0.289739
+0.336724
+0.857445
+0.294545
+8
+NC_005776
+Oropouche virus
+6846
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.0129235
+0.666088
+-0.825492
+0.748709
+0.85624
+9
+NC_005777
+Oropouche virus
+754
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.921259
+-0.524971
+-0.137957
+0.544376
+0.126364
+10
+NC_009894
+Akabane virus
+6868
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.685599
+0.439442
+0.543847
+-0.652283
+0.546016
+11
+NC_009895
+Akabane virus
+4309
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+0.444049
+0.158345
+-0.371379
+0.525419
+0.847352
+12
+NC_009896
+Akabane virus
+858
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.761729
+0.397345
+0.871142
+-0.384211
+0.576845
+13
+NC_018459
+Aino virus
+4335
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+0.32631
+0.189071
+-0.364081
+0.442844
+0.870673
+14
+NC_018460
+Aino virus
+834
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.998562
+-1.
+-0.969134
+-0.982651
+0.444863
+15
+NC_018461
+Sathuperi virus
+6861
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+1.
+-0.780397
+0.969919
+-0.228178
+-0.0819318
+16
+NC_018462
+Sathuperi virus
+843
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-1.
+-0.994662
+-1.
+-1.
+0.447175
+17
+NC_018463
+Shamonda virus
+6863
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+0.969009
+-0.791725
+1.
+-0.277081
+-0.0979153
+18
+NC_018464
+Shamonda virus
+927
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.972076
+-0.551934
+-0.0346197
+0.568581
+0.25689
+19
+NC_018465
+Aino virus
+6966
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.76274
+0.280952
+0.949084
+-0.173024
+0.473651
+20
+NC_018466
+Sathuperi virus
+4330
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.760178
+0.340294
+0.735899
+-0.230663
+0.361169
+21
+NC_018467
+Shamonda virus
+4314
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.964461
+-0.53085
+0.0420275
+0.411752
+0.348909
+22
+NC_018476
+Simbu virus
+6895
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+0.391121
+0.178803
+-0.392858
+0.58669
+1.
+23
+NC_018477
+Simbu virus
+860
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.767517
+0.380169
+0.874924
+-0.155855
+0.67274
+24
+NC_018478
+Simbu virus
+4417
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus}
+-0.513789
+0.875367
+-0.203643
+-0.709931
+0.0184323
+25
+NC_022037
+Brazoran virus
+1672
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus  unclassified Orthobunyavirus}
+-0.764918
+0.295896
+0.771154
+0.260302
+0.332384
+26
+NC_022038
+Brazoran virus
+4659
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus  unclassified Orthobunyavirus}
+-0.861102
+-0.240883
+0.189426
+0.680189
+0.292477
+27
+NC_022039
+Brazoran virus
+6911
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus  unclassified Orthobunyavirus}
+-0.92769
+-0.238713
+0.55142
+0.718923
+0.367386
+28
+NC_022595
+Murrumbidgee virus
+6920
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus  unclassified Orthobunyavirus}
+-0.789619
+0.233448
+0.746146
+0.0111518
+0.602965
+29
+NC_022596
+Murrumbidgee virus
+4326
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus  unclassified Orthobunyavirus}
+-0.485573
+0.905405
+-0.413229
+-0.641104
+0.720262
+30
+NC_022597
+Murrumbidgee virus
+812
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Orthobunyavirus  unclassified Orthobunyavirus}

@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Gruidae (15)
+-0.98641
+0.142315
+-0.236628
+-0.65032
+-0.264005
+1
+NC_020569
+mitochondrion Balearica regulorum (grey crowned-crane)
+16802
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Balearica}
+-1.
+0.200363
+-0.242999
+-0.61949
+-0.295524
+2
+NC_020570
+mitochondrion Balearica pavonina (black crowned-crane)
+16786
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Balearica}
+0.768433
+-0.464508
+0.550412
+-0.529674
+0.129604
+3
+NC_020571
+mitochondrion Grus carunculatus (wattled crane)
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.767868
+-0.662948
+0.924242
+-0.870926
+-0.391738
+4
+NC_020572
+mitochondrion Anthropoides paradiseus
+16696
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Anthropoides}
+0.781138
+-0.636209
+1.
+-0.838865
+-0.576604
+5
+NC_020573
+mitochondrion Anthropoides virgo (demoiselle crane)
+16541
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Anthropoides}
+0.692019
+-0.507587
+-0.313191
+1.
+-1.
+6
+NC_020574
+mitochondrion Grus leucogeranus (Siberian crane)
+16688
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.858623
+0.269075
+-0.365899
+-0.58872
+0.13187
+7
+NC_020575
+mitochondrion Grus japonensis (red-crowned crane)
+16715
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.96379
+0.869277
+-0.285542
+-0.614199
+-0.471633
+8
+NC_020576
+mitochondrion Grus americana (whooping crane)
+16651
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.986687
+0.933219
+-0.264445
+-0.677108
+-0.369638
+9
+NC_020577
+mitochondrion Grus grus (Eurasian crane)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+1.
+0.965162
+-0.346246
+-0.67987
+-0.327167
+10
+NC_020578
+mitochondrion Grus monacha (hooded crane)
+16650
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.987288
+1.
+-0.329906
+-0.663372
+-0.339521
+11
+NC_020579
+mitochondrion Grus nigricollis (black-necked crane)
+16646
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.764406
+-1.
+-1.
+-1.
+-0.416736
+12
+NC_020580
+mitochondrion Grus rubicunda (brolga)
+16693
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.821616
+-0.962915
+-0.99624
+-0.945525
+-0.433834
+13
+NC_020581
+mitochondrion Grus antigone (Sarus crane)
+16549
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.748067
+-0.490219
+-0.355769
+0.0680493
+1.
+14
+NC_020582
+mitochondrion Grus canadensis (sandhill crane)
+16697
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}
+0.769394
+-0.974325
+-0.847061
+-0.9061
+-0.419867
+15
+NC_021368
+mitochondrion Grus vipio (white-naped crane)
+16678
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Gruiformes  Gruidae  Grus}

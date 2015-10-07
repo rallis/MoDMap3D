@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Soleidae (11)
+-0.741978
+1.
+-1.
+0.636015
+0.205732
+1
+NC_008327
+mitochondrion Solea senegalensis (Senegalese sole)
+16659
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Solea}
+0.99515
+-0.363145
+-0.52932
+0.305556
+0.243195
+2
+NC_021377
+mitochondrion Zebrias zebra (zebra sole)
+16758
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Zebrias}
+-0.241522
+0.15476
+0.795693
+0.973353
+0.569744
+3
+NC_021969
+mitochondrion Aesopia cornuta
+16737
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Aesopia}
+-0.204304
+-0.0683639
+1.
+1.
+0.29857
+4
+NC_023225
+mitochondrion Zebrias quagga (fringefin zebra sole)
+17045
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Zebrias}
+-0.986038
+-0.995133
+-0.641965
+0.471183
+1.
+5
+NC_023539
+mitochondrion Liachirus melanospilos (carpet sole)
+17001
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Liachirus}
+-0.346904
+0.115466
+0.928867
+0.867518
+0.684295
+6
+NC_023973
+mitochondrion Pseudaesopia japonica (wavyband sole)
+16789
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Pseudaesopia}
+-0.939751
+-0.958898
+-0.0320295
+0.817155
+-1.
+7
+NC_023974
+mitochondrion Pardachirus pavoninus (Pacific sole)
+16537
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Pardachirus}
+-1.
+-1.
+-0.592664
+0.461062
+0.804614
+8
+NC_024285
+mitochondrion Aseraggodes kobensis (milky spotted sole)
+16944
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Aseraggodes}
+-0.726864
+0.939946
+-0.944684
+0.718082
+0.228268
+9
+NC_024610
+mitochondrion Solea ovata (ovate sole)
+16782
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Solea}
+-0.80681
+0.224596
+0.748322
+-1.
+0.17241
+10
+NC_024921
+mitochondrion Heteromycteris japonicus
+17111
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Heteromycteris}
+1.
+-0.370698
+-0.541114
+0.29944
+0.246937
+11
+NC_025199
+mitochondrion Zebrias zebrinus (zebra sole)
+16757
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Pleuronectiformes  Pleuronectoidei  Soleidae  Zebrias}

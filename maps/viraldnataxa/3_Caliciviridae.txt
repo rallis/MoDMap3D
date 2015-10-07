@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Caliciviridae (21)
+0.152721
+-0.393961
+-0.395105
+0.657752
+-0.550672
+1
+NC_000940
+Porcine enteric sapovirus
+7320
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Sapovirus}
+-0.00970351
+-0.359294
+-0.486669
+0.936612
+0.809915
+2
+NC_001481
+Feline calicivirus
+7683
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Vesivirus}
+0.159547
+-0.556371
+-1.
+-0.994547
+-0.0500229
+3
+NC_001543
+Rabbit hemorrhagic disease virus
+7437
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Lagovirus}
+0.135022
+-0.432236
+-0.482583
+0.933186
+-0.0031488
+4
+NC_001959
+Norwalk virus
+7654
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Norovirus}
+-0.941244
+0.430191
+-0.0899083
+0.100682
+-0.13543
+5
+NC_002551
+Vesicular exanthema of swine virus
+8284
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Vesivirus}
+0.15909
+-0.498963
+-0.814813
+-0.422517
+0.0022651
+6
+NC_002615
+European brown hare syndrome virus
+7442
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Lagovirus}
+1.
+1.
+-0.0415971
+0.10059
+-0.00617225
+7
+NC_004064
+Calicivirus strain NB
+7453
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Nebovirus}
+-1.
+0.46623
+-0.121965
+0.13847
+-0.181589
+8
+NC_004541
+Walrus calicivirus
+8289
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae}
+0.0230861
+-0.360616
+-0.472217
+0.867207
+1.
+9
+NC_004542
+Canine calicivirus
+8513
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae}
+0.140554
+-0.506689
+-0.311804
+0.651228
+-0.432888
+10
+NC_006269
+Sapovirus Hu/Dresden/pJG-Sap01/DE
+7429
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Sapovirus}
+0.190116
+-1.
+1.
+-0.111692
+-0.0126662
+11
+NC_006554
+Sapovirus C12
+7476
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Sapovirus}
+0.956891
+0.920885
+-0.0442767
+0.148113
+0.015571
+12
+NC_006875
+Calicivirus isolate TCG
+7453
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae}
+0.847755
+0.754197
+-0.120974
+0.181341
+-0.0278048
+13
+NC_007916
+Newbury agent 1
+7454
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Nebovirus}
+0.157541
+-0.348742
+-0.535361
+0.976134
+-0.742762
+14
+NC_008311
+Murine norovirus 1
+7382
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Norovirus}
+-0.962869
+0.473185
+-0.110647
+0.150946
+-0.207131
+15
+NC_008580
+Rabbit vesivirus
+8380
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Vesivirus  unclassified Vesivirus}
+0.184139
+-0.992948
+0.99504
+-0.110039
+0.0179983
+16
+NC_010624
+Sapovirus Mc10
+7458
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Sapovirus}
+-0.845343
+0.355603
+-0.135113
+0.154658
+-0.0872542
+17
+NC_011050
+Steller sea lion vesivirus
+8305
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Vesivirus  unclassified Vesivirus}
+0.143071
+-0.584651
+-0.948046
+-1.
+-0.0146472
+18
+NC_011704
+Rabbit calicivirus Australia 1 MIC-07
+7422
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Lagovirus  unclassified Lagovirus}
+0.149254
+-0.414094
+-0.490109
+0.953444
+-0.939002
+19
+NC_012699
+Calicivirus pig/AB90/CAN
+6434
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  St Valerien swine virus}
+0.209272
+-0.341124
+-0.398775
+0.771514
+-1.
+20
+NC_017936
+Bat sapovirus TLC58/HK
+7696
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Sapovirus  unclassified Sapovirus}
+-0.0236929
+-0.323549
+-0.483014
+1.
+0.985159
+21
+NC_019712
+Mink calicivirus
+8427
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Caliciviridae  Vesivirus  unclassified Vesivirus}

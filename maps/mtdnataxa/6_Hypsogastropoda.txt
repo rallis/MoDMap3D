@@ -1,0 +1,286 @@
+28
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Hypsogastropoda (28)
+-0.93183
+-1.
+-0.620162
+-0.446259
+0.986922
+1
+NC_007781
+mitochondrion Ilyanassa obsoleta (mud snail)
+15263
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Buccinoidea  Nassariidae  Ilyanassa}
+-0.894139
+-0.660553
+-0.623519
+-0.442903
+0.95568
+2
+NC_008098
+mitochondrion Lophiotoma cerithiformis (turrid snail)
+15380
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Conoidea  Turridae  Lophiotoma}
+-0.987642
+-0.53172
+-1.
+1.
+-0.0631752
+3
+NC_008797
+mitochondrion Conus textile (cloth-of-gold cone)
+15562
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Conoidea  Conidae  Conus}
+-0.93032
+-0.813214
+-0.524012
+-0.963511
+-0.661932
+4
+NC_010090
+mitochondrion Reishia clavigera (rock shell)
+15285
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Muricoidea  Muricidae  Reishia}
+-0.894633
+-0.831728
+-0.510221
+-0.747162
+-0.216054
+5
+NC_011193
+mitochondrion Rapana venosa (veined rapa whelk)
+15272
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Muricoidea  Muricidae  Rapana}
+0.984171
+-0.359788
+-0.843385
+-0.237003
+0.291722
+6
+NC_012899
+mitochondrion Oncomelania hupensis hupensis (snail)
+15186
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Truncatelloidea  Pomatiopsidae  Oncomelania}
+1.
+-0.346491
+-0.821073
+-0.236825
+0.299251
+7
+NC_013073
+mitochondrion Oncomelania hupensis (freshwater snail)
+15182
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Truncatelloidea  Pomatiopsidae  Oncomelania}
+0.49718
+-0.341538
+-0.682524
+-0.173691
+0.34512
+8
+NC_013187
+mitochondrion Oncomelania hupensis robertsoni
+15191
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Truncatelloidea  Pomatiopsidae  Oncomelania}
+-0.947998
+-0.428268
+-0.709649
+-0.146716
+0.637545
+9
+NC_013239
+mitochondrion Oxymeris dimidiata
+16513
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Conoidea  Terebridae  Oxymeris}
+-0.864309
+-0.332344
+-0.651192
+-0.280674
+0.640396
+10
+NC_013241
+mitochondrion Cancellaria cancellata (cancellate nutmeg shell)
+16648
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Cancellarioidea  Cancellariidae  Cancellaria}
+-0.821265
+-0.496136
+-0.57661
+-0.282096
+0.631251
+11
+NC_013242
+mitochondrion Fusiturris similis (turrid snail)
+15595
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Conoidea  Turridae  Fusiturris}
+-0.972562
+-0.630697
+-0.910519
+0.905699
+0.0239575
+12
+NC_013243
+mitochondrion Africonus borgesi (cone shell)
+15536
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Conoidea  Conidae  Africonus}
+-0.810363
+-0.173597
+-0.618458
+-0.253713
+0.714185
+13
+NC_013245
+mitochondrion Cymbium olla (pata-del-burro)
+15375
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Volutoidea  Volutidae  Cymbium}
+-0.816844
+-0.743668
+-0.552504
+-0.350935
+0.697888
+14
+NC_013247
+mitochondrion Cymatium parthenopeum (hairy trumpet)
+15270
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Tonnoidea  Ranellidae  Cymatium}
+-0.944243
+-0.941054
+-0.531159
+-0.579782
+1.
+15
+NC_013248
+mitochondrion Nassarius reticulatus (reticulate nassa)
+15271
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Buccinoidea  Nassariidae  Nassarius}
+-0.880081
+-0.639134
+-0.547238
+-0.35269
+0.531226
+16
+NC_013250
+mitochondrion Bolinus brandaris (purple dye murex)
+15380
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Muricoidea  Muricidae  Bolinus}
+-0.242904
+-0.699831
+-0.470554
+-0.276036
+0.604465
+17
+NC_013833
+mitochondrion Tricula hortensis (snail)
+15179
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Truncatelloidea  Pomatiopsidae  Triculinae  Tricula}
+-0.878006
+-0.696569
+-0.611149
+-0.391268
+0.543856
+18
+NC_014403
+mitochondrion Amalda northlandica (Northland olive shell)
+15354
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Volutoidea  Olividae  Amalda}
+-0.859582
+1.
+-0.547388
+-0.166019
+0.356258
+19
+NC_014580
+mitochondrion Dendropoma gregarium (worm snail)
+15641
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Vermetoidea  Vermetidae  Dendropoma}
+-0.935636
+0.701624
+-0.593783
+-0.242887
+0.100154
+20
+NC_014583
+mitochondrion Ceraesignum maximum (worm snail)
+15578
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Vermetoidea  Vermetidae  Ceraesignum}
+-0.898721
+0.739022
+-0.624257
+-0.453118
+0.478996
+21
+NC_014585
+mitochondrion Eualetes tulipa (snail)
+15078
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Vermetoidea  Vermetidae  Eualetes}
+-0.880655
+0.753851
+-0.49254
+-0.552562
+0.573267
+22
+NC_014588
+mitochondrion Thylacodes squamigerus (snail)
+15544
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Vermetoidea  Vermetidae  Thylacodes}
+-0.917662
+-0.604915
+-0.502617
+-1.
+-1.
+23
+NC_017886
+mitochondrion Concholepas concholepas
+15495
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Muricoidea  Muricidae  Concholepas}
+-0.471628
+-0.437405
+1.
+0.227767
+0.291288
+24
+NC_020790
+mitochondrion Potamopyrgus antipodarum
+15110
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Truncatelloidea  Hydrobiidae  Tateinae  Potamopyrgus}
+-0.505193
+-0.434379
+0.963219
+0.300537
+0.295479
+25
+NC_021595
+mitochondrion Potamopyrgus estuarinus
+15120
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Truncatelloidea  Hydrobiidae  Tateinae  Potamopyrgus}
+-0.841605
+-0.69361
+-0.575415
+-0.336736
+0.76732
+26
+NC_023080
+mitochondrion Babylonia areolata
+15445
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Buccinoidea  Buccinidae  Babylonia}
+-1.
+-0.578335
+-0.983959
+0.881973
+0.0235137
+27
+NC_023460
+mitochondrion Conus consors
+16112
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Neogastropoda  Conoidea  Conidae  Conus}
+-0.813724
+-0.432007
+-0.557978
+-0.261435
+0.584627
+28
+NC_024932
+mitochondrion Strombus gigas
+15461
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Caenogastropoda  Hypsogastropoda  Littorinimorpha  Stromboidea  Strombidae  Strombus}

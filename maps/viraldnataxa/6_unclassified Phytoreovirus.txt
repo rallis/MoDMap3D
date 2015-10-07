@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified Phytoreovirus (12)
+-1.
+-0.0966597
+-0.0644479
+0.20355
+0.0438204
+1
+NC_012535
+Homalodisca vitripennis reovirus
+4475
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+-0.315193
+-0.484242
+0.994242
+0.683272
+-0.0887743
+2
+NC_012536
+Homalodisca vitripennis reovirus
+3522
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+-0.868248
+-0.270198
+-0.362364
+0.3856
+0.170473
+3
+NC_012537
+Homalodisca vitripennis reovirus
+3180
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.206802
+-0.354324
+1.
+0.139818
+-0.187785
+4
+NC_012538
+Homalodisca vitripennis reovirus
+2559
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+-0.624541
+0.250647
+-0.209993
+0.560091
+-0.0473803
+5
+NC_012539
+Homalodisca vitripennis reovirus
+2521
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.259004
+0.378523
+0.486032
+0.594423
+-1.
+6
+NC_012540
+Homalodisca vitripennis reovirus
+1665
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.351945
+-0.852951
+0.899086
+0.467792
+0.155762
+7
+NC_012541
+Homalodisca vitripennis reovirus
+1702
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.723685
+-1.
+0.157483
+0.982498
+0.974451
+8
+NC_012542
+Homalodisca vitripennis reovirus
+1434
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+1.
+-0.708077
+-1.
+1.
+-0.729319
+9
+NC_012543
+Homalodisca vitripennis reovirus
+1187
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.941857
+-0.543089
+-0.0491584
+-1.
+-0.239759
+10
+NC_012544
+Homalodisca vitripennis reovirus
+1205
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.833016
+1.
+-0.08257
+0.23249
+1.
+11
+NC_012545
+Homalodisca vitripennis reovirus
+1234
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}
+0.960904
+0.671139
+0.687325
+0.884072
+-0.258495
+12
+NC_012546
+Homalodisca vitripennis reovirus
+1040
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Phytoreovirus  unclassified Phytoreovirus}

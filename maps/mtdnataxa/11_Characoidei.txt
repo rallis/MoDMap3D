@@ -1,0 +1,226 @@
+22
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Characoidei (22)
+-0.340499
+-0.852061
+-0.851997
+0.060311
+0.238831
+1
+NC_004699
+mitochondrion Phenacogrammus interruptus (Congo tetra)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Alestidae  Phenacogrammus}
+0.277244
+-0.0546642
+0.17482
+0.120489
+0.271493
+2
+NC_004700
+mitochondrion Chalceus macrolepidotus (pinktail chalceus)
+16850
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Chalceidae  Chalceus}
+0.0486819
+-0.18342
+0.0532263
+-0.147914
+0.305572
+3
+NC_015750
+mitochondrion Lebiasina astrigata
+16899
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Lebiasinidae  Lebiasininae  Lebiasina}
+1.
+0.0194932
+-0.216314
+0.8212
+0.289676
+4
+NC_015751
+mitochondrion Myleus sp. NM-2010
+16664
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Myleus}
+-0.609213
+-1.
+-1.
+-0.240375
+0.44346
+5
+NC_015753
+mitochondrion Micralestes sp. NM-2010
+16660
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Alestidae  Micralestes}
+-0.488064
+-0.190552
+0.275615
+0.977533
+-1.
+6
+NC_015755
+mitochondrion Acestrorhynchus sp. NM-2010
+16758
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Acestrorhynchidae  Acestrorhynchus}
+0.0193607
+-0.149501
+0.266813
+-1.
+-0.127045
+7
+NC_015801
+mitochondrion Chilodus punctatus (spotted headstander)
+16869
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Chilodus}
+0.235075
+-0.128242
+-0.302281
+1.
+-0.198619
+8
+NC_015813
+mitochondrion Hydrolycus scomberoides (payara)
+16548
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Characidae  Hydrolycus}
+0.45179
+-0.0707995
+0.04222
+-0.0864518
+0.222407
+9
+NC_015816
+mitochondrion Hemiodopsis gracilis (slender hemiodus)
+16731
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Hemiodontidae  Hemiodopsis}
+0.201359
+-0.273918
+-0.190061
+0.805103
+-0.356113
+10
+NC_015819
+mitochondrion Hepsetus odoe (African pike characin)
+16803
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Hepsetidae  Hepsetus}
+0.493692
+-0.075082
+0.00588126
+-0.262583
+0.0625792
+11
+NC_015834
+mitochondrion Apareiodon affinis (darter characine)
+16679
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Apareiodon}
+0.966004
+-0.0674337
+-0.195325
+0.810117
+0.302592
+12
+NC_015840
+mitochondrion Pygocentrus nattereri (red-bellied piranha)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Pygocentrus}
+-0.827953
+-0.232697
+1.
+0.856276
+1.
+13
+NC_022724
+mitochondrion Hasemania nana
+16581
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Characidae  Hasemania}
+-0.872544
+-0.245041
+0.633832
+0.608931
+0.453869
+14
+NC_023270
+mitochondrion Paracheirodon axelrodi (cardinal tetra)
+17100
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Characidae  Paracheirodon}
+-0.638313
+0.61442
+-0.474439
+-0.211723
+0.29018
+15
+NC_024938
+mitochondrion Brycon orbignyanus
+16800
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Bryconinae  Brycon}
+0.842807
+-0.00379184
+0.0840676
+-0.221211
+0.22467
+16
+NC_024939
+mitochondrion Prochilodus lineatus (curimbata)
+16699
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Prochilodus}
+0.966936
+0.00461501
+-0.0481157
+0.398015
+0.428055
+17
+NC_024940
+mitochondrion Piaractus mesopotamicus (pacu)
+16722
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Piaractus}
+-1.
+1.
+-0.86256
+0.274088
+0.233391
+18
+NC_024941
+mitochondrion Salminus brasiliensis (dorado)
+17721
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Salmininae  Salminus}
+-0.42889
+-0.105826
+0.58204
+-0.902584
+-0.347661
+19
+NC_025315
+mitochondrion Piaractus brachypomus (pirapitinga)
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Piaractus}
+0.322279
+-0.0871721
+0.113067
+-0.393356
+0.118623
+20
+NC_025767
+mitochondrion Leporinus piavussu
+16682
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Anostomidae  Leporinus}
+0.73417
+0.060646
+-0.11924
+-0.197582
+0.318048
+21
+NC_025950
+mitochondrion Ichthyoelephas longirostris
+16840
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Ichthyoelephas}
+0.595301
+-0.0429962
+0.142459
+-0.297114
+0.158849
+22
+NC_025951
+mitochondrion Curimata mivartii
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Characiformes  Characoidei  Curimatidae  Curimata}

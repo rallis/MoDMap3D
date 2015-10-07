@@ -1,0 +1,4056 @@
+240,210
+blue,red
+4
+Index,Acc,Name,Length
+blue,red
+H.sapiens (240),M.musculus (210)
+0.851497
+0.0491977
+-1.
+0.71184
+0.0435104
+1
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.195765
+-0.306798
+0.668264
+0.101948
+-0.677993
+2
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.406704
+-0.250196
+0.449505
+0.206775
+-0.716338
+3
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.829592
+-0.174532
+-0.497219
+0.5542
+-0.473555
+4
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+-0.0161307
+0.849435
+0.553128
+0.27933
+-0.321986
+5
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.240385
+0.484768
+0.420042
+0.377682
+-0.544309
+6
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.242608
+0.422215
+0.246006
+0.41872
+-0.586282
+7
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.833302
+-0.0603093
+-0.764952
+0.622318
+-0.207823
+8
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.0511838
+0.73168
+0.417525
+0.325169
+-0.314409
+9
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.644942
+0.206738
+-0.369796
+0.64902
+-0.420938
+10
+NC_000001.11
+Homo sapiens chromosome 1  GRCh38 Primary Assembly
+150000
+0.113903
+0.619084
+0.493106
+0.34929
+-0.474169
+11
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.298647
+0.462854
+0.200947
+0.487725
+-0.38579
+12
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.110865
+0.68771
+0.5382
+0.251178
+-0.516391
+13
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.285882
+0.634854
+0.148949
+0.527189
+-0.511844
+14
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.174203
+0.592661
+0.251369
+0.45404
+-0.432174
+15
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.694995
+0.186839
+-0.379902
+0.57682
+-0.560834
+16
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+-0.0296857
+0.762858
+0.488964
+0.298552
+-0.323197
+17
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+-0.0657013
+0.873576
+0.362863
+0.37995
+-0.269233
+18
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.631879
+-0.0307668
+-0.106927
+0.505546
+-0.630773
+19
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.174574
+0.680728
+0.285703
+0.508704
+-0.463225
+20
+NC_000002.12
+Homo sapiens chromosome 2  GRCh38 Primary Assembly
+150000
+0.722968
+-0.0440055
+-0.297095
+0.538382
+-0.546691
+21
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.798807
+-0.713008
+0.0156531
+-0.21515
+-0.598395
+22
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.0700362
+0.783861
+0.353195
+0.43348
+-0.442813
+23
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+-0.122607
+0.838848
+0.614648
+0.153711
+-0.400567
+24
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.297
+0.751188
+0.122112
+0.46775
+-0.593368
+25
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.109266
+0.68543
+0.486449
+0.328843
+-0.487661
+26
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.0721553
+0.377402
+0.485005
+0.448087
+-0.502504
+27
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.0346334
+0.766057
+0.49687
+0.257253
+-0.628214
+28
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.00308833
+0.901922
+0.51049
+0.259758
+-0.489847
+29
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.712055
+-0.352759
+-0.0818297
+0.270515
+-0.629111
+30
+NC_000003.12
+Homo sapiens chromosome 3  GRCh38 Primary Assembly
+150000
+0.0370874
+0.560283
+0.519944
+0.365122
+-0.567876
+31
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+-0.0556227
+0.622549
+0.695568
+0.157537
+-0.624288
+32
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+0.396237
+0.375304
+0.124843
+0.473405
+-0.640364
+33
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+0.680093
+0.217928
+-0.323231
+0.581401
+-0.472733
+34
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+-0.0644531
+0.923311
+0.479121
+0.2243
+-0.447891
+35
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+-0.0650519
+0.786522
+0.568923
+0.222881
+-0.458857
+36
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+0.369218
+0.886457
+0.0868793
+0.377475
+-0.592767
+37
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+-0.0551463
+0.811033
+0.425029
+0.374213
+-0.304017
+38
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+0.0676914
+0.657884
+0.3405
+0.491832
+-0.428781
+39
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+0.205678
+0.751122
+0.184453
+0.525345
+-0.376427
+40
+NC_000004.12
+Homo sapiens chromosome 4  GRCh38 Primary Assembly
+150000
+0.296347
+-0.425977
+0.547124
+-0.160149
+-0.623486
+41
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+-0.0575596
+0.62528
+0.637957
+0.224086
+-0.50993
+42
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.0848938
+0.86433
+0.267422
+0.440561
+-0.335986
+43
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.0485425
+0.767254
+0.226058
+0.482848
+-0.255795
+44
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.208176
+0.526874
+0.288319
+0.433994
+-0.577561
+45
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.160465
+0.460317
+0.240712
+0.574622
+-0.51303
+46
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.0134961
+0.582539
+0.380406
+0.494796
+-0.481867
+47
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.018575
+0.873902
+0.589506
+0.12314
+-0.625647
+48
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.239743
+0.619201
+0.216768
+0.511664
+-0.520367
+49
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.00749218
+0.896528
+0.429032
+0.318367
+-0.258421
+50
+NC_000005.10
+Homo sapiens chromosome 5  GRCh38 Primary Assembly
+150000
+0.360281
+0.509589
+0.0187827
+0.607802
+-0.352345
+51
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+0.554658
+0.362733
+-0.112241
+0.538302
+-0.478021
+52
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+0.574362
+0.304944
+-0.309925
+0.447277
+-0.451666
+53
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+0.198379
+0.808376
+0.177622
+0.452774
+-0.234265
+54
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+0.334864
+0.735471
+0.167171
+0.40325
+-0.625767
+55
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+-0.127908
+0.887064
+0.472846
+0.268421
+-0.302004
+56
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+-0.00114519
+0.870078
+0.622753
+0.0581363
+-0.643075
+57
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+-0.0215259
+0.89447
+0.432343
+0.285499
+-0.140957
+58
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+0.286224
+0.57263
+0.16559
+0.509191
+-0.434667
+59
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+-0.000928659
+0.365274
+0.603858
+0.286738
+-0.486426
+60
+NC_000006.12
+Homo sapiens chromosome 6  GRCh38 Primary Assembly
+150000
+0.418867
+0.535341
+-0.00874298
+0.580659
+-0.467268
+61
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.359226
+0.362622
+0.168021
+0.542945
+-0.587624
+62
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.185699
+0.684064
+0.30519
+0.417031
+-0.618312
+63
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.824772
+0.0912371
+-0.736121
+0.656121
+-0.201235
+64
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.979648
+-0.426434
+-0.863196
+0.45033
+-0.145436
+65
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.395517
+0.720964
+0.0452546
+0.48579
+-0.437989
+66
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+-0.111549
+0.875969
+0.432662
+0.31149
+-0.160381
+67
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.071049
+0.549082
+0.439089
+0.409988
+-0.611626
+68
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.265657
+0.463335
+0.237169
+0.523373
+-0.483456
+69
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+-0.0197169
+0.952483
+0.478926
+0.164261
+-0.423886
+70
+NC_000007.14
+Homo sapiens chromosome 7  GRCh38 Primary Assembly
+150000
+0.559541
+0.0949888
+-0.0602472
+0.531075
+-0.62631
+71
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.370412
+0.115203
+0.221733
+0.315834
+-0.629967
+72
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.103819
+0.653811
+0.255178
+0.459885
+-0.375256
+73
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.118324
+0.575036
+0.27056
+0.541555
+-0.430773
+74
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.0979082
+0.788108
+0.386283
+0.367118
+-0.467599
+75
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.102713
+0.628952
+0.473259
+0.355916
+-0.585529
+76
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.0270445
+0.672294
+0.366808
+0.470683
+-0.429496
+77
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+-0.00684205
+0.998591
+0.529145
+0.162371
+-0.349371
+78
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+-0.0689217
+0.909082
+0.51586
+0.23763
+-0.211862
+79
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+0.0831168
+0.88931
+0.37299
+0.348869
+-0.305422
+80
+NC_000008.11
+Homo sapiens chromosome 8  GRCh38 Primary Assembly
+150000
+-0.0157562
+0.842338
+0.54904
+0.0802947
+-0.627774
+81
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+-0.0634044
+0.888727
+0.436798
+0.315539
+-0.245919
+82
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.172579
+0.492788
+0.355862
+0.423059
+-0.560418
+83
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.644173
+0.379405
+-0.23387
+0.478935
+-0.6382
+84
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.252216
+0.378879
+0.375354
+0.422892
+-0.501848
+85
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.436946
+0.560996
+-0.0642542
+0.591839
+-0.549539
+86
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.156399
+0.503446
+0.321954
+0.49692
+-0.435976
+87
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.0117963
+0.756123
+0.388654
+0.40695
+-0.331064
+88
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.676164
+0.379513
+-0.322147
+0.508151
+-0.592025
+89
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.515179
+-0.379452
+0.422964
+-0.229621
+-0.618051
+90
+NC_000009.12
+Homo sapiens chromosome 9  GRCh38 Primary Assembly
+150000
+0.422668
+0.345725
+0.0252948
+0.6015
+-0.485349
+91
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.246327
+0.700737
+0.208353
+0.230317
+-0.312396
+92
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.166347
+0.317575
+0.505595
+0.312839
+-0.753707
+93
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+-0.127556
+0.658521
+0.433051
+0.379508
+-0.274265
+94
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.200899
+0.459477
+0.287219
+0.506752
+-0.551982
+95
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.616287
+0.339619
+-0.380532
+0.700537
+-0.460637
+96
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.0962446
+0.943171
+0.349819
+0.188118
+-0.10225
+97
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.238336
+0.0510888
+0.493018
+0.347093
+-0.616854
+98
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.247316
+0.470445
+0.428848
+0.314166
+-0.745643
+99
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.491604
+-0.633654
+0.455642
+-0.357019
+-0.586808
+100
+NC_000010.11
+Homo sapiens chromosome 10  GRCh38 Primary Assembly
+150000
+0.742184
+-0.442272
+-0.0557084
+0.0183518
+-0.584089
+101
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+-0.00717034
+0.786182
+0.320665
+0.416887
+-0.263666
+102
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.113528
+0.7048
+0.518975
+0.116148
+-0.78598
+103
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.178972
+0.0913465
+0.603558
+0.266982
+-0.584598
+104
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.906039
+-0.374794
+-0.673548
+0.452577
+-0.330593
+105
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.00733631
+0.809901
+0.72052
+-0.107046
+-0.484803
+106
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.563908
+-0.506062
+0.349368
+-0.0657819
+-0.768851
+107
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.10731
+0.642872
+0.370704
+0.447119
+-0.507324
+108
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.583193
+0.436601
+-0.420484
+0.741463
+-0.243499
+109
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+0.193294
+0.152923
+0.459904
+0.398723
+-0.603059
+110
+NC_000011.10
+Homo sapiens chromosome 11  GRCh38 Primary Assembly
+150000
+-0.0285686
+0.696993
+0.501916
+0.331105
+-0.304421
+111
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.439875
+0.651488
+-0.198502
+0.600043
+-0.453572
+112
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.0378065
+0.851294
+0.492714
+0.200858
+-0.68249
+113
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.324636
+0.159279
+0.364539
+0.335758
+-0.612139
+114
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.554445
+0.535175
+-0.420599
+0.716464
+-0.310817
+115
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.0236899
+0.875078
+0.379515
+0.348853
+-0.481977
+116
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.453502
+0.47234
+0.0105328
+0.479488
+-0.503514
+117
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.640444
+0.191816
+-0.283332
+0.63824
+-0.505334
+118
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.315032
+0.107709
+0.358608
+0.42708
+-0.623876
+119
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.361085
+0.15746
+0.404653
+0.310813
+-0.72149
+120
+NC_000012.12
+Homo sapiens chromosome 12  GRCh38 Primary Assembly
+150000
+0.0144824
+0.698267
+0.492559
+0.345932
+-0.509277
+121
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.207151
+0.69463
+0.206689
+0.461726
+-0.512814
+122
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+-0.137644
+0.796946
+0.365628
+0.401457
+-0.17473
+123
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.104268
+0.771873
+0.20884
+0.528145
+-0.353662
+124
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.0978332
+0.805872
+0.230025
+0.469254
+-0.30042
+125
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+-0.0427027
+1.
+0.43955
+0.270677
+-0.229237
+126
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.108686
+0.812685
+0.323491
+0.393145
+-0.500591
+127
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.121404
+0.68948
+0.390747
+0.409193
+-0.589284
+128
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+-0.00650488
+0.911161
+0.364627
+0.351392
+-0.24779
+129
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.0300523
+0.62114
+0.373531
+0.464773
+-0.472173
+130
+NC_000013.11
+Homo sapiens chromosome 13  GRCh38 Primary Assembly
+150000
+0.317677
+0.411158
+0.349236
+0.347401
+-0.809253
+131
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.833891
+0.139508
+-0.862737
+0.708694
+-0.0825422
+132
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.0140811
+0.956258
+0.653645
+0.022582
+-0.356088
+133
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.0570606
+0.944343
+0.396259
+0.340889
+-0.437422
+134
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+-0.053489
+0.985799
+0.50786
+0.1514
+-0.491961
+135
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.499482
+0.6257
+-0.236546
+0.643362
+-0.382856
+136
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.474519
+0.630689
+-0.240475
+0.654654
+-0.394539
+137
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.545867
+0.270524
+-0.0188569
+0.456873
+-0.68363
+138
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.0300132
+0.956885
+0.536824
+0.135104
+-0.263987
+139
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.223351
+0.252466
+0.426222
+0.427352
+-0.655245
+140
+NC_000014.9
+Homo sapiens chromosome 14  GRCh38 Primary Assembly
+150000
+0.419347
+0.435404
+0.101022
+0.474321
+-0.525997
+141
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.208632
+0.703479
+0.26982
+0.481618
+-0.474672
+142
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.345708
+0.482339
+0.0277793
+0.529657
+-0.431062
+143
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.889698
+-0.527923
+-0.325635
+0.174724
+-0.500759
+144
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.709687
+0.00165702
+-0.334057
+0.401711
+-0.516781
+145
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.594478
+0.393087
+-0.369011
+0.681078
+-0.402054
+146
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.341483
+0.351452
+0.353313
+0.323168
+-0.673617
+147
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+-0.0259551
+0.774133
+0.439095
+0.214487
+-0.63504
+148
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.892727
+-0.365389
+-0.559543
+0.44218
+-0.407999
+149
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.727055
+0.219761
+-0.316348
+0.454314
+-0.625186
+150
+NC_000015.10
+Homo sapiens chromosome 15  GRCh38 Primary Assembly
+150000
+0.490397
+-0.707475
+0.396281
+-0.509086
+-0.510028
+151
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.570335
+-0.0524104
+0.296846
+0.113127
+-0.798259
+152
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.769283
+-0.00743511
+-0.441517
+0.587569
+-0.478377
+153
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.98758
+-0.6582
+-0.647908
+0.157065
+-0.300614
+154
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.210437
+0.183029
+0.524483
+0.308632
+-0.757099
+155
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.357135
+-0.25738
+0.517834
+0.128932
+-0.779725
+156
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.10599
+0.504946
+0.545894
+0.360598
+-0.658646
+157
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.950041
+-0.401291
+-0.816068
+0.473549
+-0.263818
+158
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.886429
+-0.0674226
+-0.753832
+0.58728
+-0.187382
+159
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.40926
+0.226056
+0.253495
+0.420417
+-0.653552
+160
+NC_000016.10
+Homo sapiens chromosome 16  GRCh38 Primary Assembly
+150000
+0.898699
+-0.208288
+-0.855451
+0.580032
+-0.0988256
+161
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.614341
+-0.0977314
+0.0379924
+0.342797
+-0.633903
+162
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.613659
+0.207143
+-0.238078
+0.595154
+-0.381252
+163
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.73143
+0.196424
+-0.619867
+0.755135
+-0.299254
+164
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.0507907
+0.41077
+0.46157
+0.473098
+-0.461346
+165
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.592588
+-0.271725
+0.140752
+0.233022
+-0.750946
+166
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.768579
+0.00149337
+-0.590172
+0.629679
+-0.344498
+167
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.926661
+-0.190135
+-0.9167
+0.638026
+-0.137767
+168
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.840417
+-0.488069
+-0.284743
+0.0885646
+-0.547058
+169
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+0.880222
+-0.717923
+-0.242687
+-0.286429
+-0.386487
+170
+NC_000017.11
+Homo sapiens chromosome 17  GRCh38 Primary Assembly
+150000
+-0.0746121
+0.859717
+0.459519
+0.274589
+-0.423711
+171
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.0827071
+-0.0124357
+0.464977
+0.0558902
+-0.27041
+172
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.251973
+0.41943
+0.378546
+0.367522
+-0.537306
+173
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.534012
+0.601814
+-0.454456
+0.705041
+-0.367114
+174
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.83903
+-0.226999
+-0.524294
+0.503802
+-0.370678
+175
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.375201
+-0.108754
+0.51267
+0.148043
+-0.70516
+176
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.647272
+-0.0506392
+-0.122501
+0.470018
+-0.555488
+177
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.695279
+0.08231
+-0.324908
+0.610342
+-0.551765
+178
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+-0.0343576
+0.599043
+0.521034
+0.397774
+-0.442898
+179
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+-0.0497532
+0.850413
+0.366869
+0.378315
+-0.198686
+180
+NC_000018.10
+Homo sapiens chromosome 18  GRCh38 Primary Assembly
+150000
+0.166785
+0.580249
+0.434579
+0.270132
+-0.679731
+181
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.989987
+-0.708091
+-0.622954
+0.0197726
+-0.249729
+182
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.666513
+-0.707173
+0.232315
+-0.414403
+-0.518682
+183
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.849128
+-0.106121
+-0.709003
+0.590213
+-0.237095
+184
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+1.
+-0.695922
+-0.66034
+0.0880857
+-0.273362
+185
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.0205861
+0.133901
+0.35822
+-0.189964
+0.0961582
+186
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.346492
+0.351235
+0.484152
+0.173438
+-0.892943
+187
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.85289
+-0.362168
+-0.452104
+0.409247
+-0.510068
+188
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.9265
+-0.589121
+-0.499505
+0.224164
+-0.436944
+189
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.872542
+-0.198833
+-0.707743
+0.530811
+-0.317586
+190
+NC_000019.10
+Homo sapiens chromosome 19  GRCh38 Primary Assembly
+150000
+0.501307
+0.285526
+0.00685842
+0.561543
+-0.575781
+191
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.79044
+-0.111781
+-0.479299
+0.541555
+-0.465569
+192
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.259777
+-0.0502005
+0.503891
+0.262688
+-0.698707
+193
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+-0.0651137
+-0.174806
+0.265987
+-1.
+1.
+194
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.53733
+-0.0222375
+0.146516
+0.359783
+-0.628588
+195
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.927642
+-0.281567
+-0.831446
+0.539738
+-0.14695
+196
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.654768
+-0.105788
+-0.105751
+0.432649
+-0.644263
+197
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.51237
+0.100334
+0.122062
+0.409454
+-0.556236
+198
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.865409
+0.0618221
+-0.716317
+0.592306
+-0.376592
+199
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.570028
+-0.756859
+0.400957
+-0.529561
+-0.553857
+200
+NC_000020.11
+Homo sapiens chromosome 20  GRCh38 Primary Assembly
+150000
+0.0654924
+0.396312
+0.480653
+0.101753
+-0.288009
+201
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.300988
+0.131293
+0.324588
+0.0240759
+-0.324762
+202
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+-0.0607909
+-0.136411
+0.28493
+-0.731898
+0.719786
+203
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+-0.0534111
+-0.192437
+0.285257
+-0.921933
+0.912874
+204
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.0407063
+0.876652
+0.425435
+0.293082
+-0.552821
+205
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.12674
+0.791509
+0.107992
+0.512877
+-0.260961
+206
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.689529
+0.257123
+-0.527228
+0.722376
+-0.343701
+207
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.305191
+0.280883
+0.313148
+0.470957
+-0.626671
+208
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.247835
+0.641188
+0.255751
+0.471294
+-0.509929
+209
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.489659
+-0.408979
+0.36978
+0.0339486
+-0.735808
+210
+NC_000021.9
+Homo sapiens chromosome 21  GRCh38 Primary Assembly
+150000
+0.858128
+-0.0237429
+-0.922344
+0.699001
+-0.0376151
+211
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.756844
+-0.532307
+-0.0495786
+0.02792
+-0.616191
+212
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.18403
+-0.0831059
+0.573963
+0.316242
+-0.668141
+213
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.823793
+-0.20453
+-0.49804
+0.539589
+-0.394356
+214
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.964166
+-0.638493
+-0.511043
+0.132311
+-0.410023
+215
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.768296
+0.250271
+-0.781804
+0.782882
+-0.216677
+216
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.915163
+-0.174365
+-0.984972
+0.629554
+-0.0253732
+217
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.879137
+-0.25125
+-0.811793
+0.57364
+-0.170022
+218
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.805233
+-0.470068
+-0.141411
+0.135552
+-0.625348
+219
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.355235
+-0.127166
+0.431339
+0.199693
+-0.765856
+220
+NC_000022.11
+Homo sapiens chromosome 22  GRCh38 Primary Assembly
+150000
+0.777364
+-0.282935
+-0.45348
+0.235444
+-0.26576
+221
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+0.633464
+0.297041
+-0.222969
+0.513437
+-0.401096
+222
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+0.810263
+0.284728
+-0.64231
+0.499519
+-0.341472
+223
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+-0.0602471
+-0.187086
+0.273546
+-0.954632
+0.942807
+224
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+-0.034826
+0.806293
+0.405985
+0.368286
+-0.322178
+225
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+-0.0346737
+0.911098
+0.436421
+0.215329
+-0.467834
+226
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+0.595515
+0.513016
+-0.324925
+0.577214
+-0.471036
+227
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+0.129775
+0.747535
+0.356249
+0.325801
+-0.610887
+228
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+-0.0811262
+0.56406
+0.501593
+0.41732
+-0.302801
+229
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+-0.00590805
+0.180389
+0.609322
+0.3284
+-0.609146
+230
+NC_000023.11
+Homo sapiens chromosome X  GRCh38 Primary Assembly
+150000
+0.0427102
+0.902447
+0.449976
+0.247413
+-0.349871
+231
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+-0.0184089
+0.923188
+0.489038
+0.259016
+-0.342373
+232
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+-0.105387
+0.796631
+0.455806
+0.184221
+-0.103775
+233
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+0.0878177
+0.655071
+0.370057
+0.400655
+-0.365238
+234
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+0.0571771
+0.466987
+0.57883
+0.0943139
+-0.490925
+235
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+0.215601
+0.899807
+0.438651
+0.136134
+-0.57992
+236
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+0.0457318
+0.763402
+0.511862
+0.236092
+-0.559328
+237
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+0.183463
+0.796006
+0.29296
+0.389095
+-0.456153
+238
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+-0.0732903
+0.859787
+0.62089
+0.048879
+-0.294021
+239
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+0.0413988
+0.89726
+0.527455
+0.129285
+-0.522935
+240
+NC_000024.10
+Homo sapiens chromosome Y  GRCh38 Primary Assembly
+150000
+-0.782488
+-0.0232286
+-0.35011
+0.405302
+-0.491913
+241
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.800744
+0.247929
+-0.397441
+0.355625
+-0.284696
+242
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.528288
+-0.251672
+0.15242
+0.440852
+-0.622121
+243
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.570865
+-0.0440504
+0.0341523
+0.540594
+-0.221568
+244
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.704957
+0.00830314
+-0.161113
+0.604545
+-0.503141
+245
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.499505
+0.128605
+0.208632
+0.579385
+-0.254712
+246
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.810138
+0.219493
+-0.466012
+0.354388
+-0.379301
+247
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.401325
+-0.173001
+0.450299
+0.835293
+-0.309988
+248
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.543517
+-0.372915
+0.0528412
+0.382369
+-0.711256
+249
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.115675
+-0.598804
+0.794095
+0.477238
+-0.527099
+250
+NC_000067.6
+Mus musculus strain C57BL/6J chromosome 1  GRCm38.p3 C57BL/6J
+150000
+-0.730212
+0.128371
+-0.235812
+0.473139
+-0.269559
+251
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.760698
+0.200977
+-0.408093
+0.358535
+-0.511767
+252
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.727312
+0.0674112
+-0.317076
+0.384025
+-0.617901
+253
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.106266
+-0.422825
+0.848328
+0.884358
+-0.308171
+254
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.903645
+0.0664961
+-0.674254
+0.22867
+-0.646328
+255
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.135871
+-0.664607
+0.639004
+0.314038
+-0.681825
+256
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.284566
+-0.145228
+0.560179
+0.682395
+-0.371243
+257
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.0365012
+-0.477915
+0.84361
+0.87892
+-0.1795
+258
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+0.00217851
+-0.792667
+0.884912
+0.437801
+-0.408406
+259
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.540363
+-0.122489
+-0.0496888
+0.327988
+-0.463756
+260
+NC_000068.7
+Mus musculus strain C57BL/6J chromosome 2  GRCm38.p3 C57BL/6J
+150000
+-0.786502
+-0.0090432
+-0.415381
+0.327959
+-0.53504
+261
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.289868
+-0.043649
+0.530373
+0.806712
+-0.161273
+262
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.26273
+-0.17575
+0.61464
+0.971985
+-0.152371
+263
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.666926
+0.208934
+-0.141013
+0.496862
+-0.0821531
+264
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.577564
+-0.186084
+0.0434102
+0.515011
+-0.465588
+265
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.783724
+0.242887
+-0.398724
+0.406108
+-0.31996
+266
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.680249
+0.243012
+-0.120432
+0.49389
+-0.0936055
+267
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.286184
+-0.185012
+0.542072
+0.684068
+-0.352307
+268
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.593659
+-0.0313072
+-0.0278937
+0.485113
+-0.539116
+269
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.157327
+-0.327178
+0.723216
+0.600878
+-0.412137
+270
+NC_000069.6
+Mus musculus strain C57BL/6J chromosome 3  GRCm38.p3 C57BL/6J
+150000
+-0.578933
+-0.013449
+-0.190054
+0.258855
+-0.114308
+271
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.190341
+-0.20607
+0.712156
+1.
+-0.211121
+272
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.618288
+0.1018
+-0.0912803
+0.454886
+-0.619114
+273
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.467746
+-0.304691
+0.197603
+0.712481
+-0.601173
+274
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.767418
+0.229238
+-0.368061
+0.384548
+-0.399221
+275
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.73285
+0.157201
+-0.361182
+0.391476
+-0.556921
+276
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.503817
+0.248682
+0.221848
+0.724239
+-0.0596494
+277
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.918385
+0.100603
+-0.749173
+0.17018
+-0.66432
+278
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.823684
+-0.0254784
+-0.546664
+0.24355
+-0.584788
+279
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+0.0411511
+-0.78611
+0.926361
+0.565665
+-0.20172
+280
+NC_000070.6
+Mus musculus strain C57BL/6J chromosome 4  GRCm38.p3 C57BL/6J
+150000
+-0.628864
+0.136191
+-0.221959
+0.249193
+-0.410363
+281
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.480141
+0.289548
+0.225606
+0.648459
+-0.105217
+282
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.382687
+-0.39559
+0.425556
+0.459969
+-0.414389
+283
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+0.0177937
+-0.741542
+0.850616
+0.674218
+-0.332681
+284
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.745426
+0.105054
+-0.318703
+0.343672
+-0.506104
+285
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.744042
+0.228839
+-0.281509
+0.445803
+-0.379289
+286
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.697546
+0.17131
+-0.225359
+0.482668
+-0.29464
+287
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.84519
+0.23967
+-0.568413
+0.284784
+-0.583418
+288
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.185273
+-0.457526
+0.743083
+0.850101
+-0.285636
+289
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.163431
+-0.285431
+0.782562
+0.964474
+-0.230402
+290
+NC_000071.6
+Mus musculus strain C57BL/6J chromosome 5  GRCm38.p3 C57BL/6J
+150000
+-0.934073
+0.210913
+-0.732019
+0.164131
+-0.455882
+291
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.9079
+0.212185
+-0.632724
+0.305811
+-0.39305
+292
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.446567
+0.0660017
+0.202171
+0.519344
+-0.454798
+293
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.598154
+-0.0400354
+-0.0406109
+0.466513
+-0.406089
+294
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.20359
+-0.246277
+0.656749
+0.510958
+-0.495073
+295
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.362232
+-0.17095
+0.420239
+0.55961
+-0.51715
+296
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.819029
+0.222632
+-0.448696
+0.353605
+-0.470517
+297
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.7071
+0.167777
+-0.233078
+0.448478
+-0.437242
+298
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.848827
+0.0871308
+-0.50774
+0.303974
+-0.549602
+299
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+-0.314433
+0.0283332
+0.472128
+0.571988
+-0.309932
+300
+NC_000072.6
+Mus musculus strain C57BL/6J chromosome 6  GRCm38.p3 C57BL/6J
+150000
+0.101161
+-0.868557
+0.949291
+0.430869
+-0.374971
+301
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.167991
+-0.333863
+0.702949
+0.443458
+-0.476211
+302
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.125672
+-0.398084
+0.794702
+0.824415
+-0.393675
+303
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.65449
+0.0623593
+-0.134342
+0.427836
+-0.171539
+304
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.843898
+0.142551
+-0.542751
+0.32471
+-0.420445
+305
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.230618
+-0.207208
+0.599847
+0.627972
+-0.50948
+306
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+0.015628
+-0.727466
+0.860933
+0.243521
+-0.596035
+307
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.276194
+-0.295827
+0.520608
+0.348407
+-0.390198
+308
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+0.0450115
+-0.697164
+0.829919
+0.05958
+-0.524587
+309
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.0834341
+-0.721136
+0.812065
+0.343184
+-0.508938
+310
+NC_000073.6
+Mus musculus strain C57BL/6J chromosome 7  GRCm38.p3 C57BL/6J
+150000
+-0.5363
+-0.0434819
+0.0886269
+0.397454
+-0.62825
+311
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.558858
+0.00390262
+0.0495272
+0.525603
+-0.325891
+312
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.135209
+-0.594188
+0.861402
+0.825002
+-0.285869
+313
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.796879
+0.246867
+-0.468571
+0.331668
+-0.515117
+314
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.829163
+0.0403554
+-0.468863
+0.333745
+-0.44255
+315
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.794316
+-0.170068
+-0.623334
+-0.0174629
+-1.
+316
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.211979
+-0.454989
+0.593401
+0.492308
+-0.434176
+317
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.179176
+-0.309748
+0.748041
+0.565629
+-0.382827
+318
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+0.0304459
+-0.895584
+0.939895
+0.324284
+-0.447551
+319
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+0.0553751
+-0.898681
+0.971616
+0.239279
+-0.480044
+320
+NC_000074.6
+Mus musculus strain C57BL/6J chromosome 8  GRCm38.p3 C57BL/6J
+150000
+-0.764205
+0.0507179
+-0.333766
+0.398769
+-0.470408
+321
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.496354
+0.0138495
+0.0988773
+0.428625
+-0.667766
+322
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.677704
+0.154166
+-0.306443
+0.347232
+-0.536594
+323
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.554368
+0.180337
+0.10191
+0.524191
+-0.317073
+324
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.429699
+-0.0233072
+0.350818
+0.569901
+-0.354575
+325
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.335789
+-0.20983
+0.52363
+0.743714
+-0.40382
+326
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.704681
+-0.108154
+-0.25297
+0.441266
+-0.448536
+327
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.572317
+0.223624
+0.0526268
+0.557443
+-0.26255
+328
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.485866
+-0.291462
+0.205817
+0.47134
+-0.445149
+329
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.306952
+-0.16495
+0.533186
+0.82167
+-0.404782
+330
+NC_000075.6
+Mus musculus strain C57BL/6J chromosome 9  GRCm38.p3 C57BL/6J
+150000
+-0.534919
+-0.124305
+0.0725458
+0.406415
+-0.54637
+331
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.81752
+0.0744211
+-0.489768
+0.274253
+-0.651653
+332
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.774579
+-0.015576
+-0.379555
+0.372289
+-0.569626
+333
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.602546
+0.0530046
+0.0170138
+0.532748
+-0.209315
+334
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.153101
+-0.381433
+0.728969
+0.899565
+-0.327503
+335
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.449775
+-0.445947
+0.243805
+0.705009
+-0.51596
+336
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.717931
+0.010952
+-0.156291
+0.498804
+-0.378049
+337
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.865154
+-0.0878779
+-0.688929
+0.135113
+-0.494676
+338
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+0.127457
+-1.
+0.907791
+0.149632
+-0.401119
+339
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.191312
+-0.446279
+0.744797
+0.656789
+-0.376733
+340
+NC_000076.6
+Mus musculus strain C57BL/6J chromosome 10  GRCm38.p3 C57BL/6J
+150000
+-0.206313
+-0.426102
+0.599279
+0.354943
+-0.390238
+341
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.493699
+0.0122867
+0.144592
+0.565688
+-0.574354
+342
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.718031
+0.129563
+-0.203669
+0.486025
+-0.363753
+343
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.594408
+-0.053001
+-0.0111571
+0.479124
+-0.41479
+344
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.146868
+-0.337501
+0.770681
+0.557873
+-0.359155
+345
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.538512
+0.235052
+0.0543523
+0.497312
+-0.363042
+346
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.205051
+-0.269326
+0.725908
+0.920076
+-0.27106
+347
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.132305
+-0.417259
+0.806335
+0.820075
+-0.390174
+348
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+0.102418
+-0.883703
+0.916131
+0.248896
+-0.446961
+349
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.0719431
+-0.456167
+0.783353
+0.355222
+-0.489016
+350
+NC_000077.6
+Mus musculus strain C57BL/6J chromosome 11  GRCm38.p3 C57BL/6J
+150000
+-0.789579
+0.206431
+-0.41493
+0.330429
+-0.46081
+351
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.438707
+-0.0270142
+0.217991
+0.43989
+-0.598674
+352
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.716925
+0.137193
+-0.235253
+0.436372
+-0.244613
+353
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.522068
+-0.11566
+0.0682739
+0.484755
+-0.176892
+354
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.638903
+-0.166015
+-0.10544
+0.462315
+-0.409873
+355
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.749116
+0.118548
+-0.264956
+0.444649
+-0.314083
+356
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.111369
+-0.457119
+0.750438
+0.430807
+-0.54028
+357
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+0.0235048
+-0.877115
+0.863294
+0.110591
+-0.543869
+358
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.64269
+0.10697
+-0.212944
+0.288143
+-0.269044
+359
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.562695
+-0.253026
+0.078027
+0.380336
+-0.26961
+360
+NC_000078.6
+Mus musculus strain C57BL/6J chromosome 12  GRCm38.p3 C57BL/6J
+150000
+-0.465079
+-0.0192704
+0.28587
+0.579639
+-0.404601
+361
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.38813
+-0.0440183
+0.41543
+0.604863
+-0.310086
+362
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.835879
+0.0731224
+-0.525391
+0.312393
+-0.327729
+363
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.960913
+0.0670568
+-0.896432
+0.0477325
+-0.771369
+364
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.602021
+-0.211522
+-0.0609998
+0.361816
+-0.582891
+365
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.241138
+-0.249179
+0.586313
+0.475474
+-0.536087
+366
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.685786
+-0.236594
+-0.196845
+0.431962
+-0.408838
+367
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.884099
+-0.226233
+-0.828793
+-0.0209788
+-0.988634
+368
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.549656
+0.0963557
+0.10575
+0.579622
+-0.257591
+369
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.951061
+0.0812016
+-0.770797
+0.193336
+-0.633491
+370
+NC_000079.6
+Mus musculus strain C57BL/6J chromosome 13  GRCm38.p3 C57BL/6J
+150000
+-0.540754
+-0.178729
+-0.109503
+0.235377
+-0.641996
+371
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.357268
+0.0113547
+0.405463
+0.515734
+-0.435367
+372
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.746321
+-0.0335867
+-0.372835
+0.255031
+-0.592294
+373
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.39569
+-0.128418
+0.342324
+0.506254
+-0.218555
+374
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+0.0534767
+-0.806701
+0.895474
+0.14169
+-0.526906
+375
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.38161
+-0.265322
+0.338976
+0.455372
+-0.336326
+376
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.868721
+0.0705964
+-0.569387
+0.255302
+-0.622278
+377
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.561937
+-0.0167403
+-0.0515366
+0.366029
+-0.716379
+378
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.237281
+-0.469155
+0.557164
+0.539003
+-0.636553
+379
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.901526
+0.0397735
+-0.754566
+0.0984178
+-0.849047
+380
+NC_000080.6
+Mus musculus strain C57BL/6J chromosome 14  GRCm38.p3 C57BL/6J
+150000
+-0.396704
+-0.0952996
+0.394327
+0.700816
+-0.285435
+381
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.689712
+0.28911
+-0.188382
+0.487037
+-0.247172
+382
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.175144
+-0.478473
+0.681192
+0.466887
+-0.524318
+383
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.519712
+0.00568657
+0.170308
+0.506468
+-0.203519
+384
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.795966
+0.00285521
+-0.482981
+0.26681
+-0.659793
+385
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.320607
+-0.0737724
+0.509612
+0.798212
+-0.321723
+386
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.648723
+0.108194
+-0.12614
+0.478584
+-0.190577
+387
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.519895
+0.0319293
+0.125099
+0.555422
+-0.28952
+388
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.889633
+0.0979313
+-0.5863
+0.286333
+-0.45802
+389
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.650338
+0.381126
+-0.139999
+0.413393
+-0.325347
+390
+NC_000081.6
+Mus musculus strain C57BL/6J chromosome 15  GRCm38.p3 C57BL/6J
+150000
+-0.0114301
+-0.706488
+0.877233
+0.314757
+-0.503323
+391
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.295562
+-0.231897
+0.481185
+0.451917
+-0.43583
+392
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.382588
+-0.000839068
+0.379844
+0.630234
+-0.373507
+393
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.228635
+-0.210965
+0.645517
+0.8644
+-0.284151
+394
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.838712
+-0.0156715
+-0.659019
+0.136236
+-0.855767
+395
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.467823
+0.402786
+0.224653
+0.584509
+-0.0568604
+396
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.438047
+0.222819
+0.311415
+0.640853
+-0.15461
+397
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.241688
+-0.0637064
+0.487276
+0.527122
+-0.397085
+398
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.326948
+-0.334259
+0.415246
+0.438777
+-0.645027
+399
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.0620047
+-0.505549
+0.85575
+0.758596
+-0.246774
+400
+NC_000082.6
+Mus musculus strain C57BL/6J chromosome 16  GRCm38.p3 C57BL/6J
+150000
+-0.192277
+-0.376081
+0.712667
+0.629504
+-0.320008
+401
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.631507
+0.0533742
+-0.0727786
+0.614284
+-0.378066
+402
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.81869
+0.0351155
+-0.600883
+0.11363
+-0.810871
+403
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+0.00514681
+-0.731992
+0.925894
+0.500451
+-0.389428
+404
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.00734539
+-0.834857
+1.
+0.392444
+-0.439583
+405
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.0842241
+-0.515022
+0.839452
+0.784391
+-0.309516
+406
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.937469
+-0.00229365
+-0.775193
+0.153408
+-0.667851
+407
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.686855
+0.123061
+-0.163421
+0.457563
+-0.395978
+408
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.21858
+-0.576164
+0.64538
+0.522596
+-0.339027
+409
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.618837
+0.219781
+-0.0334861
+0.556878
+-0.181955
+410
+NC_000083.6
+Mus musculus strain C57BL/6J chromosome 17  GRCm38.p3 C57BL/6J
+150000
+-0.610989
+-0.000294737
+-0.098987
+0.383795
+-0.706663
+411
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.221454
+-0.148984
+0.59382
+0.515918
+-0.453201
+412
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.858523
+0.162434
+-0.547753
+0.335263
+-0.459978
+413
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.613535
+0.183625
+-0.0645295
+0.475183
+-0.372203
+414
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.0257916
+-0.666453
+0.867994
+0.341199
+-0.555775
+415
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.166861
+-0.283444
+0.748787
+0.937555
+-0.161088
+416
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.741018
+0.0314031
+-0.485691
+0.166951
+-0.858765
+417
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.734451
+-0.0545414
+-0.368529
+0.369086
+-0.719101
+418
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.497586
+0.116708
+0.161946
+0.545075
+-0.254847
+419
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.0644568
+-0.557186
+0.829108
+0.429437
+-0.408373
+420
+NC_000084.6
+Mus musculus strain C57BL/6J chromosome 18  GRCm38.p3 C57BL/6J
+150000
+-0.0841214
+-0.57139
+0.785741
+0.650836
+-0.317885
+421
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.790741
+0.0207692
+-0.482505
+0.27151
+-0.644642
+422
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.567997
+0.106011
+0.0623568
+0.542173
+-0.151344
+423
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.745925
+-0.0441358
+-0.291753
+0.44737
+-0.550693
+424
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.123471
+-0.401093
+0.717333
+0.395291
+-0.478184
+425
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.0580499
+-0.555196
+0.833669
+0.557921
+-0.418164
+426
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.599368
+0.230653
+-0.0130481
+0.501372
+-0.382704
+427
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.710341
+0.120562
+-0.237808
+0.381068
+-0.527174
+428
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.399784
+-0.0422656
+0.375788
+0.554063
+-0.304766
+429
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.144132
+-0.312657
+0.701295
+0.451459
+-0.420561
+430
+NC_000085.6
+Mus musculus strain C57BL/6J chromosome 19  GRCm38.p3 C57BL/6J
+150000
+-0.685162
+0.0718085
+-0.180512
+0.469976
+-0.135286
+431
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.466777
+-0.203424
+0.228506
+0.520305
+-0.431556
+432
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-1.
+0.138657
+-0.990447
+0.0525408
+-0.729716
+433
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.241591
+-0.489797
+0.547889
+0.740551
+-0.370008
+434
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.788009
+0.272303
+-0.549115
+0.161317
+-0.650897
+435
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.702856
+0.218711
+-0.215131
+0.477678
+-0.396181
+436
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.611313
+0.0152418
+-0.264421
+0.172229
+-0.314749
+437
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.34184
+-0.100422
+0.517385
+0.932444
+-0.0728419
+438
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.686694
+0.149847
+-0.157938
+0.504462
+-0.241304
+439
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.853359
+0.0122639
+-0.617597
+0.267016
+-0.551261
+440
+NC_000086.7
+Mus musculus strain C57BL/6J chromosome X  GRCm38.p3 C57BL/6J
+150000
+-0.54452
+0.105666
+0.0897219
+0.657614
+-0.473094
+441
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.399207
+0.0393383
+0.225731
+0.340915
+-0.117956
+442
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.77994
+0.125362
+-0.534232
+0.127881
+-0.466517
+443
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.424023
+0.118347
+0.240672
+0.429051
+-0.143621
+444
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.645959
+0.0781878
+-0.220841
+0.312672
+-0.123087
+445
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.725313
+0.0966966
+-0.40864
+0.259234
+-0.530309
+446
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.556954
+0.113417
+-0.0993154
+0.265933
+-0.425893
+447
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.515257
+0.154043
+0.0958129
+0.404367
+-0.158991
+448
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.433824
+0.0736768
+0.197172
+0.326513
+-0.168387
+449
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000
+-0.665909
+0.156971
+-0.261006
+0.255602
+-0.404776
+450
+NC_000087.7
+Mus musculus strain C57BL/6J chromosome Y  GRCm38.p3 C57BL/6J
+150000

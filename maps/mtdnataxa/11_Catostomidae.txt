@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Catostomidae (11)
+-0.978943
+-0.940748
+-0.977046
+-1.
+0.924457
+1
+NC_005257
+mitochondrion Carpiodes carpio (river carpsucker)
+16611
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Carpiodes}
+-0.914044
+-0.976047
+-0.277875
+1.
+0.449716
+2
+NC_006401
+mitochondrion Myxocyprinus asiaticus (Chinese sucker)
+16636
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Myxocyprinus}
+-0.173628
+-0.0862239
+0.130831
+-0.604043
+-0.161538
+3
+NC_008113
+mitochondrion Minytrema melanops (spotted sucker)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Minytrema}
+-0.730914
+-0.630382
+-0.659892
+-0.613262
+-1.
+4
+NC_008645
+mitochondrion Cycleptus elongatus (blue sucker)
+16626
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Cycleptus}
+-0.382603
+0.948114
+-0.90757
+-0.281088
+0.462859
+5
+NC_008647
+mitochondrion Catostomus commersonii (white sucker)
+16625
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Catostomus}
+0.984485
+-0.753807
+-0.830551
+-0.343332
+0.556835
+6
+NC_008674
+mitochondrion Moxostoma poecilurum (blacktail redhorse)
+16637
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Moxostoma}
+0.203207
+-0.335935
+-0.302961
+-0.372527
+-0.830929
+7
+NC_008676
+mitochondrion Hypentelium nigricans (northern hog sucker)
+16625
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Hypentelium}
+-0.404385
+1.
+-0.997282
+-0.208277
+0.527259
+8
+NC_010234
+mitochondrion Xyrauchen texanus (razorback sucker)
+16634
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Xyrauchen}
+-0.27727
+-0.21699
+1.
+-0.719164
+1.
+9
+NC_013064
+mitochondrion Erimyzon oblongus (creek chubsucker)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Erimyzon}
+-1.
+-1.
+-1.
+-0.728091
+0.491286
+10
+NC_013071
+mitochondrion Ictiobus bubalus (smallmouth buffalo)
+16612
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Ictiobus}
+1.
+-0.839924
+-0.878277
+-0.307967
+0.601979
+11
+NC_013074
+mitochondrion Moxostoma congestum (gray redhorse)
+16626
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Catostomidae  Moxostoma}

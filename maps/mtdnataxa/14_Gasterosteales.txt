@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Gasterosteales (11)
+0.342793
+-0.894851
+-1.
+0.334321
+-0.526788
+1
+NC_003174
+mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+15742
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Gasterosteus}
+0.731898
+1.
+-0.435359
+1.
+-0.338835
+2
+NC_004400
+mitochondrion Hypoptychus dybowskii (Korean sandeel)
+16479
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Hypoptychidae  Hypoptychus}
+0.755277
+-0.470587
+0.124104
+-0.190989
+1.
+3
+NC_010268
+mitochondrion Aulorhynchus flavidus (tube-snout)
+16894
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Aulorhynchidae  Aulorhynchus}
+0.768649
+0.149444
+-0.0954889
+-1.
+-1.
+4
+NC_011569
+mitochondrion Aulichthys japonicus (tubenose)
+16594
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Aulorhynchidae  Aulichthys}
+0.376996
+-0.845672
+-0.98225
+0.170239
+-0.530656
+5
+NC_011570
+mitochondrion Gasterosteus wheatlandi (blackspotted stickleback)
+16538
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Gasterosteus}
+-0.99951
+-0.304657
+0.0543364
+0.195362
+-0.365094
+6
+NC_011571
+mitochondrion Pungitius pungitius (ninespine stickleback)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Pungitius}
+0.416272
+-0.934545
+-0.475463
+0.443964
+-0.303427
+7
+NC_011577
+mitochondrion Culaea inconstans (brook stickleback)
+16465
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Culaea}
+0.291994
+-0.629833
+-0.524668
+0.222114
+-0.320385
+8
+NC_011580
+mitochondrion Apeltes quadracus (fourspine stickleback)
+16472
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Apeltes}
+1.
+-1.
+1.
+0.699762
+-0.860922
+9
+NC_011582
+mitochondrion Spinachia spinachia (sea stickleback)
+16359
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Spinachia}
+-1.
+-0.299584
+0.0548991
+0.189462
+-0.360762
+10
+NC_014889
+mitochondrion Pungitius sinensis (Amur stickleback)
+16581
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Pungitius}
+-0.715295
+-0.386682
+-0.0711338
+0.215776
+-0.392986
+11
+NC_014893
+mitochondrion Pungitius kaibarae
+16505
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Gasterosteales  Gasterosteidae  Pungitius}

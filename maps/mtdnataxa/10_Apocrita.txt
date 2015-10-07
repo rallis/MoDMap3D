@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Apocrita (21)
+-0.975765
+0.484418
+-0.485984
+-0.075793
+0.141497
+1
+NC_001566
+mitochondrion Apis mellifera ligustica (common honey bee)
+16343
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Apoidea  Apidae  Apis}
+-0.907482
+0.480235
+-0.3008
+0.0626575
+0.0894588
+2
+NC_004529
+mitochondrion Melipona bicolor (stingless bee)
+14422
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Apoidea  Apidae  Melipona}
+-0.475745
+0.178539
+0.118816
+-0.153256
+-0.0623763
+3
+NC_008323
+mitochondrion Vanhornia eucnemidarum (parasitic wasp)
+16574
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Proctotrupoidea  Vanhorniidae  Vanhornia}
+-0.978643
+0.522372
+-0.42776
+-0.0219423
+0.0963124
+4
+NC_010967
+mitochondrion Bombus ignitus (bumblebee)
+16434
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Apoidea  Apidae  Bombus  Bombus}
+-0.416933
+0.271582
+0.0614255
+-0.1412
+0.187771
+5
+NC_011520
+mitochondrion Abispa ephippium (large potter wasp)
+16953
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Vespidae  Eumeninae  Abispa}
+-0.89239
+0.50209
+-0.469654
+-0.0555975
+0.108226
+6
+NC_011923
+mitochondrion Bombus hypocrita sapporensis
+15468
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Apoidea  Apidae  Bombus  Bombus}
+-0.729459
+0.360502
+0.338201
+0.231644
+-0.0176412
+7
+NC_012708
+mitochondrion Diadegma semiclausum (wasp)
+18728
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Ichneumonoidea  Ichneumonidae  Campopleginae  Dusona group  Diadegma}
+-0.0719167
+-0.423797
+0.886629
+-0.794146
+1.
+8
+NC_013238
+mitochondrion Evania appendigaster (cockroach egg parasitoid)
+17817
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Evanioidea  Evaniidae  Evania}
+-0.92718
+0.332603
+0.621827
+0.574188
+-0.0162695
+9
+NC_014272
+mitochondrion Cotesia vestalis (diamondback moth parasitoid)
+15543
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Ichneumonoidea  Braconidae  Microgastrinae  Cotesia}
+-0.915801
+0.207003
+0.812561
+0.652278
+-0.093564
+10
+NC_014278
+mitochondrion Spathius agrili (emerald ash borer parasitic wasp)
+15425
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Ichneumonoidea  Braconidae  Doryctinae  Spathius}
+-1.
+0.485887
+-0.50687
+-0.105815
+0.115008
+11
+NC_014295
+mitochondrion Apis cerana (Asiatic honeybee)
+15895
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Apoidea  Apidae  Apis}
+-0.211896
+-0.319207
+0.293351
+-1.
+-1.
+12
+NC_014485
+mitochondrion Wallacidia oculata (velvet ant)
+18442
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Mutillidae  Mutillinae  Wallacidia}
+0.605425
+0.540496
+0.0361086
+0.00182743
+0.00104463
+13
+NC_014669
+mitochondrion Solenopsis geminata (tropical fire ant)
+15552
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Formicidae  Myrmicinae  Solenopsis}
+0.932744
+1.
+0.10281
+0.16372
+0.00697619
+14
+NC_014672
+mitochondrion Solenopsis invicta (red fire ant)
+15549
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Formicidae  Myrmicinae  Solenopsis}
+1.
+0.968213
+0.159939
+0.188113
+0.024439
+15
+NC_014677
+mitochondrion Solenopsis richteri (black fire ant)
+15560
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Formicidae  Myrmicinae  Solenopsis}
+-0.102044
+0.317079
+0.162323
+0.179853
+0.0747388
+16
+NC_015075
+mitochondrion Pristomyrmex punctatus (ant)
+16180
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Formicidae  Myrmicinae  Pristomyrmex}
+-0.727986
+0.383631
+-0.0165608
+0.00050564
+0.0198874
+17
+NC_017007
+mitochondrion Philanthus triangulum (European beewolf)
+16029
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Sphecoidea  Crabronidae  Philanthinae  Philanthini  Philanthina  Philanthus}
+-0.953495
+0.479854
+-0.512996
+-0.101476
+0.134224
+18
+NC_021401
+mitochondrion Apis florea (little honeybee)
+17694
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Apoidea  Apidae  Apis}
+-0.61249
+0.352891
+0.268025
+0.296133
+0.0433411
+19
+NC_022849
+mitochondrion Pristaulacus compressus
+15563
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Evanioidea  Aulacidae  Pristaulacus}
+0.492437
+-1.
+-1.
+1.
+0.0573269
+20
+NC_023093
+mitochondrion Leptomyrmex pallens
+15591
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Aculeata  Vespoidea  Formicidae  Dolichoderinae  Leptomyrmex}
+-0.898572
+0.192585
+1.
+0.838827
+-0.118133
+21
+NC_025289
+mitochondrion Orthogonalys pulchella
+17277
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Hymenoptera  Apocrita  Trigonaloidea  Trigonalidae  Orthogonalys}

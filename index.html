@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>3D Molecular Distance Maps (3D MoD Maps)</title>
+    <script type="text/javascript">
+    function showmap(typedna){
+      var baselink='https://dl.dropboxusercontent.com/u/34456847/modmaps3D/';
+      //'https://dl.dropboxusercontent.com/u/34456847/modmaps3D/';
+      //'http://localhost/aaa/MoDMaps3D/';
+      if(typedna=="mtdna"){
+        if(document.getElementById('loadmapmtdna').selectedIndex==0){alert("You have not selected an mtDNA MoDMap to show!");return;}
+        var mapid=document.getElementById('loadmapmtdna').options[document.getElementById('loadmapmtdna').selectedIndex].value;
+      }
+      if(typedna=="genomicdna"){
+        if(document.getElementById('loadmapgenomicdna').selectedIndex==0){alert("You have not selected a genomicDNA MoDMap to show!");return;}
+        var mapid=document.getElementById('loadmapgenomicdna').options[document.getElementById('loadmapgenomicdna').selectedIndex].value;
+      }
+      if(typedna=="viraldna"){
+        if(document.getElementById('loadmapviraldna').selectedIndex==0){alert("You have not selected a viral MoDMap to show!");return;}
+        var mapid=document.getElementById('loadmapviraldna').options[document.getElementById('loadmapviraldna').selectedIndex].value;
+      }
+      window.location.assign(baselink+'load.html?mapid='+mapid);    
+    }
+    </script>
+</head>
+    
+ <body> 
+  
+<div id="sidemenu">
+  <div id="title">
+    <center><strong><em>3D Molecular Distance Maps (3D MoD Maps)</em></strong></center>
+  </div>
+</br>
+  <center><strong><em><font color="red">Select a map from dropdown menu and click "Show 3D MoD Map!" button to load the map.</font></em></strong></center>
+</br></br>
+  <div id="settings"> 
+    <center>
+      
+      <table border="0">
+      <tr>
+        <td>
+          <strong>mitochondrial DNA (mtDNA):</strong>&nbsp; &nbsp; 
+        </td>
+        <td>
+          <select id="loadmapmtdna"> 
+            <option value="0">---SELECT A MAP---</option>
+            <option value="20">1) Eukaryota (5515)          &nbsp; &nbsp;  [NCBI 2015]      </option>
+            <option value="8">2) Vertebrates (3156)          &nbsp; &nbsp;  [NCBI 2015]      </option>
+            <option value="9">3) Protists (88)               &nbsp; &nbsp;  [NCBI 2015]       </option>
+            <option value="10">4) Mam-Ins-Amph (1497)       &nbsp; &nbsp;  [NCBI 2015]       </option>
+            <option value="11">5) Amphibians (187)          &nbsp; &nbsp;  [NCBI 2015]       </option>
+            <option value="12">6) Insects (600)             &nbsp; &nbsp;  [NCBI 2015]        </option>
+            <option value="13">7) Primates (132)            &nbsp; &nbsp;  [NCBI 2015]        </option>
+            <option value="14">8) Mammals (706)             &nbsp; &nbsp;  [NCBI 2015]        </option> 
+            <option value="15">9) Fish (1642)               &nbsp; &nbsp;  [NCBI 2015]        </option>             
+            <option value="16">10) Aves (391)               &nbsp; &nbsp;  [NCBI 2015]        </option> 
+            <option value="17">11) Reptiles (230)               &nbsp; &nbsp;  [NCBI 2015]        </option>
+            <option value="18">12) Hominidae (10),Hylobatidae (8) &nbsp; &nbsp;  [NCBI 2015]        </option>
+             
+          </select>&nbsp; &nbsp;
+        </td>
+        <td>
+          <input type="submit" id="drawmdm" onclick="showmap('mtdna');" value="Show 3D MoD Map!"/>
+        </td>
+      </tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+      <tr>
+        <td>
+          <strong>nuclear DNA (genomicDNA):</strong>&nbsp; &nbsp; 
+        </td>
+        <td>
+          <select id="loadmapgenomicdna">  
+            <option value="0">---SELECT A MAP---</option>
+            <option value="51">1) Six Kingdoms - DSSIM (508) </option>
+            <option value="52">2) Six Kingdoms - Descriptor (508)</option>
+            <option value="53">3) Six Kingdoms - Euclidean (508)</option>
+            <option value="54">4) Six Kingdoms - Manhattan (508)</option>
+            <option value="55">5) Six Kingdoms - Pearson (508)</option>
+            <option value="56">6) Six Kingdoms - Information (508)</option>
+            <option value="57">7) Sampling Six Kingdoms - DSSIM (526)</option>
+            <option value="58">8) Sampling Six Kingdoms - Descriptor (526)</option>
+            <option value="59">9) Sampling Six Kingdoms - Euclidean (526)</option>
+            <option value="60">10) Sampling Six Kingdoms - Manhattan (526)</option>
+            <option value="61">11) Sampling Six Kingdoms - Pearson (526)</option>
+            <option value="62">12) Sampling Six Kingdoms - Information (526)</option>
+            <option value="63">13) Sampling Human/Mouse - DSSIM (450) </option>
+            <option value="64">14) Sampling Human/Mouse - Descriptor (450)</option>
+            <option value="65">15) Sampling Human/Mouse - Euclidean (450)</option>
+            <option value="66">16) Sampling Human/Mouse - Manhattan (450)</option>
+            <option value="67">17) Sampling Human/Mouse - Pearson (450)</option>
+            <option value="68">18) Sampling Human/Mouse - Information (450)</option>
+          </select>&nbsp; &nbsp;
+        </td>
+        <td>
+          <input type="submit" id="drawmdm" onclick="showmap('genomicdna');" value="Show 3D MoD Map!"/>
+        </td>
+      </tr>
+    </table>
+
+    </center>
+  </div>
+
+</div>
+
+
+
+ </body>
+</html>
+

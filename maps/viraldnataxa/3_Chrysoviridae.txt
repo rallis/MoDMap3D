@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Chrysoviridae (21)
+0.699114
+0.229884
+0.00179796
+0.175266
+-0.257087
+1
+NC_005978
+Helminthosporium victoriae 145S virus
+3612
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.92807
+0.114856
+0.0247343
+0.859194
+-0.480613
+2
+NC_005979
+Helminthosporium victoriae 145S virus
+3134
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+1.
+0.162901
+0.0910537
+1.
+-0.330783
+3
+NC_005980
+Helminthosporium victoriae 145S virus
+2972
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.977943
+0.0712234
+0.102559
+0.903654
+-0.391323
+4
+NC_005981
+Helminthosporium victoriae 145S virus
+2763
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.376041
+0.245516
+-0.039793
+-0.727229
+-0.81457
+5
+NC_007539
+Penicillium chrysogenum virus
+3562
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.248433
+0.193247
+0.12049
+-1.
+-0.772713
+6
+NC_007540
+Penicillium chrysogenum virus
+3200
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.271457
+0.259116
+-0.135317
+-0.599231
+-0.436808
+7
+NC_007541
+Penicillium chrysogenum virus
+2976
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.440683
+0.246816
+-0.00861023
+-0.997428
+-1.
+8
+NC_007542
+Penicillium chrysogenum virus
+2902
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.471197
+0.164738
+-0.0346268
+-0.634083
+0.781165
+9
+NC_009944
+Amasya cherry disease associated chrysovirus
+2498
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.522448
+0.292382
+-0.0513166
+-0.447597
+1.
+10
+NC_009945
+Amasya cherry disease associated chrysovirus
+2833
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.576868
+0.245799
+0.0784098
+-0.273662
+0.847598
+11
+NC_009946
+Amasya cherry disease associated chrysovirus
+3128
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+0.570092
+0.140644
+0.0786545
+-0.203785
+0.429122
+12
+NC_009947
+Amasya cherry disease associated chrysovirus
+3399
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.970365
+-1.
+-0.371334
+0.0697559
+-0.0855158
+13
+NC_014462
+Magnaporthe oryzae chrysovirus 1
+3554
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.801907
+0.252629
+0.70555
+-0.044999
+-0.00910064
+14
+NC_014463
+Magnaporthe oryzae chrysovirus 1
+3074
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.826817
+0.537176
+1.
+0.145374
+-0.0688998
+15
+NC_014464
+Magnaporthe oryzae chrysovirus 1
+3043
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.894844
+1.
+-0.986073
+0.288963
+-0.138757
+16
+NC_014465
+Magnaporthe oryzae chrysovirus 1
+3250
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.89934
+0.575712
+0.879941
+0.234091
+-0.16192
+17
+NC_023039
+Magnaporthe oryzae chrysovirus 3
+2997
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.805904
+0.362931
+0.0970751
+-0.135869
+-0.196403
+18
+NC_023040
+Magnaporthe oryzae chrysovirus 3
+2880
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-1.
+-0.997084
+-0.343354
+0.0912525
+-0.0967969
+19
+NC_023041
+Magnaporthe oryzae chrysovirus 3
+3558
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.868663
+0.982637
+-1.
+0.243082
+-0.0870891
+20
+NC_023042
+Magnaporthe oryzae chrysovirus 3
+3254
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}
+-0.687495
+0.250953
+0.665505
+0.0385868
+-0.149002
+21
+NC_023043
+Magnaporthe oryzae chrysovirus 3
+2874
+{root  Viruses  dsRNA viruses  Chrysoviridae  Chrysovirus}

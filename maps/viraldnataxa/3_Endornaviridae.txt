@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Endornaviridae (14)
+-0.54346
+0.955489
+-0.13549
+-0.814162
+1.
+1
+NC_007069
+Phytophthora endornavirus 1
+13883
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}
+1.
+0.629791
+0.208281
+0.351806
+-0.384023
+2
+NC_007647
+Oryza sativa endornavirus
+13952
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}
+-0.917588
+1.
+0.0939837
+0.154192
+-0.731319
+3
+NC_007648
+Vicia faba endornavirus
+17635
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}
+0.983477
+0.708874
+0.204269
+0.381221
+-0.273751
+4
+NC_007649
+Oryza rufipogon endornavirus
+13936
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}
+-0.137872
+-1.
+0.125251
+-1.
+-0.52152
+5
+NC_007920
+Gremmeniella abietina type B RNA virus XL1
+10375
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+-0.963273
+0.907943
+0.0392009
+-0.0642287
+-1.
+6
+NC_013447
+Helicobasidium mompa endornavirus 1
+16614
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}
+-0.408928
+-0.459056
+-1.
+1.
+0.0545811
+7
+NC_014904
+Tuber aestivum endornavirus
+9760
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+-0.104746
+0.729668
+0.238742
+0.0633498
+-0.0694674
+8
+NC_015781
+Bell pepper endornavirus
+14728
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}
+0.00983768
+0.308635
+0.150049
+0.174957
+-0.231765
+9
+NC_016648
+Persea americana endornavirus
+13459
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+-1.
+-0.189028
+1.
+0.954317
+0.393319
+10
+NC_019493
+Grapevine endophyte endornavirus (GEEV)
+12154
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+0.112381
+-0.636446
+0.301795
+-0.0891869
+-0.582941
+11
+NC_021706
+Sclerotinia sclerotiorum endornavirus-1 (SsEV1)
+10770
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+-0.485185
+0.850543
+-0.0716202
+0.0397066
+-0.632958
+12
+NC_022619
+Rhizoctonia cerealis endornavirus 1
+17486
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+0.406071
+0.719475
+0.0357168
+0.135569
+-0.21469
+13
+NC_023641
+Lagenaria siceraria endornavirus-California (LsEV-CA)
+15088
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus  unclassified            Endornavirus}
+0.28983
+0.400768
+0.0970348
+-0.112789
+0.356656
+14
+NC_023678
+Phaseolus vulgaris endornavirus 1
+13908
+{root  Viruses  dsRNA viruses  Endornaviridae  Endornavirus}

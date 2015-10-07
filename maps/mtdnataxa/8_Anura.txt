@@ -1,0 +1,836 @@
+83
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Anura (83)
+-0.145725
+0.376498
+1.
+0.690446
+0.0394453
+1
+NC_001573
+mitochondrion Xenopus laevis (African clawed frog)
+17553
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Xenopodinae  Xenopus  Xenopus}
+0.988473
+-0.675518
+0.135661
+0.962145
+0.965598
+2
+NC_002805
+mitochondrion Pelophylax nigromaculatus (dark-spotted frog)
+17804
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Pelophylax}
+0.361729
+0.17328
+0.671077
+-0.561972
+0.198718
+3
+NC_005055
+mitochondrion Fejervarya limnocharis (Boie's wart frog)
+17717
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Fejervarya}
+0.127731
+0.612458
+-0.0896997
+-0.117292
+0.106493
+4
+NC_005794
+mitochondrion Duttaphrynus melanostictus (Asian common toad)
+17374
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Bufonidae  Duttaphrynus}
+-0.98583
+-0.976878
+0.105265
+-0.601295
+0.163149
+5
+NC_006402
+mitochondrion Bombina fortinuptialis (large-spined bell toad)
+17575
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Bombinatoridae  Bombina}
+0.168521
+0.607851
+0.183633
+-0.245483
+0.123367
+6
+NC_006403
+mitochondrion Hyla chinensis (Chinese tree toad)
+18180
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Hylidae  Hylinae  Hylini  Hyla}
+0.319716
+0.226915
+0.5647
+-0.423351
+0.231492
+7
+NC_006405
+mitochondrion Kaloula pulchra (Malaysian narrowmouth toad)
+16818
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Microhylidae  Microhylinae  Kaloula}
+0.32985
+0.249931
+0.589985
+-0.649803
+0.312018
+8
+NC_006406
+mitochondrion Microhyla heymonsi (Taiwan rice frog)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Microhylidae  Microhylinae  Microhyla}
+0.319962
+0.192838
+0.592492
+-0.400657
+0.172865
+9
+NC_006408
+mitochondrion Polypedates megacephalus (Hong Kong whipping frog)
+16473
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Rhacophoridae  Rhacophorinae  Polypedates}
+-0.0760338
+0.228024
+0.726954
+0.188864
+0.0751724
+10
+NC_006688
+mitochondrion Alytes obstetricans pertinax (midwife toad)
+17490
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Alytidae  Alytinae  Alytes}
+-0.497098
+-0.344584
+0.42092
+-0.2056
+0.0814171
+11
+NC_006689
+mitochondrion Bombina orientalis (Oriental fire-bellied toad)
+17847
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Bombinatoridae  Bombina}
+-0.122016
+0.175392
+0.705502
+0.16759
+0.0816658
+12
+NC_006690
+mitochondrion Discoglossus galganoi
+17014
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Alytidae  Discoglossinae  Discoglossus}
+-0.155997
+0.35886
+0.879985
+0.487291
+0.0429853
+13
+NC_006839
+mitochondrion Xenopus (Silurana) tropicalis (western clawed frog)
+17610
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Xenopodinae  Xenopus  Silurana}
+0.343485
+0.148255
+0.568062
+-0.392134
+0.185098
+14
+NC_007178
+mitochondrion Rhacophorus schlegelii (Japanese gliding frog)
+21359
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Rhacophoridae  Rhacophorinae  Rhacophorus}
+0.342833
+0.196478
+0.718292
+-0.627902
+0.266643
+15
+NC_007440
+mitochondrion Limnonectes fujianensis (Fujian large-headed frog)
+17654
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Limnonectes}
+0.358043
+0.170979
+0.565559
+-0.436348
+0.172033
+16
+NC_007888
+mitochondrion Mantella madagascariensis (Madagascar golden frog)
+22874
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Mantellinae  Mantella  madagascariensis group}
+-0.033147
+0.26797
+0.686218
+0.015611
+0.0846484
+17
+NC_008144
+mitochondrion Pelobates cultripes (western spadefoot toad)
+17384
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pelobatoidea  Pelobatidae  Pelobates}
+0.078724
+1.
+-0.996214
+0.00169288
+0.0509336
+18
+NC_008410
+mitochondrion Bufo gargarizans (Chusan Island toad)
+17277
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Bufonidae  Bufo}
+0.373073
+0.10208
+0.565661
+-0.477375
+0.173736
+19
+NC_008975
+mitochondrion Buergeria buergeri (Buerger's frog)
+19959
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Rhacophoridae  Buergeriinae  Buergeria}
+-0.533249
+-0.334274
+0.413442
+-0.180967
+0.0823759
+20
+NC_009258
+mitochondrion Bombina variegata (yellow-bellied toad)
+18551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Bombinatoridae  Bombina}
+1.
+-0.685674
+0.128078
+0.998829
+0.999867
+21
+NC_009264
+mitochondrion Pelophylax plancyi (Peking frog)
+17822
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Pelophylax}
+0.31188
+0.254922
+0.563831
+-0.69502
+0.300215
+22
+NC_009422
+mitochondrion Microhyla ornata (ornate rice frog)
+16730
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Microhylidae  Microhylinae  Microhyla}
+0.521264
+-0.0641348
+0.483512
+-0.324703
+-0.0376712
+23
+NC_009423
+mitochondrion Odorrana tormota
+17962
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Odorrana}
+0.0930213
+0.89009
+-0.722984
+-0.0645031
+0.0486322
+24
+NC_009886
+mitochondrion Bufo japonicus (Japanese toad)
+17757
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Bufonidae  Bufo}
+0.169407
+0.557507
+0.222078
+-0.204072
+0.128395
+25
+NC_010232
+mitochondrion Hyla japonica (Japanese treefrog)
+19519
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Hylidae  Hylinae  Hylini  Hyla}
+0.321916
+0.214126
+0.593976
+-0.628048
+0.30935
+26
+NC_010233
+mitochondrion Microhyla okinavensis (Okinawa rice frog)
+16717
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Microhylidae  Microhylinae  Microhyla}
+-0.863228
+-0.815531
+0.177216
+-0.485865
+0.140773
+27
+NC_011049
+mitochondrion Bombina maxima (large-webbed bell toad)
+18388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Bombinatoridae  Bombina}
+0.360395
+0.194941
+0.624254
+-0.616294
+0.219642
+28
+NC_012647
+mitochondrion Fejervarya cancrivora (crab-eating frog)
+17843
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Fejervarya}
+0.370721
+0.17538
+0.722412
+-0.667761
+0.245907
+29
+NC_012837
+mitochondrion Limnonectes bannaensis (large-headed frog)
+16867
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Limnonectes}
+0.415517
+0.166591
+0.758863
+-0.982539
+0.355112
+30
+NC_013270
+mitochondrion Quasipaa spinosa (Chinese spiny frog)
+18012
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Quasipaa}
+0.383905
+0.186441
+0.689259
+-0.705976
+0.249501
+31
+NC_014581
+mitochondrion Hoplobatrachus tigerinus (Indus valley bullfrog)
+20462
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Hoplobatrachus}
+0.355321
+0.170783
+0.628788
+-0.635642
+0.214511
+32
+NC_014584
+mitochondrion Euphlyctis hexadactylus (Indian five-fingered frog)
+20280
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Euphlyctis}
+0.278949
+0.241633
+0.660647
+-0.424036
+0.146523
+33
+NC_014685
+mitochondrion Occidozyga martensii (round-tongued floating frog)
+18321
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Occidozyginae  Occidozyga}
+-0.0422279
+0.209483
+0.704148
+0.134707
+0.0577687
+34
+NC_014691
+mitochondrion Leiopelma archeyi (Coromandel frog)
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Leiopelmatidae  Leiopelma}
+0.553084
+-0.0875988
+0.46748
+-0.288852
+-0.035903
+35
+NC_015305
+mitochondrion Odorrana ishikawae (Ishikawa's frog)
+21020
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Odorrana}
+-0.13437
+0.27462
+0.785264
+0.412302
+0.0401992
+36
+NC_015615
+mitochondrion Hymenochirus boettgeri (Congo dwarf clawed frog)
+18007
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Pipinae  Hymenochirus}
+-0.0671961
+0.237108
+0.734138
+0.25022
+0.0438728
+37
+NC_015617
+mitochondrion Pipa carvalhoi (Carvalho's Surinam toad)
+19534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Pipinae  Pipa}
+-0.0761008
+0.285835
+0.772383
+0.239668
+0.0760823
+38
+NC_015618
+mitochondrion Pseudhymenochirus merlini (Merlin's clawed frog)
+18029
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Pipinae  Pseudhymenochirus}
+-0.217685
+0.296729
+0.962632
+0.916335
+-0.0161821
+39
+NC_015620
+mitochondrion Rhinophrynus dorsalis (Mexican burrowing toad)
+17299
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Rhinophrynidae  Rhinophrynus}
+0.995962
+-0.682962
+0.136559
+1.
+1.
+40
+NC_016059
+mitochondrion Pelophylax chosenicus (Seoul frog)
+18357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Pelophylax}
+0.419413
+0.142201
+0.712955
+-0.949633
+0.346297
+41
+NC_016119
+mitochondrion Nanorana pleskei (Tibetan frog)
+17660
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Nanorana}
+0.826055
+-0.435353
+0.350228
+0.0134769
+-1.
+42
+NC_018771
+mitochondrion Babina adenopleura (olive frog)
+18982
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Babina}
+-0.170928
+0.363736
+0.961132
+0.725367
+0.0395119
+43
+NC_018775
+mitochondrion Xenopus victorianus (Lake Victoria clawed frog)
+17716
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Xenopodinae  Xenopus  Xenopus}
+-0.136031
+0.320025
+0.884536
+0.408597
+0.079885
+44
+NC_018776
+mitochondrion Xenopus borealis (Kenyan clawed frog)
+17474
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Pipidae  Xenopodinae  Xenopus  Xenopus}
+0.049937
+0.279813
+0.694161
+-0.173212
+0.102357
+45
+NC_018785
+mitochondrion Atympanophrys shapingensis (Shaping frog)
+17631
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pelobatoidea  Megophryidae  Atympanophrys}
+0.369322
+0.176483
+0.685427
+-0.735108
+0.234744
+46
+NC_019615
+mitochondrion Hoplobatrachus rugulosus (Hoplobatrachus chinensis)
+20309
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Hoplobatrachus}
+0.146165
+0.381226
+0.458997
+-0.104574
+0.13991
+47
+NC_019997
+mitochondrion Calyptocephallela gayi (helmeted water toad)
+17994
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Myobatrachoidea  Calyptocephalellidae  Calyptocephallela}
+0.177038
+0.325789
+0.574971
+-0.198103
+0.131762
+48
+NC_019998
+mitochondrion Heleophryne regis (royal ghost frog)
+17620
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Heleophrynidae  Heleophryne}
+0.165089
+0.365968
+0.398797
+-0.321837
+0.109331
+49
+NC_019999
+mitochondrion Lechriodus melanopyga (Wokan cannibal frog)
+19205
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Myobatrachoidea  Myobatrachidae  Limnodynastinae  Lechriodus}
+-0.00614128
+0.289973
+0.689464
+0.00123564
+0.0691039
+50
+NC_020000
+mitochondrion Pelodytes cf. punctatus II-2011 (parsley frog)
+18905
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pelobatoidea  Pelodytidae  Pelodytes}
+0.118332
+0.511302
+0.846155
+0.095255
+0.108874
+51
+NC_020001
+mitochondrion Sooglossus thomasseti (Thomasset's Seychelles frog)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Sooglossoidea  Sooglossidae  Sooglossus}
+0.145589
+0.52433
+0.229128
+-0.153336
+0.119817
+52
+NC_020002
+mitochondrion Telmatobius bolivianus (Bolivian frog)
+19295
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Ceratophryidae  Telmatobiinae  Telmatobius}
+0.327944
+0.21056
+0.559405
+-0.453241
+0.186932
+53
+NC_020044
+mitochondrion Kaloula borealis (Manchurian narrowmouth toad)
+17174
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Microhylidae  Microhylinae  Kaloula}
+0.086539
+0.998897
+-1.
+0.0016143
+0.0452209
+54
+NC_020048
+mitochondrion Bufo tibetanus (Tibetan toad)
+17405
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Bufonidae  Bufo}
+0.0584269
+0.251716
+0.652653
+-0.171923
+0.100032
+55
+NC_020610
+mitochondrion Leptolalax oshanensis
+17747
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pelobatoidea  Megophryidae  Leptolalax}
+-0.986867
+-0.989985
+0.106095
+-0.589366
+0.167439
+56
+NC_021476
+mitochondrion Bombina microdeladigitora (Hubei firebelly toad)
+18256
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Bombinatoridae  Bombina}
+-1.
+-1.
+0.0923662
+-0.604053
+0.163418
+57
+NC_021477
+mitochondrion Bombina lichuanensis (Lichuan bell toad)
+18554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Bombinatoridae  Bombina}
+-0.227547
+0.294659
+0.969284
+0.914328
+-0.0295272
+58
+NC_021849
+mitochondrion Rhinophrynus dorsalis (Mexican burrowing toad)
+15316
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pipoidea  Rhinophrynidae  Rhinophrynus}
+0.116352
+0.499745
+0.859106
+0.101229
+0.117375
+59
+NC_021850
+mitochondrion Sooglossus thomasseti (Thomasset's Seychelles frog)
+14972
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Sooglossoidea  Sooglossidae  Sooglossus}
+0.423117
+0.17145
+0.711668
+-1.
+0.35517
+60
+NC_021937
+mitochondrion Quasipaa boulengeri (spiny-bellied frog)
+17741
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Quasipaa}
+0.661929
+-0.194769
+0.432671
+-0.210533
+-0.00764606
+61
+NC_022696
+mitochondrion Rana catesbeiana (bullfrog)
+18241
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Rana  Aquarana}
+0.73745
+-0.303402
+0.40454
+-0.163325
+-0.303625
+62
+NC_022870
+mitochondrion Babina holsti (dagger frog)
+19113
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Babina}
+0.745392
+-0.310367
+0.403777
+-0.176166
+-0.317846
+63
+NC_022871
+mitochondrion Babina subaspera (Otton frog)
+18525
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Babina}
+0.810569
+-0.426994
+0.364721
+0.0125677
+-0.980694
+64
+NC_022872
+mitochondrion Babina okinavana (Kampira Falls frog)
+19959
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Babina}
+0.26514
+0.241164
+0.598529
+-0.353103
+0.0824712
+65
+NC_023379
+mitochondrion Breviceps adspersus (bushveld rain frog)
+28757
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Brevicipitidae  Breviceps}
+0.217665
+0.24398
+0.58333
+-0.297981
+0.153142
+66
+NC_023380
+mitochondrion Hemisus marmoratus (mottled shovel-nosed frog)
+20093
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Hemisotidae  Hemisus}
+0.189505
+0.235855
+0.658539
+-0.35384
+0.130431
+67
+NC_023381
+mitochondrion Hyperolius marmoratus (marbled rush frog)
+22595
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Hyperoliidae  Hyperolius}
+0.322176
+0.168573
+0.542819
+-0.318254
+0.133852
+68
+NC_023382
+mitochondrion Trichobatrachus robustus
+21418
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Arthroleptidae  Trichobatrachus}
+0.56894
+-0.0932257
+0.455523
+-0.329685
+-0.0153056
+69
+NC_023528
+mitochondrion Rana dybowskii
+18864
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Rana  Rana}
+0.590978
+-0.138376
+0.437533
+-0.283697
+0.0041395
+70
+NC_023529
+mitochondrion Rana cf. chensinensis QYCRCCH_C
+18808
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Rana  Rana}
+0.605972
+-0.134073
+0.519772
+-0.195501
+0.089993
+71
+NC_023949
+mitochondrion Amolops ricketti (Chinese sucker frog)
+17772
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Amolops}
+0.619936
+-0.162785
+0.462059
+-0.137068
+0.0895471
+72
+NC_024180
+mitochondrion Amolops mantzorum
+17744
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Amolops}
+0.420329
+0.15461
+0.712066
+-0.895083
+0.333854
+73
+NC_024272
+mitochondrion Nanorana taihangnica (Taihangshan swelled-vented
+17412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Nanorana  Feirana}
+0.0592761
+0.30085
+0.670866
+-0.0490217
+0.120061
+74
+NC_024427
+mitochondrion Leptobrachium boringii (Emei moustache toad)
+17085
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Pelobatoidea  Megophryidae  Leptobrachium}
+0.328293
+0.224454
+0.566576
+-0.567434
+0.287046
+75
+NC_024547
+mitochondrion Microhyla pulchra
+16744
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Microhyloidea  Microhylidae  Microhylinae  Microhyla}
+0.542788
+-0.0752608
+0.471653
+-0.305472
+0.0262123
+76
+NC_024548
+mitochondrion Rana kunyuensis
+22255
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Rana  Rana}
+0.537079
+-0.0775759
+0.484698
+-0.298999
+0.000680731
+77
+NC_024603
+mitochondrion Odorrana margaretae (green odorous frog)
+17903
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Odorrana}
+0.827482
+-0.433243
+0.353756
+0.0236302
+-0.974454
+78
+NC_024748
+mitochondrion Hylarana guentheri
+19053
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Hylarana}
+0.448745
+0.135781
+0.71292
+-0.957991
+0.352767
+79
+NC_024843
+mitochondrion Quasipaa yei (Ye's spiny-vented frog)
+17072
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Dicroglossidae  Dicroglossinae  Quasipaa}
+0.57531
+-0.0920718
+0.46407
+-0.179663
+0.0385374
+80
+NC_025226
+mitochondrion Glandirana tientaiensis (Tientai rough-skinned frog)
+17681
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Glandirana}
+0.143206
+0.585273
+0.213565
+-0.191507
+0.126463
+81
+NC_025309
+mitochondrion Hyla annectans (Assam treefrog)
+17973
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Hyloidea  Hylidae  Hylinae  Hylini  Hyla}
+0.687199
+-0.267604
+0.385529
+-0.0189004
+0.233869
+82
+NC_025575
+mitochondrion Pelophylax cretensis (Greek marsh frog)
+17829
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Pelophylax}
+0.600962
+-0.14543
+0.508873
+-0.166413
+0.119978
+83
+NC_025591
+mitochondrion Amolops wuyiensis
+17797
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Anura  Neobatrachia  Ranoidea  Ranidae  Amolops}

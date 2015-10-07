@@ -1,0 +1,576 @@
+57
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Caelifera (57)
+-0.991968
+-0.639849
+1.
+-0.195766
+-0.116533
+1
+NC_001712
+mitochondrion Locusta migratoria (migratory locust)
+15722
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Locusta}
+-0.382797
+0.040194
+-0.146911
+0.719047
+-0.41474
+2
+NC_010219
+mitochondrion Oxya chinensis (grasshopper)
+15443
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oxyinae  Oxya}
+-0.563099
+0.725964
+-0.197801
+-0.262215
+-0.0266074
+3
+NC_011095
+mitochondrion Chorthippus chinensis (tooth-legged grasshopper)
+15599
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Chorthippus}
+-0.653034
+-0.450717
+0.383856
+0.278318
+-0.213731
+4
+NC_011114
+mitochondrion Gastrimargus marmoratus (band-winged grasshopper)
+15924
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Gastrimargus}
+-0.688745
+-0.359934
+0.354287
+0.268282
+-0.230069
+5
+NC_011115
+mitochondrion Oedaleus decorus asiaticus (band-winged grasshopper)
+16259
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Oedaleus}
+-1.
+-0.631219
+0.982634
+-0.135828
+-0.128648
+6
+NC_011119
+mitochondrion Locusta migratoria migratoria (migratory locust)
+16053
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Locusta}
+-0.481303
+-0.0392098
+-0.110677
+0.779229
+-0.271409
+7
+NC_011303
+mitochondrion Acrida willemsei (short-horned grasshopper)
+15601
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Acridinae  Acrida}
+-0.322673
+0.125231
+-0.0736964
+0.823989
+-0.44583
+8
+NC_011305
+mitochondrion Calliptamus italicus (Italian locust)
+15675
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Calliptaminae  Calliptamus}
+-0.341055
+-0.542277
+-0.40943
+0.31882
+0.149122
+9
+NC_011824
+mitochondrion Atractomorpha sinensis (pinkwinged grasshopper)
+15558
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pyrgomorphoidea  Pyrgomorphidae  Atractomorpha}
+-0.425764
+0.101467
+-0.0654125
+0.736133
+-0.342716
+10
+NC_011827
+mitochondrion Phlaeoba albonema (Bolivar)
+15657
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Phlaeoba}
+-0.24265
+0.0790609
+-0.0888984
+1.
+-0.467001
+11
+NC_013240
+mitochondrion Schistocerca gregaria gregaria (desert locust)
+15625
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Cyrtacanthacridinae  Schistocerca}
+-0.490207
+-0.010565
+-0.206982
+0.79267
+-0.332896
+12
+NC_013701
+mitochondrion Ognevia longipennis (short-horned grasshopper)
+15621
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Catantopinae  Ognevia}
+-0.464163
+0.165083
+-0.11152
+0.642929
+-0.370925
+13
+NC_013805
+mitochondrion Arcyptera coreana (short-horned grasshopper)
+15783
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Arcyptera}
+-0.467537
+0.0888116
+-0.153714
+0.612372
+-0.316511
+14
+NC_013826
+mitochondrion Traulia szetschuanensis (short-horned grasshopper)
+15768
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Catantopinae  Traulia}
+-0.430414
+0.144494
+-0.224127
+0.678136
+-0.265829
+15
+NC_013835
+mitochondrion Prumna arctica (short-horned grasshopper)
+15628
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Catantopinae  Prumna}
+-0.542682
+0.929765
+-0.260718
+-0.521293
+0.0536461
+16
+NC_013847
+mitochondrion Gomphocerus licenti (short-horned grasshopper)
+15597
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Gomphocerus}
+-0.604985
+0.856767
+-0.263497
+-0.424898
+0.0260133
+17
+NC_014349
+mitochondrion Gomphocerippus rufus (rufous grasshopper)
+15598
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Gomphocerippus}
+-0.545702
+0.504384
+-0.258332
+-0.131307
+-0.0858085
+18
+NC_014449
+mitochondrion Euchorthippus fusigeniculatus (grasshoppper)
+15772
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Euchorthippus}
+-0.324852
+-0.450376
+-0.412837
+0.393867
+0.181495
+19
+NC_014450
+mitochondrion Mekongiana xiangchengensis (grasshoppper)
+15567
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pyrgomorphoidea  Pyrgomorphidae  Mekongiana}
+-0.342273
+-0.670947
+-0.535835
+0.647926
+1.
+20
+NC_014451
+mitochondrion Mekongiella xizangensis (grasshoppper)
+15885
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pyrgomorphoidea  Pyrgomorphidae  Mekongiella}
+-0.151906
+-0.874257
+-0.85664
+0.0657035
+-0.128566
+21
+NC_014488
+mitochondrion Ellipes minuta
+15451
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Tridactyloidea  Tridactylidae  Ellipes}
+-0.236878
+-0.127197
+-0.0635434
+0.627278
+-0.278061
+22
+NC_014490
+mitochondrion Xyleus modestus (grasshopper)
+15723
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Romaleidae  Xyleus}
+-0.392219
+-0.524094
+-0.360925
+0.282475
+-0.074942
+23
+NC_014491
+mitochondrion Physemacris variolosa (grasshopper)
+17004
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pneumoroidea  Pneumoridae  Physemacris}
+0.69014
+-0.183704
+0.208086
+0.143848
+-0.201336
+24
+NC_014610
+mitochondrion Thrinchus schrenkii (grasshopper)
+15672
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Thrinchinae  Thrinchus}
+-0.444713
+-0.0655541
+-0.0734152
+0.745369
+-0.269885
+25
+NC_014887
+mitochondrion Acrida cinerea (Oriental longheaded locust)
+15599
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Acridinae  Acrida}
+-0.997924
+-0.614828
+0.997051
+-0.19295
+-0.131489
+26
+NC_014891
+mitochondrion Locusta migratoria manilensis (Oriental migratory
+15895
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Locusta}
+-0.587858
+0.988327
+-0.339789
+-0.56183
+0.0629623
+27
+NC_015478
+mitochondrion Gomphocerus sibiricus tibetanus (Siberian
+15571
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Gomphocerus}
+-0.988656
+-0.633626
+0.974736
+-0.15201
+-0.121632
+28
+NC_015624
+mitochondrion Locusta migratoria tibetensis (Tibetan migratory
+15568
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Locusta}
+-0.333792
+-0.738252
+-0.667452
+0.0944796
+-0.00337702
+29
+NC_016182
+mitochondrion Pielomastax zhengi (monkey grasshopper)
+15602
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Eumastacoidea  Episactidae  Episactinae  Pielomastax}
+-0.329965
+-0.987866
+-1.
+-1.
+-1.
+30
+NC_018542
+mitochondrion Alulatettix yunnanensis (groundhopper)
+15104
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Tetrigoidea  Tetrigidae  Alulatettix}
+-0.351289
+-1.
+-0.99233
+-0.976579
+-0.945012
+31
+NC_018543
+mitochondrion Tetrix japonica (grouse locust)
+15128
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Tetrigoidea  Tetrigidae  Tetrix}
+-0.331235
+0.0657571
+-0.104365
+0.917031
+-0.463067
+32
+NC_019993
+mitochondrion Chondracris rosea (grasshopper)
+15646
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Cyrtacanthacridinae  Chondracris}
+-0.440986
+0.1109
+-0.169291
+0.674296
+-0.369685
+33
+NC_019994
+mitochondrion Ceracris kiangsu (yellow-spined bamboo locust)
+15665
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Ceracris}
+-0.467498
+-0.600486
+-0.386735
+0.0439706
+-0.0145068
+34
+NC_020045
+mitochondrion Erianthus versicolor
+15397
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Eumastacoidea  Chorotypidae  Erianthinae  Erianthus}
+0.813496
+-0.0668097
+0.280487
+0.0813025
+-0.186885
+35
+NC_020328
+mitochondrion Asiotmethis zacharjini
+15660
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Thrinchinae  Asiotmethis}
+1.
+-0.095205
+0.386796
+0.0159155
+-0.138079
+36
+NC_020329
+mitochondrion Filchnerella helanshanensis
+15657
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Prionotropisinae  Filchnerella}
+0.993015
+-0.0854878
+0.394104
+0.0155562
+-0.13836
+37
+NC_020330
+mitochondrion Pseudotmethis rubimarginis
+15661
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Prionotropisinae  Pseudotmethis}
+-0.32904
+-0.181779
+-0.258007
+0.667168
+-0.270963
+38
+NC_020773
+mitochondrion Tristira magellanica
+16494
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Tristiridae  Tristira}
+-0.357963
+-0.290549
+-0.208927
+0.55208
+-0.205082
+39
+NC_020774
+mitochondrion Lentula callani
+15944
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Lentulidae  Lentulinae  Lentula}
+-0.125343
+-0.316758
+-0.181667
+0.731134
+-0.290548
+40
+NC_020775
+mitochondrion Lithidiopsis carinatus
+15652
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Lithidiinae  Lithidiopsis}
+-0.269757
+-0.377464
+-0.300219
+0.655076
+-0.0944366
+41
+NC_020776
+mitochondrion Pyrgacris descampsi
+15618
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Pyrgacrididae  Pyrgacris}
+-0.148309
+-0.493955
+-0.363051
+0.50399
+-0.127429
+42
+NC_020777
+mitochondrion Tanaocerus koebelei
+15515
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pneumoroidea  Pneumoridae  Tanaocerus}
+-0.208561
+-0.0460779
+-0.16673
+0.629253
+-0.347904
+43
+NC_020778
+mitochondrion Ommexecha virens
+15536
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Ommexechidae  Ommexecha}
+-0.637587
+1.
+-0.291434
+-0.539852
+0.0482209
+44
+NC_021103
+mitochondrion Gomphocerus sibiricus (Siberian grasshopper)
+15590
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Gomphocerus}
+-0.363487
+0.0700838
+-0.100038
+0.849291
+-0.543992
+45
+NC_021609
+mitochondrion Xenocatantops brachycerus
+15605
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Catantopinae  Xenocatantops}
+-0.227439
+0.066301
+-0.120519
+0.764151
+-0.489714
+46
+NC_021610
+mitochondrion Shirakiacris shirakii
+15649
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Eyprepocnemidinae  Shirakiacris}
+-0.571257
+-0.180977
+0.148442
+0.580054
+-0.296576
+47
+NC_023467
+mitochondrion Orinhippus tibetanus
+15611
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Orinhippus}
+0.635547
+-0.124915
+0.176491
+0.163995
+-0.175454
+48
+NC_023535
+mitochondrion Humphaplotropis culaishanensis (nomen nudum)
+15659
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Pamphaginae  Humphaplotropis}
+-0.46743
+0.225681
+-0.260036
+0.317663
+-0.20615
+49
+NC_023919
+mitochondrion Pacris xizangensis
+15622
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Pacrinae  Pacris}
+-0.340149
+0.0231383
+-0.213985
+0.864692
+-0.39974
+50
+NC_023920
+mitochondrion Kingdonella bicollina
+15630
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Melanoplinae  Podismini  Kingdonella}
+-0.287914
+-0.652334
+-0.589686
+0.70622
+0.987844
+51
+NC_023921
+mitochondrion Mekongiella kingdoni
+15932
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pyrgomorphoidea  Pyrgomorphidae  Mekongiella}
+0.968366
+-0.0846309
+0.362978
+0.0320985
+-0.141683
+52
+NC_024923
+mitochondrion Filchnerella beicki
+15658
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Prionotropisinae  Filchnerella}
+-0.441471
+0.130149
+-0.134037
+0.633276
+-0.3996
+53
+NC_025285
+mitochondrion Ceracris versicolor
+15616
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Gomphocerinae  Ceracris}
+-0.700208
+-0.269183
+0.150961
+0.552299
+-0.278797
+54
+NC_025558
+mitochondrion Angaracris barabensis
+15930
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Angaracris}
+-0.406908
+-0.025375
+-0.168446
+0.711868
+-0.352499
+55
+NC_025765
+mitochondrion Pseudoxya diminuta
+15541
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oxyinae  Pseudoxya}
+0.807883
+-0.0847659
+0.234872
+0.0725085
+-0.166246
+56
+NC_025904
+mitochondrion Asiotmethis jubatus
+15669
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Pamphagoidea  Pamphagidae  Thrinchinae  Asiotmethis}
+-0.688891
+-0.251752
+0.136481
+0.540551
+-0.274262
+57
+NC_025946
+mitochondrion Angaracris rhodopa
+15930
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Orthoptera  Caelifera  Acridomorpha  Acridoidea  Acrididae  Oedipodinae  Angaracris}

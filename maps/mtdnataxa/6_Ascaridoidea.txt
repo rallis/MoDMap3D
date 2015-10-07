@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Ascaridoidea (14)
+-0.176737
+-1.
+0.195301
+0.0411769
+0.378945
+1
+NC_001327
+mitochondrion Ascaris suum (pig roundworm)
+14284
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Ascaris}
+0.712177
+0.409372
+-0.162315
+0.727936
+-1.
+2
+NC_007934
+mitochondrion Anisakis simplex (herring worm)
+13916
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Anisakidae  Anisakis  Anisakis simplex complex}
+1.
+0.67322
+0.936893
+0.0233111
+0.237712
+3
+NC_010527
+mitochondrion Toxocara malaysiensis (roundworm)
+14266
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Toxocaridae  Toxocara}
+0.983655
+0.600069
+1.
+0.0223267
+0.513387
+4
+NC_010690
+mitochondrion Toxocara canis (dog roundworm)
+14322
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Toxocaridae  Toxocara}
+0.956008
+0.543678
+0.968766
+0.155477
+0.311655
+5
+NC_010773
+mitochondrion Toxocara cati (cat roundworm)
+14029
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Toxocaridae  Toxocara}
+0.892865
+0.546683
+-1.
+-1.
+0.0614062
+6
+NC_014870
+mitochondrion Contracaecum rudolphii B Bullini et al.  1986
+14022
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Anisakidae  Contracaecum}
+-1.
+0.989873
+0.160722
+0.117139
+0.255121
+7
+NC_015924
+mitochondrion Baylisascaris transfuga (bear roundworm)
+14898
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Baylisascaris}
+-0.982649
+1.
+0.131797
+0.105969
+0.24067
+8
+NC_015925
+mitochondrion Baylisascaris ailuri (red panda roundworm)
+14657
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Baylisascaris}
+-0.846248
+0.88065
+0.186183
+0.197375
+0.22075
+9
+NC_015927
+mitochondrion Baylisascaris schroederi (giant panda roundworm)
+14778
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Baylisascaris}
+-0.186875
+-0.975682
+0.186703
+0.0618982
+0.3941
+10
+NC_016198
+mitochondrion Ascaris lumbricoides (common roundworm)
+14281
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Ascaris}
+-0.211699
+0.0483644
+0.257327
+0.289507
+0.200438
+11
+NC_016200
+mitochondrion Baylisascaris procyonis (raccoon roundworm)
+14781
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Baylisascaris}
+0.0398565
+-0.0784756
+0.195722
+0.200192
+0.0273522
+12
+NC_023504
+mitochondrion Toxascaris leonina
+14310
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Toxascaris}
+0.955877
+0.532671
+-0.977806
+1.
+1.
+13
+NC_024037
+mitochondrion Contracaecum osculatum
+13823
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Anisakidae  Contracaecum}
+0.196129
+-0.176778
+0.226942
+0.294357
+-0.182825
+14
+NC_024884
+mitochondrion Parascaris univalens
+13920
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Ascaridida  Ascaridoidea  Ascarididae  Parascaris}

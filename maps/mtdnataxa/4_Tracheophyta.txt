@@ -1,0 +1,2656 @@
+265
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tracheophyta (265)
+-0.703879
+-0.921504
+0.0830793
+0.268505
+0.0781089
+1
+NC_001284
+mitochondrion Arabidopsis thaliana (thale cress)
+366924
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Camelineae  Arabidopsis}
+0.219413
+0.765903
+-0.0890758
+-0.0180947
+-0.529976
+2
+NC_001400
+mitochondrion Zea mays
+1913
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+0.221192
+0.741154
+-0.0825994
+-0.0292072
+-0.519357
+3
+NC_001751
+mitochondrion Oryza sativa Japonica Group (Japanese rice)
+2135
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+0.214754
+0.8327
+-0.103507
+0.00710953
+-0.553941
+4
+NC_001776
+mitochondrion Oryza sativa Indica Group (long-grained rice)
+1485
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.789378
+-0.945199
+0.0475488
+0.0470438
+-0.424135
+5
+NC_002511
+mitochondrion Beta vulgaris subsp. vulgaris (Beta vulgaris var.
+368801
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Amaranthaceae  Beta}
+0.292248
+0.195023
+0.0513055
+-0.287203
+-0.243078
+6
+NC_004946
+mitochondrion Brassica napus (rape)
+11640
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.867792
+-0.913682
+-0.148444
+-0.181587
+-0.363884
+7
+NC_006581
+mitochondrion Nicotiana tabacum (common tobacco)
+430597
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Nicotianoideae  Nicotianeae  Nicotiana}
+-0.899139
+-0.888609
+-0.238824
+-0.530586
+-0.514582
+8
+NC_007579
+mitochondrion Triticum aestivum (bread wheat)
+452528
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Pooideae  Triticeae  Triticum}
+-0.888168
+-0.852735
+-0.329993
+-0.690434
+-0.539198
+9
+NC_007886
+mitochondrion Oryza sativa Indica Group (long-grained rice)
+491515
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.996062
+-0.870932
+-0.415423
+-0.845795
+-0.642759
+10
+NC_007982
+mitochondrion Zea mays subsp. mays (maize)
+569630
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.357172
+-0.907087
+0.475322
+0.892074
+0.825556
+11
+NC_008285
+mitochondrion Brassica napus (rape)
+221853
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-1.
+-0.871664
+-0.426482
+-0.870819
+-0.659877
+12
+NC_008331
+mitochondrion Zea perennis
+570354
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.985021
+-0.834735
+-0.490244
+-1.
+-0.660678
+13
+NC_008332
+mitochondrion Zea mays subsp. parviglumis
+680603
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.998433
+-0.887276
+-0.376617
+-0.779205
+-0.632525
+14
+NC_008333
+mitochondrion Zea luxurians
+539368
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.896629
+-0.880658
+-0.265297
+-0.604816
+-0.555827
+15
+NC_008360
+mitochondrion Sorghum bicolor (sorghum)
+468628
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Sorghum}
+-0.912401
+-0.8127
+-0.452756
+-0.942002
+-0.615109
+16
+NC_008362
+mitochondrion Tripsacum dactyloides (gama grass)
+704100
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Tripsacum}
+-0.352511
+-0.725677
+0.00910842
+-0.318978
+-0.177011
+17
+NC_010303
+mitochondrion Cycas taitungensis
+414903
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Cycadidae  Cycadales  Cycadaceae  Cycas}
+-0.887079
+-0.852921
+-0.32947
+-0.689317
+-0.539718
+18
+NC_011033
+mitochondrion Oryza sativa Japonica Group (Japanese rice)
+490520
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+0.213486
+0.841786
+-0.106409
+0.013328
+-0.559839
+19
+NC_011084
+mitochondrion Vicia faba (fava bean)
+1478
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Fabeae  Vicia}
+-0.952501
+-0.919633
+-0.220105
+-0.196776
+-0.301398
+20
+NC_012116
+mitochondrion Carica papaya (papaya)
+476890
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Caricaceae  Carica}
+-0.941691
+-0.831077
+-0.392747
+-0.674517
+-0.455302
+21
+NC_012119
+mitochondrion Vitis vinifera (wine grape)
+773279
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  Vitales  Vitaceae  Vitis}
+-0.90266
+-0.831939
+-0.389092
+-0.76346
+-0.508526
+22
+NC_013816
+mitochondrion Oryza rufipogon
+559045
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.792443
+-0.921826
+-0.0404857
+-0.0586997
+-0.302412
+23
+NC_014043
+mitochondrion Citrullus lanatus
+379236
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Citrullus}
+-0.616044
+-0.712101
+-0.302543
+-0.77156
+-0.382925
+24
+NC_014050
+mitochondrion Cucurbita pepo
+982833
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Cucurbiteae  Cucurbita}
+-0.248813
+-0.916983
+0.537341
+0.126816
+-0.561761
+25
+NC_014487
+mitochondrion Silene latifolia
+253413
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+-0.762111
+-0.928675
+0.0411176
+0.0399865
+-0.403288
+26
+NC_015099
+mitochondrion Beta vulgaris subsp. maritima
+364950
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Amaranthaceae  Beta}
+-0.860678
+-0.940281
+-0.0800381
+-0.0637329
+-0.364924
+27
+NC_015121
+mitochondrion Vigna radiata (mungbean)
+401262
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Vigna}
+-0.94278
+-0.912058
+-0.225557
+-0.285392
+-0.410118
+28
+NC_015141
+mitochondrion Ricinus communis (castor bean)
+502773
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Euphorbiaceae  Acalyphoideae  Acalypheae  Ricinus}
+-0.790545
+-0.923628
+0.00111231
+-0.001807
+-0.414223
+29
+NC_015994
+mitochondrion Beta macrocarpa
+385220
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Amaranthaceae  Beta}
+0.491759
+-0.6728
+0.348081
+-0.397265
+-0.0768791
+30
+NC_016004
+mitochondrion Cucumis sativus (cucumber)
+83817
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+-0.272038
+-0.599576
+-0.166951
+-0.796962
+-0.285378
+31
+NC_016005
+mitochondrion Cucumis sativus (cucumber)
+1555935
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+0.491988
+-0.530301
+0.255444
+-0.565473
+0.0924455
+32
+NC_016006
+mitochondrion Cucumis sativus (cucumber)
+44840
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+-0.738071
+-0.879765
+0.101533
+0.685898
+0.863798
+33
+NC_016118
+mitochondrion Brassica oleracea
+360271
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.395258
+-0.912868
+0.440579
+0.911572
+0.813652
+34
+NC_016120
+mitochondrion Brassica carinata
+232241
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.374416
+-0.912223
+0.480853
+1.
+0.999777
+35
+NC_016123
+mitochondrion Brassica juncea
+219766
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.374403
+-0.912147
+0.480858
+0.999958
+1.
+36
+NC_016125
+mitochondrion Brassica rapa subsp. oleifera (Brassica rapa
+219747
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.345535
+-0.179307
+0.130515
+-0.48531
+-0.0356166
+37
+NC_016170
+mitochondrion Silene vulgaris (bladder campion)
+14341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.479824
+-0.814105
+0.975838
+-0.209978
+-0.601461
+38
+NC_016171
+mitochondrion Silene noctiflora (night-flowering catchfly)
+130008
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.825094
+-0.781501
+-0.0279343
+-0.396067
+-0.135984
+39
+NC_016177
+mitochondrion Silene conica
+73226
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.766731
+-0.67472
+-0.070954
+-0.581667
+0.119576
+40
+NC_016205
+mitochondrion Silene conica
+52190
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.809662
+-0.750826
+0.017159
+-0.467694
+-0.0631352
+41
+NC_016206
+mitochondrion Silene conica
+67617
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.753416
+-0.705299
+0.0935634
+-0.533974
+0.00489364
+42
+NC_016207
+mitochondrion Silene conica
+62405
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.903373
+-0.920206
+-0.566827
+-0.0367542
+-0.50664
+43
+NC_016208
+mitochondrion Silene conica
+99951
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.745552
+-0.853068
+0.228988
+-0.215187
+-0.443358
+44
+NC_016209
+mitochondrion Silene conica
+103003
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.837918
+-0.8322
+0.000205781
+-0.298283
+-0.281023
+45
+NC_016210
+mitochondrion Silene conica
+84942
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.849739
+-0.761818
+-0.246131
+-0.401237
+-0.106553
+46
+NC_016211
+mitochondrion Silene conica
+63002
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.694004
+-0.987192
+-0.252413
+0.201648
+-0.889596
+47
+NC_016212
+mitochondrion Silene conica
+147648
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.77932
+-0.715218
+0.00269165
+-0.510341
+-0.00888579
+48
+NC_016213
+mitochondrion Silene conica
+60812
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.802091
+-0.743631
+0.0103744
+-0.473125
+-0.0475787
+49
+NC_016214
+mitochondrion Silene conica
+65085
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.736546
+-0.635103
+-0.105314
+-0.618606
+0.165982
+50
+NC_016215
+mitochondrion Silene conica
+44768
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.792423
+-0.877529
+0.0354454
+-0.136508
+-0.475612
+51
+NC_016216
+mitochondrion Silene conica
+103419
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.782557
+-0.729139
+0.0416909
+-0.499031
+-0.0227064
+52
+NC_016217
+mitochondrion Silene conica
+63308
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.790514
+-0.969944
+-0.368885
+0.158051
+-0.817627
+53
+NC_016218
+mitochondrion Silene conica
+127523
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.869101
+-0.920882
+-0.490323
+0.00235227
+-0.582526
+54
+NC_016219
+mitochondrion Silene conica
+105520
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.682319
+-0.989069
+-0.267291
+0.224174
+-0.898296
+55
+NC_016220
+mitochondrion Silene conica
+149089
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.722131
+-0.974737
+-0.740239
+0.272489
+-0.958976
+56
+NC_016221
+mitochondrion Silene conica
+151014
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.918164
+-0.862314
+-0.383426
+-0.186413
+-0.349473
+57
+NC_016222
+mitochondrion Silene conica
+81671
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.653413
+-0.947598
+0.0325328
+0.0871853
+-0.781832
+58
+NC_016223
+mitochondrion Silene conica
+142373
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.821108
+-0.729766
+-0.110273
+-0.509433
+0.0270645
+59
+NC_016224
+mitochondrion Silene conica
+59463
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.870964
+-0.938062
+-0.823286
+0.220584
+-0.892546
+60
+NC_016225
+mitochondrion Silene conica
+107216
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.835974
+-0.967126
+-0.770974
+0.27117
+-0.953542
+61
+NC_016226
+mitochondrion Silene conica
+120801
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.832403
+-0.975269
+-0.71981
+0.284797
+-1.
+62
+NC_016227
+mitochondrion Silene conica
+125117
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.824604
+-0.948821
+-0.532646
+0.11759
+-0.712102
+63
+NC_016228
+mitochondrion Silene conica
+119001
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.888307
+-0.860894
+-0.350975
+-0.176283
+-0.390091
+64
+NC_016229
+mitochondrion Silene conica
+85117
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.554192
+-0.938154
+0.211575
+0.0727011
+-0.795219
+65
+NC_016230
+mitochondrion Silene conica
+155921
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.812444
+-0.942696
+-0.22771
+0.0454121
+-0.696064
+66
+NC_016231
+mitochondrion Silene conica
+117607
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.777357
+-0.934363
+-0.0900371
+0.00476845
+-0.669458
+67
+NC_016232
+mitochondrion Silene conica
+119487
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.807925
+-0.928702
+-0.19051
+-0.00328813
+-0.605377
+68
+NC_016233
+mitochondrion Silene conica
+114589
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.734305
+-0.877963
+0.174719
+-0.133417
+-0.493398
+69
+NC_016234
+mitochondrion Silene conica
+110427
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.769738
+-0.984175
+-0.523188
+0.234481
+-0.920476
+70
+NC_016235
+mitochondrion Silene conica
+137495
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.884827
+-0.864226
+-0.237537
+-0.200646
+-0.36212
+71
+NC_016236
+mitochondrion Silene conica
+86501
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.895426
+-0.908612
+-0.702718
+-0.00996015
+-0.530734
+72
+NC_016237
+mitochondrion Silene conica
+97111
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.79835
+-0.813215
+0.101334
+-0.318533
+-0.272708
+73
+NC_016238
+mitochondrion Silene conica
+85606
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.824346
+-0.76063
+-0.140615
+-0.414616
+-0.0647433
+74
+NC_016239
+mitochondrion Silene conica
+67525
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.935165
+-0.854786
+-0.384951
+-0.249244
+-0.266037
+75
+NC_016240
+mitochondrion Silene conica
+79279
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.746176
+-0.865116
+0.213685
+-0.176255
+-0.463122
+76
+NC_016241
+mitochondrion Silene conica
+106709
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.709872
+-0.841836
+0.329115
+-0.23902
+-0.418647
+77
+NC_016242
+mitochondrion Silene conica
+103102
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.853187
+-0.902457
+-0.212513
+-0.0879503
+-0.489905
+78
+NC_016243
+mitochondrion Silene conica
+100148
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.79941
+-0.856996
+0.0927165
+-0.225755
+-0.396116
+79
+NC_016244
+mitochondrion Silene conica
+98308
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.835561
+-0.868908
+-0.0362965
+-0.196466
+-0.374571
+80
+NC_016245
+mitochondrion Silene conica
+93235
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.871109
+-0.931472
+-0.351075
+-0.00521459
+-0.589703
+81
+NC_016246
+mitochondrion Silene conica
+105655
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.752606
+-0.87096
+0.183001
+-0.177692
+-0.468712
+82
+NC_016247
+mitochondrion Silene conica
+105730
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.798524
+-0.865583
+-0.00489801
+-0.195097
+-0.407299
+83
+NC_016248
+mitochondrion Silene conica
+99512
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.628039
+-1.
+-0.311144
+0.248143
+-0.954905
+84
+NC_016249
+mitochondrion Silene conica
+163071
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.854248
+-0.904987
+-0.204332
+-0.0938704
+-0.497134
+85
+NC_016250
+mitochondrion Silene conica
+101608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.856005
+-0.931388
+-0.300313
+0.000805872
+-0.618383
+86
+NC_016251
+mitochondrion Silene conica
+108940
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.945613
+-0.788484
+-0.69747
+-0.342743
+-0.0864482
+87
+NC_016252
+mitochondrion Silene conica
+60476
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.78988
+-0.829943
+0.112897
+-0.281474
+-0.306711
+88
+NC_016253
+mitochondrion Silene conica
+91619
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.89241
+-0.852624
+-0.208763
+-0.267418
+-0.286217
+89
+NC_016254
+mitochondrion Silene conica
+84201
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.844254
+-0.820828
+-0.0595867
+-0.321608
+-0.231584
+90
+NC_016255
+mitochondrion Silene conica
+81243
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.795274
+-0.793225
+0.111674
+-0.37316
+-0.21981
+91
+NC_016256
+mitochondrion Silene conica
+80675
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.924967
+-0.884549
+-0.456591
+-0.150743
+-0.373051
+92
+NC_016257
+mitochondrion Silene conica
+87616
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.830272
+-0.840231
+-0.0268748
+-0.273683
+-0.302932
+93
+NC_016258
+mitochondrion Silene conica
+88260
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.914013
+-0.863032
+-0.354966
+-0.221684
+-0.315895
+94
+NC_016259
+mitochondrion Silene conica
+81689
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.81937
+-0.871774
+0.0139852
+-0.183222
+-0.426853
+95
+NC_016260
+mitochondrion Silene conica
+98068
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.838122
+-0.87784
+-0.105096
+-0.162767
+-0.433319
+96
+NC_016261
+mitochondrion Silene conica
+97429
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.866864
+-0.914568
+-0.366478
+-0.0270162
+-0.578229
+97
+NC_016262
+mitochondrion Silene conica
+101353
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.805209
+-0.859293
+0.0597686
+-0.207264
+-0.407647
+98
+NC_016263
+mitochondrion Silene conica
+97283
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.788308
+-0.782068
+0.0729853
+-0.397768
+-0.158962
+99
+NC_016264
+mitochondrion Silene conica
+78367
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.854908
+-0.811793
+-0.103265
+-0.340943
+-0.19022
+100
+NC_016265
+mitochondrion Silene conica
+76904
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.885261
+-0.823133
+-0.178843
+-0.336892
+-0.192557
+101
+NC_016266
+mitochondrion Silene conica
+76039
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.860725
+-0.805917
+-0.154844
+-0.358894
+-0.161806
+102
+NC_016267
+mitochondrion Silene conica
+74810
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.875036
+-0.804
+-0.242101
+-0.347161
+-0.152025
+103
+NC_016268
+mitochondrion Silene conica
+73936
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.831483
+-0.78571
+-0.0509278
+-0.405435
+-0.132987
+104
+NC_016269
+mitochondrion Silene conica
+73557
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.794219
+-0.904822
+-0.00718868
+-0.0886613
+-0.53811
+105
+NC_016270
+mitochondrion Silene conica
+108941
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.884396
+-0.826992
+-0.231154
+-0.318754
+-0.19767
+106
+NC_016271
+mitochondrion Silene conica
+76619
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.773941
+-0.976113
+-0.309945
+0.151099
+-0.847342
+107
+NC_016272
+mitochondrion Silene conica
+130956
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.80439
+-0.952297
+-0.22854
+0.0620053
+-0.687556
+108
+NC_016273
+mitochondrion Silene conica
+118929
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.834992
+-0.801243
+-0.0988308
+-0.349426
+-0.157101
+109
+NC_016274
+mitochondrion Silene conica
+76441
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.857912
+-0.768368
+-0.20682
+-0.407225
+-0.0833584
+110
+NC_016275
+mitochondrion Silene conica
+67127
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.877386
+-0.822056
+-0.162694
+-0.327582
+-0.211425
+111
+NC_016276
+mitochondrion Silene conica
+77721
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.819552
+-0.786086
+0.0124427
+-0.402997
+-0.155672
+112
+NC_016277
+mitochondrion Silene conica
+74506
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.797202
+-0.965369
+-0.394443
+0.140784
+-0.813479
+113
+NC_016278
+mitochondrion Silene conica
+125751
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.815142
+-0.831331
+0.0451723
+-0.274818
+-0.299285
+114
+NC_016279
+mitochondrion Silene conica
+88472
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.80278
+-0.742354
+-0.0334634
+-0.471626
+-0.0281676
+115
+NC_016280
+mitochondrion Silene conica
+65772
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.893793
+-0.814863
+-0.350312
+-0.312003
+-0.191621
+116
+NC_016281
+mitochondrion Silene conica
+73670
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.758966
+-0.749882
+0.220499
+-0.463268
+-0.101235
+117
+NC_016282
+mitochondrion Silene conica
+71828
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.791402
+-0.727527
+0.0144813
+-0.510087
+0.000727461
+118
+NC_016283
+mitochondrion Silene conica
+62571
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.820021
+-0.813511
+-0.00111054
+-0.328682
+-0.239275
+119
+NC_016284
+mitochondrion Silene conica
+81294
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.698782
+-0.678454
+0.260214
+-0.568519
+0.00843529
+120
+NC_016285
+mitochondrion Silene conica
+59915
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.770905
+-0.72575
+0.0491107
+-0.505423
+-0.029489
+121
+NC_016286
+mitochondrion Silene conica
+64608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+1.
+-0.880146
+-1.
+-0.0981097
+-0.357057
+122
+NC_016287
+mitochondrion Silene conica
+79368
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.87518
+-0.720164
+-0.448035
+-0.476778
+0.0713911
+123
+NC_016288
+mitochondrion Silene conica
+52701
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.946972
+-0.866162
+-0.631215
+-0.13829
+-0.39967
+124
+NC_016289
+mitochondrion Silene conica
+79841
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.791802
+-0.730718
+0.0260675
+-0.48072
+-0.0496496
+125
+NC_016290
+mitochondrion Silene conica
+64281
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.870267
+-0.824931
+-0.211792
+-0.276012
+-0.248125
+126
+NC_016291
+mitochondrion Silene conica
+78978
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.862784
+-0.722217
+-0.354421
+-0.486203
+0.0317909
+127
+NC_016292
+mitochondrion Silene conica
+54650
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.887705
+-0.949413
+-0.771533
+0.133416
+-0.726926
+128
+NC_016293
+mitochondrion Silene conica
+110652
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.872732
+-0.740442
+-0.342166
+-0.475682
+0.0115104
+129
+NC_016294
+mitochondrion Silene conica
+57218
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.886658
+-0.762023
+-0.413306
+-0.424994
+-0.0189024
+130
+NC_016295
+mitochondrion Silene conica
+60079
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.853652
+-0.727543
+-0.355736
+-0.46682
+0.0105415
+131
+NC_016296
+mitochondrion Silene conica
+54719
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.73586
+-0.677351
+0.0558488
+-0.569753
+0.0807429
+132
+NC_016297
+mitochondrion Silene conica
+54696
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.913936
+-0.911933
+-0.480403
+-0.0824205
+-0.475061
+133
+NC_016298
+mitochondrion Silene conica
+97269
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.697667
+-0.625062
+0.0558948
+-0.628324
+0.145864
+134
+NC_016299
+mitochondrion Silene conica
+46047
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.897555
+-0.849704
+-0.287731
+-0.260339
+-0.285762
+135
+NC_016300
+mitochondrion Silene conica
+82551
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.948937
+-0.819494
+-0.523637
+-0.323905
+-0.144116
+136
+NC_016301
+mitochondrion Silene conica
+68046
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.901349
+-0.93146
+-0.506946
+0.0230025
+-0.612696
+137
+NC_016302
+mitochondrion Silene conica
+102316
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.871967
+-0.91496
+-0.424853
+-0.0524706
+-0.504396
+138
+NC_016303
+mitochondrion Silene conica
+102020
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.899638
+-0.833897
+-0.362305
+-0.278504
+-0.231552
+139
+NC_016304
+mitochondrion Silene conica
+77149
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.788536
+-0.74025
+-0.00772814
+-0.477151
+-0.0457143
+140
+NC_016305
+mitochondrion Silene conica
+65543
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.914239
+-0.850761
+-0.393589
+-0.236003
+-0.252565
+141
+NC_016306
+mitochondrion Silene conica
+78953
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.786694
+-0.707584
+-0.0425581
+-0.525332
+0.0370424
+142
+NC_016307
+mitochondrion Silene conica
+58600
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.789759
+-0.933864
+-0.161935
+0.0284088
+-0.655451
+143
+NC_016308
+mitochondrion Silene conica
+115763
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.90635
+-0.748432
+-0.575998
+-0.41133
+-0.00555881
+144
+NC_016309
+mitochondrion Silene conica
+55005
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.912067
+-0.788481
+-0.608061
+-0.314316
+-0.147148
+145
+NC_016310
+mitochondrion Silene conica
+62749
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.842576
+-0.884216
+-0.10392
+-0.14954
+-0.468148
+146
+NC_016311
+mitochondrion Silene conica
+96762
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.924692
+-0.897423
+-0.540759
+-0.0705142
+-0.503612
+147
+NC_016312
+mitochondrion Silene conica
+91401
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.900783
+-0.801948
+-0.393629
+-0.345159
+-0.145938
+148
+NC_016313
+mitochondrion Silene conica
+69453
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.885209
+-0.924443
+-0.399038
+-0.0325785
+-0.543138
+149
+NC_016314
+mitochondrion Silene conica
+103231
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.647003
+-0.597976
+0.112398
+-0.644144
+0.151519
+150
+NC_016315
+mitochondrion Silene conica
+43958
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.854081
+-0.78842
+-0.310525
+-0.318412
+-0.217472
+151
+NC_016316
+mitochondrion Silene conica
+70246
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.93829
+-0.820883
+-0.554414
+-0.275417
+-0.201107
+152
+NC_016317
+mitochondrion Silene conica
+69443
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.752391
+-0.717071
+0.174914
+-0.520143
+-0.0168421
+153
+NC_016318
+mitochondrion Silene conica
+63852
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.847972
+-0.766411
+-0.230744
+-0.414199
+-0.101606
+154
+NC_016319
+mitochondrion Silene conica
+65424
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.945685
+-0.847209
+-0.601787
+-0.216364
+-0.298851
+155
+NC_016320
+mitochondrion Silene conica
+75310
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.885232
+-0.780593
+-0.273951
+-0.425045
+-0.0544662
+156
+NC_016321
+mitochondrion Silene conica
+65272
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.781769
+-0.683464
+-0.069443
+-0.576387
+0.0965873
+157
+NC_016322
+mitochondrion Silene conica
+52589
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.904137
+-0.79596
+-0.43369
+-0.361666
+-0.108665
+158
+NC_016323
+mitochondrion Silene conica
+66402
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.878365
+-0.754561
+-0.416598
+-0.433764
+-0.0171045
+159
+NC_016324
+mitochondrion Silene conica
+58548
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.894886
+-0.856925
+-0.212895
+-0.253239
+-0.293206
+160
+NC_016325
+mitochondrion Silene conica
+83288
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.905785
+-0.749976
+-0.578177
+-0.430727
+0.00548349
+161
+NC_016326
+mitochondrion Silene conica
+54881
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.889304
+-0.78958
+-0.53458
+-0.28765
+-0.188143
+162
+NC_016327
+mitochondrion Silene conica
+66830
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.719269
+-0.657511
+0.080344
+-0.607129
+0.110004
+163
+NC_016328
+mitochondrion Silene conica
+51272
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.903934
+-0.896229
+-0.759742
+-0.0129322
+-0.502267
+164
+NC_016329
+mitochondrion Silene conica
+93489
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.884513
+-0.755071
+-0.458037
+-0.382942
+-0.0696717
+165
+NC_016330
+mitochondrion Silene conica
+58995
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.694722
+-0.588067
+-0.126267
+-0.601605
+0.144035
+166
+NC_016331
+mitochondrion Silene conica
+40160
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.206136
+1.
+-0.146658
+0.0651908
+-0.604563
+167
+NC_016332
+mitochondrion Silene conica
+288
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.204095
+0.987825
+-0.136129
+0.0614726
+-0.603531
+168
+NC_016333
+mitochondrion Silene conica
+353
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.205542
+0.967836
+-0.132002
+0.0544832
+-0.597344
+169
+NC_016334
+mitochondrion Silene conica
+503
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.280618
+0.541269
+-0.126118
+-0.134659
+-0.381486
+170
+NC_016335
+mitochondrion Silene conica
+4346
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.287704
+0.648651
+-0.187146
+-0.0875537
+-0.419117
+171
+NC_016336
+mitochondrion Silene conica
+4039
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.212854
+0.968722
+-0.148204
+0.0520881
+-0.589414
+172
+NC_016337
+mitochondrion Silene conica
+576
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.231358
+0.807701
+-0.12769
+-0.00940681
+-0.52708
+173
+NC_016338
+mitochondrion Silene conica
+1959
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.890239
+-0.894474
+-0.408801
+-0.104226
+-0.459134
+174
+NC_016339
+mitochondrion Silene conica
+92438
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.247982
+0.575873
+-0.0779123
+-0.101767
+-0.437075
+175
+NC_016340
+mitochondrion Silene conica
+3765
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.954751
+-0.941198
+-0.855284
+0.101443
+-0.678757
+176
+NC_016341
+mitochondrion Silene conica
+96495
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.812328
+-0.818665
+0.0320636
+-0.312573
+-0.249879
+177
+NC_016342
+mitochondrion Silene conica
+85195
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.849998
+-0.805126
+-0.0554143
+-0.370393
+-0.180876
+178
+NC_016343
+mitochondrion Silene conica
+77356
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.562527
+-0.764216
+0.929742
+-0.34889
+-0.432674
+179
+NC_016344
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103557
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.453251
+-0.818939
+0.978215
+-0.188157
+-0.600303
+180
+NC_016345
+mitochondrion Silene noctiflora (night-flowering catchfly)
+134806
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.497669
+-0.826364
+0.941979
+-0.194169
+-0.611319
+181
+NC_016346
+mitochondrion Silene noctiflora (night-flowering catchfly)
+127930
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.57038
+-0.770126
+0.884802
+-0.335176
+-0.442997
+182
+NC_016347
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103548
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.379974
+-0.850192
+0.954181
+-0.100365
+-0.684063
+183
+NC_016348
+mitochondrion Silene noctiflora (night-flowering catchfly)
+153996
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.453046
+-0.833301
+0.92437
+-0.152939
+-0.64633
+184
+NC_016349
+mitochondrion Silene noctiflora (night-flowering catchfly)
+140341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.559417
+-0.760959
+0.87993
+-0.339333
+-0.398534
+185
+NC_016350
+mitochondrion Silene noctiflora (night-flowering catchfly)
+100078
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.580036
+-0.75395
+0.853121
+-0.362451
+-0.392128
+186
+NC_016351
+mitochondrion Silene noctiflora (night-flowering catchfly)
+97627
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.502058
+-0.807225
+0.963999
+-0.236564
+-0.571627
+187
+NC_016352
+mitochondrion Silene noctiflora (night-flowering catchfly)
+122890
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.575041
+-0.742036
+0.882872
+-0.385916
+-0.385075
+188
+NC_016353
+mitochondrion Silene noctiflora (night-flowering catchfly)
+95084
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.555401
+-0.776545
+0.907169
+-0.310522
+-0.463272
+189
+NC_016354
+mitochondrion Silene noctiflora (night-flowering catchfly)
+108040
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.402068
+-0.841903
+0.990101
+-0.115751
+-0.664564
+190
+NC_016355
+mitochondrion Silene noctiflora (night-flowering catchfly)
+147958
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.566029
+-0.764629
+0.863069
+-0.337843
+-0.40541
+191
+NC_016356
+mitochondrion Silene noctiflora (night-flowering catchfly)
+102347
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.48116
+-0.810854
+0.977908
+-0.209711
+-0.546686
+192
+NC_016357
+mitochondrion Silene noctiflora (night-flowering catchfly)
+127245
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.584305
+-0.74802
+0.815613
+-0.366812
+-0.356438
+193
+NC_016358
+mitochondrion Silene noctiflora (night-flowering catchfly)
+94621
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.517652
+-0.783073
+0.935753
+-0.272443
+-0.48234
+194
+NC_016359
+mitochondrion Silene noctiflora (night-flowering catchfly)
+115341
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.517891
+-0.798994
+0.937538
+-0.248491
+-0.537421
+195
+NC_016360
+mitochondrion Silene noctiflora (night-flowering catchfly)
+119408
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.558725
+-0.782463
+0.884739
+-0.306356
+-0.469427
+196
+NC_016361
+mitochondrion Silene noctiflora (night-flowering catchfly)
+107738
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.592825
+-0.79932
+0.775719
+-0.277816
+-0.440346
+197
+NC_016362
+mitochondrion Silene noctiflora (night-flowering catchfly)
+108152
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.476853
+-0.813549
+1.
+-0.206161
+-0.587364
+198
+NC_016363
+mitochondrion Silene noctiflora (night-flowering catchfly)
+130152
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.493004
+-0.788136
+0.968696
+-0.261247
+-0.537943
+199
+NC_016364
+mitochondrion Silene noctiflora (night-flowering catchfly)
+122485
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.480482
+-0.819258
+0.975114
+-0.197116
+-0.573772
+200
+NC_016365
+mitochondrion Silene noctiflora (night-flowering catchfly)
+128843
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.555366
+-0.776492
+0.894629
+-0.310336
+-0.444321
+201
+NC_016366
+mitochondrion Silene noctiflora (night-flowering catchfly)
+104288
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.58947
+-0.746037
+0.789098
+-0.382213
+-0.32278
+202
+NC_016367
+mitochondrion Silene noctiflora (night-flowering catchfly)
+91804
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.481026
+-0.80887
+0.929106
+-0.209019
+-0.562768
+203
+NC_016368
+mitochondrion Silene noctiflora (night-flowering catchfly)
+126609
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.573844
+-0.739866
+0.810099
+-0.386745
+-0.325048
+204
+NC_016369
+mitochondrion Silene noctiflora (night-flowering catchfly)
+92946
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.574762
+-0.770194
+0.864037
+-0.327023
+-0.436845
+205
+NC_016370
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103320
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.562771
+-0.751028
+0.848236
+-0.349904
+-0.386645
+206
+NC_016371
+mitochondrion Silene noctiflora (night-flowering catchfly)
+100579
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.402885
+-0.832809
+0.960831
+-0.134915
+-0.659231
+207
+NC_016372
+mitochondrion Silene noctiflora (night-flowering catchfly)
+148612
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.596425
+-0.689486
+0.724876
+-0.494316
+-0.205573
+208
+NC_016373
+mitochondrion Silene noctiflora (night-flowering catchfly)
+74922
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.558622
+-0.784257
+0.911217
+-0.298075
+-0.4805
+209
+NC_016374
+mitochondrion Silene noctiflora (night-flowering catchfly)
+108290
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.586529
+-0.74578
+0.857679
+-0.38299
+-0.358975
+210
+NC_016375
+mitochondrion Silene noctiflora (night-flowering catchfly)
+92480
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.586416
+-0.770498
+0.854251
+-0.332703
+-0.407316
+211
+NC_016376
+mitochondrion Silene noctiflora (night-flowering catchfly)
+98550
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.440709
+-0.827991
+0.991009
+-0.15573
+-0.633646
+212
+NC_016377
+mitochondrion Silene noctiflora (night-flowering catchfly)
+138824
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.567095
+-0.776045
+0.879925
+-0.313454
+-0.441161
+213
+NC_016378
+mitochondrion Silene noctiflora (night-flowering catchfly)
+106477
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.563234
+-0.758892
+0.903344
+-0.353959
+-0.395335
+214
+NC_016379
+mitochondrion Silene noctiflora (night-flowering catchfly)
+100876
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.614532
+-0.673206
+0.589537
+-0.52702
+-0.110616
+215
+NC_016380
+mitochondrion Silene noctiflora (night-flowering catchfly)
+67018
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.411815
+-0.836936
+0.953877
+-0.1285
+-0.646092
+216
+NC_016381
+mitochondrion Silene noctiflora (night-flowering catchfly)
+146587
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.427769
+-0.834251
+0.973482
+-0.148243
+-0.650479
+217
+NC_016382
+mitochondrion Silene noctiflora (night-flowering catchfly)
+142006
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.522751
+-0.805593
+0.905465
+-0.229118
+-0.538519
+218
+NC_016383
+mitochondrion Silene noctiflora (night-flowering catchfly)
+114914
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.487923
+-0.829201
+0.904155
+-0.181294
+-0.61018
+219
+NC_016384
+mitochondrion Silene noctiflora (night-flowering catchfly)
+129012
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.600645
+-0.73239
+0.82315
+-0.427862
+-0.319353
+220
+NC_016385
+mitochondrion Silene noctiflora (night-flowering catchfly)
+86782
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.597602
+-0.74492
+0.798257
+-0.388117
+-0.320924
+221
+NC_016386
+mitochondrion Silene noctiflora (night-flowering catchfly)
+91595
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.585139
+-0.750797
+0.816441
+-0.368684
+-0.360394
+222
+NC_016387
+mitochondrion Silene noctiflora (night-flowering catchfly)
+96564
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.591536
+-0.742129
+0.820973
+-0.386656
+-0.350779
+223
+NC_016388
+mitochondrion Silene noctiflora (night-flowering catchfly)
+92366
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.484747
+-0.807067
+0.944826
+-0.223735
+-0.557144
+224
+NC_016389
+mitochondrion Silene noctiflora (night-flowering catchfly)
+126452
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.426006
+-0.849431
+0.957231
+-0.115245
+-0.682236
+225
+NC_016390
+mitochondrion Silene noctiflora (night-flowering catchfly)
+145239
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.639237
+-0.843132
+0.553286
+-0.195679
+-0.48147
+226
+NC_016391
+mitochondrion Silene noctiflora (night-flowering catchfly)
+113308
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.60351
+-0.770137
+0.806813
+-0.346253
+-0.370232
+227
+NC_016392
+mitochondrion Silene noctiflora (night-flowering catchfly)
+96233
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.215439
+-0.878912
+0.933934
+-0.0323904
+-0.761278
+228
+NC_016393
+mitochondrion Silene noctiflora (night-flowering catchfly)
+191963
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.589234
+-0.653287
+0.624291
+-0.548821
+-0.102774
+229
+NC_016394
+mitochondrion Silene noctiflora (night-flowering catchfly)
+66365
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.596591
+-0.711292
+0.756586
+-0.458767
+-0.235846
+230
+NC_016395
+mitochondrion Silene noctiflora (night-flowering catchfly)
+81416
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.357632
+-0.859719
+0.93795
+-0.084071
+-0.709112
+231
+NC_016396
+mitochondrion Silene noctiflora (night-flowering catchfly)
+161299
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.372158
+-0.857426
+0.960474
+-0.0781428
+-0.681777
+232
+NC_016397
+mitochondrion Silene noctiflora (night-flowering catchfly)
+152707
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.484573
+-0.797172
+0.801464
+-0.214696
+-0.508932
+233
+NC_016398
+mitochondrion Silene noctiflora (night-flowering catchfly)
+127193
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.586204
+-0.74909
+0.893001
+-0.386546
+-0.374729
+234
+NC_016399
+mitochondrion Silene noctiflora (night-flowering catchfly)
+94201
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.5968
+-0.736207
+0.823263
+-0.414886
+-0.320674
+235
+NC_016400
+mitochondrion Silene noctiflora (night-flowering catchfly)
+89951
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.561668
+-0.766275
+0.882406
+-0.331606
+-0.43381
+236
+NC_016401
+mitochondrion Silene noctiflora (night-flowering catchfly)
+103926
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.317558
+-0.206192
+0.129339
+-0.462661
+-0.0199223
+237
+NC_016402
+mitochondrion Silene vulgaris (bladder campion)
+12697
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+-0.518272
+-0.884925
+0.190412
+-0.147107
+-0.636308
+238
+NC_016406
+mitochondrion Silene vulgaris (bladder campion)
+394403
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+0.263885
+0.284917
+0.00866451
+-0.235933
+-0.307422
+239
+NC_016415
+mitochondrion Silene vulgaris (bladder campion)
+5697
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  Caryophyllales  Caryophyllaceae  Silene}
+-0.943909
+-0.840285
+-0.394034
+-0.678496
+-0.48043
+240
+NC_016740
+mitochondrion Phoenix dactylifera (date palm)
+715001
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Arecaceae  Coryphoideae  Phoeniceae  Phoenix}
+-0.914737
+-0.903732
+-0.201635
+-0.344134
+-0.451393
+241
+NC_016741
+mitochondrion Boea hygrometrica
+510519
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Gesneriaceae  Didymocarpoideae  Trichosporeae  Loxocarpinae  Boea}
+-0.875876
+-0.929073
+-0.106598
+-0.0800526
+-0.335994
+242
+NC_016742
+mitochondrion Millettia pinnata
+425718
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Millettieae  Millettia}
+-0.76501
+-0.919916
+-0.0191918
+-0.0288256
+-0.341507
+243
+NC_016743
+mitochondrion Lotus japonicus
+380861
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Loteae  Lotus}
+-0.345648
+-0.758154
+0.128601
+-0.319074
+-0.35615
+244
+NC_017755
+mitochondrion Phlegmariurus squarrosus
+413530
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Lycopodiidae  Lycopodiales  Lycopodiaceae  Phlegmariurus}
+-0.287084
+-0.852566
+0.353271
+0.0751182
+-0.131466
+245
+NC_017840
+mitochondrion Spirodela polyrhiza (great duckweed)
+228493
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Araceae  Lemnoideae  Spirodela}
+-0.467661
+-0.85392
+0.167866
+0.0541828
+-0.183068
+246
+NC_017855
+mitochondrion Daucus carota subsp. sativus
+281132
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Apiales  Apiaceae  Apioideae  Scandiceae  Daucinae  Daucus}
+-0.964727
+-0.900519
+-0.273541
+-0.368391
+-0.424211
+247
+NC_018041
+mitochondrion Erythranthe guttata (spotted monkey flower)
+525671
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Phrymaceae  Erythranthe}
+-0.505545
+-0.92378
+0.375149
+0.912556
+0.834154
+248
+NC_018551
+mitochondrion Raphanus sativus (radish)
+258426
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Raphanus}
+-0.774837
+-0.917217
+-0.0247464
+-0.0791764
+-0.325068
+249
+NC_018554
+mitochondrion Malus domestica (apple)
+396947
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Rosales  Rosaceae  Maloideae  Maleae  Malus}
+-0.832467
+-0.923963
+-0.0618869
+-0.0731243
+-0.344312
+250
+NC_020455
+mitochondrion Glycine max (soybean)
+402558
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Glycine  Soja}
+-0.85988
+-0.936895
+-0.0795134
+-0.0753425
+-0.374776
+251
+NC_021092
+mitochondrion Vigna angularis (adzuki bean)
+404466
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Vigna}
+-0.803507
+-0.831671
+-0.263111
+-0.420264
+-0.307346
+252
+NC_021152
+mitochondrion Liriodendron tulipifera
+553721
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Magnoliidae  Magnoliales  Magnoliaceae  Liriodendron}
+-0.690013
+-0.833961
+-0.218866
+-0.311421
+-0.294439
+253
+NC_021399
+mitochondrion Butomus umbellatus
+450826
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Butomaceae  Butomus}
+-0.92865
+-0.88843
+-0.265539
+-0.539747
+-0.491772
+254
+NC_022666
+mitochondrion Aegilops speltoides
+476091
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Pooideae  Triticeae  Aegilops}
+-0.874659
+-0.885015
+-0.217243
+-0.518106
+-0.505888
+255
+NC_022714
+mitochondrion Triticum timopheevii
+443419
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Pooideae  Triticeae  Triticum}
+-0.940944
+-0.852276
+-0.36203
+-0.60291
+-0.483141
+256
+NC_022796
+mitochondrion Asclepias syriaca
+682498
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Gentianales  Apocynaceae  Asclepiadoideae  Asclepiadeae  Asclepiadinae  Asclepias}
+-0.627292
+-0.908328
+0.0601368
+-0.0309314
+-0.370641
+257
+NC_023103
+mitochondrion Ajuga reptans (bugle)
+352069
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Lamiaceae  Teucrioideae  Ajuga}
+-0.886945
+-0.895037
+-0.196843
+-0.30446
+-0.415122
+258
+NC_023209
+mitochondrion Salvia miltiorrhiza
+499236
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Lamiaceae  Nepetoideae  Mentheae  Salvia}
+-0.574111
+-0.913486
+0.156251
+0.101569
+-0.265679
+259
+NC_023337
+mitochondrion Helianthus annuus (common sunflower)
+300945
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Asterales  Asteraceae  Asteroideae  Heliantheae alliance  Heliantheae  Helianthus}
+-0.847156
+-0.901586
+-0.142974
+-0.216208
+-0.368204
+260
+NC_023338
+mitochondrion Vaccinium macrocarpon
+459678
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  Ericales  Ericaceae  Vaccinioideae  Vaccinieae  Vaccinium}
+-0.950994
+-0.889947
+-0.268709
+-0.406341
+-0.435429
+261
+NC_024293
+mitochondrion Rhazya stricta
+548608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Gentianales  Apocynaceae  Rauvolfioideae  Amsonieae  Rhazya}
+-0.840616
+-0.931494
+-0.0773782
+-0.0711338
+-0.312302
+262
+NC_024429
+mitochondrion Batis maritima
+403930
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Bataceae  Batis}
+-0.925003
+-0.895305
+-0.243743
+-0.315504
+-0.388639
+263
+NC_024624
+mitochondrion Capsicum annuum
+511530
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Solanoideae  Capsiceae  Capsicum}
+-0.909441
+-0.913192
+-0.187123
+-0.21874
+-0.357648
+264
+NC_025248
+mitochondrion Panax ginseng
+464680
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Apiales  Araliaceae  Panax}
+0.171922
+-0.524866
+0.237017
+-0.463004
+0.00307137
+265
+NW_003314435
+mitochondrion Selaginella moellendorffii
+186484
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Lycopodiidae  Selaginellales  Selaginellaceae  Selaginella}

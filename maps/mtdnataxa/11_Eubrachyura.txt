@@ -1,0 +1,286 @@
+28
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Eubrachyura (28)
+0.916995
+0.396253
+-0.120443
+-0.163866
+-0.277722
+1
+NC_005037
+mitochondrion Portunus trituberculatus (swimming crab)
+16026
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Portunus}
+0.827223
+0.381601
+-0.175991
+-0.436099
+-0.236776
+2
+NC_006281
+mitochondrion Callinectes sapidus (blue crab)
+16263
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Callinectes}
+0.678817
+-0.0500195
+-0.128522
+0.389752
+-0.678481
+3
+NC_006891
+mitochondrion Pseudocarcinus gigas (Australian giant crab)
+15515
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Xanthoidea  Eriphiidae  Pseudocarcinus}
+-0.998272
+0.350086
+0.148749
+0.204822
+-0.292524
+4
+NC_006992
+mitochondrion Eriocheir sinensis (Chinese mitten crab)
+16354
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Eriocheir}
+0.573847
+-0.0539003
+-0.425755
+0.835888
+-0.73328
+5
+NC_007379
+mitochondrion Geothelphusa dehaani (Japanese freshwater crab)
+18197
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Potamoidea  Potamidae  Geothelphusa}
+-0.961579
+0.366119
+0.148345
+0.211235
+-0.305672
+6
+NC_011597
+mitochondrion Eriocheir japonica (Japanese mitten crab)
+16352
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Eriocheir}
+-1.
+0.368548
+0.141789
+0.205665
+-0.306417
+7
+NC_011598
+mitochondrion Eriocheir hepuensis (Hepu mitten crab)
+16335
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Eriocheir}
+0.950202
+0.994443
+0.198297
+1.
+-0.00993426
+8
+NC_012565
+mitochondrion Scylla serrata (giant mud crab)
+15775
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+0.971184
+0.957682
+0.169287
+0.950877
+-0.114506
+9
+NC_012567
+mitochondrion Scylla tranquebarica (purple mud crab)
+15833
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+0.968618
+0.780996
+0.0772102
+0.705261
+0.162576
+10
+NC_012569
+mitochondrion Scylla olivacea (orange mud crab)
+15723
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+1.
+1.
+0.144895
+0.998568
+-0.0660639
+11
+NC_012572
+mitochondrion Scylla paramamosain (green mud crab)
+15825
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+0.869234
+0.357199
+-0.056903
+-1.
+-0.268186
+12
+NC_013246
+mitochondrion Charybdis japonica (shore swimming crab)
+15738
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Charybdis}
+0.510326
+-0.084687
+-0.443597
+0.67493
+-0.587973
+13
+NC_013480
+mitochondrion Xenograpsus testudinatus (hydrothermal vent crab)
+15798
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Xenograpsidae  Xenograpsus}
+0.764532
+-0.647895
+0.615467
+0.401932
+-0.330478
+14
+NC_013713
+mitochondrion Gandalfus yunohana (hydrothermal vent crab)
+15567
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Bythograeoidea  Bythograeidae  Gandalfus}
+0.580472
+-0.255528
+-0.604517
+0.603764
+-0.192208
+15
+NC_020040
+mitochondrion Ilyoplax deschampsi
+15460
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Ocypodoidea  Dotillidae  Ilyoplax}
+0.785326
+-0.876353
+0.894096
+0.37889
+-0.0266121
+16
+NC_020312
+mitochondrion Austinograea rodriguezensis (hydrothermal vent crab)
+15611
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Bythograeoidea  Bythograeidae  Austinograea}
+0.758041
+-1.
+1.
+0.380247
+0.13671
+17
+NC_020314
+mitochondrion Austinograea alayseae (hydrothermal vent crab)
+15620
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Bythograeoidea  Bythograeidae  Austinograea}
+0.462507
+-0.402545
+-1.
+0.0573145
+1.
+18
+NC_021754
+mitochondrion Pachygrapsus crassipes
+15652
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Grapsidae  Pachygrapsus}
+0.683844
+-0.318608
+-0.687889
+0.41948
+-0.500515
+19
+NC_023474
+mitochondrion Ranina ranina
+15557
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Raninoidea  Raninidae  Ranina}
+0.766264
+-0.0668757
+-0.283417
+-0.130164
+-0.575159
+20
+NC_023476
+mitochondrion Chaceon granulatus
+16135
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Geryonidae  Chaceon}
+0.69409
+-0.0963447
+-0.341093
+0.261241
+-0.952855
+21
+NC_024435
+mitochondrion Ashtoret lunaris
+15807
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Calappoidea  Matutidae  Ashtoret}
+0.69968
+-0.166136
+-0.0213305
+0.328664
+-0.634264
+22
+NC_024437
+mitochondrion Myomenippe fornasinii
+15658
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Eriphioidea  Menippidae  Myomenippe}
+0.882792
+0.422351
+0.0149761
+-0.6824
+-0.274336
+23
+NC_024438
+mitochondrion Thalamita crenata
+15787
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Thalamita}
+0.90871
+0.421583
+-0.0808877
+-0.745842
+-0.364129
+24
+NC_024632
+mitochondrion Charybdis feriata
+15660
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Charybdis}
+0.565748
+-0.291606
+-0.523482
+0.591222
+-0.406478
+25
+NC_025324
+mitochondrion Ocypode ceratophthalmus
+15564
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Ocypodoidea  Ocypodidae  Ocypodinae  Ocypode}
+0.517994
+-0.258293
+-0.871188
+0.528303
+0.181037
+26
+NC_025325
+mitochondrion Mictyris longicarpus
+15548
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Ocypodoidea  Mictyridae  Mictyris}
+0.683078
+-0.115214
+-0.378105
+0.676663
+-1.
+27
+NC_025518
+mitochondrion Damithrax spinosissimus
+15817
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Majoidea  Mithracidae  Damithrax}
+0.172241
+-0.151786
+-0.545519
+0.402435
+0.168049
+28
+NC_025571
+mitochondrion Cyclograpsus granulosus
+16300
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Cyclograpsus}

@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cottales (11)
+0.443858
+-1.
+0.526196
+1.
+-0.384219
+1
+NC_002812
+mitochondrion Arctoscopus japonicus (sailfin sandfish)
+16577
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Trichodontidae  Arctoscopus}
+-0.792969
+-0.169697
+0.693308
+-0.152826
+-0.123565
+2
+NC_004404
+mitochondrion Cottus reinii (sculpin)
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Cottus}
+0.662071
+-0.776974
+0.848982
+-1.
+-1.
+3
+NC_008129
+mitochondrion Aptocyclus ventricosus (smooth lumpsucker)
+15974
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cyclopteridae  Aptocyclus}
+1.
+1.
+0.792218
+0.086804
+-0.0961121
+4
+NC_013828
+mitochondrion Clinocottus analis (woolly sculpin)
+18374
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Clinocottus}
+-1.
+-0.0137441
+0.604771
+0.0516797
+-0.656959
+5
+NC_014849
+mitochondrion Cottus poecilopus (alpine bullhead)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Cottus}
+-0.971631
+0.00753542
+0.534147
+0.0254846
+-0.749863
+6
+NC_014851
+mitochondrion Cottus hangiongensis
+16598
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Cottus}
+-0.052037
+-0.220174
+-1.
+-0.325762
+0.128505
+7
+NC_018770
+mitochondrion Trachidermus fasciatus (roughskin sculpin)
+16536
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Trachidermus}
+0.115954
+-0.572416
+1.
+-0.229312
+1.
+8
+NC_022147
+mitochondrion Enophrys diceraus (antlered sculpin)
+16976
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Enophrys}
+-0.530703
+-0.350953
+0.68718
+-0.311053
+0.529014
+9
+NC_022181
+mitochondrion Mesocottus haitej (Amur sculpin)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Mesocottus}
+-0.877557
+-0.189221
+0.777469
+-0.138465
+0.0281347
+10
+NC_024739
+mitochondrion Cottus dzungaricus (Cottus sibiricus altaicus)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Cottus}
+-0.868037
+-0.191851
+0.760343
+-0.113682
+0.0210723
+11
+NC_025242
+mitochondrion Cottus czerskii (Cherskii's sculpin)
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Perciformes  Cottioidei  Cottales  Cottidae  Cottus}

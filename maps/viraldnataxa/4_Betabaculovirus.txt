@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Betabaculovirus (15)
+-0.718303
+-0.989514
+-0.703473
+-0.280912
+-0.467406
+1
+NC_002331
+Xestia c-nigrum granulovirus
+178733
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.573252
+0.661025
+1.
+-1.
+-0.32005
+2
+NC_002593
+Plutella xylostella granulovirus
+100999
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.381449
+0.377249
+0.103969
+1.
+-0.665885
+3
+NC_002816
+Cydia pomonella granulovirus
+123500
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.848005
+0.761682
+-0.53957
+0.200432
+-0.629076
+4
+NC_004062
+Phthorimaea operculella granulovirus
+119217
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.986939
+0.981056
+-0.882119
+-0.430992
+-0.906508
+5
+NC_005038
+Adoxophyes orana granulovirus
+99657
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.991344
+0.934721
+-0.887004
+-0.13045
+0.252505
+6
+NC_005068
+Cryptophlebia leucotreta granulovirus
+110907
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.839147
+0.561923
+-0.521197
+0.092148
+0.454809
+7
+NC_005839
+Agrotis segetum granulovirus
+131680
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-1.
+1.
+-1.
+-0.336047
+-0.292804
+8
+NC_008168
+Choristoneura occidentalis granulovirus
+104710
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.77304
+0.445262
+-0.447278
+0.0334762
+1.
+9
+NC_009503
+Spodoptera litura granulovirus
+124121
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.712819
+-1.
+-0.709683
+-0.292905
+-0.460746
+10
+NC_010240
+Helicoverpa armigera granulovirus
+169794
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.6853
+-0.207487
+-0.542444
+-0.0352041
+-0.163259
+11
+NC_013772
+Pseudaletia unipuncta granulovirus
+176677
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.964652
+0.964327
+-0.759274
+-0.110042
+-1.
+12
+NC_013797
+Pieris rapae granulovirus
+108592
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+0.908926
+0.63597
+-0.794559
+-0.213031
+-0.248454
+13
+NC_015398
+Clostera anachoreta granulovirus
+101487
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.634921
+0.449369
+-0.050921
+0.591061
+-0.41069
+14
+NC_018875
+Epinotia aporema granulovirus
+119082
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+1.
+0.583835
+-0.725466
+-0.182631
+-0.271651
+15
+NC_022646
+Clostera anastomosis granulovirus
+101818
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}

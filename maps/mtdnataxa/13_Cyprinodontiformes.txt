@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cyprinodontiformes (14)
+-0.116635
+-0.950948
+0.462711
+-1.
+1.
+1
+NC_003290
+mitochondrion Kryptolebias marmoratus (mangrove rivulus)
+17329
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Rivulidae  Kryptolebias}
+-0.461211
+0.187133
+-0.081986
+0.182684
+0.389346
+2
+NC_004388
+mitochondrion Gambusia affinis (western mosquitofish)
+16614
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Gambusia}
+0.025947
+-0.664226
+-1.
+0.330322
+0.982238
+3
+NC_009125
+mitochondrion Cyprinodon rubrofluviatilis (Red River pupfish)
+16501
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Cyprinodontidae  Cyprinodon}
+0.0563524
+-0.709206
+-0.0379128
+0.0933286
+-1.
+4
+NC_011176
+mitochondrion Aplocheilus panchax (blue panchax)
+16519
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Aplocheilidae  Aplocheilus}
+-0.975545
+0.969168
+0.000493938
+0.166284
+0.598758
+5
+NC_011379
+mitochondrion Xiphophorus maculatus (southern platyfish)
+16646
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Xiphophorus}
+0.575447
+0.361328
+-0.0201699
+0.0927803
+0.455886
+6
+NC_011380
+mitochondrion Fundulus olivaceus (blackspotted topminnow)
+16509
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.131586
+-0.390726
+-0.253568
+0.237241
+0.404246
+7
+NC_011381
+mitochondrion Xenotoca eiseni (redtail splitfin)
+16735
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Goodeidae  Xenotoca}
+0.0341223
+-0.639984
+-0.900482
+0.274756
+0.831522
+8
+NC_011387
+mitochondrion Jordanella floridae (flagfish)
+16177
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Cyprinodontidae  Jordanella}
+0.0240591
+-1.
+1.
+1.
+0.947817
+9
+NC_011814
+mitochondrion Nothobranchius furzeri (turquoise killifish)
+19527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Nothobranchiidae  Nothobranchius}
+1.
+0.731013
+0.0302187
+0.122532
+0.598487
+10
+NC_012312
+mitochondrion Fundulus heteroclitus (mummichog)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.841142
+0.533092
+0.029907
+0.13235
+0.541363
+11
+NC_012361
+mitochondrion Fundulus diaphanus (banded killifish)
+16531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.996817
+0.732509
+0.0373756
+0.0996124
+0.639797
+12
+NC_012377
+mitochondrion Fundulus grandis (Gulf killifish)
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+-1.
+1.
+0.0119514
+0.162972
+0.622643
+13
+NC_013089
+mitochondrion Xiphophorus hellerii (green swordtail)
+16635
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Xiphophorus}
+-0.302022
+0.0905398
+0.0749885
+0.165699
+0.300962
+14
+NC_024238
+mitochondrion Poecilia reticulata (guppy)
+16538
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Poecilia}

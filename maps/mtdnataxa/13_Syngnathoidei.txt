@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Syngnathoidei (15)
+0.69112
+0.991886
+0.962094
+-0.323625
+-0.24549
+1
+NC_010264
+mitochondrion Eurypegasus draconis (short dragonfish)
+16015
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Pegasidae  Eurypegasus}
+1.
+-0.98293
+0.0487473
+-0.349157
+-0.386723
+2
+NC_010267
+mitochondrion Solenostomus cyanopterus (ghost pipefish)
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Solenostomidae  Solenostomus}
+0.790466
+1.
+1.
+-0.293752
+-0.344218
+3
+NC_010271
+mitochondrion Pegasus volitans (longtail seamoth)
+16514
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Pegasidae  Pegasus}
+-0.992387
+0.212192
+0.046658
+-0.11825
+1.
+4
+NC_010272
+mitochondrion Hippocampus kuda (spotted seahorse)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}
+0.710043
+0.683819
+-1.
+-0.865609
+-0.189287
+5
+NC_010273
+mitochondrion Microphis brachyurus (short-tailed pipefish)
+16545
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Microphis}
+-0.995265
+0.196799
+-0.106494
+-0.303456
+-0.946798
+6
+NC_020336
+mitochondrion Hippocampus comes (tiger tail seahorse)
+16525
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}
+-0.746827
+0.219537
+-0.139643
+-0.259823
+-0.694494
+7
+NC_021107
+mitochondrion Hippocampus trimaculatus (longnose seahorse)
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}
+-0.858538
+0.17026
+-0.16026
+-0.281258
+-0.888474
+8
+NC_021454
+mitochondrion Hippocampus histrix (thorny seahorse)
+16523
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}
+-0.757518
+0.229056
+-0.0557046
+-0.212949
+-0.00659353
+9
+NC_022722
+mitochondrion Hippocampus erectus (lined seahorse)
+16529
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}
+0.97147
+-1.
+0.134334
+-0.195455
+0.0460202
+10
+NC_024186
+mitochondrion Solenostomus paradoxus (harlequin ghost pipefish)
+16425
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Solenostomidae  Solenostomus}
+0.742565
+0.793678
+-0.934477
+-1.
+0.132016
+11
+NC_024187
+mitochondrion Doryrhamphus japonicus
+16568
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Doryrhamphus}
+0.551258
+0.592611
+-0.645632
+1.
+0.182585
+12
+NC_024191
+mitochondrion Phycodurus eques (leafy seadragon)
+16520
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Phycodurus}
+0.480307
+0.516034
+-0.464638
+0.858309
+-0.86908
+13
+NC_024196
+mitochondrion Syngnathus schlegeli (seaweed pipefish)
+16465
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Syngnathus}
+-1.
+0.213611
+0.0521274
+-0.114982
+0.986589
+14
+NC_024530
+mitochondrion Hippocampus ingens
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}
+-0.969378
+0.175018
+-0.0942704
+-0.339199
+-1.
+15
+NC_024536
+mitochondrion Hippocampus barbouri (Barbour's seahorse)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Syngnathiaria  Syngnathiformes  Syngnathoidei  Syngnathidae  Hippocampus}

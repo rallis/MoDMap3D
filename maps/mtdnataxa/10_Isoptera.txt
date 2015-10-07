@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Isoptera (21)
+1.
+0.408949
+-0.257256
+0.203949
+0.235675
+1
+NC_009498
+mitochondrion Reticulitermes flavipes (eastern subterranean
+16565
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+0.998928
+0.420213
+-0.255067
+0.2205
+0.222328
+2
+NC_009499
+mitochondrion Reticulitermes santonensis (Saintonge termite)
+16567
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+0.789117
+0.317819
+-0.106718
+0.213677
+0.357386
+3
+NC_009500
+mitochondrion Reticulitermes virginicus (dark southern subterranean
+16513
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+0.851674
+0.364197
+-0.145423
+0.195634
+0.36029
+4
+NC_009501
+mitochondrion Reticulitermes hageni (light southeastern
+16590
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+-0.263376
+-0.552706
+0.89585
+0.459227
+0.619279
+5
+NC_015800
+mitochondrion Coptotermes formosanus (Formosan subterranean
+16326
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Coptotermes}
+-0.899289
+0.848818
+0.146708
+-1.
+1.
+6
+NC_018120
+mitochondrion Mastotermes darwiniensis (giant northern termite)
+15487
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Mastotermitidae  Mastotermes}
+-0.856683
+0.626448
+-0.128997
+-0.0451117
+0.57869
+7
+NC_018121
+mitochondrion Porotermes adamsoni (Australian dampwood termite)
+16039
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termopsidae  Porotermes}
+-0.80483
+0.543093
+-0.0875941
+0.241468
+0.390577
+8
+NC_018122
+mitochondrion Microhodotermes viator (southern harvester termite)
+15704
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Hodotermitidae  Microhodotermes}
+-0.964117
+0.994888
+-0.299066
+0.968507
+0.192343
+9
+NC_018123
+mitochondrion Zootermopsis angusticollis (Pacific dampwood termite)
+15483
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termopsidae  Zootermopsis}
+-0.785487
+0.476788
+0.00899023
+-0.0270527
+-0.0927371
+10
+NC_018124
+mitochondrion Neotermes insularis (ringant termite)
+15799
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Kalotermitidae  Neotermitinae  Neotermes}
+-0.267713
+-0.634837
+1.
+0.467431
+0.74556
+11
+NC_018125
+mitochondrion Coptotermes lacteus (milk-white termite)
+16326
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Coptotermes}
+-0.493923
+-0.140478
+0.0598982
+0.286982
+0.141968
+12
+NC_018126
+mitochondrion Schedorhinotermes breinli (termite)
+15864
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Schedorhinotermes}
+-0.250877
+-0.546606
+0.876382
+0.413177
+0.821137
+13
+NC_018127
+mitochondrion Heterotermes sp. SLC-2012 (termite)
+16370
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Heterotermes}
+-0.456526
+-0.998813
+-1.
+0.266083
+0.982151
+14
+NC_018128
+mitochondrion Macrotermes subhyalinus (Mendi termite)
+16351
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Macrotermitinae  Macrotermes}
+-0.462497
+-0.577237
+-0.10764
+0.0431762
+-0.786131
+15
+NC_018129
+mitochondrion Drepanotermes sp. SLC-2012 (termite)
+16542
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Termitinae  Amitermes group  Drepanotermes}
+-0.465112
+-0.4716
+-0.0846891
+0.0617049
+-1.
+16
+NC_018130
+mitochondrion Macrognathotermes errator (termite)
+16330
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Termitinae  Termes group  Macrognathotermes}
+-0.472123
+-0.548702
+-0.00441915
+0.0100606
+-0.858815
+17
+NC_018131
+mitochondrion Nasutitermes triodiae (Spinifex termite)
+15849
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Nasutitermitinae  Nasutitermes}
+-0.457097
+-0.682728
+-0.636746
+0.249523
+0.604328
+18
+NC_018599
+mitochondrion Macrotermes barneyi (fungus-growing termite)
+15940
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Macrotermitinae  Macrotermes}
+-1.
+1.
+-0.276757
+1.
+0.215164
+19
+NC_024658
+mitochondrion Zootermopsis nevadensis
+15444
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termopsidae  Zootermopsis}
+-0.471214
+-1.
+-0.972967
+0.248113
+0.967204
+20
+NC_025522
+mitochondrion Macrotermes natalensis
+16325
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Macrotermitinae  Macrotermes}
+0.636393
+0.24053
+-0.110908
+0.251027
+0.220215
+21
+NC_025567
+mitochondrion Reticulitermes chinensis
+15925
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Planifrontotermes}

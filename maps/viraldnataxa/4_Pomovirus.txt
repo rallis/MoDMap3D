@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Pomovirus (12)
+0.776646
+-0.355261
+-0.0332713
+-1.
+-0.589246
+1
+NC_003510
+Beet virus Q (BVQ)
+6003
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-0.314045
+-0.738097
+-1.
+-0.224029
+-1.
+2
+NC_003511
+Beet virus Q (BVQ)
+2913
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-0.777872
+-1.
+-0.0772782
+-0.79728
+-0.604266
+3
+NC_003512
+Beet virus Q (BVQ)
+2529
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-0.0633838
+-0.713365
+-0.48063
+-0.135964
+1.
+4
+NC_003518
+Beet soil-borne virus (BSBV)
+3454
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-0.615094
+-0.878406
+0.827457
+-0.418525
+0.200489
+5
+NC_003519
+Beet soil-borne virus (BSBV)
+3005
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+0.927687
+-0.209524
+0.156947
+-0.553303
+-0.303735
+6
+NC_003520
+Beet soil-borne virus (BSBV)
+5834
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+0.404542
+0.748315
+0.295699
+-0.600089
+-0.293541
+7
+NC_003723
+Potato mop-top virus (PMTV)
+6043
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-0.704123
+1.
+-0.137996
+-0.129077
+-0.262171
+8
+NC_003724
+Potato mop-top virus (PMTV)
+3134
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-1.
+0.792617
+0.381268
+-0.377384
+-0.415488
+9
+NC_003725
+Potato mop-top virus (PMTV)
+2964
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+1.
+-0.166696
+0.494221
+-0.429342
+-0.273706
+10
+NC_004423
+Broad bean necrosis virus (BBNV)
+5600
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+0.472364
+-0.469728
+0.351429
+1.
+-0.675834
+11
+NC_004424
+Broad bean necrosis virus (BBNV)
+2831
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}
+-0.581499
+-0.989848
+1.
+-0.387176
+-0.702908
+12
+NC_004425
+Broad bean necrosis virus (BBNV)
+2417
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Pomovirus}

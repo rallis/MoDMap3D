@@ -1,0 +1,366 @@
+36
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Parasitiformes (36)
+-0.537696
+0.595707
+-0.475272
+-0.0721018
+0.287848
+1
+NC_002010
+mitochondrion Ixodes hexagonus (hedgehog tick)
+14539
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Ixodinae  Ixodes}
+0.654304
+0.118503
+0.593217
+-0.273447
+0.0717044
+2
+NC_002074
+mitochondrion Rhipicephalus sanguineus (brown dog tick)
+14710
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Rhipicephalinae  Rhipicephalus  Rhipicephalus}
+-0.970085
+0.0859199
+0.794614
+0.0216224
+-0.770808
+3
+NC_004357
+mitochondrion Ornithodoros moubata
+14398
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Ornithodoros}
+-0.364971
+1.
+-0.84392
+-0.25388
+-0.0947874
+4
+NC_004370
+mitochondrion Ixodes persulcatus (taiga tick)
+14539
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Ixodinae  Ixodes}
+0.132404
+-0.339799
+-0.645584
+-0.219135
+-0.571152
+5
+NC_004454
+mitochondrion Varroa destructor (honeybee mite)
+16476
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Mesostigmata  Dermanyssina  Dermanyssoidea  Varroidae  Varroa}
+-0.802983
+0.16423
+0.5136
+0.174955
+0.0698297
+6
+NC_005291
+mitochondrion Carios capensis (softbacked tick)
+14418
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Carios}
+0.499772
+0.231906
+0.170781
+0.76225
+0.0378371
+7
+NC_005292
+mitochondrion Haemaphysalis flava (hardbacked tick)
+14686
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Haemaphysalinae  Haemaphysalis}
+-0.320961
+0.498384
+-0.323046
+0.148154
+-0.041108
+8
+NC_005293
+mitochondrion Ixodes holocyclus (paralysis tick)
+15007
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Ixodinae  Ixodes}
+-1.
+0.0121753
+1.
+0.0163984
+-1.
+9
+NC_005820
+mitochondrion Ornithodoros porcinus (soft tick)
+14378
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Ornithodoros}
+0.471065
+0.23189
+0.158528
+0.483512
+0.0254182
+10
+NC_005963
+mitochondrion Amblyomma triguttatum (ornate kangaroo tick)
+14740
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Amblyomminae  Amblyomma}
+-0.521668
+0.404151
+-0.264832
+0.194252
+0.230028
+11
+NC_006078
+mitochondrion Ixodes uriae (common seabird tick)
+15053
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Ixodinae  Ixodes}
+-0.445949
+-1.
+-0.997376
+-0.267792
+0.816899
+12
+NC_009093
+mitochondrion Metaseiulus occidentalis (western predatory mite)
+24961
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Mesostigmata  Dermanyssina  Phytoseioidea  Phytoseiidae  Typhlodrominae  Metaseiulus}
+-0.553345
+-0.245276
+-0.363289
+0.191682
+0.487375
+13
+NC_013474
+mitochondrion Stylochyrus rarior (mite)
+14900
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Mesostigmata  Dermanyssina  Ascoidea  Ologamasidae  Stylochyrus}
+0.0861632
+-0.674484
+-1.
+-0.304774
+-0.82147
+14
+NC_014049
+mitochondrion Phytoseiulus persimilis (predatory mite)
+16199
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Mesostigmata  Dermanyssina  Phytoseioidea  Phytoseiidae  Amblyseiinae  Phytoseiulus}
+0.461532
+0.13483
+0.117016
+0.652729
+-0.0777411
+15
+NC_017745
+mitochondrion Amblyomma sphenodonti (tuatara tick)
+14772
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Amblyomminae  Amblyomma}
+0.416821
+0.0420069
+0.24392
+1.
+-0.0318031
+16
+NC_017756
+mitochondrion Bothriocroton concolor (echidna tick)
+14809
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Bothriocrotoninae  Bothriocroton}
+0.425285
+0.101204
+0.157438
+0.833006
+-0.122651
+17
+NC_017757
+mitochondrion Bothriocroton undatum (goanna tick)
+14769
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Bothriocrotoninae  Bothriocroton}
+0.394004
+0.171531
+0.102261
+0.2411
+-0.0268272
+18
+NC_017758
+mitochondrion Amblyomma elaphense (hard tick)
+14627
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Amblyomminae  Amblyomma}
+0.40027
+0.179325
+0.0840035
+0.586884
+-0.0553406
+19
+NC_017759
+mitochondrion Amblyomma fimbriatum (goanna tick)
+14705
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Amblyomminae  Amblyomma}
+-0.32227
+0.830216
+-0.579773
+-0.240225
+-0.0920769
+20
+NC_018369
+mitochondrion Ixodes ricinus (castor bean tick)
+14566
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Ixodinae  Ixodes}
+-0.682438
+0.0557648
+0.507126
+0.0552644
+0.811642
+21
+NC_019642
+mitochondrion Argas africolumbae (soft tick)
+14440
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Argas}
+-0.254019
+0.137766
+-0.059433
+-0.0287739
+0.0754353
+22
+NC_019663
+mitochondrion Nuttalliella namaqua (basal tick)
+14425
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Nuttalliellidae  Nuttalliella}
+0.357105
+0.133669
+0.187938
+0.71182
+0.149919
+23
+NC_020333
+mitochondrion Amblyomma cajennense (Cayenne tick)
+14780
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Amblyomminae  Amblyomma}
+0.51077
+0.309586
+0.076988
+0.615341
+0.0800374
+24
+NC_020334
+mitochondrion Haemaphysalis formosensis
+14676
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Haemaphysalinae  Haemaphysalis}
+0.432432
+0.295335
+0.0486048
+0.481126
+-0.0398653
+25
+NC_020335
+mitochondrion Haemaphysalis parva (tick)
+14846
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Haemaphysalinae  Haemaphysalis}
+1.
+0.194093
+0.889028
+-1.
+0.246261
+26
+NC_023335
+mitochondrion Rhipicephalus microplus (Boophilus microplus)
+14905
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Rhipicephalinae  Rhipicephalus  Boophilus}
+-0.802579
+0.229574
+0.444448
+0.141053
+0.129287
+27
+NC_023340
+mitochondrion Antricola mexicanus
+14415
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Antricola}
+0.974596
+0.207196
+0.872836
+-0.971628
+0.23962
+28
+NC_023348
+mitochondrion Rhipicephalus australis
+14891
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Rhipicephalinae  Rhipicephalus  Boophilus}
+0.466048
+0.160884
+0.465136
+0.13103
+0.0623145
+29
+NC_023349
+mitochondrion Dermacentor nitens
+14839
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Rhipicephalinae  Dermacentor}
+0.749913
+0.189993
+0.584868
+-0.542709
+0.0949464
+30
+NC_023350
+mitochondrion Rhipicephalus geigyi (Boophilus geigyi)
+14948
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Rhipicephalinae  Rhipicephalus  Boophilus}
+-0.799787
+0.184326
+0.543633
+0.261675
+1.
+31
+NC_023369
+mitochondrion Argas lagenoplastis
+14478
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Argas}
+-0.795345
+0.1956
+0.484345
+0.0729945
+-0.0767692
+32
+NC_023370
+mitochondrion Otobius megnini
+14430
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Otobius}
+-0.637543
+0.171483
+0.512896
+0.120875
+0.739817
+33
+NC_023371
+mitochondrion Argas miniatus
+14416
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Argas}
+-0.847209
+0.0130229
+0.871486
+0.0209866
+-0.208525
+34
+NC_023372
+mitochondrion Ornithodoros rostratus
+14452
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Ornithodoros}
+-0.935342
+0.0725682
+0.820147
+0.0760201
+-0.260215
+35
+NC_023373
+mitochondrion Ornithodoros brasiliensis
+14489
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Argasidae  Ornithodoros}
+-0.282246
+0.954687
+-0.778189
+-0.297583
+-0.115717
+36
+NC_023831
+mitochondrion Ixodes pavlovskyi
+14575
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Acari  Parasitiformes  Ixodida  Ixodoidea  Ixodidae  Ixodinae  Ixodes}

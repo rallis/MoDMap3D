@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Leviviridae (11)
+1.
+-1.
+0.404437
+0.22586
+0.291078
+1
+NC_001417
+Enterobacteria phage MS2
+3569
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Levivirus}
+0.838962
+-0.865586
+0.717401
+0.343388
+0.199425
+2
+NC_001426
+Enterobacteria phage BZ13
+3466
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Levivirus}
+0.0985924
+0.0376131
+-0.973729
+0.851989
+1.
+3
+NC_001628
+Pseudomonas phage PP7
+3588
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Levivirus}
+-1.
+-0.113584
+0.461546
+0.327732
+0.303556
+4
+NC_001890
+Enterobacteria phage Qbeta
+4215
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Allolevivirus}
+0.222516
+0.305474
+-0.523061
+-1.
+0.856071
+5
+NC_002700
+Acinetobacter phage AP205
+4268
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Levivirus}
+-0.819981
+-0.191676
+0.447265
+0.389531
+-0.118569
+6
+NC_004301
+Enterobacteria phage FI sensu lato
+4276
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Allolevivirus}
+0.850588
+0.528443
+0.104872
+0.294898
+0.889221
+7
+NC_008294
+Pseudomonas phage PRR1 (PRR1)
+3573
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  unclassified Leviviridae}
+0.601637
+0.257215
+-1.
+0.881323
+-1.
+8
+NC_019453
+Caulobacter phage phiCb5
+3762
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  unclassified Leviviridae}
+0.435956
+0.489455
+0.467304
+-0.819789
+-0.553064
+9
+NC_019707
+Enterobacteria phage M
+3405
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  unclassified Leviviridae}
+0.589454
+1.
+0.784227
+0.499008
+0.00437651
+10
+NC_019920
+Enterobacteria phage C-1 INW-2012
+3523
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Levivirus}
+0.440767
+0.755518
+1.
+1.
+0.672709
+11
+NC_019922
+Enterobacteria phage Hgal1
+3562
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Leviviridae  Levivirus}

@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Haloviruses (15)
+-1.
+0.923446
+-0.531386
+0.302401
+0.996316
+1
+NC_003345
+Halorubrum phage HF2
+77670
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.999086
+0.928303
+-0.532621
+0.304868
+1.
+2
+NC_004927
+Halovirus HF1
+75898
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.052719
+-0.209875
+0.981573
+0.202587
+0.84378
+3
+NC_020158
+Halovirus HVTV-1
+102319
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.191446
+-0.994013
+-0.985322
+0.182228
+0.775041
+4
+NC_020159
+Halovirus HSTV-2
+68527
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.885285
+0.386414
+-0.1968
+0.117701
+0.855064
+5
+NC_021319
+Halovirus HCTV-2
+54291
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.282049
+0.0437379
+-0.145466
+0.00669818
+-1.
+6
+NC_021320
+Halovirus HRTV-5
+76134
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.2528
+0.0435349
+-0.156011
+0.0125356
+-0.997358
+7
+NC_021321
+Halovirus HRTV-8
+74519
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+1.
+1.
+-0.374036
+-1.
+0.611783
+8
+NC_021322
+Halovirus HHTV-1
+49107
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.0309756
+-0.208782
+1.
+0.185715
+0.851235
+9
+NC_021327
+Halovirus HCTV-5
+102105
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.175092
+0.082827
+0.175629
+0.0245403
+0.0867313
+10
+NC_021328
+Halovirus HGTV-1
+143855
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.832681
+0.67045
+-0.197669
+1.
+-0.00646546
+11
+NC_021329
+Halovirus HRTV-4
+35722
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.00292104
+-0.0952786
+0.688146
+0.135971
+0.647398
+12
+NC_021330
+Halovirus HCTV-1
+103257
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.179153
+-1.
+-1.
+0.164507
+0.767388
+13
+NC_021335
+Halovirus HRTV-7
+69048
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.556456
+0.162891
+-0.177977
+0.421533
+0.633439
+14
+NC_021340
+Halovirus HHTV-2
+52643
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.883382
+0.668102
+-0.268118
+0.82721
+0.228113
+15
+NC_021471
+Halovirus HSTV-1
+32189
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}

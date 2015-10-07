@@ -1,0 +1,236 @@
+23
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Mycoreovirus (23)
+-0.868871
+-0.654823
+-0.198095
+-0.199323
+0.421394
+1
+NC_007524
+Mycoreovirus 3
+2259
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.356613
+-0.320613
+-0.165444
+0.666933
+-0.610106
+2
+NC_007525
+Mycoreovirus 3
+2030
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.0540408
+0.416099
+-0.521816
+0.534426
+0.604172
+3
+NC_007526
+Mycoreovirus 3
+1509
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.603405
+0.0537943
+0.638806
+1.
+-0.436132
+4
+NC_007527
+Mycoreovirus 3
+1299
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.216876
+0.912659
+0.484686
+-0.64169
+0.0844805
+5
+NC_007528
+Mycoreovirus 3
+1226
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-1.
+0.430262
+0.252228
+-0.882188
+0.263973
+6
+NC_007529
+Mycoreovirus 3
+1171
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.167057
+1.
+-0.327628
+-0.836936
+0.162921
+7
+NC_007531
+Mycoreovirus 3
+1003
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.648236
+0.747149
+0.275511
+-0.719571
+0.970244
+8
+NC_007532
+Mycoreovirus 3
+943
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.484082
+-0.697412
+-0.383181
+-0.211404
+0.445361
+9
+NC_007533
+Mycoreovirus 3
+3773
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.636051
+-0.017213
+0.416497
+-0.469324
+-0.0542966
+10
+NC_007534
+Mycoreovirus 3
+2089
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.181024
+-0.864557
+-0.0269533
+-1.
+0.284129
+11
+NC_007535
+Mycoreovirus 3
+4143
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+-0.448189
+-0.493424
+0.024329
+-0.752817
+-0.181803
+12
+NC_007536
+Mycoreovirus 3
+3310
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.488958
+-1.
+-0.176661
+-0.731521
+0.434489
+13
+NC_010743
+Mycoreovirus 1
+4127
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.283613
+-0.646839
+-0.468162
+-0.862713
+-0.0380394
+14
+NC_010744
+Mycoreovirus 1
+3846
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.642911
+-0.96878
+0.15237
+-0.256677
+0.305123
+15
+NC_010745
+Mycoreovirus 1
+3258
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.627766
+-0.359709
+0.45872
+-0.284917
+0.432786
+16
+NC_010746
+Mycoreovirus 1
+2269
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.742027
+0.193258
+-0.705132
+-0.23121
+-0.150858
+17
+NC_010747
+Mycoreovirus 1
+2056
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.370556
+-0.216886
+-0.764726
+0.0213502
+0.34167
+18
+NC_010748
+Mycoreovirus 1
+2023
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.666842
+0.225669
+0.156359
+-0.627761
+-1.
+19
+NC_010749
+Mycoreovirus 1
+1539
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.756035
+0.748214
+-0.185828
+-0.532388
+-0.653519
+20
+NC_010750
+Mycoreovirus 1
+1536
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.291975
+0.861739
+-1.
+-0.00696401
+0.950484
+21
+NC_010751
+Mycoreovirus 1
+1072
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+0.842163
+0.132581
+1.
+-0.595728
+0.469649
+22
+NC_010752
+Mycoreovirus 1
+975
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}
+1.
+-0.0656086
+0.919432
+0.432345
+1.
+23
+NC_010753
+Mycoreovirus 1
+732
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Mycoreovirus}

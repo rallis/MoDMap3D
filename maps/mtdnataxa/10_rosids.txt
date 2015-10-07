@@ -1,0 +1,246 @@
+24
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+rosids (24)
+-0.0208076
+-0.560752
+-0.378212
+0.0702233
+0.496668
+1
+NC_001284
+mitochondrion Arabidopsis thaliana (thale cress)
+366924
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Camelineae  Arabidopsis}
+0.872458
+1.
+-0.633673
+0.960578
+0.209226
+2
+NC_004946
+mitochondrion Brassica napus (rape)
+11640
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.83235
+-0.12178
+-0.310861
+0.0350417
+0.0933867
+3
+NC_008285
+mitochondrion Brassica napus (rape)
+221853
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.882363
+0.991193
+-0.611928
+1.
+0.195773
+4
+NC_011084
+mitochondrion Vicia faba (fava bean)
+1478
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Fabeae  Vicia}
+0.525821
+-0.822107
+-0.199221
+0.0491042
+0.844147
+5
+NC_012116
+mitochondrion Carica papaya (papaya)
+476890
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Caricaceae  Carica}
+0.875543
+-0.718046
+0.283914
+0.00337841
+0.381373
+6
+NC_012119
+mitochondrion Vitis vinifera (wine grape)
+773279
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  Vitales  Vitaceae  Vitis}
+0.47924
+-0.749458
+-0.400906
+0.0294317
+0.987218
+7
+NC_014043
+mitochondrion Citrullus lanatus
+379236
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Citrullus}
+0.98119
+-0.360188
+0.798391
+-0.0902094
+-0.145507
+8
+NC_014050
+mitochondrion Cucurbita pepo
+982833
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Cucurbiteae  Cucurbita}
+0.586423
+-1.
+-1.
+0.120191
+-0.819046
+9
+NC_015121
+mitochondrion Vigna radiata (mungbean)
+401262
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Vigna}
+0.643078
+-0.849109
+-0.262926
+0.0505504
+0.845366
+10
+NC_015141
+mitochondrion Ricinus communis (castor bean)
+502773
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Malpighiales  Euphorbiaceae  Acalyphoideae  Acalypheae  Ricinus}
+0.63307
+0.685119
+-0.914727
+-1.
+0.217517
+11
+NC_016004
+mitochondrion Cucumis sativus (cucumber)
+83817
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+1.
+0.0242238
+1.
+-0.16211
+-1.
+12
+NC_016005
+mitochondrion Cucumis sativus (cucumber)
+1555935
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+0.732381
+0.833455
+-0.88598
+-0.959754
+0.210713
+13
+NC_016006
+mitochondrion Cucumis sativus (cucumber)
+44840
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Cucurbitales  Cucurbitaceae  Benincaseae  Cucumis}
+-0.703035
+-0.334369
+-0.0949028
+0.110809
+0.0198728
+14
+NC_016118
+mitochondrion Brassica oleracea
+360271
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.828381
+-0.148649
+-0.355932
+0.0503056
+-0.0824295
+15
+NC_016120
+mitochondrion Brassica carinata
+232241
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-0.999935
+-0.0954854
+-0.231465
+0.0514452
+-0.00813965
+16
+NC_016123
+mitochondrion Brassica juncea
+219766
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+-1.
+-0.0953467
+-0.231497
+0.0513882
+-0.00849743
+17
+NC_016125
+mitochondrion Brassica rapa subsp. oleifera (Brassica rapa
+219747
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Brassica}
+0.556507
+-0.935724
+-0.79884
+0.105184
+-0.453339
+18
+NC_016742
+mitochondrion Millettia pinnata
+425718
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Millettieae  Millettia}
+0.51881
+-0.8301
+-0.842392
+0.0873315
+-0.118296
+19
+NC_016743
+mitochondrion Lotus japonicus
+380861
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Loteae  Lotus}
+-0.828303
+-0.241937
+-0.323971
+0.0734709
+-0.0255837
+20
+NC_018551
+mitochondrion Raphanus sativus (radish)
+258426
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Brassicaceae  Brassiceae  Raphanus}
+0.475817
+-0.733452
+-0.433898
+0.0538742
+0.904808
+21
+NC_018554
+mitochondrion Malus domestica (apple)
+396947
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Rosales  Rosaceae  Maloideae  Maleae  Malus}
+0.551629
+-0.904053
+-0.851587
+0.102575
+-0.515453
+22
+NC_020455
+mitochondrion Glycine max (soybean)
+402558
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Glycine  Soja}
+0.604423
+-0.99796
+-0.990958
+0.118018
+-0.812965
+23
+NC_021092
+mitochondrion Vigna angularis (adzuki bean)
+404466
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  fabids  Fabales  Fabaceae  Papilionoideae  Phaseoleae  Vigna}
+0.456585
+-0.790112
+-0.441022
+0.0533891
+1.
+24
+NC_024429
+mitochondrion Batis maritima
+403930
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  rosids  malvids  Brassicales  Bataceae  Batis}

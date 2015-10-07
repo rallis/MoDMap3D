@@ -1,0 +1,416 @@
+41
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified dsDNA phages (41)
+0.467243
+-0.551995
+-0.264247
+-1.
+-1.
+1
+NC_001942
+Mycoplasma phage MAV1
+15644
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.840512
+-0.544353
+-0.00640666
+-0.733813
+0.931866
+2
+NC_004462
+Thermus phage IN93
+19604
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.442905
+-0.628042
+-0.217277
+-0.98289
+-0.946756
+3
+NC_007045
+Staphylococcus phage PT1028
+15603
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.766703
+-0.674471
+0.096432
+-0.223567
+-0.769091
+4
+NC_007058
+Staphylococcus phage ROSA
+43155
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.280708
+-0.843766
+0.589616
+-0.022954
+-0.208591
+5
+NC_007808
+Pseudomonas phage PA11
+49639
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.921415
+-0.832903
+0.171675
+-0.898018
+-0.267747
+6
+NC_008265
+Clostridium phage phiSM101
+38092
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.828589
+-0.670838
+0.0937049
+-0.260412
+-0.760394
+7
+NC_012784
+Staphylococcus phage phiPVL-CN125
+44492
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.844529
+-0.538083
+-0.0443949
+-0.80253
+1.
+8
+NC_013197
+Thermus phage P23-77
+17036
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.00369848
+-0.600365
+0.191087
+-0.0783518
+-0.889006
+9
+NC_018269
+Marinomonas phage P12026
+31766
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.879332
+-0.779558
+-0.998665
+0.986898
+-0.0313948
+10
+NC_018271
+Persicivirga phage P12024S
+35700
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.870676
+-0.768114
+-1.
+1.
+-0.0284731
+11
+NC_018272
+Persicivirga phage P12024L
+35652
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.0746606
+-0.545385
+0.348056
+0.173674
+-0.773721
+12
+NC_019544
+Deep-sea thermophilic phage D6E
+49335
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-1.
+-0.440617
+0.326804
+0.0796057
+-0.517263
+13
+NC_020489
+Rhodobacter phage RcapNL
+40489
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.573069
+-0.547267
+0.397088
+0.133223
+-0.519874
+14
+NC_020844
+Salicola phage CGphi29
+40695
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.256966
+-0.750048
+0.451008
+0.0469485
+-0.635895
+15
+NC_020846
+Vibrio phage pYD21-A
+46917
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.310505
+-0.726762
+0.443665
+-0.311507
+-0.542124
+16
+NC_020850
+Vibrio phage VBM1
+38374
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.497121
+-0.608158
+0.635933
+0.254529
+-0.421886
+17
+NC_020853
+Loktanella phage pCB2051-A
+56958
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.110887
+-0.660274
+0.480627
+0.0791812
+-0.666649
+18
+NC_020854
+Cyanophage KBS-S-2A
+40658
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.715444
+-0.532383
+0.402427
+0.206407
+-0.576384
+19
+NC_020856
+Sulfitobacter phage pCB2047-C
+41474
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.667628
+-0.880422
+0.364855
+-0.633936
+-0.225549
+20
+NC_020857
+Cyanophage MED4-117
+38834
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.695662
+-0.588643
+0.467117
+0.113315
+-0.533597
+21
+NC_020858
+Sulfitobacter phage pCB2047-A
+41374
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.481302
+-0.917869
+0.882646
+0.161443
+-0.166828
+22
+NC_020862
+Sulfitobacter phage pCB2047-B
+74485
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+1.
+-0.991459
+0.838381
+0.140487
+-0.102937
+23
+NC_020863
+Vibrio phage PWH3a-P1
+129155
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.0567903
+-0.717583
+0.507834
+0.114654
+-0.462116
+24
+NC_020865
+Cyanophage KBS-P-1A
+45730
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.931389
+-0.471738
+0.366703
+0.0860438
+-0.504747
+25
+NC_020866
+Rhodovulum phage RS1
+40231
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.688556
+-0.953198
+0.53473
+-0.608877
+-0.0717408
+26
+NC_020874
+Prochlorococcus phage P-SSP3
+46198
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.591675
+-0.974056
+0.526291
+-0.574736
+-0.028077
+27
+NC_020878
+Prochlorococcus phage P-GSP1
+44945
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.906058
+-0.997052
+0.883841
+0.192253
+-0.0446792
+28
+NC_021067
+Vibrio phage helene 12B3
+135982
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.653381
+-0.914363
+0.625684
+-0.286332
+-0.209219
+29
+NC_021068
+Vibrio phage douglas 12A4
+57611
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.0834637
+-0.77023
+0.452998
+-0.318517
+-0.480461
+30
+NC_021070
+Vibrio phage martha 12B12
+33277
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.771396
+-1.
+1.
+0.227759
+-0.0649068
+31
+NC_021072
+Cyanophage Syn30
+178807
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.647985
+-0.898911
+0.814408
+0.279522
+-0.281985
+32
+NC_021073
+Vibrio phage henriette 12B8
+107218
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.0442107
+-0.711771
+0.571877
+0.0194804
+-0.535361
+33
+NC_021534
+Vibrio phage pYD38-A
+47552
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.906628
+-0.580197
+0.327686
+-0.113285
+-0.501567
+34
+NC_021537
+Halorubrum phage CGphi46
+39784
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.853561
+-0.787578
+0.309855
+-0.626057
+-0.343835
+35
+NC_021867
+Flavobacterium phage 6H
+46978
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.805001
+-0.862263
+0.262954
+-0.476893
+-0.439534
+36
+NC_023551
+Enterococcus phage IME-EF4
+40692
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.836258
+0.905006
+0.519461
+-0.0919533
+-0.230938
+37
+NC_023559
+Oenococcus phage phi9805
+46145
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.841715
+1.
+0.525648
+-0.113757
+-0.212261
+38
+NC_023560
+Oenococcus phage phiS13
+43454
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+0.854709
+0.939465
+0.538424
+-0.108732
+-0.21006
+39
+NC_023571
+Oenococcus phage phiS11
+46243
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.638621
+-0.580504
+0.526315
+0.162136
+-0.456153
+40
+NC_023575
+Pseudomonas phage vB_PaeP_Tr60_Ab31
+45550
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}
+-0.440668
+-0.586514
+-0.0560883
+-0.866557
+-0.872561
+41
+NC_023592
+Haloarcula hispanica pleomorphic virus 2 (HHPV-2)
+8176
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA phages}

@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Felidae (12)
+0.88691
+-0.299122
+-0.71552
+-1.
+0.754217
+1
+NC_001700
+mitochondrion Felis catus (domestic cat)
+17009
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Felis}
+0.978969
+-0.0188295
+-0.933476
+1.
+1.
+2
+NC_005212
+mitochondrion Acinonyx jubatus (cheetah)
+17047
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Acinonychinae  Acinonyx}
+-0.0433692
+-0.466904
+1.
+0.487598
+0.0297935
+3
+NC_008450
+mitochondrion Neofelis nebulosa (Clouded leopard)
+16844
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Neofelis}
+-0.622906
+-0.875977
+-0.842461
+0.0143666
+0.383779
+4
+NC_010638
+mitochondrion Uncia uncia (snow leopard)
+16773
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Uncia}
+-0.772377
+-1.
+-0.97599
+0.447629
+-0.094564
+5
+NC_010641
+mitochondrion Panthera pardus (leopard)
+16964
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+-0.950731
+1.
+-0.74836
+0.231979
+0.00550951
+6
+NC_010642
+mitochondrion Panthera tigris (tiger)
+16990
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+0.987049
+-0.136817
+-0.874979
+0.662066
+-0.577893
+7
+NC_014456
+mitochondrion Lynx rufus (bobcat)
+17056
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Lynx}
+-1.
+0.886081
+-0.748867
+0.191789
+0.0257612
+8
+NC_014770
+mitochondrion Panthera tigris amoyensis (Amoy tiger)
+17001
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+0.838339
+-0.211758
+-0.774179
+-0.379296
+-1.
+9
+NC_016189
+mitochondrion Prionailurus bengalensis euptilurus (Amur leopard
+16990
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Prionailurus}
+1.
+-0.114223
+-0.883744
+0.925681
+-0.0966826
+10
+NC_016470
+mitochondrion Puma concolor (puma)
+17153
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Puma}
+-0.765624
+-0.959747
+-1.
+0.442358
+-0.169112
+11
+NC_018053
+mitochondrion Panthera leo persica (Asiatic lion)
+16818
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+-0.69047
+-0.741548
+-0.855932
+0.391464
+0.113602
+12
+NC_022842
+mitochondrion Panthera onca (jaguar)
+17049
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}

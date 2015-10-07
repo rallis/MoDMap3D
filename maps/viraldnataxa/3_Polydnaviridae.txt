@@ -1,0 +1,2306 @@
+230
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Polydnaviridae (230)
+-0.749806
+-0.0128909
+-0.307849
+-0.227737
+0.758015
+1
+NC_006633
+Cotesia congregata bracovirus
+27346
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.445991
+-0.0185189
+-0.295509
+-0.222309
+0.760364
+2
+NC_006634
+Cotesia congregata bracovirus
+14975
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.881378
+-0.0109565
+-0.317958
+-0.221272
+0.769124
+3
+NC_006635
+Cotesia congregata bracovirus
+29874
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.608221
+0.0310683
+-0.280339
+-0.216654
+0.699283
+4
+NC_006636
+Cotesia congregata bracovirus
+15876
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.471832
+-0.00989212
+-0.30223
+-0.206042
+0.750917
+5
+NC_006637
+Cotesia congregata bracovirus
+14489
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.417802
+-0.0218154
+-0.308792
+-0.229981
+0.774265
+6
+NC_006638
+Cotesia congregata bracovirus
+15230
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.846978
+-0.00177728
+-0.301763
+-0.217577
+0.744988
+7
+NC_006639
+Cotesia congregata bracovirus
+24748
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.333341
+-0.00423561
+-0.262078
+-0.226663
+0.75935
+8
+NC_006640
+Cotesia congregata bracovirus
+5032
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.445905
+-0.0363873
+-0.313209
+-0.230016
+0.755797
+9
+NC_006641
+Cotesia congregata bracovirus
+15959
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.413186
+-0.0264592
+-0.299393
+-0.220172
+0.78723
+10
+NC_006642
+Cotesia congregata bracovirus
+14286
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.201669
+-0.0134908
+-0.311234
+-0.220847
+0.727111
+11
+NC_006643
+Cotesia congregata bracovirus
+12903
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.599378
+-0.00402136
+-0.300665
+-0.216214
+0.739043
+12
+NC_006644
+Cotesia congregata bracovirus
+16103
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.79138
+0.0225693
+-0.311991
+-0.233178
+0.74733
+13
+NC_006645
+Cotesia congregata bracovirus
+21388
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.934583
+-0.00186831
+-0.323025
+-0.228896
+0.768687
+14
+NC_006646
+Cotesia congregata bracovirus
+31972
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.0364691
+-0.0342916
+-0.298602
+-0.219832
+0.758681
+15
+NC_006647
+Cotesia congregata bracovirus
+8785
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.538388
+-0.00832245
+-0.301426
+-0.228949
+0.767224
+16
+NC_006648
+Cotesia congregata bracovirus
+15158
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.920452
+-0.00774085
+-0.324979
+-0.234057
+0.778824
+17
+NC_006649
+Cotesia congregata bracovirus
+32108
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.376384
+-0.00672649
+-0.27457
+-0.223184
+0.735399
+18
+NC_006650
+Cotesia congregata bracovirus
+18768
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.654284
+0.0046392
+-0.302201
+-0.219932
+0.753045
+19
+NC_006651
+Cotesia congregata bracovirus
+19161
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.306665
+-0.00164289
+-0.241342
+-0.211792
+0.71987
+20
+NC_006652
+Cotesia congregata bracovirus
+4981
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.867112
+0.0205951
+-0.305273
+-0.229762
+0.751574
+21
+NC_006653
+Cotesia congregata bracovirus
+26062
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.398701
+-0.0377716
+-0.309409
+-0.214265
+0.772825
+22
+NC_006654
+Cotesia congregata bracovirus
+13597
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.449439
+-0.0102934
+-0.291272
+-0.210393
+0.782375
+23
+NC_006655
+Cotesia congregata bracovirus
+15279
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.227184
+-0.0400352
+-0.311458
+-0.230432
+0.773878
+24
+NC_006656
+Cotesia congregata bracovirus
+12682
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.704934
+-0.00841193
+-0.296668
+-0.224849
+0.754701
+25
+NC_006657
+Cotesia congregata bracovirus
+19820
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.703204
+-0.0460493
+-0.340557
+-0.228775
+0.791973
+26
+NC_006658
+Cotesia congregata bracovirus
+30655
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-1.
+-0.0245342
+-0.340063
+-0.235686
+0.776473
+27
+NC_006659
+Cotesia congregata bracovirus
+41573
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.772438
+-0.000107323
+-0.29279
+-0.233406
+0.752433
+28
+NC_006660
+Cotesia congregata bracovirus
+20197
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.243234
+-0.0181823
+-0.26173
+-0.190524
+0.736354
+29
+NC_006661
+Cotesia congregata bracovirus
+11186
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.665684
+0.031418
+-0.296489
+-0.210448
+0.714629
+30
+NC_006662
+Cotesia congregata bracovirus
+17477
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.480019
+-0.0601772
+-0.278021
+-0.231887
+0.779016
+31
+NC_007028
+Microplitis demolitor bracovirus (MdBV)
+3611
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.166078
+-0.0496325
+-0.284247
+-0.241214
+0.741804
+32
+NC_007029
+Microplitis demolitor bracovirus (MdBV)
+6307
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.353843
+-0.0478995
+-0.311685
+-0.211868
+0.800603
+33
+NC_007030
+Microplitis demolitor bracovirus (MdBV)
+4576
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.139291
+-0.0794618
+-0.314444
+-0.233172
+0.795834
+34
+NC_007031
+Microplitis demolitor bracovirus (MdBV)
+7228
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.0822578
+-0.0684808
+-0.28775
+-0.232663
+0.776735
+35
+NC_007032
+Microplitis demolitor bracovirus (MdBV)
+9604
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.0189488
+-0.0309954
+-0.315432
+-0.201076
+0.771454
+36
+NC_007033
+Microplitis demolitor bracovirus (MdBV)
+7823
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.163217
+-0.0498445
+-0.310269
+-0.228058
+0.759016
+37
+NC_007034
+Microplitis demolitor bracovirus (MdBV)
+10790
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.178654
+-0.0386378
+-0.288566
+-0.210084
+0.752185
+38
+NC_007035
+Microplitis demolitor bracovirus (MdBV)
+11238
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.30814
+-0.0653241
+-0.322242
+-0.208647
+0.791673
+39
+NC_007036
+Microplitis demolitor bracovirus (MdBV)
+13704
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.472917
+-0.02886
+-0.311102
+-0.237685
+0.769422
+40
+NC_007037
+Microplitis demolitor bracovirus (MdBV)
+15058
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.466509
+-0.0179074
+-0.31196
+-0.229206
+0.745457
+41
+NC_007038
+Microplitis demolitor bracovirus (MdBV)
+15218
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.489613
+-0.0461312
+-0.325795
+-0.228663
+0.778957
+42
+NC_007039
+Microplitis demolitor bracovirus (MdBV)
+17355
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.464484
+-0.0295456
+-0.317286
+-0.228945
+0.760049
+43
+NC_007040
+Microplitis demolitor bracovirus (MdBV)
+15096
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.305797
+-0.0300322
+-0.284259
+-0.234828
+0.782737
+44
+NC_007041
+Microplitis demolitor bracovirus
+13279
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+-0.365175
+-0.0156165
+-0.307942
+-0.221218
+0.772712
+45
+NC_007044
+Microplitis demolitor bracovirus
+34334
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Bracovirus}
+0.0775254
+-0.143493
+-0.348845
+-0.240494
+0.874718
+46
+NC_007985
+Campoletis sonorensis ichnovirus (CsIV)
+12098
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.396732
+-0.135939
+-0.335665
+-0.218912
+0.8714
+47
+NC_007986
+Campoletis sonorensis ichnovirus (CsIV)
+7276
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.425012
+-0.156472
+-0.358777
+-0.208874
+0.865114
+48
+NC_007987
+Campoletis sonorensis ichnovirus (CsIV)
+6567
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.370488
+-0.156364
+-0.345279
+-0.214775
+0.857473
+49
+NC_007988
+Campoletis sonorensis ichnovirus (CsIV)
+7760
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.248947
+-0.131371
+-0.355088
+-0.210882
+0.875316
+50
+NC_007989
+Campoletis sonorensis ichnovirus (CsIV)
+8284
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.315784
+-0.1424
+-0.327994
+-0.229008
+0.86681
+51
+NC_007990
+Campoletis sonorensis ichnovirus (CsIV)
+8171
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.352324
+-0.14648
+-0.356067
+-0.206078
+0.869083
+52
+NC_007991
+Campoletis sonorensis ichnovirus (CsIV)
+8315
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.286116
+-0.132969
+-0.31701
+-0.210581
+0.865433
+53
+NC_007992
+Campoletis sonorensis ichnovirus (CsIV)
+8600
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.233937
+-0.137769
+-0.336845
+-0.215123
+0.873699
+54
+NC_007993
+Campoletis sonorensis ichnovirus (CsIV)
+9155
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.204246
+-0.127983
+-0.343277
+-0.226358
+0.840242
+55
+NC_007994
+Campoletis sonorensis ichnovirus (CsIV)
+9391
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.222638
+-0.13894
+-0.347879
+-0.23597
+0.853189
+56
+NC_007995
+Campoletis sonorensis ichnovirus (CsIV)
+8864
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.195686
+-0.142727
+-0.338251
+-0.240464
+0.844851
+57
+NC_007996
+Campoletis sonorensis ichnovirus (CsIV)
+10223
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.388679
+-0.99863
+-0.893049
+0.522569
+-0.864695
+58
+NC_007997
+Campoletis sonorensis ichnovirus (CsIV)
+6138
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.245652
+-0.13326
+-0.338273
+-0.224763
+0.885344
+59
+NC_007998
+Campoletis sonorensis ichnovirus (CsIV)
+11285
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.064104
+-0.137589
+-0.354588
+-0.215502
+0.840678
+60
+NC_007999
+Campoletis sonorensis ichnovirus (CsIV)
+11841
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.00326273
+-0.113497
+-0.324333
+-0.231536
+0.864651
+61
+NC_008000
+Campoletis sonorensis ichnovirus (CsIV)
+14531
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+-0.0199885
+-0.136771
+-0.349043
+-0.193367
+0.781617
+62
+NC_008001
+Campoletis sonorensis ichnovirus (CsIV)
+14825
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+-0.227419
+-0.117764
+-0.348296
+-0.220421
+0.851906
+63
+NC_008002
+Campoletis sonorensis ichnovirus (CsIV)
+19557
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.0795675
+-0.114516
+-0.332894
+-0.214675
+0.804707
+64
+NC_008003
+Campoletis sonorensis ichnovirus (CsIV)
+15510
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.286412
+-0.107051
+-0.360537
+-0.217686
+0.849629
+65
+NC_008004
+Campoletis sonorensis ichnovirus (CsIV)
+7887
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.387315
+-1.
+-0.893889
+0.522154
+-0.863112
+66
+NC_008005
+Campoletis sonorensis ichnovirus (CsIV)
+6283
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.13945
+-0.128688
+-0.356249
+-0.23109
+0.850718
+67
+NC_008006
+Campoletis sonorensis ichnovirus (CsIV)
+10757
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+-0.0658459
+-0.12434
+-0.356661
+-0.221246
+0.842385
+68
+NC_008007
+Campoletis sonorensis ichnovirus (CsIV)
+15812
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.324666
+-0.12068
+-0.33149
+-0.239071
+0.846768
+69
+NC_008008
+Campoletis sonorensis ichnovirus (CsIV)
+7604
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.893612
+-0.0736973
+-0.240495
+-0.240045
+0.766157
+70
+NC_008837
+Glypta fumiferanae ichnovirus
+1533
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.937175
+0.00787614
+-0.411241
+-0.195847
+0.823384
+71
+NC_008838
+Glypta fumiferanae ichnovirus
+1657
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.876603
+-0.0975542
+-0.225487
+-0.25475
+0.850684
+72
+NC_008839
+Glypta fumiferanae ichnovirus
+1750
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.891075
+-0.0597375
+-0.356873
+-0.228871
+0.85515
+73
+NC_008840
+Glypta fumiferanae ichnovirus
+1859
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.847956
+-0.0814925
+-0.270767
+-0.251383
+0.800248
+74
+NC_008841
+Glypta fumiferanae ichnovirus
+1916
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.808032
+-0.099002
+-0.322286
+-0.226645
+0.875737
+75
+NC_008842
+Glypta fumiferanae ichnovirus
+1940
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.858689
+-0.0886478
+-0.240124
+-0.256066
+0.784653
+76
+NC_008843
+Glypta fumiferanae ichnovirus
+1945
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.86858
+0.0238036
+-0.36659
+-0.218123
+0.770192
+77
+NC_008844
+Glypta fumiferanae ichnovirus
+1948
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.873148
+-0.0860612
+-0.237465
+-0.263054
+0.785853
+78
+NC_008845
+Glypta fumiferanae ichnovirus
+1963
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.854663
+-0.0532028
+-0.343594
+-0.208754
+0.848179
+79
+NC_008846
+Glypta fumiferanae ichnovirus
+1963
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.82769
+-0.0164595
+-0.324003
+-0.224771
+0.768893
+80
+NC_008847
+Glypta fumiferanae ichnovirus
+2005
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.842473
+-0.0243929
+-0.341587
+-0.200403
+0.803706
+81
+NC_008848
+Glypta fumiferanae ichnovirus
+2066
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.822518
+-0.0090252
+-0.377386
+-0.221212
+0.787992
+82
+NC_008849
+Glypta fumiferanae ichnovirus
+2074
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.846935
+-0.00797129
+-0.387933
+-0.222476
+0.8382
+83
+NC_008850
+Glypta fumiferanae ichnovirus
+2079
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.884616
+0.0200872
+-0.365658
+-0.213561
+0.806657
+84
+NC_008851
+Glypta fumiferanae ichnovirus
+2080
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.830652
+-0.0920856
+-0.183999
+-0.288089
+0.784745
+85
+NC_008852
+Glypta fumiferanae ichnovirus
+2094
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.907265
+-0.0844843
+-0.179595
+-0.268806
+0.827211
+86
+NC_008853
+Glypta fumiferanae ichnovirus
+2135
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.845212
+0.00598918
+-0.379778
+-0.204301
+0.805698
+87
+NC_008854
+Glypta fumiferanae ichnovirus
+2177
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+1.
+0.999696
+-1.
+0.191211
+-0.353307
+88
+NC_008855
+Glypta fumiferanae ichnovirus
+2179
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.815479
+-0.0104419
+-0.341257
+-0.219289
+0.830111
+89
+NC_008856
+Glypta fumiferanae ichnovirus
+2195
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.835141
+0.0336987
+-0.370904
+-0.213415
+0.803437
+90
+NC_008857
+Glypta fumiferanae ichnovirus
+2199
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.835921
+-0.0875079
+-0.210368
+-0.247143
+0.826204
+91
+NC_008858
+Glypta fumiferanae ichnovirus
+2235
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.776486
+-0.0541309
+-0.219263
+-0.223035
+0.774367
+92
+NC_008859
+Glypta fumiferanae ichnovirus
+2262
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.845478
+-0.00639204
+-0.374924
+-0.208004
+0.81155
+93
+NC_008860
+Glypta fumiferanae ichnovirus
+2285
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.8141
+-0.065786
+-0.265786
+-0.276521
+0.807209
+94
+NC_008861
+Glypta fumiferanae ichnovirus
+2295
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.761317
+-0.0834898
+-0.313671
+-0.214448
+0.826235
+95
+NC_008862
+Glypta fumiferanae ichnovirus
+2298
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.883887
+-0.0876824
+-0.173399
+-0.271768
+0.860802
+96
+NC_008863
+Glypta fumiferanae ichnovirus
+2318
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.812812
+-0.0996261
+-0.241636
+-0.267059
+0.846018
+97
+NC_008864
+Glypta fumiferanae ichnovirus
+2341
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.765202
+-0.0700888
+-0.151672
+-0.312134
+0.563872
+98
+NC_008865
+Glypta fumiferanae ichnovirus
+2358
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.852178
+-0.0654394
+-0.219288
+-0.243459
+0.854549
+99
+NC_008866
+Glypta fumiferanae ichnovirus
+2358
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.818407
+-0.000978683
+-0.352368
+-0.179614
+0.821524
+100
+NC_008867
+Glypta fumiferanae ichnovirus
+2380
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.764844
+-0.0773103
+-0.258554
+-0.261931
+0.816163
+101
+NC_008868
+Glypta fumiferanae ichnovirus
+2395
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.793032
+-0.070412
+-0.186838
+-0.240945
+0.795594
+102
+NC_008869
+Glypta fumiferanae ichnovirus
+2408
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.87451
+0.00702233
+-0.401371
+-0.198925
+0.850692
+103
+NC_008870
+Glypta fumiferanae ichnovirus
+2415
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.730714
+-0.0720322
+-0.308799
+-0.235335
+0.851279
+104
+NC_008871
+Glypta fumiferanae ichnovirus
+2452
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.804049
+-0.00371073
+-0.341737
+-0.201903
+0.835169
+105
+NC_008872
+Glypta fumiferanae ichnovirus
+2454
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.695094
+-0.0931497
+-0.324897
+-0.237017
+0.843307
+106
+NC_008873
+Glypta fumiferanae ichnovirus
+2462
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.786319
+-0.0341048
+-0.249763
+-0.253865
+0.705492
+107
+NC_008874
+Glypta fumiferanae ichnovirus
+2509
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.80373
+-0.00853404
+-0.356586
+-0.232714
+0.748347
+108
+NC_008875
+Glypta fumiferanae ichnovirus
+2540
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.787979
+-0.0813912
+-0.306741
+-0.263053
+0.749654
+109
+NC_008876
+Glypta fumiferanae ichnovirus
+2548
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.965555
+1.
+-0.992317
+0.188135
+-0.363196
+110
+NC_008877
+Glypta fumiferanae ichnovirus
+2572
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.804577
+-0.0930941
+-0.219492
+-0.258887
+0.812026
+111
+NC_008878
+Glypta fumiferanae ichnovirus
+2579
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.72328
+0.0441304
+-0.366954
+-0.172991
+0.772888
+112
+NC_008879
+Glypta fumiferanae ichnovirus
+2590
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.807865
+0.00852161
+-0.366985
+-0.210381
+0.808031
+113
+NC_008880
+Glypta fumiferanae ichnovirus
+2598
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.783994
+0.0162418
+-0.383962
+-0.203427
+0.843059
+114
+NC_008881
+Glypta fumiferanae ichnovirus
+2615
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.795323
+0.0010503
+-0.341566
+-0.234341
+0.756239
+115
+NC_008882
+Glypta fumiferanae ichnovirus
+2625
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.75286
+-0.076473
+-0.246271
+-0.269931
+0.735835
+116
+NC_008883
+Glypta fumiferanae ichnovirus
+2631
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.808078
+-0.0359398
+-0.348734
+-0.218584
+0.839566
+117
+NC_008884
+Glypta fumiferanae ichnovirus
+2636
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.781599
+-0.0582414
+-0.347209
+-0.231165
+0.852745
+118
+NC_008885
+Glypta fumiferanae ichnovirus
+2641
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.749404
+0.0091006
+-0.365116
+-0.211881
+0.81513
+119
+NC_008886
+Glypta fumiferanae ichnovirus
+2646
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.851999
+-0.080129
+-0.197404
+-0.285949
+0.816551
+120
+NC_008887
+Glypta fumiferanae ichnovirus
+2723
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.72959
+-0.0097614
+-0.287414
+-0.214595
+0.793045
+121
+NC_008888
+Glypta fumiferanae ichnovirus
+2723
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.760022
+0.119835
+-0.396358
+-0.1905
+0.782318
+122
+NC_008889
+Glypta fumiferanae ichnovirus
+2738
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.740526
+-0.0828738
+-0.257809
+-0.260696
+0.761081
+123
+NC_008890
+Glypta fumiferanae ichnovirus
+2768
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.739784
+-0.0510208
+-0.230413
+-0.26026
+0.741308
+124
+NC_008891
+Glypta fumiferanae ichnovirus
+2775
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.742511
+-0.0215147
+-0.353758
+-0.213589
+0.817072
+125
+NC_008892
+Glypta fumiferanae ichnovirus
+2785
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.649668
+-0.0660558
+-0.216605
+-0.244933
+0.694691
+126
+NC_008893
+Glypta fumiferanae ichnovirus
+2808
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.718817
+0.0196804
+-0.368137
+-0.200924
+0.75362
+127
+NC_008894
+Glypta fumiferanae ichnovirus
+2819
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.753038
+-0.0953463
+-0.317835
+-0.252351
+0.813743
+128
+NC_008895
+Glypta fumiferanae ichnovirus
+2854
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.711304
+-0.0444609
+-0.246125
+-0.257778
+0.757709
+129
+NC_008896
+Glypta fumiferanae ichnovirus
+2856
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.739458
+-0.0587053
+-0.228426
+-0.257185
+0.786477
+130
+NC_008897
+Glypta fumiferanae ichnovirus
+2871
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.74374
+-0.0512158
+-0.261527
+-0.237826
+0.779626
+131
+NC_008898
+Glypta fumiferanae ichnovirus
+2875
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.692747
+-0.0512573
+-0.283058
+-0.234454
+0.820321
+132
+NC_008899
+Glypta fumiferanae ichnovirus
+2879
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.782096
+-0.0436547
+-0.366557
+-0.222533
+0.859845
+133
+NC_008900
+Glypta fumiferanae ichnovirus
+2924
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.71989
+-0.100361
+-0.221303
+-0.247551
+0.763299
+134
+NC_008901
+Glypta fumiferanae ichnovirus
+2930
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.713534
+-0.0736991
+-0.2427
+-0.249289
+0.773525
+135
+NC_008902
+Glypta fumiferanae ichnovirus
+2933
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.717591
+-0.0728634
+-0.229441
+-0.235982
+0.803874
+136
+NC_008903
+Glypta fumiferanae ichnovirus
+2934
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.704036
+0.137601
+-0.414307
+-0.196709
+0.748555
+137
+NC_008904
+Glypta fumiferanae ichnovirus
+2944
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.716392
+0.0576285
+-0.34979
+-0.219524
+0.749858
+138
+NC_008905
+Glypta fumiferanae ichnovirus
+2997
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.725711
+0.0668779
+-0.38678
+-0.193876
+0.783111
+139
+NC_008906
+Glypta fumiferanae ichnovirus
+3036
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.615147
+-0.0685308
+-0.288732
+-0.229443
+0.781195
+140
+NC_008907
+Glypta fumiferanae ichnovirus
+3058
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.714912
+0.0812281
+-0.41433
+-0.189806
+0.760064
+141
+NC_008908
+Glypta fumiferanae ichnovirus
+3083
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.679321
+-0.0573419
+0.00249922
+-0.453228
+0.25173
+142
+NC_008909
+Glypta fumiferanae ichnovirus
+3111
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.67346
+0.0727367
+-0.357282
+-0.182073
+0.763474
+143
+NC_008910
+Glypta fumiferanae ichnovirus
+3117
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.685061
+0.0253698
+-0.357357
+-0.184031
+0.756633
+144
+NC_008911
+Glypta fumiferanae ichnovirus
+3130
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.72237
+-0.0103635
+-0.210599
+-0.273205
+0.711095
+145
+NC_008912
+Glypta fumiferanae ichnovirus
+3141
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.704021
+-0.0342927
+-0.228498
+-0.25728
+0.705681
+146
+NC_008913
+Glypta fumiferanae ichnovirus
+3157
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.726512
+-0.00922082
+-0.374214
+-0.216825
+0.785545
+147
+NC_008914
+Glypta fumiferanae ichnovirus
+3243
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.699757
+0.152172
+-0.396012
+-0.143875
+0.663628
+148
+NC_008915
+Glypta fumiferanae ichnovirus
+3307
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.661889
+0.0618749
+-0.321996
+-0.229608
+0.748454
+149
+NC_008916
+Glypta fumiferanae ichnovirus
+3331
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.647236
+0.0190439
+-0.312384
+-0.205859
+0.756533
+150
+NC_008917
+Glypta fumiferanae ichnovirus
+3343
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.624813
+-0.0109326
+-0.330481
+-0.222119
+0.787902
+151
+NC_008918
+Glypta fumiferanae ichnovirus
+3357
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.701059
+0.031975
+-0.352015
+-0.219877
+0.776397
+152
+NC_008919
+Glypta fumiferanae ichnovirus
+3391
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.642437
+-0.0445963
+-0.24617
+-0.226696
+0.788867
+153
+NC_008920
+Glypta fumiferanae ichnovirus
+3403
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.632429
+-0.044623
+-0.215876
+-0.246833
+0.733028
+154
+NC_008921
+Glypta fumiferanae ichnovirus
+3498
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.65997
+-0.0721835
+0.684911
+-0.99339
+-0.994242
+155
+NC_008922
+Glypta fumiferanae ichnovirus
+3519
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.58161
+-0.0617471
+-0.217298
+-0.182066
+0.792742
+156
+NC_008923
+Glypta fumiferanae ichnovirus
+3743
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.60353
+-0.0317991
+-0.332369
+-0.217458
+0.851859
+157
+NC_008924
+Glypta fumiferanae ichnovirus
+3761
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.566203
+-0.066217
+-0.287844
+-0.225819
+0.847485
+158
+NC_008925
+Glypta fumiferanae ichnovirus
+3821
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.57299
+0.09218
+0.99812
+1.
+1.
+159
+NC_008926
+Glypta fumiferanae ichnovirus
+4059
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.52027
+-0.000934805
+-0.313605
+-0.197409
+0.765216
+160
+NC_008927
+Glypta fumiferanae ichnovirus
+4066
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.564308
+-0.0114065
+-0.328553
+-0.214545
+0.795783
+161
+NC_008928
+Glypta fumiferanae ichnovirus
+4340
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.513593
+-0.0557633
+-0.261147
+-0.224977
+0.806008
+162
+NC_008929
+Glypta fumiferanae ichnovirus
+4707
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.545019
+0.00971186
+-0.338401
+-0.201978
+0.798345
+163
+NC_008930
+Glypta fumiferanae ichnovirus
+4829
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.450766
+0.0294873
+-0.35017
+-0.175357
+0.748166
+164
+NC_008931
+Glypta fumiferanae ichnovirus
+4886
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.505905
+-0.00253789
+-0.338562
+-0.219368
+0.786363
+165
+NC_008932
+Glypta fumiferanae ichnovirus
+5156
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.898624
+0.0244121
+-0.392313
+-0.216596
+0.767895
+166
+NC_008933
+Glypta fumiferanae ichnovirus
+2060
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.865362
+0.0359433
+-0.409996
+-0.18588
+0.861215
+167
+NC_008934
+Glypta fumiferanae ichnovirus
+2309
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.781218
+0.0196055
+-0.37328
+-0.19408
+0.811596
+168
+NC_008935
+Glypta fumiferanae ichnovirus
+2502
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.83797
+0.00108588
+-0.350695
+-0.197926
+0.799594
+169
+NC_008936
+Glypta fumiferanae ichnovirus
+2588
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.741838
+0.0185656
+-0.372453
+-0.212273
+0.79149
+170
+NC_008937
+Glypta fumiferanae ichnovirus
+2759
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.729813
+-0.0723453
+0.68755
+-1.
+-1.
+171
+NC_008938
+Glypta fumiferanae ichnovirus
+2840
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.747619
+0.0496492
+-0.382591
+-0.22429
+0.776688
+172
+NC_008939
+Glypta fumiferanae ichnovirus
+3008
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.724647
+-0.0878874
+-0.203586
+-0.233166
+0.771857
+173
+NC_008940
+Glypta fumiferanae ichnovirus
+3140
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.544877
+0.09241
+1.
+0.995995
+0.985648
+174
+NC_008941
+Glypta fumiferanae ichnovirus
+4459
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.597789
+-0.141267
+-0.329082
+-0.216201
+0.882937
+175
+NC_008946
+Hyposoter fugitivus ichnovirus (HfIV)
+4692
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.750413
+-0.150848
+-0.332609
+-0.230202
+0.897838
+176
+NC_008947
+Hyposoter fugitivus ichnovirus (HfIV)
+2755
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.656093
+-0.158212
+-0.345776
+-0.227106
+0.911376
+177
+NC_008948
+Hyposoter fugitivus ichnovirus (HfIV)
+4442
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.640798
+-0.117729
+-0.317419
+-0.206729
+0.866684
+178
+NC_008949
+Hyposoter fugitivus ichnovirus (HfIV)
+3510
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.508547
+-0.151055
+-0.334231
+-0.215974
+0.867347
+179
+NC_008950
+Hyposoter fugitivus ichnovirus (HfIV)
+5254
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.690241
+-0.123456
+-0.372023
+-0.211699
+0.874488
+180
+NC_008951
+Hyposoter fugitivus ichnovirus (HfIV)
+3590
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.605714
+-0.142899
+-0.354813
+-0.24282
+0.883069
+181
+NC_008952
+Hyposoter fugitivus ichnovirus (HfIV)
+4063
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.676178
+-0.154161
+-0.352379
+-0.2237
+0.901257
+182
+NC_008953
+Hyposoter fugitivus ichnovirus (HfIV)
+3935
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.613046
+-0.164085
+-0.353561
+-0.236409
+0.868371
+183
+NC_008954
+Hyposoter fugitivus ichnovirus (HfIV)
+4351
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.686616
+-0.162514
+-0.317437
+-0.207822
+0.892723
+184
+NC_008955
+Hyposoter fugitivus ichnovirus (HfIV)
+3548
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.752125
+-0.177106
+-0.349
+-0.25453
+0.902579
+185
+NC_008956
+Hyposoter fugitivus ichnovirus (HfIV)
+3153
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.751352
+-0.135116
+-0.325566
+-0.202863
+0.901838
+186
+NC_008957
+Hyposoter fugitivus ichnovirus (HfIV)
+2851
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.756682
+-0.140898
+-0.358297
+-0.236925
+0.890796
+187
+NC_008958
+Hyposoter fugitivus ichnovirus (HfIV)
+2857
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.733324
+-0.173834
+-0.346587
+-0.258459
+0.906377
+188
+NC_008959
+Hyposoter fugitivus ichnovirus (HfIV)
+3213
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.756561
+-0.18369
+-0.360693
+-0.218581
+0.930499
+189
+NC_008960
+Hyposoter fugitivus ichnovirus (HfIV)
+3225
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.738392
+-0.140474
+-0.354383
+-0.249325
+0.877312
+190
+NC_008961
+Hyposoter fugitivus ichnovirus (HfIV)
+3293
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.723125
+-0.166466
+-0.340793
+-0.230888
+0.927636
+191
+NC_008962
+Hyposoter fugitivus ichnovirus (HfIV)
+3385
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.692137
+-0.133444
+-0.342926
+-0.228866
+0.876767
+192
+NC_008963
+Hyposoter fugitivus ichnovirus (HfIV)
+3573
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.711628
+-0.165723
+-0.350104
+-0.221322
+0.927812
+193
+NC_008964
+Hyposoter fugitivus ichnovirus (HfIV)
+3573
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.676595
+-0.139787
+-0.339477
+-0.235279
+0.87685
+194
+NC_008965
+Hyposoter fugitivus ichnovirus (HfIV)
+3591
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.716006
+-0.149231
+-0.351677
+-0.23882
+0.893902
+195
+NC_008966
+Hyposoter fugitivus ichnovirus (HfIV)
+3638
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.680217
+-0.16453
+-0.321637
+-0.229828
+0.919491
+196
+NC_008967
+Hyposoter fugitivus ichnovirus (HfIV)
+3841
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.683242
+-0.146021
+-0.348166
+-0.24833
+0.87493
+197
+NC_008968
+Hyposoter fugitivus ichnovirus (HfIV)
+3868
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.608989
+-0.137081
+-0.329264
+-0.20046
+0.886001
+198
+NC_008969
+Hyposoter fugitivus ichnovirus (HfIV)
+3957
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.642874
+-0.143847
+-0.357953
+-0.235046
+0.872371
+199
+NC_008970
+Hyposoter fugitivus ichnovirus (HfIV)
+4006
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.676445
+-0.162068
+-0.347221
+-0.220645
+0.892123
+200
+NC_008971
+Hyposoter fugitivus ichnovirus (HfIV)
+4126
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.614429
+-0.162386
+-0.330822
+-0.220043
+0.897685
+201
+NC_008972
+Hyposoter fugitivus ichnovirus (HfIV)
+4144
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.626838
+-0.152079
+-0.351289
+-0.239714
+0.868898
+202
+NC_008973
+Hyposoter fugitivus ichnovirus (HfIV)
+4180
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.66239
+-0.137788
+-0.349215
+-0.229627
+0.870169
+203
+NC_008976
+Hyposoter fugitivus ichnovirus (HfIV)
+4188
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.594083
+-0.124653
+-0.353901
+-0.191846
+0.860805
+204
+NC_008977
+Hyposoter fugitivus ichnovirus (HfIV)
+4225
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.660678
+-0.144828
+-0.356674
+-0.222922
+0.895589
+205
+NC_008978
+Hyposoter fugitivus ichnovirus (HfIV)
+4247
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.674404
+-0.165115
+-0.34046
+-0.22793
+0.880659
+206
+NC_008979
+Hyposoter fugitivus ichnovirus (HfIV)
+4264
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.571795
+-0.133841
+-0.343059
+-0.205616
+0.871359
+207
+NC_008980
+Hyposoter fugitivus ichnovirus (HfIV)
+4367
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.577995
+-0.132225
+-0.322061
+-0.218361
+0.886454
+208
+NC_008981
+Hyposoter fugitivus ichnovirus (HfIV)
+4495
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.602113
+-0.138312
+-0.345309
+-0.222234
+0.890755
+209
+NC_008982
+Hyposoter fugitivus ichnovirus (HfIV)
+4562
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.656277
+-0.146982
+-0.349477
+-0.208459
+0.871715
+210
+NC_008983
+Hyposoter fugitivus ichnovirus (HfIV)
+4720
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.605582
+-0.154896
+-0.369222
+-0.234824
+0.889961
+211
+NC_008984
+Hyposoter fugitivus ichnovirus (HfIV)
+4729
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.580182
+-0.174141
+-0.355006
+-0.241212
+0.906181
+212
+NC_008985
+Hyposoter fugitivus ichnovirus (HfIV)
+4914
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.572964
+-0.173125
+-0.348637
+-0.22355
+0.902517
+213
+NC_008986
+Hyposoter fugitivus ichnovirus (HfIV)
+5047
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.562951
+-0.151745
+-0.348148
+-0.228059
+0.91622
+214
+NC_008987
+Hyposoter fugitivus ichnovirus (HfIV)
+5050
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.578665
+-0.19159
+-0.346564
+-0.230615
+0.975352
+215
+NC_008988
+Hyposoter fugitivus ichnovirus (HfIV)
+5070
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.556612
+-0.138338
+-0.32549
+-0.239832
+0.885025
+216
+NC_008989
+Hyposoter fugitivus ichnovirus (HfIV)
+5108
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.552721
+-0.13679
+-0.338132
+-0.218391
+0.891777
+217
+NC_008990
+Hyposoter fugitivus ichnovirus (HfIV)
+5298
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.541933
+-0.153061
+-0.31975
+-0.239154
+0.872835
+218
+NC_008991
+Hyposoter fugitivus ichnovirus (HfIV)
+5328
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.627535
+-0.188713
+-0.335789
+-0.236104
+0.925822
+219
+NC_008992
+Hyposoter fugitivus ichnovirus (HfIV)
+5353
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.539805
+-0.153378
+-0.325585
+-0.231886
+0.863902
+220
+NC_008993
+Hyposoter fugitivus ichnovirus (HfIV)
+5530
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.542964
+-0.185934
+-0.341879
+-0.239006
+0.962411
+221
+NC_008994
+Hyposoter fugitivus ichnovirus (HfIV)
+5579
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.480319
+-0.146904
+-0.349695
+-0.209671
+0.863585
+222
+NC_008995
+Hyposoter fugitivus ichnovirus (HfIV)
+5848
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.528143
+-0.133394
+-0.341667
+-0.205158
+0.894876
+223
+NC_008996
+Hyposoter fugitivus ichnovirus (HfIV)
+5404
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.500968
+-0.162303
+-0.333922
+-0.206339
+0.849253
+224
+NC_008997
+Hyposoter fugitivus ichnovirus (HfIV)
+6654
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.307837
+-0.138071
+-0.331973
+-0.227414
+0.868262
+225
+NC_008998
+Hyposoter fugitivus ichnovirus (HfIV)
+8851
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.731317
+-0.147791
+-0.344425
+-0.231425
+0.877169
+226
+NC_008999
+Hyposoter fugitivus ichnovirus (HfIV)
+3402
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.637639
+-0.12831
+-0.339964
+-0.241818
+0.847224
+227
+NC_009000
+Hyposoter fugitivus ichnovirus (HfIV)
+3831
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.614453
+-0.163504
+-0.340267
+-0.244931
+0.880965
+228
+NC_009001
+Hyposoter fugitivus ichnovirus (HfIV)
+4461
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.589285
+-0.161751
+-0.341733
+-0.219568
+0.8859
+229
+NC_009002
+Hyposoter fugitivus ichnovirus (HfIV)
+4808
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}
+0.512388
+-0.164439
+-0.350037
+-0.236275
+0.889411
+230
+NC_009003
+Hyposoter fugitivus ichnovirus (HfIV)
+6145
+{root  Viruses  dsDNA viruses no RNA stage  Polydnaviridae  Ichnovirus}

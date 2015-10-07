@@ -1,0 +1,996 @@
+99
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cnidaria (99)
+0.178697
+0.186577
+0.26492
+0.890478
+0.145045
+1
+NC_000933
+mitochondrion Metridium senile (brown sea anemone)
+17443
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Actiniaria  Nynantheae  Metridiidae  Metridium}
+-0.993706
+-0.476442
+-0.118772
+-0.649023
+0.127839
+2
+NC_003522
+mitochondrion Acropora tenuis (purple tipped acropora)
+18338
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.81186
+-0.350483
+-0.00825079
+-0.365574
+0.211978
+3
+NC_006898
+mitochondrion Anacropora matthai (stony coral)
+17888
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Anacropora}
+-0.788651
+-0.335335
+-0.00501103
+-0.358364
+0.216056
+4
+NC_006902
+mitochondrion Montipora cactus (stony coral)
+17887
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Montipora}
+0.156576
+0.792837
+1.
+-1.
+1.
+5
+NC_007224
+mitochondrion Montastraea annularis (boulder star coral)
+16138
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Montastraeidae  Montastraea}
+0.156621
+0.793083
+0.996984
+-0.999089
+0.999653
+6
+NC_007225
+mitochondrion Montastraea franksi (boulder star coral)
+16137
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Montastraeidae  Montastraea}
+0.156519
+0.792762
+0.999985
+-0.99991
+0.999819
+7
+NC_007226
+mitochondrion Montastraea faveolata (mountainous star choral)
+16138
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Montastraeidae  Montastraea}
+-0.077104
+0.103491
+0.35328
+0.622611
+0.25273
+8
+NC_008071
+mitochondrion Discosoma sp. CASIZ 168915 (disc anemone)
+20908
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Corallimorpharia  Discosomatidae  Discosoma}
+-0.0772709
+0.103443
+0.353398
+0.622384
+0.252719
+9
+NC_008072
+mitochondrion Discosoma sp. CASIZ 168916 (disc anemone)
+20912
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Corallimorpharia  Discosomatidae  Discosoma}
+0.928707
+-0.815584
+0.0668776
+-0.461547
+0.199835
+10
+NC_008073
+mitochondrion Briareum asbestinum (deadman's fingers)
+18632
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Briareidae  Briareum}
+0.954013
+-0.913741
+0.102727
+-0.576184
+0.193117
+11
+NC_008157
+mitochondrion Antillogorgia bipinnata (forked sea feather)
+18733
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Holaxonia  Gorgoniidae  Antillogorgia}
+-0.10128
+0.0982886
+0.338167
+0.580995
+0.247587
+12
+NC_008158
+mitochondrion Rhodactis sp. CASIZ 171755 (elephant ear mushroom
+20093
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Corallimorpharia  Discosomatidae  Rhodactis}
+-0.0840289
+0.111897
+0.286583
+0.394272
+0.217644
+13
+NC_008159
+mitochondrion Ricordea florida (mushroom coral)
+21376
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Corallimorpharia  Ricordeidae  Ricordea}
+-0.444541
+-0.117638
+0.179985
+0.0683436
+0.28003
+14
+NC_008160
+mitochondrion Agaricia humilis (lowrelief saucer coral)
+18735
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Agariciidae  Agaricia}
+0.15531
+0.740281
+0.735835
+-0.804278
+0.539714
+15
+NC_008161
+mitochondrion Astrangia sp. JVK-2006 (stony coral)
+14853
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Rhizangiidae  Astrangia}
+0.167519
+0.746025
+0.98509
+-0.927518
+0.918193
+16
+NC_008162
+mitochondrion Colpophyllia natans (boulder brain coral)
+16906
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Mussidae  Faviinae  Colpophyllia}
+0.16692
+0.733949
+0.969116
+-0.903265
+0.887385
+17
+NC_008163
+mitochondrion Mussa angulosa (spiny flower coral)
+17245
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Mussidae  Mussinae  Mussa}
+0.208845
+0.186835
+0.192177
+0.523622
+0.167665
+18
+NC_008164
+mitochondrion Nematostella sp. JVK-2006 (sea anemone)
+16389
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Actiniaria  Edwardsiidae  Nematostella}
+-0.426666
+-0.109767
+0.17699
+0.0849337
+0.289091
+19
+NC_008165
+mitochondrion Pavona clavus (star column coral)
+18315
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Agariciidae  Pavona}
+-0.466393
+-0.06
+0.268647
+0.319423
+0.383662
+20
+NC_008166
+mitochondrion Porites porites (lesser starlet coral)
+18648
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Poritidae  Porites}
+-0.544113
+-0.157233
+0.195187
+0.107085
+0.283403
+21
+NC_008167
+mitochondrion Siderastrea radians (clubbed finger coral)
+19387
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Siderastreidae  Siderastrea}
+0.113881
+0.101277
+0.2445
+0.495788
+0.190328
+22
+NC_008411
+mitochondrion Chrysopathes formosa (black coral)
+18398
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Antipatharia  Cladopathidae  Chrysopathes}
+0.367548
+0.338534
+-0.131137
+-0.0407511
+0.18036
+23
+NC_008446
+mitochondrion Aurelia aurita (moon jelly)
+16937
+{Eukaryota  Metazoa  Cnidaria  Scyphozoa  Semaeostomeae  Ulmaridae  Aurelia}
+0.165416
+0.0774706
+0.212633
+0.414016
+0.209866
+24
+NC_008827
+mitochondrion Savalia savaglia (Mediterranean zoanthid)
+20764
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Zoantharia  Parazoanthidae  Savalia}
+0.172299
+0.73481
+0.63197
+-0.696499
+-0.994343
+25
+NC_009797
+mitochondrion Pocillopora damicornis (cauliflower lace)
+17415
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Pocilloporidae  Pocillopora}
+0.172409
+0.73488
+0.628356
+-0.693969
+-0.99252
+26
+NC_009798
+mitochondrion Pocillopora eydouxi (antler lace)
+17422
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Pocilloporidae  Pocillopora}
+0.343757
+0.597993
+-0.251295
+-0.243315
+0.134225
+27
+NC_010214
+mitochondrion Hydra oligactis (brown hydra)
+16314
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Hydroidolina  Anthoathecata  Aplanulata  Hydridae  Hydra}
+0.168676
+0.735338
+0.62665
+-0.717468
+-1.
+28
+NC_010244
+mitochondrion Seriatopora hystrix (bird's nest coral)
+17059
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Pocilloporidae  Seriatopora}
+0.170688
+0.730247
+0.624518
+-0.716648
+-0.996079
+29
+NC_010245
+mitochondrion Seriatopora caliendrum (stony coral)
+17010
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Pocilloporidae  Seriatopora}
+0.702733
+-0.399997
+0.00692734
+0.0217387
+0.173876
+30
+NC_010764
+mitochondrion Keratoisidinae sp. BAL208-1 (bamboo coral)
+18923
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Calcaxonia  Isididae  unclassified Isididae}
+0.710824
+-0.390242
+-0.00649974
+0.019984
+0.169833
+31
+NC_011016
+mitochondrion Acanella eburnea (bamboo coral)
+18616
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Calcaxonia  Isididae  Acanella}
+0.169566
+0.633573
+0.5967
+-0.599447
+-0.735443
+32
+NC_011160
+mitochondrion Madracis myriaster (yellow finger coral)
+16951
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Pocilloporidae  Madracis}
+0.170938
+0.744915
+0.641124
+-0.721517
+-0.980145
+33
+NC_011162
+mitochondrion Stylophora pistillata (Red Sea coral)
+17177
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Pocilloporidae  Stylophora}
+0.346203
+0.763654
+-0.460581
+-0.375574
+0.168209
+34
+NC_011220
+mitochondrion Hydra vulgaris (hydra)
+8194
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Hydroidolina  Anthoathecata  Aplanulata  Hydridae  Hydra}
+0.356738
+0.748534
+-0.413986
+-0.371793
+0.176017
+35
+NC_011221
+mitochondrion Hydra vulgaris (hydra)
+7686
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Hydroidolina  Anthoathecata  Aplanulata  Hydridae  Hydra}
+0.998735
+-0.990926
+0.10018
+-0.643608
+0.196379
+36
+NC_013573
+mitochondrion Dendronephthya gigantea (soft coral)
+18842
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+0.113414
+0.496914
+0.422952
+-0.327195
+0.175684
+37
+NC_015143
+mitochondrion Lophelia pertusa
+16150
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Caryophylliina  Caryophylliidae  Lophelia}
+0.575375
+-0.194944
+0.0210643
+0.191577
+0.137356
+38
+NC_015405
+mitochondrion Paracorallium japonicum (Japanese precious coral)
+18913
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Paracorallium}
+0.871569
+-0.750619
+0.0660613
+-0.342569
+0.17802
+39
+NC_015406
+mitochondrion Corallium konojoi (Japanese precious coral)
+18969
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Corallium}
+-0.476973
+-0.127924
+0.222707
+0.208371
+0.312323
+40
+NC_015640
+mitochondrion Fungiacyathus stephanus (stony coral)
+19381
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Fungiacyathidae  Fungiacyathus}
+-0.482106
+-0.157178
+0.133916
+-0.00961243
+0.255201
+41
+NC_015641
+mitochondrion Euphyllia ancora (hammer coral)
+18875
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Caryophylliina  Caryophylliidae  Euphyllia}
+0.178901
+0.714333
+0.498101
+-0.662016
+0.26894
+42
+NC_015642
+mitochondrion Polycyathus sp. MFL-2011 (stony coral)
+15357
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Caryophylliina  Caryophylliidae  Polycyathus}
+-0.465958
+-0.0694587
+0.263944
+0.286082
+0.374537
+43
+NC_015643
+mitochondrion Goniopora columna (Daisy coral)
+18766
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Poritidae  Goniopora}
+-0.479886
+-0.0659854
+0.265535
+0.304844
+0.381698
+44
+NC_015644
+mitochondrion Porites okinawensis (hump coral)
+18647
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Poritidae  Porites}
+0.353609
+0.458668
+-0.17192
+-0.130737
+0.120671
+45
+NC_016463
+mitochondrion Laomedea flexuosa (colonial hydrozoan)
+16075
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Hydroidolina  Leptothecata  Campanulariidae  Laomedea}
+0.361298
+0.51614
+-0.207985
+-0.164893
+0.139109
+46
+NC_016465
+mitochondrion Clava multicornis (club hydroid)
+16898
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Hydroidolina  Anthoathecata  Filifera  Hydractiniidae  Clava}
+0.352908
+0.42547
+-0.162123
+-0.090397
+0.144978
+47
+NC_016466
+mitochondrion Cassiopea frondosa (upside-down jellyfish)
+15949
+{Eukaryota  Metazoa  Cnidaria  Scyphozoa  Rhizostomeae  Cassiopeidae  Cassiopea}
+0.320347
+0.387401
+-0.0844208
+-0.0401725
+0.157994
+48
+NC_016467
+mitochondrion Cubaia aphrodite (hydrozoan)
+16148
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Trachylinae  Limnomedusae  Olindiasidae  Cubaia}
+0.385762
+0.884632
+-0.87471
+-0.443948
+0.324905
+49
+NC_016988
+mitochondrion Alatina moseri
+4596
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.368125
+0.874097
+-0.838163
+-0.443201
+0.332758
+50
+NC_017008
+mitochondrion Alatina moseri
+4592
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.383227
+0.92253
+-0.915486
+-0.447541
+0.333849
+51
+NC_017009
+mitochondrion Alatina moseri
+4000
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.383829
+0.968321
+-0.949226
+-0.502496
+0.325332
+52
+NC_017010
+mitochondrion Alatina moseri
+3379
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.387163
+0.950941
+-0.951496
+-0.503414
+0.344552
+53
+NC_017011
+mitochondrion Alatina moseri
+3084
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.393637
+0.981857
+-0.971756
+-0.519033
+0.339744
+54
+NC_017012
+mitochondrion Alatina moseri
+2946
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.387593
+0.993528
+-0.96135
+-0.525405
+0.330594
+55
+NC_017013
+mitochondrion Alatina moseri
+2943
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.390196
+1.
+-1.
+-0.518015
+0.339654
+56
+NC_017014
+mitochondrion Alatina moseri
+2811
+{Eukaryota  Metazoa  Cnidaria  Cubozoa  Carybdeida  Alatinidae  Alatina}
+0.162931
+0.605911
+0.361384
+-0.477823
+0.116366
+57
+NC_018364
+mitochondrion Madrepora oculata (zigzag coral)
+15841
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Oculinidae  Madrepora}
+0.126219
+0.147583
+0.272283
+0.438381
+0.162728
+58
+NC_018377
+mitochondrion Stichopathes lutkeni (black sea whip)
+20448
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Antipatharia  Antipathidae  Stichopathes}
+0.842476
+-0.683727
+0.0709062
+-0.388742
+0.18287
+59
+NC_018378
+mitochondrion Renilla muelleri (Mueller's sea pansy)
+18643
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Pennatulacea  Sessiliflorae  Renillidae  Renilla}
+0.970772
+-0.918124
+0.0810173
+-0.576798
+0.19841
+60
+NC_018379
+mitochondrion Sinularia peculiaris
+18742
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Alcyoniidae  Sinularia}
+0.899927
+-0.80382
+0.0791644
+-0.428967
+0.191725
+61
+NC_018380
+mitochondrion Stylatula elongata (slender sea pen)
+18733
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Pennatulacea  Subselliflorae  Virgulariidae  Stylatula}
+0.283641
+0.215723
+0.0460019
+0.158582
+0.192232
+62
+NC_018537
+mitochondrion Craspedacusta sowerbyi (freshwater jellyfish)
+17922
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Trachylinae  Limnomedusae  Olindiidae  Craspedacusta}
+0.864243
+-0.751261
+0.07305
+-0.350134
+0.178725
+63
+NC_018790
+mitochondrion Paraminabea aldersladei (Alderslade's carrot coral)
+19886
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Alcyoniidae  Paraminabea}
+0.156687
+0.769051
+0.951188
+-0.957444
+0.931093
+64
+NC_020049
+mitochondrion Platygyra carnosus
+16463
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Faviina  Merulinidae  Platygyra}
+0.913296
+-0.792347
+0.0707387
+-0.429622
+0.187098
+65
+NC_020375
+mitochondrion Heliopora coerulea (blue coral)
+18957
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Helioporacea  Helioporidae  Heliopora}
+0.998981
+-0.989505
+0.101368
+-0.642425
+0.1969
+66
+NC_020456
+mitochondrion Dendronephthya mollis
+18844
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+0.941379
+-0.917301
+0.108247
+-0.561987
+0.199231
+67
+NC_020457
+mitochondrion Echinogorgia complexa
+19445
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Holaxonia  Paramuriceidae  Echinogorgia}
+0.984929
+-0.962564
+0.102693
+-0.583399
+0.204061
+68
+NC_020458
+mitochondrion Euplexaura crassa
+18674
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Holaxonia  Plexauridae  Euplexaura}
+0.341264
+0.375316
+-0.0925917
+-0.0376941
+0.14019
+69
+NC_020459
+mitochondrion Chrysaora quinquecirrha
+16775
+{Eukaryota  Metazoa  Cnidaria  Scyphozoa  Semaeostomeae  Pelagiidae  Chrysaora}
+0.341247
+0.584838
+-0.265594
+-0.255141
+0.139005
+70
+NC_021406
+mitochondrion Hydra sinensis
+16189
+{Eukaryota  Metazoa  Cnidaria  Hydrozoa  Hydroidolina  Anthoathecata  Aplanulata  Hydridae  Hydra}
+0.183677
+0.154287
+0.261003
+0.743595
+0.143702
+71
+NC_022265
+mitochondrion Aiptasia pulchella
+19791
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Actiniaria  Aiptasiidae  Aiptasia}
+0.170607
+0.118668
+0.308973
+1.
+0.125277
+72
+NC_022469
+mitochondrion Urticina eques
+20458
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Actiniaria  Nynantheae  Actiniidae  Urticina}
+0.16239
+0.137225
+0.304758
+0.977167
+0.136907
+73
+NC_022470
+mitochondrion Bolocera tuediae
+19143
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Actiniaria  Nynantheae  Actiniidae  Bolocera}
+0.183909
+0.179143
+0.284633
+0.939468
+0.137078
+74
+NC_022471
+mitochondrion Hormathia digitata
+18754
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Actiniaria  Nynantheae  Hormathiidae  Hormathia}
+0.871497
+-0.751733
+0.0654496
+-0.341685
+0.178395
+75
+NC_022804
+mitochondrion Corallium elatius
+18969
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Corallium}
+1.
+-0.998193
+0.0996614
+-0.644667
+0.196199
+76
+NC_022809
+mitochondrion Dendronephthya suensoni
+18851
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+-0.999848
+-0.484242
+-0.119581
+-0.650366
+0.128468
+77
+NC_022823
+mitochondrion Acropora humilis
+18479
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.999783
+-0.484207
+-0.119952
+-0.650683
+0.128582
+78
+NC_022824
+mitochondrion Acropora muricata
+18481
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.998462
+-0.481744
+-0.1191
+-0.651782
+0.129065
+79
+NC_022825
+mitochondrion Acropora horrida
+18480
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.999756
+-0.484336
+-0.119526
+-0.651387
+0.128627
+80
+NC_022826
+mitochondrion Acropora hyacinthus
+18566
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.999727
+-0.484224
+-0.119969
+-0.650343
+0.127834
+81
+NC_022827
+mitochondrion Acropora aspera
+18479
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-1.
+-0.48357
+-0.119031
+-0.650399
+0.130146
+82
+NC_022828
+mitochondrion Acropora florida
+18365
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.996635
+-0.477696
+-0.116976
+-0.647052
+0.130265
+83
+NC_022829
+mitochondrion Acropora yongei
+18342
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.999809
+-0.48413
+-0.11972
+-0.650304
+0.128546
+84
+NC_022830
+mitochondrion Acropora digitifera
+18479
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.997707
+-0.486083
+-0.120034
+-0.649161
+0.126587
+85
+NC_022831
+mitochondrion Acropora nasuta
+18481
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.998564
+-0.484661
+-0.118623
+-0.652205
+0.123259
+86
+NC_022832
+mitochondrion Acropora divaricata
+18481
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+-0.998984
+-0.486421
+-0.117323
+-0.651206
+0.127238
+87
+NC_022833
+mitochondrion Acropora robusta
+18480
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Acropora}
+0.576828
+-0.195823
+0.0252989
+0.187146
+0.13584
+88
+NC_022864
+mitochondrion Corallium rubrum
+18915
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Corallium}
+0.998572
+-0.991055
+0.100207
+-0.644022
+0.196399
+89
+NC_023343
+mitochondrion Dendronephthya castanea
+18907
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+0.994202
+-1.
+0.090272
+-0.620592
+0.198909
+90
+NC_023344
+mitochondrion Scleronephthya gracillimum
+18950
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Scleronephthya}
+0.668043
+-0.509402
+0.124647
+-0.249746
+0.191055
+91
+NC_023345
+mitochondrion Calicogorgia granulosa
+20246
+{Eukaryota  Metazoa  Cnidaria  Calicogorgia}
+-0.958423
+-0.457381
+-0.104209
+-0.609445
+0.132568
+92
+NC_024089
+mitochondrion Isopora togianensis
+18637
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Isopora}
+-0.810094
+-0.347041
+-0.0241636
+-0.370369
+0.191484
+93
+NC_024090
+mitochondrion Astreopora explanata
+18106
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Astreopora}
+-0.963397
+-0.457784
+-0.104868
+-0.606626
+0.133478
+94
+NC_024091
+mitochondrion Isopora palifera
+18725
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Isopora}
+-0.805881
+-0.348354
+-0.0262225
+-0.368765
+0.18914
+95
+NC_024092
+mitochondrion Astreopora myriophthalma
+18106
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Astrocoeniina  Acroporidae  Astreopora}
+0.891585
+-0.794609
+0.0729699
+-0.421998
+0.18545
+96
+NC_024181
+mitochondrion Junceella fragilis
+18724
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Calcaxonia  Ellisellidae  Junceella}
+-0.479593
+-0.0648751
+0.268863
+0.317653
+0.386708
+97
+NC_024182
+mitochondrion Porites panamensis
+18628
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Fungiina  Poritidae  Porites}
+-0.523588
+-0.114254
+0.248668
+0.247649
+0.369246
+98
+NC_024671
+mitochondrion Turbinaria peltata (bowl coral)
+18966
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Dendrophylliina  Dendrophylliidae  Turbinaria}
+0.110868
+0.496976
+0.423824
+-0.329155
+0.176667
+99
+NC_025472
+mitochondrion Solenosmilia variabilis
+15968
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Hexacorallia  Scleractinia  Caryophylliina  Caryophylliidae  Solenosmilia}

@@ -1,0 +1,506 @@
+50
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Colubroidea (50)
+0.158363
+-0.882245
+-0.907973
+0.967098
+-0.373806
+1
+NC_001945
+mitochondrion Lycodon semicarinatus (colubrid snake)
+17191
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Lycodon}
+0.882479
+0.688573
+-0.498005
+0.574556
+-0.130319
+2
+NC_007397
+mitochondrion Ovophis okinavensis (himehabu)
+17388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Ovophis}
+0.827319
+0.715877
+-0.468914
+0.593676
+-0.0897215
+3
+NC_009768
+mitochondrion Agkistrodon piscivorus (cottonmouth)
+17213
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Agkistrodon}
+0.0862018
+-0.932269
+-0.900203
+0.882984
+-0.402889
+4
+NC_009769
+mitochondrion Pantherophis slowinskii (Slowinski's corn snake)
+17189
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Pantherophis}
+0.254986
+-0.448911
+-0.499707
+0.599387
+0.367534
+5
+NC_010200
+mitochondrion Enhydris plumbea (rice paddy snake)
+17397
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Homalopsidae  Enhydris}
+0.675136
+0.461456
+-0.40545
+0.605452
+-0.000554606
+6
+NC_010223
+mitochondrion Deinagkistrodon acutus (Chinese moccasin)
+17548
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Deinagkistrodon}
+0.241045
+-0.887657
+0.994836
+0.772681
+-1.
+7
+NC_010225
+mitochondrion Naja naja (Indian cobra)
+17213
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Elapidae  Elapinae  Naja}
+0.236006
+-0.876619
+1.
+0.77907
+-0.995457
+8
+NC_011389
+mitochondrion Naja atra (Chinese cobra)
+17216
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Elapidae  Elapinae  Naja}
+0.874776
+0.781893
+-0.47228
+0.583346
+0.114187
+9
+NC_011390
+mitochondrion Gloydius brevicaudus (short-tailed mamushi)
+17227
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Gloydius}
+0.535913
+0.0485209
+-0.387097
+0.607373
+0.595625
+10
+NC_011391
+mitochondrion Daboia russelii (Russell's viper)
+17246
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Viperinae  Daboia}
+0.266179
+-0.719821
+0.0876565
+0.636433
+0.299516
+11
+NC_011392
+mitochondrion Bungarus multicinctus (many-banded krait)
+17144
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Elapidae  Bungarinae  Bungarus}
+0.233314
+-0.71646
+0.0997398
+0.593845
+0.280515
+12
+NC_011393
+mitochondrion Bungarus fasciatus (banded krait)
+17234
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Elapidae  Bungarinae  Bungarus}
+0.168628
+-0.693937
+0.130904
+0.636829
+-0.0357827
+13
+NC_011394
+mitochondrion Ophiophagus hannah (king cobra)
+17267
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Elapidae  Elapinae  Ophiophagus}
+0.335307
+-0.293474
+-0.31453
+0.574984
+1.
+14
+NC_011576
+mitochondrion Achalinus meiguensis (Sichuan odd-scaled snake)
+17239
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Xenodermatidae  Achalinus}
+0.87348
+0.677418
+-0.510213
+0.621873
+-0.2346
+15
+NC_012146
+mitochondrion Trimeresurus stejnegeri stejnegeri (Taiwan green tree
+17239
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Trimeresurus}
+0.144166
+-0.962003
+-0.958449
+0.923754
+-0.429194
+16
+NC_012770
+mitochondrion Oreocryptophis porphyraceus (Black-banded rat snake)
+17167
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Oreocryptophis}
+0.150986
+-0.539282
+-0.514102
+0.62382
+-0.173825
+17
+NC_012816
+mitochondrion Thermophis zhaoermii (Sichuan hot spring keelback)
+17322
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Thermophis}
+0.525436
+0.00954884
+-0.452386
+0.583276
+0.721815
+18
+NC_013479
+mitochondrion Causus defilippii (snouted night adder)
+17342
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Viperinae  Causus}
+0.237901
+-0.651798
+0.12784
+0.620357
+0.0944935
+19
+NC_013481
+mitochondrion Micrurus fulvius (eastern coral snake)
+17506
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Elapidae  Elapinae  Micrurus}
+-0.685993
+0.431237
+-0.450286
+0.629836
+-0.0620079
+20
+NC_013975
+mitochondrion Hypsiglena jani texana (Texas nightsnake)
+17203
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-1.
+0.819896
+-0.451006
+0.612814
+-0.285784
+21
+NC_013977
+mitochondrion Hypsiglena chlorophaea chlorophaea (Sonoran
+17209
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.945341
+0.800903
+-0.458018
+0.598984
+-0.257215
+22
+NC_013980
+mitochondrion Hypsiglena ochrorhyncha ochrorhyncha (Cape
+17208
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.14114
+-0.206075
+-0.462825
+0.633899
+0.330891
+23
+NC_013981
+mitochondrion Pseudoleptodeira latifasciata (false cat-eyed snake)
+18329
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Pseudoleptodeira}
+-0.948642
+0.748382
+-0.464671
+0.605426
+-0.260734
+24
+NC_013982
+mitochondrion Hypsiglena sp. DGM2008 (nightsnake)
+17205
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.936717
+0.80542
+-0.461817
+0.586981
+-0.302141
+25
+NC_013983
+mitochondrion Hypsiglena ochrorhyncha nuchalata (California
+17207
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.968157
+0.833138
+-0.455498
+0.576487
+-0.276528
+26
+NC_013984
+mitochondrion Hypsiglena ochrorhyncha klauberi (San Diego
+17205
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.0974839
+-0.261829
+-0.449539
+0.628659
+0.428615
+27
+NC_013985
+mitochondrion Sibon nebulatus (cloudy snail-eating snake)
+22887
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Sibon}
+-0.602516
+0.334418
+-0.452769
+0.582531
+-0.0587064
+28
+NC_013987
+mitochondrion Hypsiglena slevini (Baja California nightsnake)
+17197
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.11625
+-0.290688
+-0.482361
+0.616216
+0.299465
+29
+NC_013988
+mitochondrion Imantodes cenchoa (blunthead tree snake)
+22144
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Imantodes}
+-0.996313
+0.821492
+-0.442449
+0.613804
+-0.296737
+30
+NC_013989
+mitochondrion Hypsiglena chlorophaea deserticola (Great Basin
+17209
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+-0.109869
+-0.28326
+-0.468461
+0.58107
+0.313009
+31
+NC_013990
+mitochondrion Leptodeira polysticta (northern cat-eyed snake)
+23038
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Leptodeira}
+-0.867229
+0.705094
+-0.459618
+0.584322
+-0.254449
+32
+NC_013992
+mitochondrion Hypsiglena torquata (night snake)
+17203
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+0.793972
+0.526591
+-0.443256
+0.591557
+0.102235
+33
+NC_014400
+mitochondrion Crotalus horridus (timber rattlesnake)
+17260
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Crotalus}
+0.223419
+-0.350385
+-0.461799
+0.558123
+0.241981
+34
+NC_015793
+mitochondrion Nerodia sipedon (Brown Water Snake)
+17706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Natricinae  Nerodia}
+0.168578
+-0.911344
+-0.713289
+-0.99359
+-0.514065
+35
+NC_016424
+mitochondrion Sibynophis collaris (collared black-headed snake)
+17163
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Sibynophiinae  Sibynophis}
+0.980291
+0.973199
+-0.587659
+0.62084
+-0.947771
+36
+NC_021402
+mitochondrion Protobothrops jerdonii
+17239
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.969316
+0.873199
+-0.550474
+0.636726
+-0.807497
+37
+NC_021412
+mitochondrion Protobothrops mucrosquamatus
+17234
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.109831
+-0.998296
+-0.963397
+0.891324
+-0.422175
+38
+NC_022146
+mitochondrion Oocatochus rufodorsatus (frog-eating rat snake)
+17159
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Oocatochus}
+0.165438
+-0.914671
+-0.706644
+-1.
+-0.514888
+39
+NC_022430
+mitochondrion Sibynophis chinensis (Chinese many-tooth snake)
+17163
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Sibynophiinae  Sibynophis}
+1.
+0.968965
+-0.544584
+0.651388
+-0.977465
+40
+NC_022473
+mitochondrion Protobothrops dabieshanensis
+17193
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.965406
+0.922524
+-0.527266
+0.650434
+-0.941958
+41
+NC_022695
+mitochondrion Protobothrops cornutus
+17219
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.818264
+0.537978
+-0.520422
+0.611982
+-0.141465
+42
+NC_022820
+mitochondrion Trimeresurus albolabris (white-lipped tree viper)
+17220
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Trimeresurus}
+-0.956603
+0.767181
+-0.459855
+0.602009
+-0.302
+43
+NC_024164
+mitochondrion Hypsiglena unaocularus (Islas Revillagigedo
+17211
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Dipsadidae  Hypsiglena}
+0.177204
+-0.919681
+-0.957489
+0.873622
+-0.430729
+44
+NC_024546
+mitochondrion Euprepiophis perlacea (Szechwan rat snake)
+17160
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Euprepiophis}
+0.127784
+-0.870199
+-0.927326
+1.
+-0.366134
+45
+NC_024559
+mitochondrion Lycodon rufozonatus (red-banded snake)
+17188
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Lycodon}
+0.178671
+-1.
+-1.
+0.867081
+-0.447141
+46
+NC_024743
+mitochondrion Elaphe bimaculata
+17183
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Elaphe}
+0.135618
+-0.954262
+-0.952402
+0.884575
+-0.402213
+47
+NC_025275
+mitochondrion Orthriophis taeniurus (beauty snake)
+17183
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Orthriophis}
+0.989109
+1.
+-0.500241
+0.55759
+0.314729
+48
+NC_025560
+mitochondrion Gloydius intermedius (Central Asian pitviper)
+17226
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Gloydius}
+0.182916
+-0.964027
+-0.9803
+0.872587
+-0.385617
+49
+NC_025643
+mitochondrion Elaphe davidi
+17117
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Elaphe}
+0.990078
+0.987931
+-0.502211
+0.566545
+0.299794
+50
+NC_025666
+mitochondrion Gloydius saxatilis
+17218
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Gloydius}

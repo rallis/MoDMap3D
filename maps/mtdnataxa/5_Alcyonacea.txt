@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Alcyonacea (18)
+-0.500996
+0.167522
+-0.738829
+-0.713691
+0.386225
+1
+NC_008073
+mitochondrion Briareum asbestinum (deadman's fingers)
+18632
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Briareidae  Briareum}
+-0.798069
+-0.36331
+-0.163804
+-1.
+-1.
+2
+NC_008157
+mitochondrion Antillogorgia bipinnata (forked sea feather)
+18733
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Holaxonia  Gorgoniidae  Antillogorgia}
+0.68367
+-1.
+-1.
+0.919791
+-0.493623
+3
+NC_010764
+mitochondrion Keratoisidinae sp. BAL208-1 (bamboo coral)
+18923
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Calcaxonia  Isididae  unclassified Isididae}
+0.68173
+-0.994994
+-0.999873
+0.921819
+-0.47542
+4
+NC_011016
+mitochondrion Acanella eburnea (bamboo coral)
+18616
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Calcaxonia  Isididae  Acanella}
+-0.999257
+-0.732349
+0.372266
+0.732792
+0.050629
+5
+NC_013573
+mitochondrion Dendronephthya gigantea (soft coral)
+18842
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+1.
+-0.47739
+0.998839
+-0.716678
+-0.0562084
+6
+NC_015405
+mitochondrion Paracorallium japonicum (Japanese precious coral)
+18913
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Paracorallium}
+-0.175893
+0.999472
+0.212981
+1.
+-0.591588
+7
+NC_015406
+mitochondrion Corallium konojoi (Japanese precious coral)
+18969
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Corallium}
+-0.775407
+-0.301311
+-0.214225
+-0.876828
+-0.745273
+8
+NC_018379
+mitochondrion Sinularia peculiaris
+18742
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Alcyoniidae  Sinularia}
+-0.266334
+0.695484
+-0.184244
+0.281302
+-0.0951798
+9
+NC_018790
+mitochondrion Paraminabea aldersladei (Alderslade's carrot coral)
+19886
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Alcyoniidae  Paraminabea}
+-0.998713
+-0.734926
+0.372736
+0.724393
+0.0531869
+10
+NC_020456
+mitochondrion Dendronephthya mollis
+18844
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+-0.833533
+-0.488067
+-0.0214444
+-0.645018
+-0.764853
+11
+NC_020457
+mitochondrion Echinogorgia complexa
+19445
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Holaxonia  Paramuriceidae  Echinogorgia}
+-0.837866
+-0.381445
+-0.145524
+-0.858096
+-0.871512
+12
+NC_020458
+mitochondrion Euplexaura crassa
+18674
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Holaxonia  Plexauridae  Euplexaura}
+-0.17684
+1.
+0.209492
+0.998814
+-0.595706
+13
+NC_022804
+mitochondrion Corallium elatius
+18969
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Corallium}
+-1.
+-0.729175
+0.361646
+0.697015
+0.0385189
+14
+NC_022809
+mitochondrion Dendronephthya suensoni
+18851
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+0.996345
+-0.480137
+1.
+-0.722907
+-0.0481579
+15
+NC_022864
+mitochondrion Corallium rubrum
+18915
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Scleraxonia  Coralliidae  Corallium}
+-0.99975
+-0.730641
+0.37323
+0.735428
+0.0519659
+16
+NC_023343
+mitochondrion Dendronephthya castanea
+18907
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Dendronephthya}
+-0.950303
+-0.650817
+0.246108
+0.315339
+-0.129486
+17
+NC_023344
+mitochondrion Scleronephthya gracillimum
+18950
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Alcyoniina  Nephtheidae  Scleronephthya}
+-0.42874
+0.141356
+-0.819512
+-0.900891
+1.
+18
+NC_024181
+mitochondrion Junceella fragilis
+18724
+{Eukaryota  Metazoa  Cnidaria  Anthozoa  Octocorallia  Alcyonacea  Calcaxonia  Ellisellidae  Junceella}

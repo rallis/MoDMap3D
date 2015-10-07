@@ -1,0 +1,136 @@
+13
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Diprotodontia (13)
+-1.
+-0.296344
+-0.165651
+-0.0897789
+0.282769
+1
+NC_001794
+mitochondrion Macropus robustus (wallaroo)
+16896
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Macropodidae  Macropus}
+0.549979
+1.
+-0.0484646
+0.462493
+0.800932
+2
+NC_003039
+mitochondrion Trichosurus vulpecula (common brushtail)
+17191
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Phalangeridae  Trichosurus}
+0.641749
+0.685269
+-0.313561
+-0.00038308
+-1.
+3
+NC_003322
+mitochondrion Vombatus ursinus (common wombat)
+16996
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Vombatidae  Vombatus}
+0.975803
+-0.716116
+1.
+0.403818
+-0.452285
+4
+NC_006518
+mitochondrion Tarsipes rostratus (honey possum)
+15744
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Tarsipedidae  Tarsipes}
+1.
+-0.774098
+-1.
+1.
+-0.288913
+5
+NC_006519
+mitochondrion Pseudocheirus peregrinus (common ring-tailed possum)
+16022
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Pseudocheiridae  Pseudocheirus}
+-0.60749
+0.0715719
+-0.0683376
+0.173851
+-0.0427678
+6
+NC_006524
+mitochondrion Potorous tridactylus (long-nosed potoroo)
+16922
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Potoroidae  Potorous}
+0.912161
+0.466805
+-0.288016
+-1.
+-0.322635
+7
+NC_008133
+mitochondrion Phascolarctos cinereus (koala)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Phascolarctidae  Phascolarctos}
+0.803019
+-0.575511
+-0.405579
+-0.734995
+0.418542
+8
+NC_008134
+mitochondrion Dactylopsila trivirgata (striped possum)
+16058
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Petauridae  Dactylopsila}
+0.913642
+-1.
+-0.203853
+-0.0530825
+1.
+9
+NC_008135
+mitochondrion Petaurus breviceps (sugar glider)
+16103
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Petauridae  Petaurus}
+-0.838639
+-0.448154
+-0.10205
+-0.221739
+0.122302
+10
+NC_008136
+mitochondrion Lagorchestes hirsutus (rufous hare-wallaby)
+16889
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Macropodidae  Lagorchestes}
+0.63992
+0.991568
+-0.0184933
+0.426956
+0.818899
+11
+NC_008137
+mitochondrion Phalanger vestitus (Stein's cuscus)
+15318
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Phalangeridae  Phalanger}
+0.546342
+-0.320718
+0.187365
+-0.00651576
+0.179127
+12
+NC_008145
+mitochondrion Distoechurus pennatus (New Guinean feather-tailed
+16775
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Acrobatidae  Distoechurus}
+-0.715013
+-0.0752556
+-0.222085
+0.427228
+-0.157743
+13
+NC_008447
+mitochondrion Lagostrophus fasciatus (banded hare-wallaby)
+16866
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Metatheria  Diprotodontia  Macropodidae  Lagostrophus}

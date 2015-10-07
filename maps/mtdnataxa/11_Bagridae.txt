@@ -1,0 +1,256 @@
+25
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Bagridae (25)
+-0.58222
+0.813081
+0.475726
+-0.286565
+0.47702
+1
+NC_004697
+mitochondrion Pseudobagrus tokiensis (bagrid catfish)
+16529
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.99675
+-0.956383
+0.144194
+-0.217497
+0.977689
+2
+NC_014586
+mitochondrion Leiocassis longirostris (Chinese longsnout catfish)
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Leiocassis}
+-0.981539
+-0.932815
+0.158858
+-0.204715
+0.940206
+3
+NC_014859
+mitochondrion Tachysurus nitidus (bagrid catfish)
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.789614
+0.0276475
+0.308668
+-0.291363
+0.733885
+4
+NC_014862
+mitochondrion Tachysurus vachellii (bagrid catfish)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.573097
+0.810179
+0.462597
+-0.264952
+0.440508
+5
+NC_015625
+mitochondrion Pseudobagrus brevicorpus (Korean stumpy bullhead)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+0.257245
+0.00754485
+-0.262285
+1.
+0.803208
+6
+NC_015809
+mitochondrion Auchenoglanis occidentalis (bubu)
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Auchenoglanis}
+-0.602788
+0.998416
+0.538631
+-0.339019
+0.870332
+7
+NC_015888
+mitochondrion Tachysurus fulvidraco
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.697161
+0.33666
+0.352591
+-0.266664
+0.77967
+8
+NC_018768
+mitochondrion Tachysurus eupogon (shorthead catfish)
+16562
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+0.430391
+-0.0626608
+-0.939313
+-1.
+0.618994
+9
+NC_019592
+mitochondrion Hemibagrus macropterus (Chinese catfish)
+16530
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+-0.910295
+-0.796251
+0.154481
+-0.192507
+0.822321
+10
+NC_020344
+mitochondrion Pseudobagrus ussuriensis (Ussuri catfish)
+16536
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.945732
+-0.891387
+0.143807
+-0.231367
+0.948039
+11
+NC_021393
+mitochondrion Pseudobagrus brevicaudatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-1.
+-1.
+0.158438
+-0.203978
+1.
+12
+NC_021394
+mitochondrion Pseudobagrus crassilabris
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.744121
+-0.492253
+0.137466
+-0.107227
+-1.
+13
+NC_021395
+mitochondrion Pseudobagrus truncatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.201356
+0.154275
+0.0977645
+-0.0441722
+0.691839
+14
+NC_022705
+mitochondrion Pseudobagrus trilineatus
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.565849
+0.752687
+0.465336
+-0.266208
+0.52338
+15
+NC_022725
+mitochondrion Pseudobagrus ondon
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.977851
+-0.986521
+0.145262
+-0.216312
+0.989116
+16
+NC_022726
+mitochondrion Pseudobagrus albomarginatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+0.907634
+-0.698497
+0.84609
+-0.31307
+0.568716
+17
+NC_023222
+mitochondrion Hemibagrus spilopterus
+16521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+0.393982
+-0.0627375
+-0.180348
+0.265013
+0.190919
+18
+NC_023223
+mitochondrion Mystus rhegma
+16525
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Mystus}
+0.289898
+0.0404727
+-0.341518
+0.793969
+0.982388
+19
+NC_023376
+mitochondrion Rita rita
+16449
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Rita}
+-0.597824
+1.
+0.541502
+-0.340384
+0.868438
+20
+NC_023767
+mitochondrion Tachysurus fulvidraco
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+0.453907
+-0.00398548
+-1.
+-0.964066
+0.652131
+21
+NC_023976
+mitochondrion Hemibagrus guttatus
+16528
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+0.998109
+-0.797458
+0.998589
+-0.382603
+0.606238
+22
+NC_024273
+mitochondrion Hemibagrus nemurus (Asian redtail catfish)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+1.
+-0.806445
+1.
+-0.379341
+0.609835
+23
+NC_024278
+mitochondrion Hemibagrus wyckioides
+16525
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+-0.740688
+-0.480751
+0.124946
+-0.107189
+-0.99812
+24
+NC_024279
+mitochondrion Pseudobagrus emarginatus
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.828396
+-0.575855
+0.167492
+-0.183113
+0.422365
+25
+NC_024456
+mitochondrion Tachysurus nitidus
+16540
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}

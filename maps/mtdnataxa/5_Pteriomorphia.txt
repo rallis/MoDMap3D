@@ -1,0 +1,346 @@
+34
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Pteriomorphia (34)
+1.
+0.108397
+-0.143253
+-0.211927
+-0.52312
+1
+NC_001276
+mitochondrion Crassostrea gigas (Pacific oyster)
+18224
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.996752
+0.997049
+-0.604602
+-0.315543
+-0.0452686
+2
+NC_006161
+mitochondrion Mytilus edulis (blue mussel)
+16740
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Mytilinae  Mytilus}
+-1.
+1.
+-0.609119
+-0.312149
+-0.048307
+3
+NC_006886
+mitochondrion Mytilus galloprovincialis (Mediterranean mussel)
+16744
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Mytilinae  Mytilus}
+-0.06836
+0.011826
+-0.0123017
+0.525196
+0.150412
+4
+NC_007175
+mitochondrion Crassostrea virginica (eastern oyster)
+17244
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.648702
+-0.160219
+0.170815
+0.512187
+-0.843423
+5
+NC_007234
+mitochondrion Placopecten magellanicus (sea scallop)
+32115
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Placopecten}
+-0.812623
+0.609245
+-0.387001
+0.0469001
+-0.147246
+6
+NC_007687
+mitochondrion Mytilus trossulus (common blue mussel)
+18652
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Mytilinae  Mytilus}
+-0.617764
+-0.133515
+0.244728
+0.584939
+-0.954113
+7
+NC_009081
+mitochondrion Mizuhopecten yessoensis (Yesso scallop)
+20414
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Mizuhopecten}
+-0.845958
+-0.200863
+1.
+-0.994636
+0.449413
+8
+NC_009687
+mitochondrion Argopecten irradians (bay scallop)
+16221
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Argopecten}
+0.748513
+0.0854658
+-0.130968
+0.041837
+-0.20854
+9
+NC_011518
+mitochondrion Crassostrea hongkongensis (Hong Kong oyster)
+18622
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.594014
+-0.0815152
+0.25523
+0.634244
+-0.928306
+10
+NC_011608
+mitochondrion Mimachlamys nobilis (noble scallop)
+17963
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Mimachlamys}
+-0.622844
+-0.110565
+0.220181
+0.608301
+-0.943551
+11
+NC_012138
+mitochondrion Azumapecten farreri (sea scallop)
+21695
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Azumapecten}
+0.994103
+0.117785
+-0.145876
+-0.213662
+-0.54167
+12
+NC_012648
+mitochondrion Crassostrea angulata (Portugese oyster)
+18225
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+0.817252
+0.101043
+-0.13078
+-0.0519175
+-0.317821
+13
+NC_012649
+mitochondrion Crassostrea sikamea (Kumamoto oyster)
+18243
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+0.701188
+0.0842279
+-0.119055
+0.0416764
+-0.20874
+14
+NC_012650
+mitochondrion Crassostrea ariakensis (Suminoe oyster)
+18414
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.845155
+-0.197527
+0.996424
+-1.
+0.457469
+15
+NC_012977
+mitochondrion Argopecten irradians irradians (bay scallop)
+16211
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Argopecten}
+0.509009
+0.0296356
+-0.131983
+0.0815159
+-0.106417
+16
+NC_013997
+mitochondrion Crassostrea iredalei (tropical oyster)
+22446
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.09248
+0.0384035
+-0.00549168
+0.719396
+0.414554
+17
+NC_013998
+mitochondrion Saccostrea mordax (small rock oyster)
+16532
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Saccostrea}
+-0.508078
+0.106108
+-0.0722717
+0.598402
+-0.0433303
+18
+NC_014590
+mitochondrion Musculista senhousia (Asian date mussel)
+20612
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Crenellinae  Musculista}
+-0.0759831
+-0.0107424
+0.0352389
+0.997353
+1.
+19
+NC_015231
+mitochondrion Ostrea denselamellosa (flat oyster)
+16277
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Ostrea}
+0.599454
+0.0471751
+-0.138511
+0.105861
+-0.210204
+20
+NC_015248
+mitochondrion Crassostrea nippona (Iwagaki oyster)
+20030
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.746655
+0.515985
+-0.289832
+0.285705
+-0.095505
+21
+NC_015993
+mitochondrion Mytilus californianus (California mussel)
+16730
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Mytilinae  Mytilus}
+-0.0349984
+0.0121058
+0.0325336
+0.947637
+0.970297
+22
+NC_016180
+mitochondrion Ostrea edulis (edible oyster)
+16320
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Ostrea}
+-0.534686
+0.146885
+-0.0347205
+0.64087
+-0.101935
+23
+NC_018362
+mitochondrion Perna viridis (Asian green mussel)
+16014
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Mytilinae  Perna}
+-0.543114
+0.0112978
+0.0891512
+0.699343
+-0.442392
+24
+NC_018752
+mitochondrion Pinctada maxima (silver-lipped pearl oyster)
+16994
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pterioida  Pterioidea  Pteriidae  Pinctada}
+0.502384
+0.0367095
+-0.138923
+0.140963
+-0.14049
+25
+NC_018763
+mitochondrion Crassostrea sp. DB1 (oyster)
+22040
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Crassostrea}
+-0.458581
+0.0307293
+0.0309526
+0.701222
+-0.129708
+26
+NC_020028
+mitochondrion Atrina pectinata (pen shell)
+16811
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pterioida  Pinnoidea  Pinnidae  Atrina}
+-0.800369
+-0.994603
+-0.996191
+-0.159204
+0.0408224
+27
+NC_020787
+mitochondrion Scapharca broughtonii
+46985
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Arcoida  Arcoidea  Arcidae  Scapharca}
+-0.529139
+0.0111736
+0.0865932
+0.691039
+-0.387992
+28
+NC_021638
+mitochondrion Pinctada margaritifera
+15680
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pterioida  Pterioidea  Pteriidae  Pinctada}
+-0.660055
+-0.0895003
+0.297759
+0.639465
+-1.
+29
+NC_022416
+mitochondrion Mimachlamys senatoria
+17383
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Pectinoida  Pectinoidea  Pectinidae  Mimachlamys}
+-0.0572508
+0.0159649
+0.0312388
+1.
+0.991781
+30
+NC_022688
+mitochondrion Ostrea lurida
+16344
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Ostreoida  Ostreoidea  Ostreidae  Ostrea}
+-0.754652
+0.50398
+-0.319145
+0.272157
+-0.129339
+31
+NC_024733
+mitochondrion Mytilus coruscus
+16642
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Mytilinae  Mytilus}
+-0.467874
+0.0965231
+-0.042341
+0.579443
+-0.0125749
+32
+NC_024882
+mitochondrion Brachidontes exustus (scorched mussel)
+16600
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Mytiloida  Mytiloidea  Mytilidae  Brachidontinae  Brachidontes}
+-0.798684
+-1.
+-1.
+-0.165689
+0.043335
+33
+NC_024927
+mitochondrion Anadara sativa
+48161
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Arcoida  Arcoidea  Arcidae  Anadara}
+-0.642956
+-0.580307
+-0.531357
+0.0708935
+-0.162741
+34
+NC_025509
+mitochondrion Scapharca kagoshimensis
+46713
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Pteriomorphia  Arcoida  Arcoidea  Arcidae  Scapharca}

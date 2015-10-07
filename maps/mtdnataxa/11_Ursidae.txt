@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Ursidae (14)
+-0.294019
+0.0169133
+-0.415156
+-0.412724
+0.878856
+1
+NC_003426
+mitochondrion Ursus americanus (American black bear)
+16841
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+-0.132508
+0.950253
+-0.459056
+0.9996
+-0.157207
+2
+NC_003427
+mitochondrion Ursus arctos (brown bear)
+17020
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+-0.126555
+1.
+-0.465394
+1.
+-0.0843532
+3
+NC_003428
+mitochondrion Ursus maritimus (polar bear)
+17017
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+-0.988329
+-0.650084
+-0.335087
+0.458846
+0.00157772
+4
+NC_008753
+mitochondrion Ursus thibetanus mupinensis (Asiatic black bear)
+16868
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+-0.997999
+-0.646498
+-0.34198
+0.505667
+-0.0567035
+5
+NC_009331
+mitochondrion Ursus thibetanus formosanus (Formosan black bear)
+17044
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+0.819502
+-0.532364
+1.
+0.563974
+-0.00634893
+6
+NC_009492
+mitochondrion Ailuropoda melanoleuca (giant panda)
+16805
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ailuropoda}
+-0.145917
+0.137654
+-0.41211
+-0.523491
+0.65048
+7
+NC_009968
+mitochondrion Helarctos malayanus (Malayan sun bear)
+16783
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Helarctos}
+1.
+-1.
+-1.
+0.514788
+-0.921274
+8
+NC_009969
+mitochondrion Tremarctos ornatus (spectacled bear)
+16766
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Tremarctos}
+-0.0699892
+0.19867
+-0.325884
+-1.
+-1.
+9
+NC_009970
+mitochondrion Melursus ursinus (sloth bear)
+16817
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Melursus}
+-0.997364
+-0.669012
+-0.345717
+0.492191
+-0.0499077
+10
+NC_009971
+mitochondrion Ursus thibetanus (Asiatic black bear)
+16795
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+-0.119833
+0.71428
+-0.465846
+0.519268
+0.183195
+11
+NC_011112
+mitochondrion Ursus spelaeus (cave bear)
+16780
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+0.909106
+-0.935497
+-0.82547
+0.547224
+1.
+12
+NC_011116
+mitochondrion Arctodus simus (giant short-faced bear)
+16754
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Arctodus}
+-1.
+-0.680928
+-0.336771
+0.505366
+-0.0522514
+13
+NC_011117
+mitochondrion Ursus thibetanus ussuricus (Manchurian black bear)
+16824
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}
+-0.99494
+-0.646082
+-0.332761
+0.521086
+-0.0616683
+14
+NC_011118
+mitochondrion Ursus thibetanus thibetanus (Asiatic black bear)
+17034
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Ursidae  Ursus}

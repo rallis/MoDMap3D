@@ -1,0 +1,686 @@
+68
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Autographivirinae (68)
+-0.773542
+-0.102404
+-0.891752
+0.290992
+0.41071
+1
+NC_001271
+Yersinia phage phiYeO3-12
+39600
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.89292
+-0.171279
+-0.903954
+0.934514
+0.729649
+2
+NC_001604
+Enterobacteria phage T7 (T7)
+39937
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.832795
+-0.162088
+-1.
+0.678676
+0.57006
+3
+NC_003298
+Enterobacteria phage T3
+38208
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.479747
+0.595055
+-0.295527
+-0.617456
+0.182674
+4
+NC_003390
+Synechococcus phage P60
+47872
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unassigned Autographivirinae}
+-0.338786
+0.170161
+-0.889067
+-0.71626
+-0.0377256
+5
+NC_004665
+Pseudomonad phage gh-1 (gh-1)
+37359
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.903819
+-0.196586
+-0.932836
+1.
+0.746933
+6
+NC_004777
+Yersinia phage phiA1122
+37555
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.742248
+0.757624
+0.234811
+-0.529966
+0.567731
+7
+NC_004831
+Enterobacteria phage SP6
+43769
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+0.980668
+0.0585565
+0.423494
+-0.0123825
+0.278648
+8
+NC_005045
+Pseudomonas phage phiKMV
+42519
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.794572
+0.721416
+0.30191
+-0.290287
+0.297957
+9
+NC_006882
+Prochlorococcus phage P-SSP7
+45176
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unassigned Autographivirinae}
+-0.982086
+0.559715
+0.931477
+0.575246
+-0.908814
+10
+NC_007149
+Vibriophage VP4
+39503
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.746151
+0.236633
+-0.509291
+-0.425287
+-0.163987
+11
+NC_007456
+Enterobacteria phage K1F
+39704
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.840311
+1.
+0.716628
+-0.503434
+1.
+12
+NC_007637
+Enterobacteria phage K1E
+45251
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.841534
+0.971115
+0.660895
+-0.504989
+0.957117
+13
+NC_008152
+Enterobacteria phage K1-5
+44385
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.98626
+-0.836618
+0.875431
+-0.931797
+0.283572
+14
+NC_008694
+Yersinia phage Berlin
+38564
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.668481
+0.727266
+0.0132964
+-0.728714
+0.416404
+15
+NC_009014
+Erwinia amylovora phage Era103
+45445
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.386077
+0.429308
+-0.445091
+-0.64859
+0.097424
+16
+NC_009531
+Synechococcus phage Syn5
+46214
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unassigned Autographivirinae}
+0.585268
+0.165547
+-0.0133571
+-0.296766
+0.2076
+17
+NC_009935
+Pseudomonas phage LKD16
+43200
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.152102
+0.406661
+-0.681973
+-0.794657
+0.096117
+18
+NC_009936
+Pseudomonas phage LKA1
+41593
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+0.915569
+0.0692222
+0.337819
+-0.0668688
+0.26958
+19
+NC_010326
+Pseudomonas phage LUZ19
+43548
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.762579
+-0.108065
+-0.899775
+0.296702
+0.401008
+20
+NC_010807
+Salmonella phage phiSG-JL2
+38815
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.986182
+-0.838098
+0.865113
+-0.930509
+0.287877
+21
+NC_011038
+Yersinia phage Yepe2
+38677
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.967649
+-1.
+0.750539
+-1.
+0.265921
+22
+NC_011040
+Enterobacteria phage BA14
+39816
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.734262
+0.236727
+-0.518898
+-0.425639
+-0.202192
+23
+NC_011042
+Enterobacteria phage EcoDS1
+39252
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.626117
+0.0154662
+-0.958275
+-0.413561
+-0.0148709
+24
+NC_011043
+Klebsiella phage K11
+41181
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.891238
+-0.187402
+-0.894786
+0.9483
+0.736832
+25
+NC_011045
+Enterobacteria phage 13a
+38841
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.804246
+0.280362
+-0.0816874
+-0.175142
+0.20013
+26
+NC_011085
+Morganella phage MmP1
+38234
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+0.997051
+0.0515854
+0.435495
+-0.00260339
+0.276267
+27
+NC_011105
+Pseudomonas phage PT5
+42954
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+0.984675
+0.0575973
+0.425423
+-0.0143215
+0.276891
+28
+NC_011107
+Pseudomonas phage PT2
+42961
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.140428
+0.392928
+-0.903534
+-0.912541
+0.0341441
+29
+NC_011201
+Ralstonia phage RSB1
+43079
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.939006
+-0.798463
+0.577644
+-0.88276
+0.254495
+30
+NC_011534
+Kluyvera phage Kvp1
+39472
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+0.722001
+0.127772
+0.0897993
+-0.231084
+0.217449
+31
+NC_012418
+Pseudomonas phage phikF77
+43152
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.673542
+0.440981
+-0.159466
+-0.454845
+0.192817
+32
+NC_012662
+Vibrio phage VP93
+43931
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.204249
+0.365934
+-0.701417
+-0.826538
+0.0730268
+33
+NC_013638
+Pseudomonas phage phi-2
+43144
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.637324
+0.0337115
+-0.903862
+-0.39118
+-0.018729
+34
+NC_013647
+Klebsiella phage KP32
+41119
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.998219
+0.576357
+0.995458
+0.631673
+-1.
+35
+NC_013651
+Vibrio phage N4
+38497
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-1.
+0.571604
+1.
+0.633493
+-0.999732
+36
+NC_015159
+Vibrio phage ICP3
+39162
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.304936
+0.220932
+-0.907702
+-0.747035
+-0.039307
+37
+NC_015208
+Pseudomonas phage phi15
+39562
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.955758
+-0.910287
+0.670666
+-0.951048
+0.253921
+38
+NC_015249
+Enterobacteria phage 285P
+39270
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.3947
+0.170576
+-0.914671
+-0.760012
+-0.0838497
+39
+NC_015264
+Pseudomonas phage phiIBB-PF7A
+40973
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.769916
+0.0814765
+-0.537148
+0.29261
+0.460042
+40
+NC_015271
+Salmonella phage Vi06
+38368
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.385275
+0.434011
+-0.46888
+-0.681199
+0.131703
+41
+NC_015585
+Pantoea phage LIMEzero
+43032
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.667488
+0.0289488
+-0.839643
+-0.363286
+-0.00630765
+42
+NC_015719
+Enterobacteria phage K30
+40940
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.765639
+0.966784
+0.432257
+-0.391694
+0.347877
+43
+NC_016657
+Cyanophage 9515-10a
+47055
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}
+-0.750512
+0.876157
+0.325995
+-0.380866
+0.328419
+44
+NC_016658
+Cyanophage NATL1A-7
+47741
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}
+-0.766554
+0.972649
+0.410102
+-0.403522
+0.348095
+45
+NC_016659
+Cyanophage NATL2A-133
+47536
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}
+1.
+0.0497547
+0.442801
+0.00332445
+0.279291
+46
+NC_017865
+Pseudomonas phage vB_Pae-TbilisiM32
+42966
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.830539
+0.967477
+0.670466
+-0.50533
+0.965424
+47
+NC_019403
+Enterobacteria phage vB_EcoP_ACG-C91
+43731
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Sp6likevirus}
+-0.601624
+0.0159667
+-0.745575
+-0.170302
+0.182965
+48
+NC_019416
+Stenotrophomonas phage IME15
+38513
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.481488
+0.42613
+-0.479503
+-0.633818
+0.134714
+49
+NC_019454
+Pantoea phage LIMElight
+44546
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.643969
+0.103062
+-0.515261
+-0.428041
+0.111967
+50
+NC_019510
+Erwinia phage vB_EamP-L1
+39282
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+-0.535216
+0.470723
+-0.313546
+-0.546631
+0.179051
+51
+NC_019520
+Escherichia phage phiKT
+42608
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.384893
+0.554797
+-0.398014
+-0.700823
+0.156419
+52
+NC_019528
+Aeromonas phage phiAS7
+41572
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unassigned Autographivirinae}
+-0.629051
+0.552083
+-0.147056
+-0.542892
+0.312332
+53
+NC_019542
+Pectobacterium phage PP1
+44400
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Sp6likevirus}
+-0.679297
+0.569444
+0.00699443
+-0.461041
+0.274977
+54
+NC_019911
+Yersinia phage phi80-18
+42081
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}
+-0.671427
+0.724037
+0.0184033
+-0.729058
+0.419468
+55
+NC_019926
+Erwinia phage phiEa100
+45554
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}
+-0.378156
+0.397365
+-0.531758
+-0.656015
+0.143278
+56
+NC_020078
+Cronobacter phage vB_CskP_GAP227
+41796
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.737432
+0.752767
+0.244734
+-0.537702
+0.561306
+57
+NC_020414
+Enterobacteria phage UAB_Phi78
+43931
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Sp6likevirus}
+-0.395361
+0.158208
+-0.908292
+-0.75357
+-0.0821482
+58
+NC_021062
+Pseudomonas phage Phi-S1
+40192
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+0.874445
+0.0877238
+0.301523
+-0.0961817
+0.257301
+59
+NC_022091
+Pseudomonas phage MPK7
+42874
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae}
+-0.964575
+-0.956885
+0.724706
+-0.958126
+0.265749
+60
+NC_022744
+Erwinia phage FE44
+39860
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  T7likevirus}
+0.90912
+0.0745189
+0.319864
+-0.0797868
+0.267078
+61
+NC_022746
+Pseudomonas phage MPK6
+42957
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.178346
+0.379073
+-0.906701
+-0.922485
+0.0221491
+62
+NC_022916
+Burkholderia phage JG068
+41604
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.13748
+0.368933
+-0.916664
+-0.899159
+0.0215805
+63
+NC_022917
+Ralstonia phage RSB3
+44578
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.167378
+0.376459
+-0.840932
+-0.882354
+0.0476481
+64
+NC_022982
+Xylella phage Paz
+43869
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.051735
+0.350431
+-0.963024
+-0.931472
+0.0122856
+65
+NC_022987
+Xylella phage Prado
+43940
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.709887
+0.208486
+-0.28081
+-0.361105
+0.0559032
+66
+NC_023548
+Citrobacter phage CR8
+39651
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}
+-0.798009
+0.617016
+0.247964
+-0.303577
+0.249006
+67
+NC_023570
+Acinetobacter phage Petty
+40739
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified phiKMV like phages}
+-0.718015
+0.223468
+-0.533645
+-0.434962
+-0.195018
+68
+NC_023576
+Citrobacter phage CR44b
+39207
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Autographivirinae  unclassified Autographivirinae}

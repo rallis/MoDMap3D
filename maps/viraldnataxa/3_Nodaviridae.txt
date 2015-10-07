@@ -1,0 +1,286 @@
+28
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Nodaviridae (28)
+0.0746658
+-1.
+1.
+-0.163029
+-0.0119117
+1
+NC_001411
+Black beetle virus
+3106
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0115912
+-0.0857067
+-1.
+-0.366036
+0.0318132
+2
+NC_002037
+Black beetle virus
+1399
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0427472
+-0.0421891
+-0.817721
+-0.291131
+0.0066225
+3
+NC_002690
+Nodamura virus
+3204
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0277205
+-0.0370855
+-0.895153
+-0.319429
+0.00300758
+4
+NC_002691
+Nodamura virus
+1336
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.53879
+0.516064
+-0.384562
+-0.160362
+-0.0192391
+5
+NC_003448
+Striped Jack nervous necrosis virus
+3107
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+-0.643132
+0.515079
+-0.334308
+-0.24325
+0.00188707
+6
+NC_003449
+Striped Jack nervous necrosis virus
+1421
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+0.0379639
+-0.0196276
+-0.848251
+-0.299336
+0.00988288
+7
+NC_003691
+Pariacoto virus
+3011
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0247671
+-0.0404791
+-0.887965
+-0.311012
+-0.0118946
+8
+NC_003692
+Pariacoto virus
+1311
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+-0.974067
+0.779295
+-0.0811205
+-0.209465
+-1.
+9
+NC_004136
+Epinephelus tauvina nervous necrosis virus
+1433
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+0.777382
+0.717716
+-0.334786
+0.993663
+0.00753607
+10
+NC_004137
+Epinephelus tauvina nervous necrosis virus
+3103
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+0.0472152
+-0.32436
+-0.250134
+-0.24771
+-0.0314333
+11
+NC_004142
+Boolarra virus
+3096
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0357058
+-0.0744516
+-0.993163
+-0.357935
+-0.0130366
+12
+NC_004144
+Flock house virus
+1400
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0333181
+-0.0301372
+-0.885825
+-0.323703
+0.0252002
+13
+NC_004145
+Boolarra virus
+1305
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0809149
+-0.999665
+0.999917
+-0.163109
+-0.0130025
+14
+NC_004146
+Flock house virus
+3107
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Alphanodavirus}
+0.0561303
+-0.0433569
+-0.894241
+-0.302822
+-0.0069885
+15
+NC_005094
+Macrobrachium rosenbergii nodavirus
+3202
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  unclassified Nodaviridae}
+0.0340217
+-0.0323823
+-0.877665
+-0.322081
+-0.010479
+16
+NC_005095
+Macrobrachium rosenbergii nodavirus
+1175
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  unclassified Nodaviridae}
+0.770856
+0.71266
+-0.339002
+1.
+0.0104182
+17
+NC_008040
+Redspotted grouper nervous necrosis virus (RGNNV)
+3105
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+-0.987044
+0.78979
+-0.0735025
+-0.208172
+-0.978499
+18
+NC_008041
+Redspotted grouper nervous necrosis virus (RGNNV)
+1434
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+0.999183
+0.997033
+0.128341
+-1.
+0.00150484
+19
+NC_011063
+Barfin flounder virus BF93Hok
+3100
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+-0.9997
+0.768174
+-0.0516418
+-0.215642
+1.
+20
+NC_011064
+Barfin flounder virus BF93Hok
+1433
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+1.
+1.
+0.129451
+-0.993188
+0.00157922
+21
+NC_013458
+Barfin flounder nervous necrosis virus
+3101
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+-1.
+0.768358
+-0.0515558
+-0.215633
+0.999798
+22
+NC_013459
+Barfin flounder nervous necrosis virus
+1433
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+0.790008
+0.770863
+-0.104421
+-0.640263
+0.00135826
+23
+NC_013460
+Tiger puffer nervous necrosis virus
+3112
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+-0.645533
+0.523921
+-0.331881
+-0.238791
+-0.0868046
+24
+NC_013461
+Tiger puffer nervous necrosis virus
+1422
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  Betanodavirus}
+0.0149028
+-0.034169
+-0.891958
+-0.311001
+0.0151392
+25
+NC_014977
+Penaeus vannamei nodavirus
+1183
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  unclassified Nodaviridae}
+0.0485551
+-0.0478666
+-0.854809
+-0.320659
+-0.0158787
+26
+NC_014978
+Penaeus vannamei nodavirus
+3111
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  unclassified Nodaviridae}
+0.0396043
+-0.0285599
+-0.82838
+-0.303624
+0.00556482
+27
+NC_015069
+Santeuil nodavirus
+3628
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  unclassified Nodaviridae}
+0.0332694
+-0.0224267
+-0.830383
+-0.320461
+-0.0140173
+28
+NC_015070
+Santeuil nodavirus
+2653
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Nodaviridae  unclassified Nodaviridae}

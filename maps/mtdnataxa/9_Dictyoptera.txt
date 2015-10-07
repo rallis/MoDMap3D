@@ -1,0 +1,296 @@
+29
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Dictyoptera (29)
+-0.855163
+0.194872
+0.505662
+-0.0921066
+0.254863
+1
+NC_006076
+mitochondrion Periplaneta fuliginosa (smokybrown cockroach)
+14996
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Blattodea  Blattoidea  Blattidae  Blattinae  Periplaneta}
+-0.894887
+0.255963
+0.707118
+-0.236451
+0.820203
+2
+NC_007702
+mitochondrion Tamolanica tamolana (New Guinea shield mantis)
+16055
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Mantodea  Mantidae  Mantinae  Paramantini  Tamolanica}
+1.
+0.995958
+0.323437
+-0.257692
+-0.00794189
+3
+NC_009498
+mitochondrion Reticulitermes flavipes (eastern subterranean
+16565
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+0.999408
+1.
+0.311109
+-0.255532
+-0.00652031
+4
+NC_009499
+mitochondrion Reticulitermes santonensis (Saintonge termite)
+16567
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+0.899621
+0.77155
+0.289596
+-0.111611
+0.00127089
+5
+NC_009500
+mitochondrion Reticulitermes virginicus (dark southern subterranean
+16513
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+0.939629
+0.839367
+0.269888
+-0.147555
+-0.0226484
+6
+NC_009501
+mitochondrion Reticulitermes hageni (light southeastern
+16590
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Reticulitermes}
+-0.983814
+0.370537
+0.936007
+0.0032595
+-0.953307
+7
+NC_012901
+mitochondrion Blattella germanica (German cockroach)
+15025
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Blattodea  Blaberoidea  Ectobiidae  Blattellinae  Blattella}
+-0.718236
+0.144839
+0.443757
+0.000695873
+0.0801897
+8
+NC_014274
+mitochondrion Eupolyphaga sinensis (wingless cockroach)
+15553
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Blattodea  Corydioidea  Corydiidae  Eupolyphaga}
+0.497611
+-0.586905
+0.405775
+0.894251
+0.0596458
+9
+NC_015800
+mitochondrion Coptotermes formosanus (Formosan subterranean
+16326
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Coptotermes}
+-0.822152
+0.15512
+0.499259
+-0.0192147
+0.317456
+10
+NC_016956
+mitochondrion Periplaneta americana (American cockroach)
+15584
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Blattodea  Blattoidea  Blattidae  Blattinae  Periplaneta}
+-0.539613
+-0.0215761
+-0.0577738
+0.183263
+-0.63333
+11
+NC_018120
+mitochondrion Mastotermes darwiniensis (giant northern termite)
+15487
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Mastotermitidae  Mastotermes}
+-0.31973
+-0.246517
+-0.328411
+-0.120132
+-0.199742
+12
+NC_018121
+mitochondrion Porotermes adamsoni (Australian dampwood termite)
+16039
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termopsidae  Porotermes}
+-0.251579
+-0.272919
+-0.332446
+-0.0908767
+-0.0177013
+13
+NC_018122
+mitochondrion Microhodotermes viator (southern harvester termite)
+15704
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Hodotermitidae  Microhodotermes}
+-0.386355
+-0.207389
+-0.967063
+-0.318339
+-0.0185366
+14
+NC_018123
+mitochondrion Zootermopsis angusticollis (Pacific dampwood termite)
+15483
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termopsidae  Zootermopsis}
+-0.328823
+-0.205845
+-0.00965874
+-0.0137156
+0.317261
+15
+NC_018124
+mitochondrion Neotermes insularis (ringant termite)
+15799
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Kalotermitidae  Neotermitinae  Neotermes}
+0.544747
+-0.655562
+0.433094
+1.
+0.0266945
+16
+NC_018125
+mitochondrion Coptotermes lacteus (milk-white termite)
+16326
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Coptotermes}
+0.15395
+-0.448817
+0.24498
+0.0494694
+0.157763
+17
+NC_018126
+mitochondrion Schedorhinotermes breinli (termite)
+15864
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Schedorhinotermes}
+0.500003
+-0.566715
+0.433493
+0.878795
+-0.0192516
+18
+NC_018127
+mitochondrion Heterotermes sp. SLC-2012 (termite)
+16370
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Heterotermes}
+0.48501
+-0.983621
+0.724217
+-1.
+-0.198792
+19
+NC_018128
+mitochondrion Macrotermes subhyalinus (Mendi termite)
+16351
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Macrotermitinae  Macrotermes}
+0.246422
+-0.639715
+0.705665
+-0.106048
+0.123204
+20
+NC_018129
+mitochondrion Drepanotermes sp. SLC-2012 (termite)
+16542
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Termitinae  Amitermes group  Drepanotermes}
+0.237572
+-0.594755
+0.5988
+-0.0849799
+0.133452
+21
+NC_018130
+mitochondrion Macrognathotermes errator (termite)
+16330
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Termitinae  Termes group  Macrognathotermes}
+0.275294
+-0.658971
+0.633911
+-0.00406818
+0.112921
+22
+NC_018131
+mitochondrion Nasutitermes triodiae (Spinifex termite)
+15849
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Nasutitermitinae  Nasutitermes}
+-0.554757
+-0.0172618
+0.179289
+-0.106255
+0.121924
+23
+NC_018132
+mitochondrion Cryptocercus relictus (relict cockroach)
+15373
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Blattodea  Blattoidea  Cryptocercidae  Cryptocercus}
+-1.
+0.394913
+1.
+0.022277
+-1.
+24
+NC_018549
+mitochondrion Blattella bisignata (double-striped cockroach)
+16470
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Blattodea  Blaberoidea  Ectobiidae  Blattellinae  Blattella}
+0.363418
+-0.770662
+0.566765
+-0.640395
+-0.0869493
+25
+NC_018599
+mitochondrion Macrotermes barneyi (fungus-growing termite)
+15940
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Macrotermitinae  Macrotermes}
+-0.884213
+0.277948
+0.926546
+-0.154474
+1.
+26
+NC_024028
+mitochondrion Leptomantella albella
+15534
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Mantodea  Tarachodidae  Caliridinae  Leptomantella}
+-0.407223
+-0.23614
+-1.
+-0.297002
+-0.0102822
+27
+NC_024658
+mitochondrion Zootermopsis nevadensis
+15444
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termopsidae  Zootermopsis}
+0.483986
+-1.
+0.71737
+-0.973668
+-0.19179
+28
+NC_025522
+mitochondrion Macrotermes natalensis
+16325
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Termitidae  Macrotermitinae  Macrotermes}
+0.827472
+0.604883
+0.282705
+-0.119384
+0.0806334
+29
+NC_025567
+mitochondrion Reticulitermes chinensis
+15925
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Orthopteroidea  Dictyoptera  Isoptera  Rhinotermitidae  Reticulitermes  Planifrontotermes}

@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Mysticeti (14)
+-0.672089
+0.263688
+-0.664312
+-1.
+1.
+1
+NC_001321
+mitochondrion Balaenoptera physalus (Fin whale)
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.746425
+-0.263161
+-0.437909
+-0.224504
+-0.219888
+2
+NC_001601
+mitochondrion Balaenoptera musculus (Blue whale)
+16402
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+0.75987
+-0.256047
+-0.674408
+0.160046
+0.165944
+3
+NC_005268
+mitochondrion Balaena mysticetus (bowhead whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Balaena}
+-0.175684
+0.309808
+1.
+0.658652
+0.36594
+4
+NC_005269
+mitochondrion Caperea marginata (pygmy right whale)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Neobalaenidae  Caperea}
+-0.632721
+0.180965
+-0.555516
+-0.608067
+-1.
+5
+NC_005270
+mitochondrion Eschrichtius robustus (grey whale)
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Eschrichtiidae  Eschrichtius}
+-0.599415
+1.
+-1.
+1.
+0.13383
+6
+NC_005271
+mitochondrion Balaenoptera acutorostrata (minke whale)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.627989
+0.912156
+-0.982537
+0.934394
+0.279389
+7
+NC_006926
+mitochondrion Balaenoptera bonaerensis (Antarctic minke whale)
+16421
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.6562
+0.176632
+-0.518979
+-0.82358
+0.757812
+8
+NC_006927
+mitochondrion Megaptera novaeangliae (humpback whale)
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Megaptera}
+-1.
+-0.992044
+-0.625416
+0.63983
+0.388796
+9
+NC_006928
+mitochondrion Balaenoptera brydei (Bryde's whale)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.992943
+-1.
+-0.649675
+0.453865
+0.407285
+10
+NC_006929
+mitochondrion Balaenoptera borealis (sei whale)
+16410
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+0.98415
+-0.459277
+-0.72313
+0.181086
+0.203714
+11
+NC_006930
+mitochondrion Eubalaena australis (Southern right whale)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Eubalaena}
+1.
+-0.439482
+-0.73613
+0.170849
+0.201896
+12
+NC_006931
+mitochondrion Eubalaena japonica (North Pacific right whale)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Eubalaena}
+-0.717554
+-0.43105
+-0.441867
+0.0757111
+-0.630089
+13
+NC_007937
+mitochondrion Balaenoptera omurai (Omura's baleen whale)
+16404
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.971498
+-0.964881
+-0.645558
+0.609503
+0.386043
+14
+NC_007938
+mitochondrion Balaenoptera edeni (pygmy Bryde's whale)
+16409
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}

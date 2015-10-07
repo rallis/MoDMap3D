@@ -1,0 +1,196 @@
+19
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+N4likevirus (19)
+0.459843
+-0.532547
+-0.291781
+-0.122998
+-0.10614
+1
+NC_008720
+Escherichia phage N4
+70153
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus}
+-0.712866
+0.326951
+1.
+-0.409246
+0.228103
+2
+NC_012696
+Sulfitobacter phage EE36phi1
+73325
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+-0.777702
+0.319238
+0.943393
+-0.406673
+0.226094
+3
+NC_012697
+Silicibacter phage DSS3phi2
+74611
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+-0.861241
+-0.204469
+-0.909374
+0.741068
+0.611466
+4
+NC_013691
+Pseudomonas phage LUZ7
+74901
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+-1.
+-0.180408
+-1.
+0.773709
+0.598324
+5
+NC_013692
+Pseudomonas phage LIT1
+72544
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.355338
+-1.
+-0.7417
+-0.971468
+0.525791
+6
+NC_015933
+Escherichia phage vB_EcoP_G7C
+72917
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.39467
+-0.977865
+-0.712136
+-1.
+0.50806
+7
+NC_018854
+Escherichia phage KBNP21
+69855
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.302138
+-0.452227
+-0.321751
+0.291882
+-0.202689
+8
+NC_019423
+Enterobacter phage IME11
+72570
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.640765
+-0.406371
+0.0270593
+0.614613
+-1.
+9
+NC_019485
+Enterobacter phage EcP1
+59080
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+-0.548517
+-0.279186
+-0.851839
+0.438946
+-0.834404
+10
+NC_019514
+Erwinia phage vB_EamP-S6
+74669
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.373205
+-0.497024
+0.123783
+1.
+1.
+11
+NC_020848
+Vibrio phage VBP47
+76705
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.65937
+-0.526527
+0.160442
+0.960353
+0.686184
+12
+NC_020849
+Pseudoalteromonas phage pYD6-A
+76802
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.31663
+-0.483566
+0.0484484
+0.862968
+0.481377
+13
+NC_020868
+Vibrio phage VBP32
+76718
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.84584
+-0.407029
+0.102198
+0.709736
+-0.0506628
+14
+NC_021540
+Vibrio phage JA-1
+69278
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.994179
+1.
+-0.898661
+0.0565195
+0.309936
+15
+NC_021772
+Salmonella phage FSL SP-058
+72394
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+1.
+0.99814
+-0.895129
+0.0640551
+0.307241
+16
+NC_021782
+Salmonella phage FSL SP-076
+72098
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+-0.939763
+-0.215804
+-0.831406
+0.607654
+0.052333
+17
+NC_023556
+Achromobacter phage JWAlpha
+72329
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+-0.234235
+-0.300024
+-0.413068
+0.124724
+-0.551731
+18
+NC_023579
+Erwinia phage Ea9-2
+75568
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}
+0.663234
+-0.478152
+0.100505
+0.711851
+0.0391341
+19
+NC_023581
+Acinetobacter phage Presley
+77792
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  N4likevirus  unclassified N4likevirus}

@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Parvovirus (14)
+-0.0638025
+0.648424
+0.607644
+-0.269775
+-1.
+1
+NC_001358
+H-1 parvovirus
+5176
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus}
+0.527747
+0.237579
+0.371161
+-0.183496
+-0.359072
+2
+NC_001510
+Minute virus of mice
+5149
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus}
+-0.694641
+0.932056
+0.934981
+-0.291873
+1.
+3
+NC_001539
+Canine parvovirus
+5323
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus}
+0.945057
+0.0731116
+0.245078
+-0.140389
+-0.083866
+4
+NC_001630
+Mouse parvovirus 1
+5144
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus}
+-0.74371
+1.
+1.
+-0.255345
+-0.622483
+5
+NC_001718
+Porcine parvovirus
+5075
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus}
+0.281633
+0.391689
+0.426273
+-0.192849
+-0.622474
+6
+NC_004713
+LuIII virus (LuIIIV)
+5135
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus}
+-0.874951
+0.457447
+-1.
+-1.
+-0.147158
+7
+NC_007018
+Human parvovirus 4
+5268
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+0.903569
+0.05985
+0.221057
+-0.127786
+-0.0532089
+8
+NC_008185
+Mouse parvovirus 3
+4787
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+0.97828
+0.0247831
+0.194701
+-0.119309
+-0.0114022
+9
+NC_008186
+Mouse parvovirus 2
+4756
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+-0.878977
+0.619047
+-0.469156
+1.
+-0.171908
+10
+NC_011545
+Penaeus monodon hepatopancreatic parvovirus
+6310
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+1.
+0.0209238
+0.193681
+-0.119473
+-0.0105587
+11
+NC_011618
+Mouse parvovirus 5a
+4746
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+0.939201
+0.0481074
+0.218364
+-0.132911
+-0.0585728
+12
+NC_011619
+Mouse parvovirus 4a
+4800
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+-1.
+-1.
+0.56716
+-0.152638
+-0.16341
+13
+NC_014665
+Porcine parvovirus 4
+5905
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}
+-0.997513
+-0.988188
+0.533082
+-0.153042
+-0.235683
+14
+NC_023020
+Porcine parvovirus 5
+5805
+{root  Viruses  ssDNA viruses  Parvoviridae  Parvovirinae  Parvovirus  unclassified Parvovirus}

@@ -1,0 +1,176 @@
+17
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Picovirinae (17)
+-0.340044
+0.82591
+0.413789
+-0.494266
+1.
+1
+NC_001825
+Streptococcus phage Cp-1
+19343
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unassigned Picovirinae}
+-0.221539
+0.657193
+1.
+-0.875742
+-1.
+2
+NC_002515
+Mycoplasma phage P1
+11660
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unassigned Picovirinae}
+-0.296423
+0.689622
+0.605511
+0.0485827
+-0.641605
+3
+NC_002649
+Bacillus phage GA-1 (GA-1)
+21129
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Phi29likevirus}
+-0.338171
+0.816887
+0.291064
+0.723706
+-0.618011
+4
+NC_004165
+Bacillus phage B103
+18630
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Phi29likevirus}
+1.
+-0.248367
+0.237222
+-0.168114
+-0.387336
+5
+NC_004678
+Staphylococcus phage 44AHJD (44AHJD)
+16784
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Ahjdlikevirus}
+0.993505
+-0.252781
+0.246615
+-0.165897
+-0.388039
+6
+NC_004679
+Staphylococcus phage P68
+18227
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Ahjdlikevirus  unclassified AHJD like viruses}
+-0.261736
+0.704302
+0.61726
+-0.312815
+-0.29951
+7
+NC_004814
+Streptococcus phage C1
+16687
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Ahjdlikevirus}
+-0.13406
+0.602085
+0.814135
+-0.490405
+-0.625403
+8
+NC_007046
+Staphylococcus phage 66
+18199
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Ahjdlikevirus  unclassified AHJD like viruses}
+-0.422774
+1.
+-1.
+-1.
+-0.754514
+9
+NC_009643
+Actinomyces phage Av-1
+17171
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unassigned Picovirinae}
+0.725865
+-0.0902608
+0.345771
+-0.205795
+-0.435921
+10
+NC_009875
+Staphylococcus phage SAP-2
+17938
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Ahjdlikevirus  unclassified AHJD like viruses}
+-0.366237
+0.858327
+0.136877
+1.
+-0.495648
+11
+NC_011048
+Bacillus phage phi29
+19282
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Phi29likevirus}
+0.746406
+-0.103128
+0.327986
+-0.193181
+-0.433272
+12
+NC_016565
+Staphylococcus phage S24-1
+18168
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unclassified Picovirinae}
+-1.
+-1.
+0.301521
+-0.199729
+-0.421844
+13
+NC_017980
+Clostridium phage phiCP7R
+18397
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unclassified Picovirinae}
+-0.990416
+-0.992695
+0.312777
+-0.199273
+-0.422357
+14
+NC_018083
+Clostridium phage phiCPV4
+17972
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unclassified Picovirinae}
+-0.828035
+-0.672982
+0.360983
+-0.21471
+-0.430377
+15
+NC_018084
+Clostridium phage phiZP2
+18078
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unclassified Picovirinae}
+-0.254496
+0.648335
+0.952733
+-0.538917
+-0.537563
+16
+NC_019523
+Clostridium phage phi24R
+18919
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  unassigned Picovirinae}
+0.741485
+-0.0939998
+0.338094
+-0.186071
+-0.440231
+17
+NC_023550
+Staphylococcus phage GRCS
+17869
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Podoviridae  Picovirinae  Ahjdlikevirus  unclassified AHJD like viruses}

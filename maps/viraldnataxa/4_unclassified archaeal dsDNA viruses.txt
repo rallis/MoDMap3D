@@ -1,0 +1,196 @@
+19
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified archaeal dsDNA viruses (19)
+-1.
+-0.0661893
+0.993888
+0.0284712
+-0.0492075
+1
+NC_003345
+Halorubrum phage HF2
+77670
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.994403
+-0.0650478
+1.
+0.0296902
+-0.048272
+2
+NC_004927
+Halovirus HF1
+75898
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.971902
+-0.77235
+0.295233
+0.315296
+0.311445
+3
+NC_007217
+Haloarcula phage SH1
+30889
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses}
+0.379673
+1.
+-0.763709
+-0.411314
+1.
+4
+NC_009597
+Pyrococcus abyssi virus 1
+18098
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses}
+0.690185
+-0.507343
+-0.0420216
+0.240329
+0.195865
+5
+NC_016989
+Haloarcula hispanica icosahedral virus 2
+30578
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses}
+-0.557507
+-0.462254
+-0.993147
+0.99072
+0.106793
+6
+NC_020158
+Halovirus HVTV-1
+102319
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.408376
+-1.
+-0.831072
+-0.977842
+0.0694203
+7
+NC_020159
+Halovirus HSTV-2
+68527
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+1.
+-0.734001
+0.297352
+0.30476
+0.303676
+8
+NC_020998
+Halovirus PH1
+28072
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses}
+0.46928
+-0.458862
+-0.355201
+0.221571
+-0.411839
+9
+NC_021319
+Halovirus HCTV-2
+54291
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.650163
+-0.369467
+-0.227213
+0.0242252
+0.23692
+10
+NC_021320
+Halovirus HRTV-5
+76134
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.620355
+-0.385453
+-0.22833
+0.0225011
+0.220547
+11
+NC_021321
+Halovirus HRTV-8
+74519
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.306221
+0.440232
+-0.635517
+-0.223317
+-1.
+12
+NC_021322
+Halovirus HHTV-1
+49107
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.58461
+-0.446902
+-1.
+1.
+0.112165
+13
+NC_021327
+Halovirus HCTV-5
+102105
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.696686
+-0.153469
+-0.568092
+0.209697
+0.0973147
+14
+NC_021328
+Halovirus HGTV-1
+143855
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.282391
+0.0438541
+-0.505387
+0.0786725
+-0.199963
+15
+NC_021329
+Halovirus HRTV-4
+35722
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.560435
+-0.368491
+-0.824564
+0.724227
+0.0876209
+16
+NC_021330
+Halovirus HCTV-1
+103257
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+-0.424888
+-0.992049
+-0.834514
+-1.
+0.070538
+17
+NC_021335
+Halovirus HRTV-7
+69048
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.253024
+-0.606513
+-0.233414
+0.232271
+-0.0292698
+18
+NC_021340
+Halovirus HHTV-2
+52643
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}
+0.360431
+-0.0908452
+-0.398685
+0.098924
+-0.36255
+19
+NC_021471
+Halovirus HSTV-1
+32189
+{root  Viruses  dsDNA viruses no RNA stage  unclassified dsDNA viruses  unclassified archaeal dsDNA viruses  Haloviruses}

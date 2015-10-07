@@ -1,0 +1,886 @@
+88
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Rodentia (88)
+-0.768282
+-0.75855
+-0.345814
+-0.52825
+-0.449102
+1
+AC_000022
+mitochondrion Rattus norvegicus (Norway rat)
+16300
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+0.766845
+-0.287659
+-0.655879
+-0.679722
+-0.586712
+2
+NC_000884
+mitochondrion Cavia porcellus (domestic guinea pig)
+16801
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Caviidae  Cavia}
+-0.83467
+-0.77584
+-0.333846
+-0.531421
+-0.436133
+3
+NC_001665
+mitochondrion Rattus norvegicus (Norway rat)
+16313
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+0.555527
+-0.216254
+-0.59287
+-0.729457
+-0.389511
+4
+NC_001892
+mitochondrion Glis glis (Fat dormouse)
+16602
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Gliridae  Glirinae  Glis}
+0.700976
+-0.209513
+-0.628312
+-0.827661
+-0.407451
+5
+NC_002369
+mitochondrion Sciurus vulgaris (Eurasian red squirrel)
+16507
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Sciurinae  Sciurini  Sciurus}
+0.610264
+-0.240577
+-0.617351
+-0.689585
+-0.488125
+6
+NC_002658
+mitochondrion Thryonomys swinderianus (Greater cane rat)
+16626
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Thryonomyidae  Thryonomys}
+0.383783
+-0.50028
+-0.91744
+0.784235
+-0.667891
+7
+NC_003041
+mitochondrion Microtus kikuchii (Taiwan vole)
+16312
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+-0.700148
+0.999871
+-0.427452
+-0.341039
+-1.
+8
+NC_005089
+mitochondrion Mus musculus (house mouse)
+16299
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+0.561539
+-0.308597
+-0.556568
+-0.525214
+-0.456892
+9
+NC_005314
+mitochondrion Jaculus jaculus (lesser Egyptian jerboa)
+16546
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Dipodidae  Dipodinae  Jaculus}
+1.
+-0.254516
+1.
+0.0652805
+-0.546013
+10
+NC_005315
+mitochondrion Nannospalax ehrenbergi (Ehrenberg's mole-rat)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Spalacinae  Nannospalax}
+-0.699937
+1.
+-0.427351
+-0.341043
+-0.999911
+11
+NC_006914
+mitochondrion Mus musculus domesticus (western European house
+16300
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+-0.704525
+0.987399
+-0.424075
+-0.341171
+-0.994634
+12
+NC_006915
+mitochondrion Mus musculus molossinus (Japanese wild mouse)
+16300
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+0.330163
+-0.245893
+-0.652566
+-0.135931
+-0.0943338
+13
+NC_007936
+mitochondrion Cricetulus griseus (Chinese hamster)
+16284
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Cricetulus}
+0.302804
+-0.406856
+-0.868953
+0.6348
+-0.6113
+14
+NC_008064
+mitochondrion Microtus levis (East European vole)
+16283
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+0.606535
+-0.283223
+-0.546617
+-0.599847
+-0.390536
+15
+NC_009056
+mitochondrion Anomalurus sp. GP-2005 (scaly-tailed squirrel)
+16923
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Anomaluridae  Anomalurus}
+-0.705746
+0.987973
+-0.424455
+-0.348297
+-0.991521
+16
+NC_010339
+mitochondrion Mus musculus musculus (eastern European house mouse)
+16300
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+-0.451752
+0.380465
+-0.466247
+-0.415252
+-0.329448
+17
+NC_010650
+mitochondrion Mus terricolor (Earth-colored mouse)
+16310
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+-0.778652
+-0.750976
+-0.348767
+-0.540187
+-0.406318
+18
+NC_011638
+mitochondrion Rattus tanezumi (Oriental house rat)
+16306
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.77903
+-0.75098
+-0.328461
+-0.575249
+-0.431985
+19
+NC_012374
+mitochondrion Rattus rattus (black rat)
+16305
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.704754
+0.966425
+-0.415327
+-0.349406
+-0.996343
+20
+NC_012387
+mitochondrion Mus musculus castaneus (southeastern Asian house
+16299
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+-0.675256
+-0.677865
+-0.348598
+-0.521389
+-0.386338
+21
+NC_012389
+mitochondrion Rattus exulans (Polynesian rat)
+16307
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.92517
+-0.956327
+-0.308928
+-0.600429
+-0.629157
+22
+NC_012461
+mitochondrion Rattus praetor (Large New Guinea spiny rat)
+16293
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+0.42393
+-0.292057
+-0.696074
+-0.112812
+-0.393229
+23
+NC_013068
+mitochondrion Tscherskia triton (greater long-tailed hamster)
+16488
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Tscherskia}
+0.354954
+-0.198406
+-0.667243
+-0.165661
+-0.283889
+24
+NC_013276
+mitochondrion Mesocricetus auratus (golden hamster)
+16264
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Mesocricetus}
+0.313503
+-0.472737
+-0.840806
+0.630435
+-0.610336
+25
+NC_013563
+mitochondrion Proedromys liangshanensis (vole)
+16296
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Proedromys}
+0.235169
+-0.373592
+-0.776157
+0.412078
+-0.482527
+26
+NC_013571
+mitochondrion Eothenomys chinensis (Sichuan red-backed vole)
+16362
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Eothenomys}
+-0.106053
+-0.186225
+-0.489473
+-0.345072
+-0.028847
+27
+NC_014696
+mitochondrion Leggadina lakedownensis (Lakeland Downs mouse)
+16262
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Leggadina}
+-0.0260787
+-0.165651
+-0.47139
+-0.355386
+-0.0787422
+28
+NC_014698
+mitochondrion Pseudomys chapmani (western pebble-mound mouse)
+16249
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Pseudomys}
+-0.916927
+-0.947606
+-0.305606
+-0.59151
+-0.645337
+29
+NC_014855
+mitochondrion Rattus leucopus (mottle-tailed rat)
+16297
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.933693
+-0.965081
+-0.311934
+-0.609977
+-0.693736
+30
+NC_014858
+mitochondrion Rattus lutreolus (Australian swamp rat)
+16295
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.885186
+-0.937211
+-0.307318
+-0.616186
+-0.64745
+31
+NC_014861
+mitochondrion Rattus tunneyi (Tunney's rat)
+16292
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-1.
+-1.
+-0.287884
+-0.644907
+-0.699571
+32
+NC_014864
+mitochondrion Rattus villosissimus (long-haired rat)
+16303
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.888292
+-0.954379
+-0.325033
+-0.627316
+-0.659642
+33
+NC_014867
+mitochondrion Rattus fuscipes (bush rat)
+16301
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+-0.993378
+-0.980078
+-0.288778
+-0.666132
+-0.729711
+34
+NC_014871
+mitochondrion Rattus sordidus (Australian dusky field rat)
+16309
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+0.675047
+-0.333797
+-0.582379
+-0.51216
+-0.688014
+35
+NC_015072
+mitochondrion Castor fiber (Eurasian beaver)
+16730
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Castoridae  Castor}
+0.648557
+-0.337533
+-0.584587
+-0.522143
+-0.681555
+36
+NC_015108
+mitochondrion Castor canadensis (American beaver)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Castoridae  Castor}
+0.683829
+-0.353985
+-0.61011
+-0.543824
+-0.711252
+37
+NC_015112
+mitochondrion Heterocephalus glaber (naked mole-rat)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Bathyergidae  Heterocephalus}
+0.399826
+-0.512666
+-0.988365
+1.
+-0.766523
+38
+NC_015241
+mitochondrion Microtus fortis fortis (reed vole)
+16310
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+0.38376
+-0.520875
+-1.
+0.985196
+-0.76268
+39
+NC_015243
+mitochondrion Microtus fortis calamorum (Yangtze vole)
+16310
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Microtus}
+0.379061
+-0.42128
+-0.87716
+0.645346
+-0.602791
+40
+NC_016055
+mitochondrion Neodon irene (Irene's mountain vole)
+16367
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Neodon}
+-0.19008
+-0.0373968
+-0.46636
+-0.325711
+0.354366
+41
+NC_016060
+mitochondrion Apodemus peninsulae (Korean field mouse)
+16269
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Apodemus}
+0.286997
+-0.43854
+-0.829978
+0.497337
+-0.497567
+42
+NC_016427
+mitochondrion Myodes regulus (Korean red-backed vole)
+16379
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Myodes}
+-0.271899
+-0.00496956
+-0.476264
+-0.209972
+0.999215
+43
+NC_016428
+mitochondrion Apodemus agrarius (Eurasian field mouse)
+16263
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Apodemus}
+-0.2776
+-0.0162373
+-0.465283
+-0.207507
+1.
+44
+NC_016662
+mitochondrion Apodemus chejuensis (Jeju striped field mouse)
+16261
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Apodemus}
+-0.273641
+-0.0572267
+-0.499575
+-0.194419
+0.818298
+45
+NC_017599
+mitochondrion Apodemus chevrieri (Chevrier's field mouse)
+16298
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Apodemus}
+0.497682
+-0.178632
+-0.316298
+-0.480655
+0.176874
+46
+NC_018098
+mitochondrion Eospalax baileyi (Plateau zokor)
+16351
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Myospalacinae  Eospalax}
+0.736036
+-0.254246
+-0.684812
+-0.842664
+-0.424326
+47
+NC_018367
+mitochondrion Marmota himalayana (Himalayan marmot)
+16443
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Xerinae  Marmotini  Marmota}
+0.507042
+-0.174106
+-0.352377
+-0.494962
+0.0995135
+48
+NC_018535
+mitochondrion Eospalax rothschildi (Rothschild's zokor)
+16377
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Myospalacinae  Eospalax}
+-0.228937
+-0.0838176
+-0.530014
+-0.195366
+0.271255
+49
+NC_019584
+mitochondrion Apodemus draco (South China field mouse)
+16282
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Apodemus}
+-0.27019
+-0.0941116
+-0.502035
+-0.299916
+0.337206
+50
+NC_019585
+mitochondrion Apodemus latronum (Sichuan field mouse)
+16288
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Apodemus}
+0.727691
+-0.273261
+-0.706805
+-0.86928
+-0.485166
+51
+NC_019612
+mitochondrion Pteromys volans (Siberian flying squirrel)
+16513
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Sciurinae  Pteromyini  Pteromys}
+-0.416598
+-0.420108
+-0.443686
+-0.379784
+-0.301649
+52
+NC_019617
+mitochondrion Niviventer excelsior (large white-bellied rat)
+16298
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Niviventer}
+0.779974
+-0.263749
+-0.64935
+-0.918365
+-0.484932
+53
+NC_020657
+mitochondrion Proechimys longicaudatus (long-tailed spiny rat)
+16816
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Echimyidae  Proechimys}
+0.78237
+-0.202082
+-0.688339
+-0.985564
+-0.463469
+54
+NC_020658
+mitochondrion Ctenomys sociabilis (social tuco-tuco)
+17016
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Ctenomyidae  Ctenomys}
+0.794277
+-0.242663
+-0.693318
+-1.
+-0.46369
+55
+NC_020659
+mitochondrion Ctenomys leucodon (white-toothed tuco-tuco)
+16216
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Ctenomyidae  Ctenomys}
+0.849652
+-0.279123
+-0.641652
+-0.985679
+-0.565729
+56
+NC_020660
+mitochondrion Spalacopus cyanus (coruro)
+16830
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Octodontidae  Spalacopus}
+0.839051
+-0.292401
+-0.683248
+-0.989212
+-0.595374
+57
+NC_020661
+mitochondrion Octodon degus (degu)
+16798
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Octodontidae  Octodon}
+0.966499
+-0.241991
+0.888347
+0.0157808
+-0.515412
+58
+NC_020754
+mitochondrion Nannospalax galili (Upper Galilee mountains blind
+16409
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Spalacinae  Nannospalax}
+0.999413
+-0.253777
+0.998916
+0.0655394
+-0.544733
+59
+NC_020755
+mitochondrion Nannospalax judaei (Judean mountains blind mole rat)
+16406
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Spalacinae  Nannospalax}
+0.996429
+-0.25723
+0.980255
+0.0571025
+-0.536201
+60
+NC_020756
+mitochondrion Spalax carmeli (Mt Carmel blind mole rat)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Spalacinae  Spalax}
+0.949725
+-0.246933
+0.8771
+0.0109561
+-0.505539
+61
+NC_020757
+mitochondrion Nannospalax golani (Golan Heights blind mole rat)
+16402
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Spalacinae  Nannospalax}
+0.362882
+-0.279627
+-0.51419
+-0.271446
+-0.370424
+62
+NC_020758
+mitochondrion Acomys cahirinus (Egyptian spiny mouse)
+16217
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Deomyinae  Acomys}
+0.885805
+-0.256508
+-0.693247
+-0.979019
+-0.555998
+63
+NC_020792
+mitochondrion Tympanoctomys barrerae (plains viscacha rat)
+16863
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Octodontidae  Tympanoctomys}
+0.508379
+-0.176544
+-0.331059
+-0.492468
+0.200736
+64
+NC_021129
+mitochondrion Eospalax cansus
+16354
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Myospalacinae  Eospalax}
+0.76511
+-0.312346
+-0.637855
+-0.707923
+-0.703443
+65
+NC_021386
+mitochondrion Chinchilla lanigera (long-tailed chinchilla)
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Chinchillidae  Chinchilla}
+0.692229
+-0.226419
+-0.644996
+-0.791538
+-0.410763
+66
+NC_021387
+mitochondrion Coendou insidiosus
+16571
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Erethizontidae  Coendou}
+0.776686
+-0.294903
+-0.641563
+-0.855237
+-0.620378
+67
+NC_021388
+mitochondrion Trinomys dimidiatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Echimyidae  Trinomys}
+0.488064
+-0.166817
+-0.447525
+-0.47879
+-0.261321
+68
+NC_021478
+mitochondrion Rhizomys pruinosus (hoary bamboo rat)
+16575
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Spalacidae  Rhizomyinae  Rhizomys}
+0.893808
+-0.292233
+-0.753572
+-0.941324
+-0.643993
+69
+NC_023089
+mitochondrion Petaurista hainana
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Sciurinae  Pteromyini  Petaurista}
+0.347765
+-0.192521
+-0.608636
+-0.491141
+-0.254731
+70
+NC_023263
+mitochondrion Meriones unguiculatus (Mongolian gerbil)
+16351
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Gerbillinae  Meriones}
+-0.922617
+-0.982393
+-0.298256
+-0.582874
+-0.63359
+71
+NC_023347
+mitochondrion Rattus niobe (Eastern New Guinea mountain rat)
+16298
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Rattus}
+0.719652
+-0.344539
+-0.642549
+-0.753364
+-0.51091
+72
+NC_023780
+mitochondrion Ratufa bicolor (black giant squirrel)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Ratufinae  Ratufa}
+0.861442
+-0.279988
+-0.759594
+-0.931911
+-0.652166
+73
+NC_023922
+mitochondrion Petaurista alborufus (red and white giant flying
+16507
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Sciurinae  Pteromyini  Petaurista}
+-0.504867
+-0.276543
+-0.411453
+-0.36901
+-0.376162
+74
+NC_023960
+mitochondrion Niviventer confucianus (Chinese white-bellied rat)
+16281
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Niviventer}
+0.212423
+-0.415533
+-0.764094
+0.45132
+-0.487347
+75
+NC_024538
+mitochondrion Myodes glareolus (Bank vole)
+16353
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Myodes}
+0.292086
+-0.342422
+-0.625981
+-0.0295354
+-0.38557
+76
+NC_024592
+mitochondrion Cricetulus kamensis (Tibetan dwarf hamster)
+16270
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Cricetulus}
+-0.34735
+0.295651
+-0.483027
+-0.409581
+-0.201207
+77
+NC_025268
+mitochondrion Mus caroli (Ryukyu mouse)
+16313
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+-0.343529
+0.30897
+-0.438432
+-0.433714
+-0.27057
+78
+NC_025269
+mitochondrion Mus cervicolor (fawn-colored mouse)
+16304
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+-0.438061
+0.367752
+-0.41563
+-0.445084
+-0.26388
+79
+NC_025270
+mitochondrion Mus cookii (Cook's mouse)
+16307
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+0.62781
+-0.209026
+-0.649866
+-0.867419
+-0.339917
+80
+NC_025277
+mitochondrion Tamias sibiricus (Siberian chipmunk)
+16558
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Xerinae  Marmotini  Tamias}
+0.445984
+-0.416535
+-0.820716
+0.493312
+-0.56014
+81
+NC_025283
+mitochondrion Lasiopodomys mandarinus (Mandarin vole)
+16375
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Arvicolinae  Lasiopodomys}
+-0.421698
+0.318451
+-0.491772
+-0.364597
+-0.392488
+82
+NC_025287
+mitochondrion Mus fragilicauda
+16312
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}
+0.383372
+-0.226221
+-0.662618
+-0.162284
+-0.163372
+83
+NC_025330
+mitochondrion Cricetulus longicaudatus (long-tailed hamster)
+16302
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Cricetinae  Cricetulus}
+0.747403
+-0.275413
+-0.653632
+-0.772995
+-0.520958
+84
+NC_025550
+mitochondrion Callosciurus erythraeus (Pallas's squirrel)
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Sciuridae  Callosciurinae  Callosciurini  Callosciurus}
+-0.338
+-0.424652
+-0.440199
+-0.340958
+-0.276942
+85
+NC_025670
+mitochondrion Leopoldamys edwardsi (Edwards's long-tailed giant
+16284
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Leopoldamys}
+0.342903
+-0.327671
+-0.638431
+-0.254832
+-0.356475
+86
+NC_025746
+mitochondrion Akodon montensis
+16378
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Sigmodontinae  Akodon}
+0.396996
+-0.22401
+-0.615151
+-0.324466
+-0.2011
+87
+NC_025747
+mitochondrion Wiedomys cerradensis (cerrado red-nosed mouse)
+16346
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Cricetidae  Sigmodontinae  Wiedomys}
+-0.550986
+0.618356
+-0.437163
+-0.376629
+-0.73053
+88
+NC_025952
+mitochondrion Mus spretus (western wild mouse)
+16286
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Sciurognathi  Muroidea  Muridae  Murinae  Mus  Mus}

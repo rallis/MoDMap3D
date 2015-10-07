@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Echinoida (11)
+-0.786515
+-0.397559
+0.271204
+-0.202308
+1.
+1
+NC_001453
+mitochondrion Strongylocentrotus purpuratus (purple sea urchin)
+15650
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+1.
+-1.
+1.
+-1.
+0.538193
+2
+NC_001572
+mitochondrion Paracentrotus lividus (common urchin)
+15696
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinidae  Paracentrotus}
+-1.
+-0.382264
+0.270411
+-0.160347
+0.606122
+3
+NC_009940
+mitochondrion Strongylocentrotus droebachiensis (green sea urchin)
+15717
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+-0.985428
+-0.406343
+0.274262
+-0.146776
+0.569113
+4
+NC_009941
+mitochondrion Strongylocentrotus pallidus (pale sea urchin)
+15712
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+0.114483
+0.96771
+0.569667
+-0.106302
+0.590603
+5
+NC_020771
+mitochondrion Mesocentrotus nudus
+15709
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Mesocentrotus}
+0.952646
+-0.728172
+0.334496
+1.
+0.420058
+6
+NC_023770
+mitochondrion Loxechinus albus
+15709
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinidae  Loxechinus}
+-0.398791
+0.00436976
+0.309354
+-0.272602
+-1.
+7
+NC_023771
+mitochondrion Hemicentrotus pulcherrimus
+15705
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Hemicentrotus}
+-0.835172
+-0.329858
+0.215191
+-0.152605
+0.494084
+8
+NC_023772
+mitochondrion Strongylocentrotus intermedius
+15700
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+0.182722
+0.947112
+0.473484
+-0.210494
+0.470562
+9
+NC_023773
+mitochondrion Pseudocentrotus depressus
+15729
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinidae  Pseudocentrotus}
+0.731783
+0.0443962
+-1.
+-0.573973
+0.555002
+10
+NC_023774
+mitochondrion Heliocidaris crassispina
+15702
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinometridae  Heliocidaris}
+0.0335121
+1.
+0.595974
+-0.144379
+0.703868
+11
+NC_024177
+mitochondrion Mesocentrotus franciscanus
+15649
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Mesocentrotus}

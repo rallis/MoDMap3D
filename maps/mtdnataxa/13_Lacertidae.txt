@@ -1,0 +1,136 @@
+13
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Lacertidae (13)
+-0.874713
+-0.706432
+1.
+-0.75052
+0.356197
+1
+NC_008328
+mitochondrion Lacerta viridis viridis (European green lizard)
+17156
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Lacerta}
+-0.843793
+1.
+-0.33599
+-0.617129
+1.
+2
+NC_008773
+mitochondrion Takydromus tachydromoides (Japanese grass lizard)
+18245
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Takydromus}
+-0.76551
+-0.316505
+0.310067
+-0.318934
+-0.578449
+3
+NC_011606
+mitochondrion Phoenicolacerta kulzeri (common Eurasian lizard)
+17199
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Phoenicolacerta}
+-1.
+-1.
+-0.984462
+-0.197627
+0.144679
+4
+NC_011607
+mitochondrion Podarcis muralis (common wall lizard)
+17311
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Podarcis}
+-0.973385
+-0.997345
+-1.
+-0.190435
+0.207529
+5
+NC_011609
+mitochondrion Podarcis siculus (Italian wall lizard)
+17297
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Podarcis}
+0.691962
+-0.100253
+-0.0451635
+-0.194467
+-0.560494
+6
+NC_011764
+mitochondrion Eremias brenchleyi (Ordos racerunner)
+19542
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Eremias}
+0.6492
+-0.0873479
+-0.0724053
+-0.241895
+-0.811808
+7
+NC_016755
+mitochondrion Eremias argus
+18521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Eremias}
+-0.884168
+0.916525
+-0.182341
+-0.592872
+0.406715
+8
+NC_018777
+mitochondrion Takydromus wolteri (mountain grass lizard)
+18236
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Takydromus}
+-0.803751
+-0.680592
+0.983794
+-0.77384
+0.145061
+9
+NC_021766
+mitochondrion Lacerta agilis
+17090
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Lacerta}
+-0.882694
+0.940245
+-0.0952904
+-0.306198
+-1.
+10
+NC_022703
+mitochondrion Takydromus sexlineatus (Asian grass lizard)
+18943
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Takydromus}
+0.974865
+-0.202644
+-0.251059
+-1.
+0.45431
+11
+NC_025304
+mitochondrion Eremias multiocellata
+19385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Eremias}
+0.323026
+0.0234161
+0.504942
+1.
+0.954228
+12
+NC_025320
+mitochondrion Eremias vermiculata
+19914
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Eremias}
+1.
+-0.207978
+-0.301597
+-0.941285
+0.499181
+13
+NC_025929
+mitochondrion Eremias przewalskii
+18225
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Laterata  Lacertibaenia  Lacertidae  Eremias}

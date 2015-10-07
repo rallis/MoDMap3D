@@ -1,0 +1,366 @@
+36
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Seadornavirus (36)
+0.773509
+-1.
+0.0404123
+-0.337922
+0.0749923
+1
+NC_004198
+Banna virus strain JKT-6423
+862
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+1.
+0.159962
+0.616499
+0.581051
+0.501325
+2
+NC_004199
+Kadipiro virus
+756
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.800637
+-0.832984
+0.472484
+-0.039629
+0.4804
+3
+NC_004200
+Banna virus strain JKT-6423
+867
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.560293
+0.180795
+-0.559114
+0.200207
+0.499053
+4
+NC_004201
+Banna virus strain JKT-6423
+977
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.567099
+0.271628
+-0.867985
+-0.2666
+-0.510061
+5
+NC_004202
+Banna virus strain JKT-6423
+1101
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.685609
+0.529692
+0.392028
+-0.346282
+-0.904084
+6
+NC_004203
+Banna virus strain JKT-6423
+1119
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.56905
+-0.786921
+0.0495451
+-0.377692
+0.115426
+7
+NC_004204
+Banna virus strain JKT-6423
+1136
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.558051
+-0.0436666
+-0.350717
+1.
+-0.0236583
+8
+NC_004205
+Kadipiro virus
+894
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.698135
+-0.0607422
+-0.350284
+0.3225
+0.734039
+9
+NC_004206
+Kadipiro virus
+946
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.782475
+0.23825
+0.875696
+-0.180033
+-0.347494
+10
+NC_004207
+Kadipiro virus
+1054
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.475331
+0.574792
+-0.205135
+0.118842
+1.
+11
+NC_004208
+Kadipiro virus
+1114
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.457661
+0.679476
+0.598786
+0.18236
+0.487302
+12
+NC_004209
+Kadipiro virus
+1259
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.930294
+0.289827
+-0.00658861
+0.181484
+-0.1378
+13
+NC_004210
+Kadipiro virus
+3774
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-1.
+-0.0712327
+0.160847
+0.212987
+-0.00462225
+14
+NC_004211
+Banna virus
+3747
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.496473
+0.506402
+-0.440131
+0.0651216
+-0.263692
+15
+NC_004212
+Kadipiro virus
+3035
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.253006
+0.162685
+0.303776
+0.261578
+0.369401
+16
+NC_004213
+Kadipiro virus
+2415
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.309641
+0.501803
+0.713399
+-0.0915926
+0.532384
+17
+NC_004214
+Kadipiro virus
+2121
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.0472014
+0.223929
+0.405102
+-1.
+0.16519
+18
+NC_004215
+Kadipiro virus
+1947
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.0909509
+0.318669
+-0.134085
+-0.551476
+0.891666
+19
+NC_004216
+Kadipiro virus
+1670
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.305553
+0.24891
+0.0022051
+0.0842023
+-0.127993
+20
+NC_004217
+Banna virus
+3048
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.00299031
+0.393849
+-0.0367928
+-0.395002
+0.459455
+21
+NC_004218
+Banna virus
+2400
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.0583527
+0.444414
+-0.282885
+0.084376
+0.413378
+22
+NC_004219
+Banna virus
+2038
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.19195
+-0.586522
+-0.0531993
+-0.163586
+-1.
+23
+NC_004220
+Banna virus
+1716
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.187962
+-0.289552
+-1.
+-0.0853295
+0.0357851
+24
+NC_004221
+Banna virus
+1671
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.812715
+0.388732
+-0.0241332
+0.303624
+-0.2214
+25
+NC_007736
+Liao ning virus
+3740
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+-0.109383
+0.353994
+-0.344047
+0.0876932
+0.0676633
+26
+NC_007737
+Liao ning virus
+3055
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.0515452
+0.594184
+-0.19515
+-0.0877197
+0.258504
+27
+NC_007738
+Liao ning virus
+2404
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.304215
+0.417117
+-0.68398
+0.0322105
+0.370392
+28
+NC_007739
+Liao ning virus
+2062
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.133218
+0.461987
+0.164283
+-0.841111
+0.993922
+29
+NC_007740
+Liao ning virus
+1870
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.441816
+0.919537
+-0.0649954
+-0.25272
+0.435636
+30
+NC_007741
+Liao ning virus
+1750
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.614649
+0.0542894
+0.106988
+0.345462
+0.687465
+31
+NC_007742
+Liao ning virus
+1208
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.962838
+0.623109
+-0.504415
+0.184595
+0.83049
+32
+NC_007743
+Liao ning virus
+1147
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.836119
+1.
+1.
+0.161014
+-0.318653
+33
+NC_007744
+Liao ning virus
+943
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.863916
+0.969817
+-0.393909
+-0.23094
+-0.464891
+34
+NC_007745
+Liao ning virus
+903
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.915694
+0.651271
+-0.817426
+-0.636295
+-0.0487532
+35
+NC_007746
+Liao ning virus
+897
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}
+0.922862
+0.820509
+-0.101426
+0.274933
+-0.802141
+36
+NC_007747
+Liao ning virus
+760
+{root  Viruses  dsRNA viruses  Reoviridae  Sedoreovirinae  Seadornavirus}

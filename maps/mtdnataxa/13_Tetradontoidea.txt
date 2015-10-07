@@ -1,0 +1,586 @@
+58
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tetradontoidea (58)
+-1.
+-0.454342
+-0.321355
+-0.0209187
+-0.0257598
+1
+NC_004299
+mitochondrion Takifugu rubripes (Fugu rubripes)
+16447
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+0.866791
+-0.86859
+-0.365254
+-0.026391
+0.0411577
+2
+NC_007176
+mitochondrion Tetraodon nigroviridis (green-spotted freshwater
+16462
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tetraodon}
+0.781793
+-0.0146975
+0.0688859
+-0.124576
+0.298873
+3
+NC_010960
+mitochondrion Sphoeroides pachygaster (blunthead puffer)
+16444
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Sphoeroides}
+0.982891
+-0.915433
+-0.353869
+-0.318755
+-0.0434634
+4
+NC_010975
+mitochondrion Arothron firmamentum (starry toado)
+16474
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Arothron}
+0.999161
+-0.971043
+-0.442187
+0.909205
+0.758714
+5
+NC_010978
+mitochondrion Canthigaster coronata (crowned puffer)
+16446
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Canthigaster}
+0.969123
+-0.977342
+-0.405324
+1.
+0.732196
+6
+NC_010979
+mitochondrion Canthigaster rivulata (brown-lined puffer)
+16446
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Canthigaster}
+-0.948326
+-0.418822
+-0.295516
+-0.0949323
+0.0559377
+7
+NC_011621
+mitochondrion Takifugu poecilonotus (finepatterned puffer)
+16448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.944789
+-0.432902
+-0.29423
+-0.0862534
+0.0563133
+8
+NC_011622
+mitochondrion Takifugu exascurus (mushifugu)
+16443
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+0.883112
+-0.46244
+-0.429807
+-0.434104
+0.30011
+9
+NC_011623
+mitochondrion Chelonodon patoca (milkspotted puffer)
+16720
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Chelonodon}
+-0.950731
+-0.439672
+-0.294397
+-0.0910265
+0.0496543
+10
+NC_011624
+mitochondrion Takifugu chrysops (akamefugu)
+16448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.889054
+-0.436751
+-0.295048
+-0.122111
+0.0587599
+11
+NC_011625
+mitochondrion Takifugu niphobles (grass puffer)
+16442
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.979966
+-0.461575
+-0.308331
+-0.0353299
+0.0459196
+12
+NC_011626
+mitochondrion Takifugu obscurus (mefugu)
+16445
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.949974
+-0.450576
+-0.299464
+-0.0836364
+0.0600249
+13
+NC_011627
+mitochondrion Takifugu pardalis (panther puffer)
+16463
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.949194
+-0.440988
+-0.287359
+-0.0609
+0.056187
+14
+NC_011628
+mitochondrion Takifugu porphyreus (purple puffer)
+16447
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.915146
+-0.436372
+-0.284865
+-0.0782822
+0.0704545
+15
+NC_011629
+mitochondrion Takifugu stictonotus (gomafugu)
+16451
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.91468
+-0.443227
+-0.289367
+-0.0843239
+0.0759333
+16
+NC_011630
+mitochondrion Takifugu snyderi (shosai-fugu)
+16450
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.937088
+-0.44682
+-0.300957
+-0.0709562
+0.0751217
+17
+NC_011631
+mitochondrion Takifugu vermicularis (pear puffer)
+16443
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.928959
+-0.440413
+-0.293333
+-0.0720619
+0.0621102
+18
+NC_011632
+mitochondrion Takifugu xanthopterus (yellowfin puffer)
+16442
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.998689
+-0.444907
+-0.320321
+-0.0265587
+-0.0208782
+19
+NC_011633
+mitochondrion Takifugu chinensis (karasu)
+16447
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.832291
+-0.437606
+-0.309094
+-0.070513
+0.0995619
+20
+NC_011634
+mitochondrion Takifugu oblongus (lattice blaasop)
+16444
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.865675
+-0.426922
+-0.280097
+-0.102124
+0.0838791
+21
+NC_011635
+mitochondrion Takifugu ocellatus
+16449
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.164225
+-0.156006
+-0.217729
+-0.849296
+0.81678
+22
+NC_011636
+mitochondrion Torquigener brevipennis (yellow-stripe toadfish)
+16441
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Torquigener}
+0.818407
+0.893121
+-0.920043
+0.451634
+-0.119504
+23
+NC_011637
+mitochondrion Lagocephalus wheeleri (brown-backed toadfish)
+16453
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Lagocephalus}
+-0.984365
+-0.45253
+-0.311761
+-0.0380276
+0.0305909
+24
+NC_013087
+mitochondrion Takifugu fasciatus (obscure pufferfish)
+16444
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+0.841401
+0.345851
+-0.609978
+0.0505926
+0.0638687
+25
+NC_013360
+mitochondrion Lagocephalus lunaris (lunartail puffer)
+16433
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Lagocephalus}
+-0.140858
+-0.136799
+-0.237439
+-0.840228
+0.839769
+26
+NC_015332
+mitochondrion Torquigener hypselogeneion (orange-spotted toadfish)
+16404
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Torquigener}
+1.
+-0.934022
+-0.364459
+-0.298734
+-0.0531922
+27
+NC_015336
+mitochondrion Arothron hispidus (white-spotted puffer)
+16483
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Arothron}
+0.967828
+-1.
+-0.419988
+0.956723
+0.750641
+28
+NC_015337
+mitochondrion Canthigaster valentini (Valentinni's sharpnose
+16452
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Canthigaster}
+0.0524338
+-0.0743008
+-0.294964
+-0.969837
+0.958925
+29
+NC_015339
+mitochondrion Polyspina piosae (orangebarred puffer)
+16418
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Polyspina}
+0.821675
+0.0309838
+-0.318433
+-0.323944
+0.303169
+30
+NC_015340
+mitochondrion Lagocephalus sceleratus (silver-cheeked toadfish)
+16442
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Lagocephalus}
+0.867989
+-0.153857
+0.556251
+-0.028882
+0.0508006
+31
+NC_015341
+mitochondrion Sphoeroides parvus (least puffer)
+16444
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Sphoeroides}
+0.826921
+0.972604
+-0.964417
+0.472096
+-0.196555
+32
+NC_015343
+mitochondrion Lagocephalus lagocephalus (oceanic puffer)
+16442
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Lagocephalus}
+0.88685
+-0.119315
+0.997947
+0.178327
+-0.226615
+33
+NC_015344
+mitochondrion Sphoeroides annulatus (bullseye puffer)
+16449
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Sphoeroides}
+0.813425
+1.
+-1.
+0.522555
+-0.20224
+34
+NC_015345
+mitochondrion Lagocephalus laevigatus (smooth puffer)
+16449
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Lagocephalus}
+0.883164
+-0.133181
+1.
+0.162917
+-0.216879
+35
+NC_015346
+mitochondrion Sphoeroides testudineus (checkered puffer)
+16446
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Sphoeroides}
+0.317953
+-0.160842
+-0.246545
+-0.981363
+0.78312
+36
+NC_015347
+mitochondrion Tetractenos glaber (smooth toadfish)
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tetractenos}
+0.840044
+-0.352727
+-0.427621
+-0.213097
+0.182836
+37
+NC_015348
+mitochondrion Auriglobus modestus (bronze puffer)
+16807
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Auriglobus}
+0.777475
+-0.487765
+-0.397154
+-0.292043
+0.334933
+38
+NC_015349
+mitochondrion Omegophora armilla (ringed toadfish)
+16471
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Omegophora}
+0.867538
+-0.347087
+-0.501753
+-0.677837
+-0.0241919
+39
+NC_015350
+mitochondrion Carinotetraodon lorteti (redeye puffer)
+16456
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Carinotetraodon}
+0.616729
+0.0962153
+-0.360718
+-0.960295
+0.756789
+40
+NC_015351
+mitochondrion Marilyna darwinii (Darwin toadfish)
+16406
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Marilyna}
+0.855956
+-0.340078
+-0.498394
+-0.726495
+0.00737179
+41
+NC_015352
+mitochondrion Carinotetraodon salivator (striped redeye puffer)
+16437
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Carinotetraodon}
+0.869309
+-0.658643
+-0.376656
+0.211853
+0.419464
+42
+NC_015353
+mitochondrion Pelagocephalus marki (rippled blaasop)
+16472
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Pelagocephalus}
+0.931509
+-0.795909
+-0.549831
+-0.581088
+-0.413516
+43
+NC_015355
+mitochondrion Tetraodon palembangensis (humpback puffer)
+16467
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tetraodon}
+0.0102654
+-0.10115
+-0.320308
+-0.893313
+0.824794
+44
+NC_015356
+mitochondrion Tylerius spinosissimus (spiny blaasop)
+16462
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tylerius}
+0.975426
+-0.84583
+-0.340883
+-0.03487
+0.0855642
+45
+NC_015358
+mitochondrion Tetraodon biocellatus (eyespot pufferfish)
+16450
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tetraodon}
+0.940588
+-0.739655
+-0.497965
+-0.625572
+0.384053
+46
+NC_015361
+mitochondrion Tetraodon miurus (Congo puffer)
+16463
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tetraodon}
+0.933275
+-0.731701
+-0.471854
+-0.603632
+0.377912
+47
+NC_015363
+mitochondrion Tetraodon mbu (fresh water puffer fish)
+16508
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Tetraodon}
+0.787814
+-0.294931
+-0.407026
+-0.506729
+0.313699
+48
+NC_015365
+mitochondrion Leiodon cutcutia (ocellated pufferfish)
+16624
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Leiodon}
+0.97272
+-0.857487
+-0.666652
+-1.
+-0.986772
+49
+NC_015366
+mitochondrion Monotrete cochinchinensis (Fangs Puffer)
+16451
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Monotrete}
+-0.0142625
+-0.125401
+-0.307289
+-0.934565
+1.
+50
+NC_015367
+mitochondrion Torquigener pleurogramma (weeping toado)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Torquigener}
+0.870601
+0.0375073
+0.663271
+-0.279265
+0.000857952
+51
+NC_015368
+mitochondrion Colomesus asellus (Amazon puffer)
+16479
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Colomesus}
+0.867116
+-0.613524
+-0.483031
+-0.283357
+0.332054
+52
+NC_015369
+mitochondrion Chelonodon pleurospilus (blaasop beauty)
+16468
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Chelonodon}
+0.878927
+0.0158554
+0.650002
+-0.271133
+-0.0642999
+53
+NC_015370
+mitochondrion Colomesus psittacus (banded puffer)
+16470
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Colomesus}
+0.997415
+-0.938124
+-0.396018
+-0.359947
+-0.0984195
+54
+NC_015371
+mitochondrion Arothron manilensis (narrow-lined puffer)
+16487
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Arothron}
+0.897618
+-0.855456
+-0.447766
+0.856817
+0.766512
+55
+NC_015372
+mitochondrion Canthigaster jactator (Hawaiian whitespotted toby)
+16513
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Canthigaster}
+0.974961
+-0.868402
+-0.666528
+-0.998188
+-1.
+56
+NC_022940
+mitochondrion Monotrete leiurus
+16448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Monotrete}
+-0.996881
+-0.452214
+-0.330731
+-0.0198425
+-0.0202484
+57
+NC_024199
+mitochondrion Takifugu flavidus (sansaifugu)
+16449
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}
+-0.974535
+-0.454206
+-0.312294
+-0.0487931
+0.0393907
+58
+NC_025939
+mitochondrion Takifugu flavidus x Takifugu rubripes
+16443
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Tetraodontiformes  Tetradontoidea  Tetraodontidae  Takifugu}

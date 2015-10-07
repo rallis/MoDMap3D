@@ -1,0 +1,256 @@
+25
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Salmoninae (25)
+-0.212662
+-1.
+-1.
+-0.00403448
+-0.148792
+1
+NC_000860
+mitochondrion Salvelinus fontinalis (brook trout)
+16624
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salvelinus}
+-0.192439
+-0.857498
+-0.923347
+-0.0683942
+-0.267579
+2
+NC_000861
+mitochondrion Salvelinus alpinus (Arctic char)
+16659
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salvelinus}
+0.607766
+0.487759
+-0.151456
+0.565351
+-0.969306
+3
+NC_001717
+mitochondrion Oncorhynchus mykiss (rainbow trout)
+16642
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+-0.183744
+-0.0624893
+0.679486
+-0.629654
+-0.175864
+4
+NC_001960
+mitochondrion Salmo salar (Atlantic salmon)
+16665
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salmo}
+0.617962
+0.449276
+-0.203402
+0.531771
+-1.
+5
+NC_002980
+mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+16644
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+0.583859
+0.452647
+-0.196324
+0.686096
+-0.839161
+6
+NC_006897
+mitochondrion Oncorhynchus clarkii henshawi (Lahontan cutthroat
+16658
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+0.633619
+0.488215
+-0.13872
+0.683319
+-0.0420001
+7
+NC_008615
+mitochondrion Oncorhynchus nerka (sockeye salmon)
+16658
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+1.
+0.720907
+-0.798692
+-1.
+-0.103795
+8
+NC_008745
+mitochondrion Oncorhynchus masou formosanus (Taiwan salmon)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+0.990358
+0.718005
+-0.782562
+-0.984172
+-0.0895184
+9
+NC_008746
+mitochondrion Oncorhynchus masou ishikawae (Ishikawa's cherry
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+0.997643
+0.700427
+-0.788049
+-0.979817
+-0.103904
+10
+NC_008747
+mitochondrion Oncorhynchus masou masou (cherry salmon)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+0.997088
+0.71232
+-0.764804
+-0.981381
+-0.104121
+11
+NC_009262
+mitochondrion Oncorhynchus masou 'Biwa' (masu salmon)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+0.601744
+0.473929
+-0.209084
+0.562254
+-0.965966
+12
+NC_009263
+mitochondrion Oncorhynchus kisutch (coho salmon)
+16659
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+-0.169939
+-0.152428
+1.
+-0.798353
+-0.159145
+13
+NC_010007
+mitochondrion Salmo trutta trutta (sea trout)
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salmo}
+0.57867
+0.445971
+-0.14482
+1.
+1.
+14
+NC_010959
+mitochondrion Oncorhynchus gorbuscha (pink salmon)
+16785
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+-0.973133
+1.
+-0.546626
+-0.0809106
+-0.371067
+15
+NC_015995
+mitochondrion Hucho bleekeri (Sichuan taimen)
+16997
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Hucho}
+-1.
+0.994393
+-0.565957
+-0.0618268
+-0.341168
+16
+NC_016426
+mitochondrion Hucho taimen (taimen)
+16833
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Hucho}
+0.590084
+0.425782
+-0.0936091
+0.93726
+0.762646
+17
+NC_017838
+mitochondrion Oncorhynchus keta (chum salmon)
+16656
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Oncorhynchus}
+-0.853755
+0.914724
+-0.544592
+-0.0740933
+0.00142494
+18
+NC_018341
+mitochondrion Brachymystax lenok (lenok trout)
+16832
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Brachymystax}
+-0.842468
+0.882245
+-0.55903
+-0.105226
+-0.00269517
+19
+NC_018342
+mitochondrion Brachymystax lenok tsinlingensis (Tsinling lenok
+16669
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Brachymystax}
+-0.16809
+0.0057879
+-0.202121
+-0.132798
+-0.317567
+20
+NC_021651
+mitochondrion Parahucho perryi (Japanese huchen)
+16651
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Parahucho}
+-0.212912
+-0.999745
+-0.984489
+0.00713676
+-0.16526
+21
+NC_022844
+mitochondrion Salvelinus leucomaenis (whitespotted char)
+16658
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salvelinus}
+-0.183765
+-0.157738
+0.992547
+-0.801772
+-0.15933
+22
+NC_024032
+mitochondrion Salmo trutta (brown trout)
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salmo}
+-0.195207
+-0.83841
+-0.885632
+-0.0525393
+-0.256615
+23
+NC_024585
+mitochondrion Salvelinus curilus
+16654
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Salvelinus}
+-0.876245
+0.893356
+-0.548666
+-0.0704226
+-0.0718959
+24
+NC_024674
+mitochondrion Brachymystax tumensis
+16836
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Brachymystax}
+-0.975525
+0.996014
+-0.563526
+-0.0695415
+-0.364689
+25
+NC_025589
+mitochondrion Hucho hucho (huchen)
+16751
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Protacanthopterygii  Salmoniformes  Salmonidae  Salmoninae  Hucho}

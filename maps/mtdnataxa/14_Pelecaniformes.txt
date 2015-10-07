@@ -1,0 +1,246 @@
+24
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Pelecaniformes (24)
+-0.255594
+-0.0356279
+-0.356251
+0.971407
+-1.
+1
+NC_007979
+mitochondrion Phaethon rubricauda (red-tailed tropicbird)
+17777
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Phaethontidae  Phaethon}
+-0.587817
+0.17353
+0.031535
+-0.218511
+0.180426
+2
+NC_008132
+mitochondrion Nipponia nippon (crested ibis)
+16732
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Threskiornithidae  Nipponia}
+0.790175
+0.627777
+-0.339003
+-0.313008
+0.268738
+3
+NC_008551
+mitochondrion Ardea novaehollandiae (white-faced heron)
+17511
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ardea}
+0.961552
+1.
+-0.461883
+-0.35379
+0.265993
+4
+NC_009736
+mitochondrion Egretta eulophotes (Chinese egret)
+17579
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Egretta}
+-0.981486
+0.311091
+0.193272
+-0.989977
+0.264874
+5
+NC_010962
+mitochondrion Platalea minor (black-faced spoonbill)
+16918
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Threskiornithidae  Platalea}
+-1.
+0.285291
+0.173309
+-1.
+0.272412
+6
+NC_012772
+mitochondrion Platalea leucorodia (Eurasian spoonbill)
+16715
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Threskiornithidae  Platalea}
+-0.762195
+0.195405
+0.174498
+-0.524676
+0.274466
+7
+NC_013146
+mitochondrion Threskiornis aethiopicus (Sacred Ibis)
+16960
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Threskiornithidae  Threskiornis}
+-0.253181
+-0.160473
+-0.353309
+0.798958
+0.767504
+8
+NC_014679
+mitochondrion Leucocarbo chalconotus (bronze shag)
+19073
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Phalacrocoracidae  Leucocarbo}
+-0.223565
+-0.207128
+-0.365355
+1.
+1.
+9
+NC_014681
+mitochondrion Anhinga rufa (African darter)
+19385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Anhingidae  Anhinga}
+0.355735
+-0.932911
+-0.895712
+-0.687442
+0.203015
+10
+NC_015077
+mitochondrion Ixobrychus cinnamomeus (cinnamon bittern)
+17180
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ixobrychus}
+0.473388
+-0.260933
+0.00196976
+-0.102061
+0.343791
+11
+NC_015807
+mitochondrion Nycticorax nycticorax (black-crowned night-heron)
+17829
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Nycticorax}
+0.920584
+0.984829
+-0.47315
+-0.339019
+0.259761
+12
+NC_023981
+mitochondrion Egretta garzetta (little egret)
+17361
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Egretta}
+0.390233
+-0.790701
+-0.73882
+-0.59591
+0.218688
+13
+NC_024575
+mitochondrion Dupetor flavicollis (black bittern)
+17016
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Dupetor}
+0.640194
+-0.452523
+1.
+-0.234467
+0.211323
+14
+NC_025900
+mitochondrion Ardea cinerea (grey heron)
+18703
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ardea}
+0.621253
+-0.446363
+0.91125
+-0.258952
+0.220852
+15
+NC_025916
+mitochondrion Ardea modesta (Eastern great egret)
+19212
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ardea}
+0.594511
+-0.450726
+0.868911
+-0.257443
+0.260006
+16
+NC_025917
+mitochondrion Bubulcus ibis (cattle egret)
+18959
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Bubulcus}
+0.62566
+-0.421461
+0.9061
+-0.240187
+0.163985
+17
+NC_025918
+mitochondrion Ardea intermedia
+18543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ardea}
+0.617312
+-0.433022
+0.988895
+-0.210067
+0.226539
+18
+NC_025919
+mitochondrion Ardea purpurea
+18722
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ardea}
+1.
+0.981525
+-0.422742
+-0.365798
+0.250542
+19
+NC_025920
+mitochondrion Egretta sacra
+19656
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Egretta}
+0.43357
+-0.430974
+0.0158278
+-0.116817
+0.315318
+20
+NC_025921
+mitochondrion Ardeola bacchus (Chinese pond heron)
+19341
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ardeola}
+0.486633
+-0.344624
+0.153658
+-0.214404
+0.349097
+21
+NC_025922
+mitochondrion Butorides striata (green-backed heron)
+19087
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Butorides}
+0.360035
+-0.757451
+-0.697361
+-0.40248
+0.190225
+22
+NC_025923
+mitochondrion Botaurus stellaris
+20350
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Botaurus}
+0.344196
+-1.
+-1.
+-0.633058
+0.220278
+23
+NC_025924
+mitochondrion Ixobrychus eurhythmus
+19509
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ixobrychus}
+0.413614
+-0.82654
+-0.77554
+-0.529741
+0.211866
+24
+NC_025925
+mitochondrion Ixobrychus sinensis
+19493
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Pelecaniformes  Ardeidae  Ixobrychus}

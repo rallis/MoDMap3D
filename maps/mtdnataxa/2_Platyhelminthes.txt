@@ -1,0 +1,646 @@
+64
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Platyhelminthes (64)
+0.818488
+-0.667403
+0.372869
+0.205941
+-0.30437
+1
+NC_000928
+mitochondrion Echinococcus multilocularis (echinococcosis tapeworm)
+13738
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.402586
+-0.86269
+-0.153809
+0.956484
+1.
+2
+NC_002354
+mitochondrion Paragonimus westermani (lung fluke)
+14965
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Plagiorchiida  Troglotremata  Paragonimidae  Paragonimus}
+0.198636
+-0.44133
+-0.44762
+0.932008
+-0.886028
+3
+NC_002529
+mitochondrion Schistosoma mekongi (blood fluke)
+14072
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Strigeidida  Schistosomatoidea  Schistosomatidae  Schistosoma}
+0.0973935
+-0.454187
+-0.433071
+0.904314
+-0.854317
+4
+NC_002544
+mitochondrion Schistosoma japonicum (oriental blood fluke)
+14085
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Strigeidida  Schistosomatoidea  Schistosomatidae  Schistosoma}
+0.0536926
+-0.504049
+-0.393256
+0.888937
+-0.804158
+5
+NC_002545
+mitochondrion Schistosoma mansoni (human blood fluke)
+14415
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Strigeidida  Schistosomatoidea  Schistosomatidae  Schistosoma}
+0.0193137
+-0.994987
+-0.265416
+0.93921
+0.339119
+6
+NC_002546
+mitochondrion Fasciola hepatica (liver fluke)
+14462
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Echinostomida  Echinostomata  Echinostomatoidea  Fasciolidae  Fasciola}
+0.763964
+-0.0758117
+-0.34381
+0.637666
+-0.229766
+7
+NC_002547
+mitochondrion Taenia crassiceps (tapeworm)
+13503
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.294185
+-0.250703
+-0.361591
+0.392572
+-0.190928
+8
+NC_002767
+mitochondrion Hymenolepis diminuta (rat tapeworm)
+13900
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Hymenolepididae  Hymenolepis}
+0.842912
+0.0616377
+-0.352614
+0.839822
+0.218708
+9
+NC_004022
+mitochondrion Taenia solium (pork tapeworm)
+13709
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.98292
+0.120211
+-0.351185
+0.968128
+0.580036
+10
+NC_004826
+mitochondrion Taenia asiatica (tapeworm)
+13703
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.095764
+-0.318749
+-0.460036
+0.913175
+-0.992714
+11
+NC_008067
+mitochondrion Schistosoma spindale (cattle fluke)
+16901
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Strigeidida  Schistosomatoidea  Schistosomatidae  Schistosoma}
+0.085907
+-0.324899
+-0.468329
+0.897108
+-1.
+12
+NC_008074
+mitochondrion Schistosoma haematobium (human blood fluke)
+15003
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Strigeidida  Schistosomatoidea  Schistosomatidae  Schistosoma}
+0.776209
+-0.787248
+0.474793
+0.15992
+-0.249844
+13
+NC_008075
+mitochondrion Echinococcus granulosus (hydatid disease agent)
+13588
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.998883
+0.995864
+1.
+0.326545
+0.389387
+14
+NC_008815
+mitochondrion Gyrodactylus salaris (gyrodactylosis fluke)
+14790
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Gyrodactylidae  Gyrodactylus}
+0.0885756
+-0.282473
+-0.856268
+-0.689994
+0.310544
+15
+NC_008945
+mitochondrion Diphyllobothrium latum (broad fish tapeworm)
+13608
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Diphyllobothriidea  Diphyllobothriidae  Diphyllobothrium}
+-0.107891
+-0.180022
+-0.45709
+0.679843
+-0.789117
+16
+NC_009055
+mitochondrion Microcotyle sebastis (rockfish gill parasite)
+14407
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Polyopisthocotylea  Microcotylidae  Microcotyle}
+0.801955
+-0.717344
+0.435991
+0.208134
+-0.333083
+17
+NC_009460
+mitochondrion Echinococcus shiquicus (tapeworm)
+13807
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.79355
+-0.668753
+0.333184
+0.223296
+-0.278878
+18
+NC_009461
+mitochondrion Echinococcus oligarthrus (tapeworm)
+13791
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.817582
+-0.78488
+0.444021
+0.156489
+-0.235953
+19
+NC_009462
+mitochondrion Echinococcus vogeli (tapeworm)
+13750
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.0503954
+-0.246087
+-0.832841
+-0.719264
+0.320326
+20
+NC_009463
+mitochondrion Diphyllobothrium nihonkaiense (tapeworm)
+13747
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Diphyllobothriidea  Diphyllobothriidae  Diphyllobothrium}
+0.139696
+-0.599772
+-0.403434
+0.867711
+-0.538156
+21
+NC_009680
+mitochondrion Trichobilharzia regenti (bird nasal schistosome)
+14838
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Strigeidida  Schistosomatoidea  Schistosomatidae  Trichobilharzia}
+-1.
+1.
+0.989387
+0.331142
+0.373011
+22
+NC_009682
+mitochondrion Gyrodactylus thymalli (fish monogenean parasite)
+14788
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Gyrodactylidae  Gyrodactylus}
+0.999534
+0.142367
+-0.368232
+0.995922
+0.544245
+23
+NC_009938
+mitochondrion Taenia saginata (beef tapeworm)
+13670
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.480272
+0.403998
+0.0891025
+0.579764
+-0.413295
+24
+NC_010976
+mitochondrion Gyrodactylus derjavinoides (salmonid flatworm)
+14741
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Gyrodactylidae  Gyrodactylus}
+0.150887
+-0.453032
+-0.52528
+-0.13406
+0.201669
+25
+NC_011037
+mitochondrion Spirometra erinaceieuropaei (tapeworm)
+13643
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Diphyllobothriidea  Diphyllobothriidae  Spirometra}
+0.823647
+-0.749861
+0.497266
+0.122732
+-0.320386
+26
+NC_011121
+mitochondrion Echinococcus canadensis (tapeworm)
+13721
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.84438
+-0.772918
+0.541649
+0.136057
+-0.349792
+27
+NC_011122
+mitochondrion Echinococcus ortleppi (tapeworm)
+13717
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.23576
+-0.962063
+-0.281285
+0.991319
+0.57462
+28
+NC_011127
+mitochondrion Opisthorchis felineus (cat liver fluke)
+14277
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Opisthorchiida  Opisthorchiata  Opisthorchiidae  Opisthorchis}
+-0.22183
+-0.958179
+-0.274552
+0.969224
+0.546508
+29
+NC_012147
+mitochondrion Clonorchis sinensis (Chinese liver fluke)
+13875
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Opisthorchiida  Opisthorchiata  Opisthorchiidae  Clonorchis}
+0.914221
+0.146158
+-0.401761
+0.9863
+0.531669
+30
+NC_012894
+mitochondrion Taenia multiceps (tapeworm)
+13693
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.710694
+-0.0951873
+-0.298815
+0.657343
+0.0307468
+31
+NC_012896
+mitochondrion Taenia hydatigena (tapeworm)
+13492
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.653678
+-0.011887
+-0.369096
+0.633759
+-0.130386
+32
+NC_013844
+mitochondrion Taenia pisiformis (tapeworm)
+13387
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.0717274
+-0.172796
+-0.507042
+0.662592
+-0.756492
+33
+NC_014291
+mitochondrion Benedenia seriolae (kingfish skin fluke)
+13498
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Capsalidae  Benedenia}
+0.0150193
+-0.175209
+-0.508454
+0.613037
+-0.701402
+34
+NC_014591
+mitochondrion Benedenia hoshinai (flatworm (parasite of striped
+13554
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Capsalidae  Benedenia}
+0.630874
+-0.154657
+-0.319996
+0.518143
+-0.255717
+35
+NC_014768
+mitochondrion Hydatigera taeniaeformis (tapeworm)
+13647
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Hydatigera}
+-0.0571682
+-0.216204
+-0.484631
+0.67544
+-0.840054
+36
+NC_016057
+mitochondrion Polylabris halichoeres (parasitic flatworm)
+15527
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Polyopisthocotylea  Microcotylidae  Polylabris}
+0.120551
+-0.368082
+-0.444623
+0.703212
+-0.622286
+37
+NC_016439
+mitochondrion Dugesia japonica
+17799
+{Eukaryota  Metazoa  Platyhelminthes  Rhabditophora  Seriata  Tricladida  Continenticola  Geoplanoidea  Dugesiidae  Dugesia}
+-0.0942001
+-0.219055
+-0.470515
+0.716444
+-0.725228
+38
+NC_016950
+mitochondrion Pseudochauhanea macrorchis (flatworm)
+15031
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Polyopisthocotylea  Chauhaneidae  Pseudochauhanea}
+0.13506
+-0.296871
+-1.
+-1.
+0.36744
+39
+NC_017613
+mitochondrion Diplogonoporus balaenopterae (whale tapeworm)
+13724
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Diphyllobothriidea  Diphyllobothriidae  Diplogonoporus}
+0.143779
+-0.293338
+-0.998935
+-0.999407
+0.356298
+40
+NC_017615
+mitochondrion Diplogonoporus grandis (diplogonadic human tapeworm)
+13725
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Diphyllobothriidea  Diphyllobothriidae  Diplogonoporus}
+-0.263725
+-0.240001
+-0.433252
+0.598908
+-0.308069
+41
+NC_018031
+mitochondrion Tetrancistrum nebulosi (flatworm)
+13392
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Ancyrocephalidae  Tetrancistrum}
+0.828046
+-0.0788023
+-0.345493
+0.662374
+-0.269551
+42
+NC_020153
+mitochondrion Taenia martis (marten tapeworm)
+13536
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.839984
+-0.757163
+0.49414
+0.167723
+-0.284259
+43
+NC_020374
+mitochondrion Echinococcus equinus (horse tapeworm)
+13605
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.806956
+-0.0535445
+-0.377519
+0.67484
+-0.323883
+44
+NC_021093
+mitochondrion Taenia twitchelli
+13519
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.914234
+0.0268553
+-0.332532
+0.868772
+0.510055
+45
+NC_021138
+mitochondrion Taenia ovis (sheep tapeworm)
+13704
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+1.
+0.235698
+-0.451972
+0.99196
+0.464305
+46
+NC_021139
+mitochondrion Taenia madoquae
+13689
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.712708
+-0.0804635
+-0.268959
+0.60261
+-0.242085
+47
+NC_021140
+mitochondrion Taenia laticollis
+13483
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.6108
+-0.192245
+-0.279757
+0.502483
+-0.237264
+48
+NC_021141
+mitochondrion Hydatigera parva
+13482
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Hydatigera}
+0.613262
+-0.0624755
+-0.329623
+0.560202
+-0.205841
+49
+NC_021142
+mitochondrion Hydatigera krepkogorski
+13792
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Hydatigera}
+0.714648
+-0.281519
+-0.222633
+0.527102
+-0.115947
+50
+NC_021143
+mitochondrion Versteria mustelae
+13582
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Versteria}
+0.832434
+-0.744845
+0.463423
+0.151488
+-0.325056
+51
+NC_021144
+mitochondrion Echinococcus felidis
+13632
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.536491
+-0.388911
+-0.302235
+0.467678
+-0.263461
+52
+NC_021145
+mitochondrion Dipylidium caninum
+14296
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Dipylidiidae  Dipylidium}
+0.969312
+0.153861
+-0.379551
+0.978385
+0.522114
+53
+NC_021457
+mitochondrion Taenia serialis
+13688
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.243953
+-0.827522
+-0.279927
+0.909153
+0.530521
+54
+NC_022433
+mitochondrion Haplorchis taichui
+15130
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Opisthorchiida  Opisthorchiata  Heterophyidae  Haplorchis}
+-0.0492744
+-0.314839
+-0.352361
+0.740585
+-0.610425
+55
+NC_022448
+mitochondrion Schmidtea mediterranea
+27133
+{Eukaryota  Metazoa  Platyhelminthes  Rhabditophora  Seriata  Tricladida  Continenticola  Geoplanoidea  Dugesiidae  Schmidtea}
+0.009052
+-0.818116
+-0.26355
+0.867027
+0.122893
+56
+NC_023095
+mitochondrion Paramphistomum cervi
+14014
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Plagiorchiida  Pronocephalata  Paramphistomoidea  Paramphistomidae  Paramphistomum}
+-0.32246
+-0.879498
+-0.209211
+0.90624
+0.755343
+57
+NC_023249
+mitochondrion Metagonimus yokogawai
+15258
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Opisthorchiida  Opisthorchiata  Heterophyidae  Metagonimus}
+0.0559333
+-1.
+-0.256603
+0.925369
+0.233162
+58
+NC_024025
+mitochondrion Fasciola gigantica
+14478
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Echinostomida  Echinostomata  Echinostomatoidea  Fasciolidae  Fasciola}
+0.727199
+-0.10345
+-0.275233
+0.659131
+0.0293038
+59
+NC_024589
+mitochondrion Taenia regis
+13489
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.866699
+0.0362988
+-0.307242
+0.818738
+0.250429
+60
+NC_024590
+mitochondrion Taenia arctos
+13650
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.998081
+0.192648
+-0.390763
+1.
+0.518796
+61
+NC_024591
+mitochondrion Taenia crocutae
+13711
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.0192314
+0.0152483
+-0.350572
+0.624885
+-0.753943
+62
+NC_024754
+mitochondrion Paragyrodactylus variegatus
+14517
+{Eukaryota  Metazoa  Platyhelminthes  Monogenea  Monopisthocotylea  Gyrodactylidae  Paragyrodactylus}
+-0.0446038
+-0.968023
+-0.220135
+0.939473
+0.555491
+63
+NC_025279
+mitochondrion Dicrocoelium chinensis
+14917
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Plagiorchiida  Plagiorchiata  Plagiorchioidea  Dicrocoeliidae  Dicrocoelium}
+-0.0507067
+-0.962355
+-0.219648
+0.96007
+0.552805
+64
+NC_025280
+mitochondrion Dicrocoelium dendriticum
+14884
+{Eukaryota  Metazoa  Platyhelminthes  Trematoda  Digenea  Plagiorchiida  Plagiorchiata  Plagiorchioidea  Dicrocoeliidae  Dicrocoelium}

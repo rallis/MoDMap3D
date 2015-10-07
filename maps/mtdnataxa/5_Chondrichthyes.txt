@@ -1,0 +1,866 @@
+86
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Chondrichthyes (86)
+0.516472
+-0.134196
+0.129033
+-0.226272
+-0.0161957
+1
+NC_000890
+mitochondrion Mustelus manazo (gummy shark)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Triakidae  Mustelus}
+-0.820848
+0.646847
+0.355787
+-0.326613
+-0.0757265
+2
+NC_000893
+mitochondrion Amblyraja radiata (thorny skate)
+16783
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Amblyraja}
+0.0112445
+-0.398463
+0.187774
+-0.506695
+0.0632208
+3
+NC_001950
+mitochondrion Scyliorhinus canicula (smaller spotted catshark)
+16697
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Scyliorhinidae  Scyliorhinus}
+-0.125676
+-0.517249
+0.234955
+-0.848263
+-0.56001
+4
+NC_002012
+mitochondrion Squalus acanthias (spiny dogfish)
+16738
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Squaliformes  Squalidae  Squalus}
+-0.579536
+-0.717301
+0.597692
+0.419592
+0.293914
+5
+NC_003136
+mitochondrion Chimaera monstrosa (rabbit fish)
+18580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Chimaeridae  Chimaera}
+-0.127586
+-0.441426
+0.142369
+-0.711613
+-0.0600968
+6
+NC_003137
+mitochondrion Heterodontus francisci (horn shark)
+16708
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Heterodontoidea  Heterodontiformes  Heterodontidae  Heterodontus}
+-0.909698
+0.810359
+0.358083
+-0.345288
+0.0159672
+7
+NC_007173
+mitochondrion Okamejei kenojei (ocellate spot skate)
+16972
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Okamejei}
+-0.640837
+-0.385587
+-0.414504
+-0.133146
+-0.00248586
+8
+NC_007230
+mitochondrion Plesiobatis daviesi (deepwater stingray)
+17514
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Plesiobatidae  Plesiobatis}
+-0.0488114
+-0.522752
+0.198502
+-0.856232
+0.489135
+9
+NC_011825
+mitochondrion Mitsukurina owstoni (goblin shark)
+17743
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Mitsukurinidae  Mitsukurina}
+-0.135504
+-0.454986
+0.196395
+-0.6106
+0.00351211
+10
+NC_012570
+mitochondrion Chiloscyllium plagiosum (whitespotted bambooshark)
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Orectolobiformes  Hemiscylliidae  Chiloscyllium}
+-0.581568
+-0.989395
+0.992071
+0.990568
+-0.0337453
+11
+NC_014281
+mitochondrion Callorhinchus callorynchus (elephantfish)
+16758
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Callorhinchidae  Callorhinchus}
+-0.593477
+-1.
+0.990721
+1.
+-0.0203831
+12
+NC_014284
+mitochondrion Callorhinchus capensis (Cape elephantfish)
+16760
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Callorhinchidae  Callorhinchus}
+-0.59252
+-0.998566
+1.
+0.998834
+-0.0275336
+13
+NC_014285
+mitochondrion Callorhinchus milii (elephant shark)
+16769
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Callorhinchidae  Callorhinchus}
+-0.602101
+-0.723211
+0.583303
+0.403293
+0.27791
+14
+NC_014288
+mitochondrion Chimaera fulva (southern chimaera)
+21336
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Chimaeridae  Chimaera}
+-0.620144
+-0.696746
+0.509197
+0.351904
+0.325714
+15
+NC_014290
+mitochondrion Hydrolagus lemures (blackfin ghostshark)
+21233
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Chimaeridae  Hydrolagus}
+-0.634108
+-0.664869
+0.544286
+0.30649
+0.408143
+16
+NC_014292
+mitochondrion Harriotta raleighana (Pacific longnose chimaera)
+18024
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Rhinochimaeridae  Harriotta}
+-0.597018
+-0.678857
+0.54981
+0.286075
+0.381142
+17
+NC_014293
+mitochondrion Rhinochimaera pacifica (Pacific spookfish)
+24889
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Holocephali  Chimaeriformes  Rhinochimaeridae  Rhinochimaera}
+-0.858194
+0.663715
+0.347431
+-0.327483
+-0.0649406
+18
+NC_016429
+mitochondrion Leucoraja erinacea (little skate)
+16724
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Leucoraja}
+-0.131527
+-0.463795
+0.19661
+-0.638736
+-0.029608
+19
+NC_016686
+mitochondrion Chiloscyllium punctatum (brownbanded bambooshark)
+16703
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Orectolobiformes  Hemiscylliidae  Chiloscyllium}
+-0.132262
+-0.457248
+0.198695
+-0.614291
+-0.0617258
+20
+NC_017882
+mitochondrion Chiloscyllium griseum (grey bambooshark)
+16755
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Orectolobiformes  Hemiscylliidae  Chiloscyllium}
+0.291713
+-0.212373
+0.115278
+-0.21463
+-0.0714146
+21
+NC_018052
+mitochondrion Scoliodon macrorhynchos (Pacific spadenose shark)
+16693
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Scoliodon}
+-0.662874
+-0.394936
+-0.473974
+-0.065828
+-0.100369
+22
+NC_018784
+mitochondrion Mobula japanica (spinetail devil ray)
+18880
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Mobula}
+-0.757084
+-0.445901
+-0.841559
+-0.01569
+0.0392444
+23
+NC_019641
+mitochondrion Taeniura meyeni (blotched fantail ray)
+17638
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Potamotrygonidae  Taeniura}
+-0.668315
+-0.49871
+-0.616039
+-0.0315342
+-0.123565
+24
+NC_019643
+mitochondrion Dasyatis zugei (pale-edged stingray)
+18264
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Dasyatis}
+-0.788323
+-0.471315
+-0.984679
+0.0853106
+-0.0506185
+25
+NC_020352
+mitochondrion Dasyatis bennetti (frilltailed stingray)
+17668
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Dasyatis}
+1.
+0.11677
+-0.0226005
+0.176857
+-0.0812957
+26
+NC_020611
+mitochondrion Carcharhinus obscurus (dusky shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.796356
+-0.475158
+-1.
+0.082767
+-0.0282904
+27
+NC_021132
+mitochondrion Dasyatis akajei (red stingray)
+17658
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Dasyatis}
+-0.00334311
+-0.554344
+0.230106
+-0.820925
+0.44098
+28
+NC_021442
+mitochondrion Megachasma pelagios
+16694
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Megachasmidae  Megachasma}
+0.0270065
+-0.521037
+0.196287
+-1.
+0.681694
+29
+NC_021443
+mitochondrion Alopias superciliosus (bigeye thresher)
+16719
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Alopias}
+-0.132062
+-0.435112
+0.157315
+-0.712024
+-0.0382638
+30
+NC_021615
+mitochondrion Heterodontus zebra (zebra bullhead shark)
+16720
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Heterodontoidea  Heterodontiformes  Heterodontidae  Heterodontus}
+-0.645086
+-0.411217
+-0.553189
+-0.0960518
+0.00208584
+31
+NC_021767
+mitochondrion Neotrygon kuhlii (spotted stingray)
+18039
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Neotrygon}
+0.709308
+-0.0320165
+0.00489031
+0.00537031
+-0.0955438
+32
+NC_021768
+mitochondrion Glyphis glyphis (speartooth shark)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Glyphis}
+-0.967616
+0.959691
+0.419916
+-0.345539
+0.0414651
+33
+NC_021963
+mitochondrion Hongeo koreana
+16905
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Hongeo}
+-0.952776
+0.973376
+0.417366
+-0.344659
+0.0316589
+34
+NC_021964
+mitochondrion Raja rhina (longnose skate)
+16910
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Raja}
+-0.072487
+-0.430477
+0.161102
+-0.581571
+-0.0339294
+35
+NC_022148
+mitochondrion Orectolobus japonicus (Japanese wobbegong)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Orectolobiformes  Orectolobidae  Orectolobus}
+0.460118
+-0.157137
+0.112031
+-0.172754
+-0.0598557
+36
+NC_022193
+mitochondrion Galeocerdo cuvier (tiger shark)
+16703
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Galeocerdo}
+-0.0709153
+-0.489097
+0.191289
+-0.915645
+0.76136
+37
+NC_022415
+mitochondrion Carcharodon carcharias (great white shark)
+16744
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Carcharodon}
+0.476858
+-0.0997451
+0.0446533
+-0.198062
+0.0133066
+38
+NC_022679
+mitochondrion Sphyrna lewini (scalloped hammerhead)
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Sphyrna}
+-0.127733
+-0.477198
+0.226632
+-0.964485
+0.966088
+39
+NC_022691
+mitochondrion Isurus oxyrinchus (shortfin mako shark)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Isurus}
+-0.261215
+-0.604377
+0.281901
+-0.585143
+-0.541629
+40
+NC_022729
+mitochondrion Chlamydoselachus anguineus (frill shark)
+17314
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Hexanchiformes  Chlamydoselachidae  Chlamydoselachus}
+-0.238783
+-0.604231
+0.300185
+-0.701805
+-0.929032
+41
+NC_022730
+mitochondrion Heptranchias perlo (sharpnose sevengill shark)
+18909
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Hexanchiformes  Hexanchidae  Heptranchias}
+-0.229528
+-0.559197
+0.255461
+-0.669865
+-0.737016
+42
+NC_022731
+mitochondrion Notorynchus cepedianus (broadnose sevengill shark)
+16990
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Hexanchiformes  Hexanchidae  Notorynchus}
+-0.271016
+-0.609486
+0.308239
+-0.760221
+-0.954501
+43
+NC_022732
+mitochondrion Hexanchus griseus
+17223
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Hexanchiformes  Hexanchidae  Hexanchus}
+-0.276617
+-0.587186
+0.326207
+-0.703667
+-0.933913
+44
+NC_022733
+mitochondrion Hexanchus nakamurai (bigeye sixgill shark)
+18605
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Hexanchiformes  Hexanchidae  Hexanchus}
+-0.199689
+-0.475402
+0.217837
+-0.779702
+-0.372987
+45
+NC_022734
+mitochondrion Somniosus pacificus (Pacific sleeper shark)
+16730
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Squaliformes  Somniosidae  Somniosus}
+0.246831
+-0.282284
+0.172166
+-0.433697
+-0.0237343
+46
+NC_022735
+mitochondrion Pseudotriakis microdon (false catshark)
+16700
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Pseudotriakidae  Pseudotriakis}
+0.756528
+0.00175519
+0.0239339
+0.0369921
+-0.092429
+47
+NC_022819
+mitochondrion Prionace glauca (blue shark)
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Prionace}
+-0.506323
+-0.290383
+-0.111164
+-0.293545
+-0.0454997
+48
+NC_022821
+mitochondrion Pristis clavata (dwarf sawfish)
+16804
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  PristiformesRhiniformes group  Pristidae  Pristis}
+0.0399481
+-0.526237
+0.168482
+-0.944224
+0.565748
+49
+NC_022822
+mitochondrion Alopias pelagicus (pelagic thresher)
+16692
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Alopias}
+-0.596893
+-0.441232
+-0.313105
+-0.121295
+0.0054448
+50
+NC_022837
+mitochondrion Aetobatus flagellum (longheaded eagle ray)
+20201
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Aetobatus}
+-0.563099
+-0.249989
+-0.0866033
+-0.351233
+-0.0659632
+51
+NC_022841
+mitochondrion Rhinobatos hynnicephalus (angel fish)
+16776
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  PristiformesRhiniformes group  Rhinobatidae  Rhinobatinae  Rhinobatos}
+-0.636273
+-0.354865
+-0.410236
+-0.148436
+0.0282784
+52
+NC_023116
+mitochondrion Potamotrygon motoro (ocellate freshwater stingray)
+17448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Potamotrygonidae  Potamotrygon}
+-0.0630937
+-0.515829
+0.178095
+-0.963828
+0.685569
+53
+NC_023266
+mitochondrion Cetorhinus maximus
+16670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Cetorhinus}
+0.688899
+-0.0226189
+0.00423758
+0.0123273
+-0.093821
+54
+NC_023361
+mitochondrion Glyphis garricki (northern river shark)
+16702
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Glyphis}
+-0.121693
+-0.464299
+0.17022
+-0.525131
+-0.104551
+55
+NC_023455
+mitochondrion Rhincodon typus (whale shark)
+16875
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Orectolobiformes  Rhincodontidae}
+-1.
+0.991193
+0.413974
+-0.347217
+0.0205406
+56
+NC_023505
+mitochondrion Dipturus kwangtungensis (Kwangtung skate)
+16912
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Dipturus}
+0.0309934
+-0.520936
+0.177394
+-0.90824
+0.598267
+57
+NC_023520
+mitochondrion Carcharias taurus (sand tiger shark)
+16773
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Odontaspididae  Carcharias}
+0.875967
+0.0569419
+-0.0398091
+0.132555
+-0.0819685
+58
+NC_023521
+mitochondrion Carcharhinus sorrah (spottail shark)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+0.875154
+0.0352734
+0.0112605
+0.148789
+-0.100035
+59
+NC_023522
+mitochondrion Carcharhinus leucas (bull shark)
+16704
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.548579
+-0.430324
+-0.348672
+-0.0420018
+-0.0962517
+60
+NC_023525
+mitochondrion Himantura granulata (mangrove whipray)
+17657
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Himantura}
+0.431199
+-0.15464
+0.122417
+-0.263607
+0.000308062
+61
+NC_023527
+mitochondrion Mustelus griseus
+16754
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Triakidae  Mustelus}
+-0.60763
+-0.451208
+-0.508669
+-0.0609903
+-0.0852513
+62
+NC_023808
+mitochondrion Pastinachus atrus
+18162
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Pastinachus}
+-0.992009
+1.
+0.433919
+-0.356482
+-0.0144665
+63
+NC_023944
+mitochondrion Zearaja chilensis
+16909
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Zearaja}
+0.881845
+0.0705388
+-0.014651
+0.0762968
+-0.0603363
+64
+NC_023948
+mitochondrion Carcharhinus amblyrhynchoides (graceful shark)
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.540945
+-0.216304
+-0.0959971
+-0.29337
+-0.0728495
+65
+NC_023951
+mitochondrion Rhinobatos schlegelii (yellow guitarfish)
+16780
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  PristiformesRhiniformes group  Rhinobatidae  Rhinobatinae  Rhinobatos}
+0.900764
+0.0862159
+-0.0206789
+0.124658
+-0.0889437
+66
+NC_024055
+mitochondrion Carcharhinus acronotus (blacknose shark)
+16719
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.169549
+-0.524194
+0.245499
+-0.855746
+-0.579706
+67
+NC_024059
+mitochondrion Cirrhigaleus australis (southern Mandarin dogfish)
+16543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Squaliformes  Squalidae  Cirrhigaleus}
+-0.122905
+-0.492773
+0.185798
+-0.968017
+1.
+68
+NC_024101
+mitochondrion Isurus paucus (longfin mako shark)
+16704
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Isurus}
+-0.648245
+-0.390152
+-0.271344
+-0.174697
+0.175749
+69
+NC_024102
+mitochondrion Gymnura poecilura (longtail butterfly ray)
+17874
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Gymnura}
+-0.285177
+-0.433565
+0.194286
+-0.619559
+-0.0945217
+70
+NC_024110
+mitochondrion Pristiophorus japonicus
+18430
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Pristiophoriformes  Pristiophoridae  Pristiophorus}
+-0.0748559
+-0.49124
+0.224118
+-0.985693
+0.907636
+71
+NC_024269
+mitochondrion Lamna ditropis
+16699
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Lamniformes  Alopiidae  Lamna}
+-0.223339
+-0.585392
+0.306848
+-0.799889
+-0.847495
+72
+NC_024276
+mitochondrion Squatina japonica (Japanese angelshark)
+16689
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Squatiniformes  Squatinidae  Squatina}
+0.823269
+0.0462442
+0.0174645
+0.064337
+-0.061092
+73
+NC_024284
+mitochondrion Carcharhinus melanopterus (blacktip reef shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.765634
+-0.49284
+-0.892674
+0.0247682
+-0.0175104
+74
+NC_024570
+mitochondrion Pteroplatytrygon violacea (pelagic stingray)
+17665
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Pteroplatytrygon}
+0.903099
+0.101174
+-0.0219252
+0.154333
+-0.0576315
+75
+NC_024596
+mitochondrion Carcharhinus plumbeus (sandbar shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.611712
+0.106966
+0.249478
+-0.253847
+-0.215216
+76
+NC_024599
+mitochondrion Pavoraja nitida (peacock skate)
+16760
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Pavoraja}
+0.847099
+0.054579
+-0.0115866
+0.0817077
+-0.0600307
+77
+NC_024862
+mitochondrion Carcharhinus macloti (hardnose shark)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.469206
+-0.236514
+0.0298674
+-0.30851
+-0.13834
+78
+NC_024937
+mitochondrion Zapteryx exasperata (banded guitarfish)
+17310
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  PristiformesRhiniformes group  Rhinobatidae  Rhinobatinae  Zapteryx}
+-0.224597
+-0.620578
+0.357024
+-0.854035
+-1.
+79
+NC_025328
+mitochondrion Squatina formosa (Taiwanese angelshark)
+16690
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Squatiniformes  Squatinidae  Squatina}
+-0.909516
+0.836079
+0.368473
+-0.334774
+0.0252748
+80
+NC_025498
+mitochondrion Raja pulchra (mottled skate)
+16907
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Rajidae  Raja}
+-0.437048
+-0.357532
+0.103493
+-0.267732
+-0.136262
+81
+NC_025512
+mitochondrion Narcine entemedor (giant electric ray)
+17081
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Torpediniformes  Narcinidae  Narcine}
+0.974496
+0.109312
+-0.017107
+0.162411
+-0.0865609
+82
+NC_025520
+mitochondrion Carcharhinus longimanus (oceanic whitetip shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.235667
+-0.620493
+0.352431
+-0.836769
+-0.989532
+83
+NC_025578
+mitochondrion Squatina nebulosa (clouded angelshark)
+16698
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Squalimorphii  Squatiniformes  Squatinidae  Squatina}
+0.517481
+-0.130826
+0.0662073
+-0.172578
+-0.0065373
+84
+NC_025778
+mitochondrion Sphyrna zygaena (smooth hammerhead)
+16731
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Sphyrna}
+-0.659005
+0.151125
+0.191747
+-0.299924
+-0.206456
+85
+NC_025942
+mitochondrion Atlantoraja castelnaui (spotback skate)
+16750
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Rajiformes  Atlantoraja}
+-0.690658
+-0.383184
+-0.515391
+-0.094296
+-0.0221454
+86
+NC_025954
+mitochondrion Mobula eregoodootenkee (pygmy devil ray)
+15716
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Mobula}

@@ -1,0 +1,756 @@
+75
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Siluriformes (75)
+-0.555981
+-0.456288
+0.363472
+-0.325219
+-0.381204
+1
+NC_003489
+mitochondrion Ictalurus punctatus (channel catfish)
+16497
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Ictaluridae  Ictalurus}
+0.607632
+-0.11167
+0.204825
+-0.24806
+-0.331521
+2
+NC_004697
+mitochondrion Pseudobagrus tokiensis (bagrid catfish)
+16529
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.621251
+-0.477686
+0.254321
+-0.459025
+-0.392567
+3
+NC_004698
+mitochondrion Corydoras rabauti (rusty cory)
+16831
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Callichthyidae  Corydoras}
+-0.514183
+-0.597151
+0.447798
+-0.420453
+-0.479284
+4
+NC_006381
+mitochondrion Pangasianodon gigas (Mekong giant catfish)
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Pangasiidae  Pangasianodon}
+-0.875481
+0.636247
+0.727966
+-0.15057
+-0.343215
+5
+NC_008232
+mitochondrion Liobagrus obesus (bull-head torrent catfish)
+16531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amblycipitidae  Liobagrus}
+-0.574788
+-0.432524
+0.353473
+-0.403511
+-0.356299
+6
+NC_008280
+mitochondrion Cranoglanis bouderius (helmet catfish)
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Cranoglanididae  Cranoglanis}
+-0.559452
+-0.817122
+0.458808
+0.691798
+-0.0445191
+7
+NC_014261
+mitochondrion Silurus glanis (European catfish)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Siluridae  Silurus}
+0.997369
+-0.0573774
+0.173155
+-0.219006
+-0.188936
+8
+NC_014586
+mitochondrion Leiocassis longirostris (Chinese longsnout catfish)
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Leiocassis}
+0.979676
+-0.0694116
+0.166963
+-0.249077
+-0.181326
+9
+NC_014859
+mitochondrion Tachysurus nitidus (bagrid catfish)
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+0.822185
+-0.101428
+0.202381
+-0.235025
+-0.252458
+10
+NC_014862
+mitochondrion Tachysurus vachellii (bagrid catfish)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.628137
+-0.996468
+0.534948
+0.981462
+0.101929
+11
+NC_014866
+mitochondrion Silurus meridionalis (southern catfish)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Siluridae  Silurus}
+0.616945
+-0.11826
+0.201806
+-0.233527
+-0.326743
+12
+NC_015625
+mitochondrion Pseudobagrus brevicorpus (Korean stumpy bullhead)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.645531
+-1.
+0.518239
+1.
+0.104207
+13
+NC_015650
+mitochondrion Silurus lanzhouensis (sheatfish coral)
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Siluridae  Silurus}
+-0.565121
+-0.466152
+0.330901
+-0.501833
+-0.364344
+14
+NC_015743
+mitochondrion Tetranematichthys quadrifilis
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Auchenipteridae  Auchenipterinae  Tetranematichthys}
+-0.545839
+-0.489682
+0.329153
+-0.486555
+-0.41499
+15
+NC_015745
+mitochondrion Amblydoras gonzalezi
+16505
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Doradidae  Amblydoras}
+-0.588468
+-0.347532
+0.305977
+-0.285973
+-0.360702
+16
+NC_015746
+mitochondrion Amphilius sp. NM-2010
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amphiliidae  Amphiliinae  Amphilius}
+-0.596368
+-0.683412
+0.360005
+-0.655488
+-0.568596
+17
+NC_015747
+mitochondrion Pterygoplichthys disjunctivus (vermicualted sailfin
+16521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Loricariidae  Hypostominae  Pterygoplichthys}
+-0.566045
+-0.475032
+0.298939
+-0.479761
+-0.411779
+18
+NC_015748
+mitochondrion Centromochlus perugiae
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Auchenipteridae  Centromochlinae  Centromochlus}
+-0.514451
+-0.554725
+0.351367
+-0.48448
+-0.416818
+19
+NC_015749
+mitochondrion Clarias sp. NM-2010
+16508
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Clariidae  Clarias}
+-0.502806
+-0.517161
+0.297985
+-0.33674
+-0.376293
+20
+NC_015797
+mitochondrion Pimelodus pictus (Pictus cat)
+16575
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Pimelodidae  Pimelodus}
+-0.586067
+-0.912723
+0.509475
+0.833055
+0.0185912
+21
+NC_015806
+mitochondrion Silurus asotus (Amur catfish)
+16521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Siluridae  Silurus}
+-0.468039
+-0.539416
+0.345264
+-0.373033
+-0.368354
+22
+NC_015808
+mitochondrion Synodontis schoutedeni (vermiculated synodontis)
+16540
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Mochokidae  Synodontis}
+-0.455409
+-0.50986
+0.36111
+-0.284656
+-0.363287
+23
+NC_015809
+mitochondrion Auchenoglanis occidentalis (bubu)
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Auchenoglanis}
+-0.542926
+-0.378975
+0.291649
+-0.500346
+-0.335822
+24
+NC_015811
+mitochondrion Bunocephalus coracoideus (banjo catfish)
+16477
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Aspredinidae  Bunocephalus}
+-0.591983
+-0.452019
+0.322198
+-0.421395
+-0.428041
+25
+NC_015823
+mitochondrion Diplomystes nahuelbutaensis (diplomystid catfish)
+16506
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Diplomystidae  Diplomystes}
+-0.502406
+-0.536233
+0.352901
+-0.496748
+-0.352772
+26
+NC_015827
+mitochondrion Heteropneustes fossilis (stinging catfish)
+16489
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Heteropneustidae  Heteropneustes}
+-0.531693
+-0.449931
+0.320446
+-0.36561
+-0.381309
+27
+NC_015833
+mitochondrion Malapterurus electricus (electric catfish)
+16504
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Malapteruridae  Malapterurus}
+-0.586808
+-0.475427
+0.391973
+-0.395446
+-0.378025
+28
+NC_015837
+mitochondrion Pareutropius debauwi (African glass catfish)
+16521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Schilbeidae  Pareutropius}
+-0.486453
+-0.615912
+0.417392
+-0.424089
+-0.517005
+29
+NC_015839
+mitochondrion Pangasius larnaudii (spot pangasius)
+16471
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Pangasiidae  Pangasius}
+0.666144
+-0.11156
+0.227787
+-0.206284
+-0.367093
+30
+NC_015888
+mitochondrion Tachysurus fulvidraco
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+0.716557
+-0.135025
+0.193662
+-0.189754
+-0.287685
+31
+NC_018768
+mitochondrion Tachysurus eupogon (shorthead catfish)
+16562
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.733782
+-0.255919
+0.0836573
+-0.988089
+1.
+32
+NC_018769
+mitochondrion Glyptothorax fokiensis fokiensis
+16530
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptothorax}
+-0.291476
+-0.404938
+0.454075
+-0.618336
+-0.418477
+33
+NC_019592
+mitochondrion Hemibagrus macropterus (Chinese catfish)
+16530
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+-0.955881
+0.937927
+0.904586
+-0.0458116
+-0.329427
+34
+NC_020337
+mitochondrion Liobagrus kingi (King's bullhead)
+16483
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amblycipitidae  Liobagrus}
+0.889853
+-0.0804408
+0.182524
+-0.241449
+-0.18046
+35
+NC_020344
+mitochondrion Pseudobagrus ussuriensis (Ussuri catfish)
+16536
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.967869
+0.997258
+1.
+-0.0724961
+-0.337636
+36
+NC_021122
+mitochondrion Liobagrus marginatoides
+16498
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amblycipitidae  Liobagrus}
+0.931116
+-0.0433066
+0.174753
+-0.250026
+-0.176478
+37
+NC_021393
+mitochondrion Pseudobagrus brevicaudatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+1.
+-0.0715068
+0.17158
+-0.219818
+-0.194017
+38
+NC_021394
+mitochondrion Pseudobagrus crassilabris
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+0.719518
+-0.0663713
+0.218685
+-0.283366
+-0.193595
+39
+NC_021395
+mitochondrion Pseudobagrus truncatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.959831
+0.939062
+0.975491
+-0.0958295
+-0.311492
+40
+NC_021407
+mitochondrion Liobagrus nigricauda
+16512
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amblycipitidae  Liobagrus}
+-0.740085
+-0.27617
+0.131132
+-0.949886
+0.849109
+41
+NC_021596
+mitochondrion Gagata dolichonema
+16538
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Sisorinae  Gagata}
+-0.597214
+-0.161256
+0.138348
+-0.587593
+-0.137257
+42
+NC_021597
+mitochondrion Glyptosternon maculatum
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptosternon}
+-0.883298
+0.000503766
+-0.588257
+-0.141882
+-0.453528
+43
+NC_021598
+mitochondrion Euchiloglanis kishinouyei
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Euchiloglanis}
+-0.911298
+0.0596778
+-0.701425
+-0.0551334
+-0.425541
+44
+NC_021599
+mitochondrion Creteuchiloglanis kamengensis
+16651
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Creteuchiloglanis}
+-0.695281
+-0.116464
+0.0203177
+-0.360734
+-0.171901
+45
+NC_021600
+mitochondrion Glaridoglanis andersonii
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glaridoglanis}
+-0.678531
+-0.144641
+0.075022
+-0.522239
+-0.251535
+46
+NC_021601
+mitochondrion Exostoma labiatum
+16542
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Exostoma}
+-0.818482
+0.62069
+0.88451
+-0.205625
+-0.32847
+47
+NC_021602
+mitochondrion Liobagrus anguillicauda
+16536
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amblycipitidae  Liobagrus}
+-0.976567
+0.182926
+-0.952929
+0.0523292
+-0.565248
+48
+NC_021603
+mitochondrion Pareuchiloglanis gracilicaudata
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pareuchiloglanis}
+-0.979366
+0.162935
+-0.957467
+0.0482391
+-0.581329
+49
+NC_021604
+mitochondrion Pseudexostoma yunnanensis
+16598
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pseudexostoma}
+-0.610014
+-0.246463
+0.291953
+-0.560073
+-0.139194
+50
+NC_021605
+mitochondrion Pseudecheneis sulcata (sucker throat catfish)
+16474
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pseudecheneis}
+-0.693311
+-0.293116
+0.168644
+-0.539139
+0.0440059
+51
+NC_021606
+mitochondrion Bagarius yarrelli (goonch)
+16503
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Sisorinae  Bagarius}
+-0.876837
+0.0423477
+-0.677993
+-0.0772344
+-0.467898
+52
+NC_021607
+mitochondrion Oreoglanis macropterus
+16568
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Oreoglanis}
+-0.742238
+-0.285152
+0.109216
+-0.926801
+0.845478
+53
+NC_021608
+mitochondrion Glyptothorax trilineatus (three-lined catfish)
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptothorax}
+-0.479358
+-0.597398
+0.445791
+-0.45682
+-0.470526
+54
+NC_021752
+mitochondrion Pangasianodon hypophthalmus (striped catfish)
+16522
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Pangasiidae  Pangasianodon}
+0.143802
+-0.22842
+0.24612
+-0.331469
+-0.311833
+55
+NC_022705
+mitochondrion Pseudobagrus trilineatus
+16535
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.586467
+-0.907138
+0.505902
+0.787668
+0.0702062
+56
+NC_022723
+mitochondrion Silurus soldatovi (Soldatov's catfish)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Siluridae  Silurus}
+0.610396
+-0.146911
+0.198242
+-0.256376
+-0.319552
+57
+NC_022725
+mitochondrion Pseudobagrus ondon
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+0.974721
+-0.0630247
+0.155612
+-0.244224
+-0.184565
+58
+NC_022726
+mitochondrion Pseudobagrus albomarginatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-0.962962
+1.
+0.989676
+-0.0484682
+-0.320033
+59
+NC_022923
+mitochondrion Liobagrus marginatus
+16497
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Amblycipitidae  Liobagrus}
+-0.38451
+-0.612639
+0.427206
+-0.842699
+-0.923642
+60
+NC_023222
+mitochondrion Hemibagrus spilopterus
+16521
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+-0.391559
+-0.453111
+0.405692
+-0.488443
+-0.490231
+61
+NC_023223
+mitochondrion Mystus rhegma
+16525
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Mystus}
+-0.484384
+-0.4801
+0.321857
+-0.419505
+-0.40227
+62
+NC_023376
+mitochondrion Rita rita
+16449
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Rita}
+0.663016
+-0.110357
+0.231073
+-0.211149
+-0.365888
+63
+NC_023767
+mitochondrion Tachysurus fulvidraco
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.531799
+-0.521238
+0.357257
+-0.494177
+-0.412509
+64
+NC_023923
+mitochondrion Clarias batrachus (walking catfish)
+16511
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Clariidae  Clarias}
+-0.534701
+-0.644851
+0.441805
+-0.392649
+-0.541817
+65
+NC_023924
+mitochondrion Pangasius pangasius (yellowtail catfish)
+16476
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Pangasiidae  Pangasius}
+-0.542165
+-0.545083
+0.37684
+-0.479994
+-0.447022
+66
+NC_023941
+mitochondrion Clarias fuscus (whitespotted clarias)
+16518
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Clariidae  Clarias}
+-0.3499
+-0.435132
+0.442999
+-0.598161
+-0.405979
+67
+NC_023976
+mitochondrion Hemibagrus guttatus
+16528
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+-0.382324
+-0.607232
+0.459652
+-0.879403
+-1.
+68
+NC_024273
+mitochondrion Hemibagrus nemurus (Asian redtail catfish)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+-0.383158
+-0.604683
+0.458618
+-0.884793
+-0.997537
+69
+NC_024278
+mitochondrion Hemibagrus wyckioides
+16525
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Hemibagrus}
+0.717323
+-0.0726897
+0.210572
+-0.281771
+-0.188755
+70
+NC_024279
+mitochondrion Pseudobagrus emarginatus
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Pseudobagrus}
+-1.
+0.180542
+-1.
+0.072991
+-0.559218
+71
+NC_024434
+mitochondrion Pareuchiloglanis sinensis
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pareuchiloglanis}
+0.812059
+-0.0859255
+0.190965
+-0.274313
+-0.192223
+72
+NC_024456
+mitochondrion Tachysurus nitidus
+16540
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Bagridae  Tachysurus}
+-0.717399
+-0.254278
+0.0725822
+-1.
+0.992521
+73
+NC_024672
+mitochondrion Glyptothorax sinensis
+16531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptothorax}
+-0.603831
+-0.687535
+0.360638
+-0.663266
+-0.561762
+74
+NC_025584
+mitochondrion Hypostomus plecostomus (suckermouth catfish)
+16523
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Loricariidae  Hypostominae  Hypostomus}
+-0.50092
+-0.527413
+0.333732
+-0.404863
+-0.392208
+75
+NC_025585
+mitochondrion Platydoras armatulus
+16470
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Doradidae  Platydoras}

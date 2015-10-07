@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Papilioninae (11)
+0.393949
+1.
+0.212736
+-1.
+-0.190716
+1
+NC_014055
+mitochondrion Papilio maraho (swallowtail butterfly)
+16094
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+0.874877
+-0.0139685
+-1.
+0.68904
+0.0247024
+2
+NC_014398
+mitochondrion Teinopalpus aureus (golden kaiserihind)
+15242
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Teinopalpus}
+-0.822992
+-0.383291
+-0.135292
+0.0273681
+0.036535
+3
+NC_018040
+mitochondrion Papilio bianor (Chinese peacock)
+15340
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+-0.120166
+0.215885
+0.599712
+1.
+-1.
+4
+NC_018047
+mitochondrion Papilio machaon (common yellow swallowtail)
+15185
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+-0.990309
+-0.466845
+-0.279357
+-0.0962415
+0.0889142
+5
+NC_021411
+mitochondrion Papilio maackii
+15357
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+0.754137
+-0.00464905
+-0.849313
+0.287683
+0.595094
+6
+NC_023953
+mitochondrion Lamproptera curius
+15277
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Lamproptera}
+-1.
+-0.518373
+-0.358277
+-0.143339
+0.0510336
+7
+NC_023978
+mitochondrion Papilio syfanius
+15359
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+1.
+-1.
+0.626949
+-0.227349
+0.0830607
+8
+NC_024098
+mitochondrion Graphium timur
+15226
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Graphium}
+0.786209
+-0.93184
+0.506465
+-0.135546
+-0.230211
+9
+NC_024564
+mitochondrion Atrophaneura alcinous
+15266
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Atrophaneura}
+-0.0919979
+0.0134426
+0.710516
+0.358
+0.528932
+10
+NC_024742
+mitochondrion Papilio polytes
+15256
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+-0.142088
+0.181871
+1.
+0.551987
+1.
+11
+NC_025757
+mitochondrion Papilio helenus
+15349
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}

@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Terapontoidei (11)
+-0.987683
+-0.982529
+-0.118502
+0.229162
+-0.066135
+1
+NC_010968
+mitochondrion Oplegnathus fasciatus (barred knifejaw)
+16511
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Oplegnathidae  Oplegnathus}
+-0.59935
+0.458083
+0.679369
+-1.
+-1.
+2
+NC_013137
+mitochondrion Girella punctata (largescale blackfish)
+16518
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kyphosidae  Girellinae  Girella}
+-0.768834
+0.389664
+-0.469957
+0.00700967
+-0.016174
+3
+NC_013138
+mitochondrion Kyphosus cinerascens (blue seachub)
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kyphosidae  Kyphosinae  Kyphosus}
+-0.943549
+0.92623
+-0.924448
+-0.10448
+-0.043211
+4
+NC_013139
+mitochondrion Labracoglossa argentiventris (yellowstripe
+16492
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kyphosidae  Scorpidinae  Labracoglossa}
+-0.865201
+0.97951
+-1.
+-0.0683628
+-0.0806699
+5
+NC_013140
+mitochondrion Scorpis lineolata (silver sweep)
+16501
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kyphosidae  Scorpidinae  Scorpis}
+0.940383
+0.187476
+-0.274046
+0.092174
+-0.0472255
+6
+NC_013141
+mitochondrion Rhynchopelates oxyrhynchus (sharpbeak terapon)
+16631
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Terapontidae  Rhynchopelates}
+-0.580048
+0.381733
+0.554475
+-0.939902
+1.
+7
+NC_013142
+mitochondrion Kuhlia mugil (barred flagtail)
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kuhliidae  Kuhlia}
+-1.
+-1.
+-0.0704347
+0.210148
+-0.0681875
+8
+NC_013143
+mitochondrion Oplegnathus punctatus (spotted knifejaw)
+16509
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Oplegnathidae  Oplegnathus}
+-0.59393
+1.
+1.
+1.
+-0.00647448
+9
+NC_013182
+mitochondrion Microcanthus strigatus (stripey)
+16531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kyphosidae  Microcanthinae  Microcanthus}
+-0.773391
+0.797989
+0.253606
+0.468482
+-0.0520831
+10
+NC_024853
+mitochondrion Tilodon sexfasciatum (moonlighter)
+16509
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Kyphosidae  Microcanthinae  Tilodon}
+1.
+0.0720668
+-0.228384
+0.0400689
+-0.0658422
+11
+NC_024854
+mitochondrion Bidyanus bidyanus (Bidyan perch)
+16869
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Centrarchiformes  Terapontoidei  Terapontidae  Bidyanus}

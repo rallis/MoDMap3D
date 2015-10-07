@@ -1,0 +1,276 @@
+27
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Hantavirus (27)
+-0.403633
+0.461155
+0.808941
+0.0671124
+-0.119127
+1
+NC_003466
+Andes virus
+1871
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.241942
+-0.437896
+-0.0958292
+-0.82971
+0.0411678
+2
+NC_003467
+Andes virus
+3671
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.860189
+0.703633
+-0.0806414
+0.00797355
+-0.921029
+3
+NC_003468
+Andes virus
+6562
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.235278
+-0.335322
+-0.113546
+-1.
+0.059743
+4
+NC_005215
+Sin Nombre virus
+3696
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-0.375211
+0.528282
+0.79302
+0.173349
+-0.158914
+5
+NC_005216
+Sin Nombre virus
+2059
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.895749
+0.788051
+-0.0686153
+-0.00130234
+-0.745991
+6
+NC_005217
+Sin Nombre virus
+6562
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-1.
+1.
+-1.
+-0.086551
+-0.0598177
+7
+NC_005218
+Hantaan virus
+1696
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.307064
+-0.959607
+-0.388957
+1.
+-0.0797085
+8
+NC_005219
+Hantaan virus
+3616
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+1.
+0.962209
+-0.14824
+0.0897277
+0.944403
+9
+NC_005222
+Hantaan virus
+6533
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.26107
+-0.371262
+-0.0311251
+-0.87199
+-0.059986
+10
+NC_005223
+Puumala virus
+3682
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-0.278113
+0.387675
+0.97161
+0.100721
+-0.0306054
+11
+NC_005224
+Puumala virus
+1830
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.891638
+0.716255
+-0.116499
+-0.0516025
+-0.979967
+12
+NC_005225
+Puumala virus
+6550
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.844348
+0.664699
+-0.116907
+-0.00930387
+-1.
+13
+NC_005226
+Tula virus
+6541
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-0.329502
+0.371318
+1.
+0.0963148
+-0.0109885
+14
+NC_005227
+Tula virus
+1831
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.318937
+-0.314086
+-0.0437078
+-0.824593
+-0.00377994
+15
+NC_005228
+Tula virus
+3694
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-0.601375
+0.71988
+-0.167041
+0.0404539
+-0.0775494
+16
+NC_005233
+Dobrava-Belgrade virus
+1673
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.225087
+-0.633039
+-0.16418
+0.0874276
+-0.047033
+17
+NC_005234
+Dobrava-Belgrade virus
+3635
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.91522
+0.822887
+-0.0745594
+0.0346515
+0.356481
+18
+NC_005235
+Dobrava-Belgrade virus
+6532
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-0.629982
+0.699381
+-0.249406
+-0.0437056
+-0.13517
+19
+NC_005236
+Seoul virus
+1769
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.275433
+-0.597879
+-0.155153
+-0.0244193
+0.0109191
+20
+NC_005237
+Seoul virus
+3651
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.909692
+0.841787
+-0.0552221
+0.0519822
+0.272637
+21
+NC_005238
+Seoul virus
+6530
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+-0.994333
+0.966418
+-0.967843
+-0.0994134
+-0.109289
+22
+NC_006433
+Hantavirus Z10
+1701
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus  unclassified Hantavirus}
+0.980022
+0.988466
+-0.116332
+0.0643826
+1.
+23
+NC_006435
+Hantavirus Z10
+6533
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus  unclassified Hantavirus}
+0.257693
+-1.
+-0.39726
+0.914621
+-0.0268817
+24
+NC_006437
+Hantavirus Z10
+3616
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus  unclassified Hantavirus}
+-0.0860793
+0.325214
+0.225178
+-0.0251041
+0.0212797
+25
+NC_010704
+Thottapalayam virus
+1530
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.737854
+0.573917
+-0.0915567
+-0.156559
+-0.181381
+26
+NC_010707
+Thottapalayam virus
+6581
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}
+0.237684
+-0.18578
+0.012669
+-0.352514
+-0.122023
+27
+NC_010708
+Thottapalayam virus
+3621
+{root  Viruses  ssRNA negative strand viruses  Bunyaviridae  Hantavirus}

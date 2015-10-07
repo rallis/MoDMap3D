@@ -1,0 +1,166 @@
+16
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Carcharhinidae (16)
+0.898498
+0.673066
+1.
+0.976781
+0.216727
+1
+NC_018052
+mitochondrion Scoliodon macrorhynchos (Pacific spadenose shark)
+16693
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Scoliodon}
+-1.
+0.650317
+-0.360308
+0.494133
+0.450169
+2
+NC_020611
+mitochondrion Carcharhinus obscurus (dusky shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.0142575
+-0.974528
+-0.434898
+0.630713
+0.104344
+3
+NC_021768
+mitochondrion Glyphis glyphis (speartooth shark)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Glyphis}
+0.528582
+0.642905
+-0.286881
+-1.
+0.0215265
+4
+NC_022193
+mitochondrion Galeocerdo cuvier (tiger shark)
+16703
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Galeocerdo}
+1.
+0.895139
+-1.
+1.
+0.183355
+5
+NC_022679
+mitochondrion Sphyrna lewini (scalloped hammerhead)
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Sphyrna}
+-0.525246
+0.724706
+-0.314039
+0.526358
+1.
+6
+NC_022819
+mitochondrion Prionace glauca (blue shark)
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Prionace}
+0.0391554
+-1.
+-0.480747
+0.617468
+0.186849
+7
+NC_023361
+mitochondrion Glyphis garricki (northern river shark)
+16702
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Glyphis}
+-0.772313
+0.522088
+-0.405167
+0.622958
+0.273773
+8
+NC_023521
+mitochondrion Carcharhinus sorrah (spottail shark)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.741579
+0.579391
+-0.373982
+0.59826
+0.100162
+9
+NC_023522
+mitochondrion Carcharhinus leucas (bull shark)
+16704
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.682972
+0.613545
+-0.321337
+0.663095
+-0.598065
+10
+NC_023948
+mitochondrion Carcharhinus amblyrhynchoides (graceful shark)
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.792131
+0.626887
+-0.347877
+0.614637
+0.0681585
+11
+NC_024055
+mitochondrion Carcharhinus acronotus (blacknose shark)
+16719
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.627291
+0.683369
+-0.31217
+0.668228
+-1.
+12
+NC_024284
+mitochondrion Carcharhinus melanopterus (blacktip reef shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.822079
+0.638868
+-0.323023
+0.628685
+0.200054
+13
+NC_024596
+mitochondrion Carcharhinus plumbeus (sandbar shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.667424
+0.580829
+-0.398527
+0.725905
+0.336701
+14
+NC_024862
+mitochondrion Carcharhinus macloti (hardnose shark)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+-0.962131
+0.604577
+-0.349607
+0.459525
+0.465231
+15
+NC_025520
+mitochondrion Carcharhinus longimanus (oceanic whitetip shark)
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Carcharhinus}
+0.919584
+1.
+-0.985388
+0.813624
+0.161229
+16
+NC_025778
+mitochondrion Sphyrna zygaena (smooth hammerhead)
+16731
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Galeomorphii  Galeoidea  Carcharhiniformes  Carcharhinidae  Sphyrna}

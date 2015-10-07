@@ -1,0 +1,356 @@
+35
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Eleutherozoa (35)
+-0.716773
+0.62007
+0.247225
+0.0168447
+-0.887327
+1
+NC_001453
+mitochondrion Strongylocentrotus purpuratus (purple sea urchin)
+15650
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+0.0746406
+0.517514
+0.0616417
+0.160711
+0.760201
+2
+NC_001572
+mitochondrion Paracentrotus lividus (common urchin)
+15696
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinidae  Paracentrotus}
+0.949847
+0.923292
+-0.189361
+-0.421519
+-0.287934
+3
+NC_001627
+mitochondrion Patiria pectinifera (starfish)
+16260
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Valvatida  Asterinidae  Patiria}
+0.284232
+0.464843
+0.166185
+0.265109
+0.681493
+4
+NC_001770
+mitochondrion Arbacia lixula (black urchin)
+15719
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Arbacoida  Arbaciidae  Arbacia}
+0.96331
+0.959447
+0.10833
+-0.118261
+-0.472137
+5
+NC_004610
+mitochondrion Pisaster ochraceus (ochreous starfish)
+14837
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Forcipulatacea  Forcipulatida  Asteriidae  Pisaster}
+0.90255
+0.83248
+0.63396
+0.51703
+-0.273312
+6
+NC_005334
+mitochondrion Ophiopholis aculeata (daisy brittle star)
+16472
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Gnathophiurina  Gnathophiuridea  Ophiactidae  Ophiopholis}
+0.745481
+0.298166
+0.158889
+0.272279
+-0.0245423
+7
+NC_005929
+mitochondrion Cucumaria miniata
+17538
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Holothuroidea  Dendrochirotacea  Dendrochirotida  Cucumariidae  Cucumaria}
+0.946731
+0.819804
+0.741285
+0.655107
+-0.32439
+8
+NC_005930
+mitochondrion Ophiura lutkeni (grey brittle star)
+17329
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Chilophiurina  Ophiuridae  Ophiurinae  Ophiura}
+0.919626
+0.910216
+-0.0418887
+-0.248327
+-0.254986
+9
+NC_006664
+mitochondrion Luidia quinaria (seastar)
+16524
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Paxillosida  Luidiidae  Luidia}
+0.915599
+0.906108
+0.0801687
+-0.219377
+-0.35099
+10
+NC_006665
+mitochondrion Asterias amurensis (Northern Pacific seastar)
+16427
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Forcipulatacea  Forcipulatida  Asteriidae  Asterias}
+0.922403
+0.900992
+-0.056727
+-0.241654
+-0.306146
+11
+NC_006666
+mitochondrion Astropecten polyacanthus (seastar)
+16304
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Paxillosida  Astropectinidae  Astropecten}
+0.948222
+1.
+-0.577762
+-0.991965
+-0.217247
+12
+NC_007788
+mitochondrion Acanthaster planci (crown of thorns starfish)
+16234
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Valvatida  Acanthasteridae  Acanthaster}
+0.965081
+0.991969
+-0.538752
+-1.
+-0.215071
+13
+NC_007789
+mitochondrion Acanthaster brevispinus (starfish)
+16254
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Valvatida  Acanthasteridae  Acanthaster}
+-1.
+0.616854
+0.231533
+-0.0165897
+-1.
+14
+NC_009940
+mitochondrion Strongylocentrotus droebachiensis (green sea urchin)
+15717
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+-0.982535
+0.61366
+0.236499
+-0.0352544
+-0.978355
+15
+NC_009941
+mitochondrion Strongylocentrotus pallidus (pale sea urchin)
+15712
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+0.931261
+0.791663
+0.749068
+0.727533
+-0.347479
+16
+NC_010691
+mitochondrion Ophiura albida (brittlestar)
+16580
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Chilophiurina  Ophiuridae  Ophiurinae  Ophiura}
+0.817737
+-0.99572
+1.
+-0.872676
+-0.258317
+17
+NC_012616
+mitochondrion Apostichopus japonicus (Japanese sea cucumber)
+16099
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Holothuroidea  Aspidochirotacea  Aspidochirotida  Stichopodidae  Apostichopus}
+0.814802
+-1.
+0.994889
+-0.881809
+-0.250829
+18
+NC_013432
+mitochondrion Parastichopus nigripunctatus (sea cucumber)
+16112
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Holothuroidea  Aspidochirotacea  Aspidochirotida  Stichopodidae  Parastichopus}
+0.9025
+0.776487
+0.632615
+0.463856
+-0.279261
+19
+NC_013874
+mitochondrion Ophiocomina nigra (black brittle star)
+17383
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Gnathophiurina  Ophiocomidea  Ophiocomidae  Ophiocomina}
+0.936425
+0.857321
+0.671684
+0.523284
+-0.303721
+20
+NC_013876
+mitochondrion Amphipholis squamata (dwarf brittle star)
+16907
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Gnathophiurina  Gnathophiuridea  Amphiuridae  Amphipholis}
+1.
+0.876299
+0.646844
+0.582108
+-0.390792
+21
+NC_013878
+mitochondrion Astrospartus mediterraneus
+16238
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Euryalida  Gorgonocephalidae  Astrospartus}
+0.272344
+0.428954
+0.0474091
+0.180268
+0.981832
+22
+NC_013881
+mitochondrion Echinocardium cordatum (sea potato)
+15767
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Atelostomata  Spatangoida  Loveniidae  Echinocardium}
+0.702291
+0.228543
+0.223395
+0.279986
+-0.046838
+23
+NC_013884
+mitochondrion Holothuria forskali (cotton-spinner)
+15841
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Holothuroidea  Aspidochirotacea  Aspidochirotida  Holothuriidae  Holothuria}
+0.832379
+-0.556705
+-0.992019
+0.992268
+-0.711143
+24
+NC_014452
+mitochondrion Stichopus sp. SF-2010 (sea cucumber)
+16257
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Holothuroidea  Aspidochirotacea  Aspidochirotida  Stichopodidae  Stichopus}
+0.829168
+-0.5613
+-1.
+1.
+-0.682786
+25
+NC_014454
+mitochondrion Stichopus horrens (warty sea cucumber)
+16257
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Holothuroidea  Aspidochirotacea  Aspidochirotida  Stichopodidae  Stichopus}
+-0.610938
+0.593161
+0.159976
+0.110579
+0.142371
+26
+NC_020771
+mitochondrion Mesocentrotus nudus
+15709
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Mesocentrotus}
+0.988455
+0.87643
+0.66498
+0.567732
+-0.366718
+27
+NC_023254
+mitochondrion Ophiacantha linea
+15845
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Ophiacanthidae  Ophiacantha}
+0.265187
+0.438992
+0.0298616
+0.152612
+1.
+28
+NC_023255
+mitochondrion Nacospatangus alta
+15763
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Atelostomata  Spatangoida  Maretiidae  Nacospatangus}
+-0.0189535
+0.524463
+0.105138
+0.160206
+0.81248
+29
+NC_023770
+mitochondrion Loxechinus albus
+15709
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinidae  Loxechinus}
+-0.708872
+0.578531
+0.218159
+0.0442416
+-0.379989
+30
+NC_023771
+mitochondrion Hemicentrotus pulcherrimus
+15705
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Hemicentrotus}
+-0.865456
+0.610195
+0.236148
+0.00608663
+-0.843186
+31
+NC_023772
+mitochondrion Strongylocentrotus intermedius
+15700
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Strongylocentrotus}
+-0.560218
+0.56603
+0.154394
+0.111427
+0.176048
+32
+NC_023773
+mitochondrion Pseudocentrotus depressus
+15729
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinidae  Pseudocentrotus}
+-0.153112
+0.538052
+0.0902204
+0.144358
+0.679898
+33
+NC_023774
+mitochondrion Heliocidaris crassispina
+15702
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Echinometridae  Heliocidaris}
+-0.666464
+0.564567
+0.156553
+0.0969144
+0.0746823
+34
+NC_024177
+mitochondrion Mesocentrotus franciscanus
+15649
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Echinozoa  Echinoidea  Euechinoidea  Echinacea  Echinoida  Strongylocentrotidae  Mesocentrotus}
+0.957012
+0.984744
+0.00457166
+-0.307361
+-0.415479
+35
+NC_025766
+mitochondrion Aphelasterias japonica
+16215
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Forcipulatacea  Forcipulatida  Asteriidae  Aphelasterias}

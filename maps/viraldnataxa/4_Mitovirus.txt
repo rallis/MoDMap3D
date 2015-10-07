@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Mitovirus (11)
+-0.319681
+1.
+-0.291012
+1.
+-0.490179
+1
+NC_004046
+Cryphonectria parasitica mitovirus 1-NB631
+2728
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}
+-0.542144
+-1.
+0.0605228
+0.326304
+-1.
+2
+NC_004049
+Ophiostoma mitovirus 3a
+2617
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus}
+1.
+0.0328061
+-0.349834
+-0.279314
+-0.0139557
+3
+NC_004052
+Ophiostoma mitovirus 4
+2599
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus}
+0.962094
+0.0459818
+-0.368982
+0.301846
+0.223167
+4
+NC_004053
+Ophiostoma mitovirus 5
+2474
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus}
+0.625447
+-0.257298
+-0.141023
+-0.072529
+-0.00121808
+5
+NC_004054
+Ophiostoma mitovirus 6
+2343
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus}
+0.938252
+-0.0809015
+-0.394176
+-0.0190025
+0.0581372
+6
+NC_006264
+Gremmeniella abietina mitochondrial RNA virus S2
+2587
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}
+0.00184813
+0.0328276
+-0.71813
+-1.
+-0.688821
+7
+NC_011372
+Botrytis cinerea mitovirus 1
+2805
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}
+0.562441
+0.358381
+0.0802219
+0.362218
+0.00194778
+8
+NC_012585
+Thielaviopsis basicola mitovirus
+2896
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}
+-0.518994
+-0.758676
+0.0132384
+0.2398
+1.
+9
+NC_015629
+Tuber aestivum mitovirus
+3480
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}
+-1.
+0.445167
+-1.
+-0.286608
+0.473388
+10
+NC_017003
+Clitocybe odora virus
+3765
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}
+-0.219856
+0.668501
+1.
+-0.73806
+0.0564775
+11
+NC_023598
+Sclerotinia sclerotiorum mitovirus 6
+2563
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Narnaviridae  Mitovirus  unclassified Mitovirus}

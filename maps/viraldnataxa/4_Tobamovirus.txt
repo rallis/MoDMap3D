@@ -1,0 +1,296 @@
+29
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tobamovirus (29)
+0.963585
+0.889217
+0.145394
+0.363738
+-0.410292
+1
+NC_001367
+Tobacco mosaic virus
+6395
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.345406
+0.024322
+-0.738059
+0.00995466
+-0.591537
+2
+NC_001556
+Tobacco mild green mosaic virus
+6355
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.351165
+-0.00453926
+-0.638855
+0.0469148
+-0.79787
+3
+NC_001728
+Odontoglossum ringspot virus
+6618
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.311824
+-0.420644
+-0.360858
+0.366407
+-0.940292
+4
+NC_001801
+Cucumber green mottle mosaic virus
+6424
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+-1.
+0.584933
+-0.033188
+0.173965
+-0.386092
+5
+NC_001873
+Turnip vein-clearing virus
+6311
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.391606
+-0.718612
+0.301208
+0.168932
+-0.525494
+6
+NC_002633
+Cucumber fruit mottle mosaic virus
+6562
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+1.
+1.
+0.21982
+0.348851
+-0.370658
+7
+NC_002692
+Tomato mosaic virus
+6383
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+-0.935517
+0.502764
+-0.0229128
+0.197187
+-0.387064
+8
+NC_002792
+Ribgrass mosaic virus
+6311
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+-0.847094
+0.494716
+-0.0224407
+0.120892
+-0.381433
+9
+NC_003355
+Wasabi mottle virus
+6298
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.408703
+-1.
+1.
+-0.170365
+-0.116907
+10
+NC_003610
+Kyuri green mottle mosaic virus
+6514
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.504339
+0.250077
+-0.582693
+0.0769507
+-0.51989
+11
+NC_003630
+Pepper mild mottle virus
+6357
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.462663
+0.131532
+-0.951016
+-0.985304
+0.0942145
+12
+NC_003852
+Obuda pepper virus (ObPV)
+6507
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.450852
+-0.995403
+0.94788
+-0.206555
+-0.0990812
+13
+NC_003878
+Zucchini green mottle mosaic virus
+6513
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.447955
+0.0677596
+-1.
+-1.
+0.065107
+14
+NC_004106
+Paprika mild mottle virus
+6524
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+-0.814187
+0.475708
+-0.0392837
+0.113514
+-0.383869
+15
+NC_004422
+Youcai mosaic virus
+6303
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.305229
+-0.216108
+-0.632464
+0.434452
+-0.697882
+16
+NC_008310
+Hibiscus latent Singapore virus
+6474
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.291478
+-0.0349689
+-0.573646
+0.107635
+-0.747952
+17
+NC_008365
+Streptocarpus flower break virus
+6279
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.310545
+-0.400734
+-0.39567
+0.481069
+-0.8186
+18
+NC_008614
+Cucumber mottle virus
+6485
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.262049
+-0.209681
+-0.854877
+0.968569
+1.
+19
+NC_008716
+Maracuja mosaic virus
+6794
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.905066
+0.829806
+0.122516
+0.351477
+-0.4049
+20
+NC_009041
+Rehmannia mosaic virus
+6395
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.785269
+0.618283
+-0.00598616
+0.232554
+-0.399499
+21
+NC_009642
+Bell pepper mottle virus
+6375
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.435651
+0.171621
+-0.732366
+-0.175045
+-0.359502
+22
+NC_010944
+Brugmansia mild mottle virus
+6381
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.367335
+-0.266575
+-0.783741
+0.603397
+-1.
+23
+NC_011803
+Cactus mild mottle virus
+6449
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.353318
+-0.181519
+-0.687169
+0.376964
+-0.938609
+24
+NC_014546
+Frangipani mosaic virus
+6643
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.328512
+-0.219036
+-0.807586
+1.
+0.886538
+25
+NC_015552
+Passion fruit mosaic virus (PafMV)
+6791
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.32927
+-0.292245
+-0.819442
+0.570056
+-0.950661
+26
+NC_016442
+Rattail cactus necrosis associated virus
+6506
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus  unclassified Tobamovirus}
+0.303617
+-0.212388
+-0.648835
+0.505239
+-0.614653
+27
+NC_016519
+Clitoria yellow mottle virus
+6514
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus}
+0.9636
+0.91917
+0.244653
+0.325226
+-0.381694
+28
+NC_022230
+Tomato mottle mosaic virus
+6398
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus  unclassified Tobamovirus}
+0.45365
+0.147186
+-0.78457
+-0.463086
+-0.424319
+29
+NC_022801
+Yellow tailflower mild mottle virus
+6379
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Virgaviridae  Tobamovirus  unclassified Tobamovirus}

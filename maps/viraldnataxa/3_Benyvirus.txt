@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Benyvirus (11)
+0.616334
+1.
+0.503678
+-0.577054
+-0.0435846
+1
+NC_003503
+Beet soil-borne mosaic virus (BSBMV)
+4616
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+0.992158
+-1.
+0.430561
+-0.406906
+-0.175864
+2
+NC_003506
+Beet soil-borne mosaic virus (BSBMV)
+6683
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+-0.796391
+-0.096241
+1.
+0.347186
+0.324897
+3
+NC_003507
+Beet soil-borne mosaic virus (BSBMV)
+1720
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+-1.
+-0.223521
+0.844863
+0.229398
+-0.320439
+4
+NC_003508
+Beet soil-borne mosaic virus (BSBMV)
+1203
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+-0.501698
+-0.233356
+-1.
+-1.
+-0.0724767
+5
+NC_003513
+Beet necrotic yellow vein virus
+1320
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+1.
+-0.996849
+0.417126
+-0.3519
+-0.263151
+6
+NC_003514
+Beet necrotic yellow vein virus
+6746
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+0.631491
+0.991247
+0.36856
+-0.561857
+-0.187807
+7
+NC_003515
+Beet necrotic yellow vein virus
+4609
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+-0.552236
+-0.108057
+-0.417877
+-0.493119
+1.
+8
+NC_003516
+Beet necrotic yellow vein virus
+1774
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+-0.739272
+-0.306099
+-0.306315
+-0.488984
+-1.
+9
+NC_003517
+Beet necrotic yellow vein virus
+1465
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus}
+0.615803
+-0.205557
+-0.495701
+0.505507
+0.960632
+10
+NC_021735
+Burdock mottle virus
+7038
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus  unclassified Benyvirus}
+0.414008
+0.276053
+-0.899363
+1.
+-0.794538
+11
+NC_021736
+Burdock mottle virus
+4315
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Benyvirus  unclassified Benyvirus}

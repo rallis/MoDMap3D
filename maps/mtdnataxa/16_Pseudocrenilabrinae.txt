@@ -1,0 +1,256 @@
+25
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Pseudocrenilabrinae (25)
+-0.939939
+-0.887689
+0.643773
+-0.98289
+0.804347
+1
+NC_007231
+mitochondrion Oreochromis mossambicus (Mozambique tilapia)
+16641
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.92384
+-0.832547
+0.600163
+-0.804235
+0.753299
+2
+NC_009057
+mitochondrion Oreochromis sp. KM-2006 (cichlid fish)
+16626
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.205185
+-0.257251
+-0.974412
+-0.686092
+0.736022
+3
+NC_009062
+mitochondrion Neolamprologus brichardi (lyretail cichlid)
+16587
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Lamprologini  Neolamprologus}
+0.446978
+-0.544645
+-1.
+-0.32505
+0.946936
+4
+NC_009063
+mitochondrion Tropheus duboisi (dwarf Tanganyikan cichlid)
+16598
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tropheini  Tropheus}
+-0.633083
+1.
+1.
+0.378737
+1.
+5
+NC_011171
+mitochondrion Tylochromis polylepis (cichlid)
+16976
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tylochromini  Tylochromis}
+-1.
+-0.984473
+0.388101
+-0.0855031
+0.794144
+6
+NC_013663
+mitochondrion Oreochromis niloticus (Nile tilapia)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.990634
+-1.
+-0.101301
+0.985863
+0.631053
+7
+NC_013750
+mitochondrion Oreochromis aureus (blue tilapia)
+16628
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.992972
+-0.950267
+0.531844
+-0.421235
+0.756135
+8
+NC_014060
+mitochondrion Oreochromis sp. 'red tilapia' (red tilapia)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.886029
+-0.816718
+-0.0801471
+0.535663
+0.610213
+9
+NC_015611
+mitochondrion Sarotherodon melanotheron (blackchin tilapia)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Sarotherodon}
+0.987269
+-0.723559
+0.464809
+-0.0413607
+0.529945
+10
+NC_018555
+mitochondrion Trematocranus placodon (snail-crusher hap)
+16579
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Trematocranus}
+0.970506
+-0.70771
+0.308313
+-0.0252802
+0.571082
+11
+NC_018556
+mitochondrion Diplotaxodon limnothrissa
+16579
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Diplotaxodon}
+0.991244
+-0.71132
+0.378833
+-0.0789174
+0.596231
+12
+NC_018557
+mitochondrion Petrotilapia nigra
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Petrotilapia}
+0.99282
+-0.719824
+0.490928
+-0.0414549
+0.527232
+13
+NC_018558
+mitochondrion Nimbochromis linni (elephantnose cichlid)
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Nimbochromis}
+1.
+-0.699772
+0.383597
+-0.0985246
+0.601895
+14
+NC_018559
+mitochondrion Pseudotropheus crabro (bumblebee mouthbrooder)
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Pseudotropheus}
+0.933303
+-0.70017
+0.326885
+-0.103524
+0.575647
+15
+NC_018560
+mitochondrion Astatotilapia calliptera (eastern happy)
+16578
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Astatotilapia}
+0.99159
+-0.724307
+0.467209
+-0.0511672
+0.527384
+16
+NC_018561
+mitochondrion Dimidiochromis compressiceps (Malawi eyebiter)
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Dimidiochromis}
+0.990401
+-0.713273
+0.380374
+-0.0824014
+0.595827
+17
+NC_018562
+mitochondrion Genyochromis mento
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Genyochromis}
+0.961446
+-0.711647
+0.308209
+-0.051691
+0.585641
+18
+NC_018563
+mitochondrion Rhamphochromis esox
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Rhamphochromis}
+0.994539
+-0.71323
+0.360255
+-0.0951734
+0.602003
+19
+NC_018564
+mitochondrion Cynotilapia afra
+16585
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Cynotilapia}
+0.477827
+-0.533713
+-0.926781
+-0.26977
+0.958573
+20
+NC_018814
+mitochondrion Petrochromis trewavasae (threadfin cichlid)
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tropheini  Petrochromis}
+0.46157
+-0.526283
+-0.915595
+-0.286663
+0.927117
+21
+NC_018815
+mitochondrion Tropheus moorii (blunthead cichlid)
+16590
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tropheini  Tropheus}
+0.991242
+-0.728737
+0.474484
+-0.0394776
+0.519216
+22
+NC_020672
+mitochondrion Cheilochromis euchilus (Malawi thick lip)
+16582
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Cheilochromis}
+-0.610834
+-0.249271
+-0.348638
+-0.317867
+-1.
+23
+NC_023470
+mitochondrion Heterotilapia buttikoferi
+16577
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Heterotilapiini  Heterotilapia}
+-0.890203
+-0.713201
+0.53995
+-1.
+0.598684
+24
+NC_025555
+mitochondrion Oreochromis esculentus (Singida tilapia)
+16622
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.977828
+-0.997331
+-0.097775
+1.
+0.641876
+25
+NC_025669
+mitochondrion Oreochromis niloticus x Oreochromis aureus
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}

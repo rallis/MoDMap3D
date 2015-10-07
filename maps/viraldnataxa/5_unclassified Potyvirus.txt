@@ -1,0 +1,136 @@
+13
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified Potyvirus (13)
+-1.
+-0.122631
+0.927287
+0.795969
+-1.
+1
+NC_007180
+Thunberg fritillary virus
+9723
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.917588
+0.754971
+0.291198
+-0.133437
+0.68782
+2
+NC_010735
+Verbena virus Y
+9742
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.633587
+-0.438198
+-0.418667
+0.470875
+1.
+3
+NC_014252
+Panax virus Y
+9750
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.543617
+-0.317119
+0.755916
+0.5004
+0.517128
+4
+NC_014898
+Lupine mosaic virus
+10113
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+0.785384
+0.0545121
+0.268962
+0.347646
+0.0190604
+5
+NC_016441
+Yam bean mosaic virus
+9649
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.235804
+0.81192
+-0.290662
+-0.328233
+-0.621051
+6
+NC_017824
+Tomato necrotic stunt virus
+10057
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.781005
+-0.167227
+-1.
+-0.607161
+0.126287
+7
+NC_017977
+Vallota speciosa virus
+9908
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+1.
+-0.0663189
+0.140235
+0.114026
+0.1467
+8
+NC_019415
+Blue squill virus A
+9842
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+0.831478
+-0.197078
+0.205253
+-0.0909554
+0.164286
+9
+NC_021196
+Calla lily latent virus
+9731
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.546897
+-0.304751
+-0.74183
+0.266407
+-0.705919
+10
+NC_021197
+Donkey orchid virus A
+9868
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.703954
+-1.
+1.
+-1.
+0.117133
+11
+NC_021786
+Habenaria mosaic virus
+9499
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.612266
+1.
+0.48761
+0.30531
+0.562654
+12
+NC_023014
+Bidens mosaic virus
+9557
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}
+-0.474128
+-0.599781
+-0.480494
+1.
+0.324943
+13
+NC_023175
+Zucchini tigre mosaic virus
+10346
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Potyviridae  Potyvirus  unclassified Potyvirus}

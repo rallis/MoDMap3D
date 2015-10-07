@@ -1,0 +1,546 @@
+54
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Ilarvirus (54)
+-0.806873
+-0.146774
+-0.648526
+-0.356378
+0.286662
+1
+NC_003451
+American plum line pattern virus
+3373
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.839955
+-0.0363642
+-0.647886
+-0.316151
+0.368836
+2
+NC_003452
+American plum line pattern virus
+2404
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.860098
+-0.0833306
+-0.589146
+-0.340488
+0.271308
+3
+NC_003453
+American plum line pattern virus
+2053
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.854893
+-0.12483
+-0.636912
+-0.375952
+0.259268
+4
+NC_003464
+Apple mosaic virus
+3476
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.872007
+-0.0912881
+-0.68613
+-0.255756
+0.347489
+5
+NC_003465
+Apple mosaic virus
+2979
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.905079
+-0.163159
+-0.624278
+-0.364576
+0.334621
+6
+NC_003480
+Apple mosaic virus
+2056
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.459545
+0.0238918
+-0.00651144
+-0.26666
+0.324162
+7
+NC_003546
+Citrus leaf rugose virus
+2289
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.0467196
+0.522549
+-0.811683
+-0.414511
+0.207842
+8
+NC_003547
+Citrus leaf rugose virus
+2990
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.00843927
+-0.506828
+-0.746201
+-0.232026
+0.279537
+9
+NC_003548
+Citrus leaf rugose virus
+3404
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.595105
+0.783326
+-0.877419
+-0.414404
+0.21654
+10
+NC_003568
+Elm mottle virus
+2874
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+1.
+-1.
+-0.877611
+-0.182689
+0.527879
+11
+NC_003569
+Elm mottle virus
+3431
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.0166277
+0.0065091
+1.
+-0.0944077
+0.237339
+12
+NC_003570
+Elm mottle virus
+2315
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.548883
+-0.790696
+-0.761847
+-0.198584
+0.438024
+13
+NC_003808
+Spinach latent virus
+3439
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.361663
+0.705586
+-0.873926
+-0.287107
+0.244494
+14
+NC_003809
+Spinach latent virus
+2939
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.120008
+-0.0142861
+0.605905
+-0.150604
+0.301786
+15
+NC_003810
+Spinach latent virus
+2310
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.0061819
+-0.455398
+-0.745946
+-0.275787
+0.246517
+16
+NC_003833
+Tulare apple mosaic virus
+3459
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.0117124
+0.416392
+-0.77949
+-0.38951
+0.247868
+17
+NC_003834
+Tulare apple mosaic virus
+2944
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.441656
+-0.0609616
+0.159259
+-0.251142
+0.295959
+18
+NC_003835
+Tulare apple mosaic virus
+2229
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.82306
+0.0479772
+-0.739327
+0.411521
+0.574123
+19
+NC_003842
+Tobacco streak virus
+2926
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.85369
+-0.229145
+-0.70013
+-0.257969
+-0.436632
+20
+NC_003844
+Tobacco streak virus
+3491
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.947534
+-0.105993
+-0.581071
+-0.920847
+0.84142
+21
+NC_003845
+Tobacco streak virus
+2205
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.788417
+-0.173649
+-0.658679
+-0.352691
+0.283695
+22
+NC_004362
+Prunus necrotic ringspot virus
+3332
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.791147
+-0.0639125
+-0.651559
+-0.223489
+0.360851
+23
+NC_004363
+Prunus necrotic ringspot virus
+2591
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.824044
+-0.092489
+-0.606791
+-0.401886
+0.374073
+24
+NC_004364
+Prunus necrotic ringspot virus
+1957
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.827509
+-0.214767
+-0.711056
+-0.287782
+-0.309012
+25
+NC_005848
+Parietaria mottle virus
+3518
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.887945
+0.0269698
+-0.719547
+0.49225
+0.610464
+26
+NC_005849
+Parietaria mottle virus
+2922
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.951086
+-0.101346
+-0.624486
+-0.623363
+0.625399
+27
+NC_005854
+Parietaria mottle virus
+2268
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.76571
+-0.157577
+-0.631423
+-0.385695
+0.260947
+28
+NC_006064
+Humulus japonicus latent virus
+3382
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.732904
+-0.0466303
+-0.64836
+-0.272364
+0.286276
+29
+NC_006065
+Humulus japonicus latent virus
+2810
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.838003
+-0.0978598
+-0.575682
+-0.36821
+0.34733
+30
+NC_006066
+Humulus japonicus latent virus
+1938
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.80698
+-0.180272
+-0.639771
+-0.328816
+0.164935
+31
+NC_006566
+Fragaria chiloensis latent virus
+3431
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.80531
+-0.0400961
+-0.663731
+-0.226249
+0.414539
+32
+NC_006567
+Fragaria chiloensis latent virus
+2570
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.852228
+-0.139712
+-0.615829
+-0.369289
+0.387934
+33
+NC_006568
+Fragaria chiloensis latent virus
+2484
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.804307
+-0.0269877
+-0.666042
+-0.167765
+0.396336
+34
+NC_008037
+Prune dwarf virus
+2593
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.769976
+-0.0969555
+-0.60654
+-0.332815
+0.369818
+35
+NC_008038
+Prune dwarf virus
+2129
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.754424
+-0.115795
+-0.64418
+-0.332778
+0.277544
+36
+NC_008039
+Prune dwarf virus
+3374
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.985743
+-0.0991896
+-0.571479
+-1.
+1.
+37
+NC_008706
+Strawberry necrotic shock virus
+2245
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.90183
+0.110892
+-0.864452
+0.954588
+0.761565
+38
+NC_008707
+Strawberry necrotic shock virus
+2876
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.873737
+-0.265906
+-0.757282
+-0.233222
+-1.
+39
+NC_008708
+Strawberry necrotic shock virus
+3429
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.328839
+0.0428298
+0.659409
+-0.150179
+0.223027
+40
+NC_009536
+Citrus variegation virus
+2309
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.880789
+-0.946564
+-0.91556
+-0.18677
+0.47835
+41
+NC_009537
+Citrus variegation virus
+3433
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.481575
+1.
+-0.999992
+-0.382598
+0.19468
+42
+NC_009538
+Citrus variegation virus
+2914
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.856799
+-0.284925
+-0.74161
+-0.179294
+-0.966853
+43
+NC_011553
+Blackberry chlorotic ringspot virus
+3478
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.940719
+0.0881408
+-0.817939
+1.
+0.799858
+44
+NC_011554
+Blackberry chlorotic ringspot virus
+2879
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-1.
+-0.0817957
+-0.559025
+-0.970416
+0.968707
+45
+NC_011555
+Blackberry chlorotic ringspot virus
+2290
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.0666073
+0.0103331
+0.967513
+-0.0728884
+0.226908
+46
+NC_011807
+Asparagus virus 2
+2307
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.946811
+-0.940625
+-0.85222
+-0.183054
+0.513724
+47
+NC_011808
+Asparagus virus 2
+3431
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+0.790402
+0.996423
+-1.
+-0.398097
+0.181469
+48
+NC_011809
+Asparagus virus 2
+2916
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.826313
+-0.222951
+-0.719032
+-0.275288
+-0.512272
+49
+NC_022127
+Ageratum latent virus
+3481
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus  unclassified Ilarvirus}
+-0.864031
+0.0418624
+-0.74038
+0.472814
+0.541526
+50
+NC_022128
+Ageratum latent virus
+2872
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus  unclassified Ilarvirus}
+-0.944349
+-0.0810658
+-0.574833
+-0.835251
+0.829644
+51
+NC_022129
+Ageratum latent virus
+2224
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus  unclassified Ilarvirus}
+-0.851463
+-0.161686
+-0.629372
+-0.327068
+0.152996
+52
+NC_022250
+Blueberry shock virus
+3352
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.797129
+-0.085315
+-0.651178
+-0.208697
+0.361077
+53
+NC_022251
+Blueberry shock virus
+2603
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}
+-0.854206
+-0.118575
+-0.567372
+-0.36069
+0.344571
+54
+NC_022252
+Blueberry shock virus
+2034
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Bromoviridae  Ilarvirus}

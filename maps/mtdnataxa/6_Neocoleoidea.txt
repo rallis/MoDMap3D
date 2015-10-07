@@ -1,0 +1,266 @@
+26
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Neocoleoidea (26)
+0.183561
+-0.294747
+0.983421
+0.710268
+-0.249843
+1
+NC_002507
+mitochondrion Heterololigo bleekeri
+17211
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Heterololigo}
+0.953414
+1.
+-0.24403
+0.401341
+-0.0577708
+2
+NC_006353
+mitochondrion Octopus vulgaris (common octopus)
+15744
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Octopodiformes  Octopoda  Incirrata  Octopodidae  Octopus}
+-0.175967
+-0.113033
+-0.159305
+0.368811
+0.678249
+3
+NC_006354
+mitochondrion Todarodes pacificus (Japanese flying squid)
+20254
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Todarodes}
+-0.129504
+-0.241374
+0.226433
+-1.
+1.
+4
+NC_007893
+mitochondrion Watasenia scintillans (sparkling enope)
+20093
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Enoploteuthidae  Watasenia}
+0.175093
+-0.16677
+0.560224
+0.543772
+-0.180757
+5
+NC_007894
+mitochondrion Sepioteuthis lessoniana (reef squid)
+16631
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Sepioteuthis}
+0.630117
+-0.960828
+-0.359286
+0.0329037
+-0.824497
+6
+NC_007895
+mitochondrion Sepia officinalis (common cuttlefish)
+16163
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+0.977562
+0.870701
+-0.208453
+0.462032
+0.107616
+7
+NC_007896
+mitochondrion Amphioctopus fangsiao (octopus)
+15979
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Octopodiformes  Octopoda  Incirrata  Octopodidae  Amphioctopus}
+0.860419
+0.173455
+-0.151053
+0.545537
+0.372035
+8
+NC_009689
+mitochondrion Vampyroteuthis infernalis (vampire squid)
+15617
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Octopodiformes  Vampyromorpha  Vampyroteuthidae  Vampyroteuthis}
+0.686465
+-0.797821
+-0.277043
+1.
+0.714739
+9
+NC_009690
+mitochondrion Sepia esculenta (golden cuttlefish)
+16199
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+-0.567604
+-0.0516279
+-0.521198
+0.552922
+0.552118
+10
+NC_009734
+mitochondrion Dosidicus gigas (jumbo flying squid)
+20324
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Dosidicus}
+-0.655963
+0.00958119
+-0.614877
+0.600947
+0.711718
+11
+NC_010636
+mitochondrion Sthenoteuthis oualaniensis (purpleback squid)
+20306
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Sthenoteuthis}
+-0.03383
+-0.0934754
+0.160699
+0.249187
+0.868545
+12
+NC_011581
+mitochondrion Architeuthis dux (giant squid)
+20331
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Architeuthidae  Architeuthis}
+0.0456955
+-0.118021
+1.
+0.740127
+-0.372535
+13
+NC_012840
+mitochondrion Doryteuthis opalescens (California market squid)
+17387
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Doryteuthis}
+0.954659
+0.857065
+-0.205822
+0.430413
+0.120339
+14
+NC_015896
+mitochondrion Callistoctopus minor
+15974
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Octopodiformes  Octopoda  Incirrata  Octopodidae  Callistoctopus}
+0.179664
+-0.230745
+0.0711295
+0.260297
+0.794767
+15
+NC_016423
+mitochondrion Bathyteuthis abyssicola (deepsea squid)
+20075
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Bathyteuthidae  Bathyteuthis}
+0.486056
+-0.198293
+0.144698
+0.517024
+0.517784
+16
+NC_016425
+mitochondrion Semirossia patagonica (Patagonian bobtail squid)
+17086
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiolida  Sepiolidae  Semirossia}
+0.150332
+-0.20177
+0.980863
+0.761815
+-0.241467
+17
+NC_017746
+mitochondrion Uroteuthis edulis (swordtip squid)
+17360
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Uroteuthis}
+0.890335
+-1.
+-0.422123
+0.0276676
+-0.670019
+18
+NC_017749
+mitochondrion Sepiella japonica (Japanese spineless cuttlefish)
+16172
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepiella}
+-1.
+0.0435241
+-1.
+0.979546
+-1.
+19
+NC_020348
+mitochondrion Ommastrephes bartramii (red flying squid)
+20308
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Ommastrephes}
+0.852375
+-0.720402
+-0.223894
+0.925498
+0.861864
+20
+NC_021146
+mitochondrion Sepia pharaonis
+16208
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+0.691175
+-0.585226
+-0.243762
+0.508519
+0.368899
+21
+NC_022466
+mitochondrion Sepia apama (giant Australian cuttlefish)
+16184
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+0.793018
+-0.448494
+-0.216512
+0.566513
+0.365123
+22
+NC_022467
+mitochondrion Sepia latimanus
+16225
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+0.841579
+-0.702123
+-0.157202
+0.847969
+0.821104
+23
+NC_022468
+mitochondrion Sepia lycidas
+16244
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+0.853204
+-0.969793
+-0.410287
+0.0488053
+-0.634901
+24
+NC_022693
+mitochondrion Sepiella inermis (spineless cuttlefish)
+16191
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepiella}
+0.743277
+-0.726051
+-0.12037
+0.983162
+0.910891
+25
+NC_022959
+mitochondrion Sepia aculeata
+16219
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Sepiida  Sepiina  Sepiidae  Sepia}
+1.
+0.938109
+-0.252192
+0.427046
+0.0667419
+26
+NC_023257
+mitochondrion Cistopus taiwanicus
+15793
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Octopodiformes  Octopoda  Incirrata  Octopodidae  Cistopus}

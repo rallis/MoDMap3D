@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Hirundinidae (11)
+-0.427385
+0.533993
+0.276948
+-0.757324
+0.200235
+1
+NC_020596
+mitochondrion Tachycineta bicolor
+17945
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.603653
+0.81456
+0.431094
+-0.141051
+1.
+2
+NC_020597
+mitochondrion Tachycineta thalassina
+18118
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.53058
+1.
+0.402617
+0.0934129
+-0.715921
+3
+NC_020598
+mitochondrion Tachycineta euchrysea
+17929
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.546946
+0.936682
+0.459678
+0.0702406
+-1.
+4
+NC_020599
+mitochondrion Tachycineta cyaneoviridis
+18154
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.908222
+-0.640022
+0.301493
+-0.216493
+-0.451228
+5
+NC_020600
+mitochondrion Tachycineta stolzmanni
+17932
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.96419
+-0.913254
+0.252952
+-1.
+-0.275341
+6
+NC_020601
+mitochondrion Tachycineta albilinea
+17923
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-1.
+-0.874623
+0.301055
+-0.962646
+-0.281043
+7
+NC_020602
+mitochondrion Tachycineta albiventer
+17916
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.999384
+-0.64587
+0.170174
+0.995007
+-0.0361916
+8
+NC_020603
+mitochondrion Tachycineta leucorrhoa
+17965
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+-0.976723
+-0.677345
+0.136247
+1.
+-0.0229812
+9
+NC_020604
+mitochondrion Tachycineta meyeni
+18012
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Tachycineta}
+0.411821
+-0.154714
+-1.
+-0.164037
+-0.231612
+10
+NC_020605
+mitochondrion Progne chalybea
+18030
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Progne}
+1.
+-1.
+1.
+0.0932624
+-0.161314
+11
+NC_024107
+mitochondrion Cecropis daurica
+17949
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Passeriformes  Hirundinidae  Cecropis}

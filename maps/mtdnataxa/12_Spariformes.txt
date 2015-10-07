@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Spariformes (12)
+1.
+0.143915
+-0.23776
+-0.142389
+0.148226
+1
+NC_003196
+mitochondrion Pagrus major (red seabream)
+17031
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Pagrus}
+0.675101
+0.148696
+-0.216423
+-0.0937176
+0.125395
+2
+NC_005146
+mitochondrion Pagrus auriga (redbanded seabream)
+16628
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Pagrus}
+0.975821
+0.191068
+-0.250212
+-0.109151
+0.107089
+3
+NC_008616
+mitochondrion Parargyrops edita (ribbon fish)
+16640
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Parargyrops}
+-0.646911
+0.771421
+-0.355351
+0.572002
+0.135467
+4
+NC_009502
+mitochondrion Pagellus bogaraveo (blackspot seabream)
+16941
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Pagellus}
+-0.563831
+0.468678
+-0.250359
+0.65767
+-0.0880263
+5
+NC_009854
+mitochondrion Spicara maena (blotched picarel)
+16638
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Centracanthidae  Spicara}
+-0.83334
+-0.803187
+-0.67499
+-0.458634
+-1.
+6
+NC_009855
+mitochondrion Lethrinus obsoletus (orange striped emperor)
+16779
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Lethrinidae  Lethrininae  Lethrinus}
+-0.894126
+-0.987358
+-1.
+-0.285154
+1.
+7
+NC_010957
+mitochondrion Monotaxis grandoculis (humpnose big-eye bream)
+16174
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Lethrinidae  Monotaxinae  Monotaxis}
+-1.
+0.985521
+0.0247014
+-1.
+0.207779
+8
+NC_010977
+mitochondrion Acanthopagrus latus (yellowfin seabream)
+16609
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Acanthopagrus}
+-0.930227
+1.
+-0.000861079
+-0.861888
+0.189308
+9
+NC_018553
+mitochondrion Acanthopagrus schlegelii (black porgy)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Acanthopagrus}
+-0.775288
+-1.
+1.
+0.431094
+0.226201
+10
+NC_023972
+mitochondrion Nemipterus japonicus (Japanese threadfin bream)
+16995
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Nemipteridae  Nemipterus}
+-0.705413
+0.737856
+-0.424476
+0.701981
+0.0838364
+11
+NC_024236
+mitochondrion Sparus aurata (gilthead seabream)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Sparus}
+-0.707687
+0.490088
+-0.517038
+1.
+0.10874
+12
+NC_025301
+mitochondrion Rhabdosargus sarba (Sparus sarba)
+16644
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Spariformes  Sparidae  Rhabdosargus}

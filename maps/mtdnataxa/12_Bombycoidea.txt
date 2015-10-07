@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Bombycoidea (14)
+-0.973528
+0.119133
+0.888528
+-0.615237
+0.149003
+1
+NC_002355
+mitochondrion Bombyx mori (domestic silkworm)
+15643
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Bombycidae  Bombycinae  Bombyx}
+-1.
+0.166077
+0.879145
+-0.602895
+0.180439
+2
+NC_003395
+mitochondrion Bombyx mandarina (wild silkworm)
+15928
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Bombycidae  Bombycinae  Bombyx}
+0.500076
+-1.
+0.727715
+-0.862882
+0.390959
+3
+NC_004622
+mitochondrion Antheraea pernyi (Chinese oak silkmoth)
+15566
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Saturniini  Antheraea}
+-0.125185
+-0.115099
+-0.983201
+-0.947729
+-0.668496
+4
+NC_010266
+mitochondrion Manduca sexta (tobacco hornworm)
+15516
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Sphingidae  Sphinginae  Sphingini  Manduca}
+0.520238
+-0.655542
+0.431394
+0.389922
+-0.85901
+5
+NC_010613
+mitochondrion Saturnia boisduvalii (moth)
+15360
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Saturniini  Saturnia  Caligula}
+0.568399
+-0.638982
+0.0815016
+0.144843
+-0.625053
+6
+NC_012727
+mitochondrion Eriogyna pyretorum (giant silkworm moth)
+15327
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Saturniini  Eriogyna}
+0.513668
+-0.90013
+0.632615
+-0.898794
+0.449739
+7
+NC_012739
+mitochondrion Antheraea yamamai (Japanese oak silkmoth)
+15338
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Saturniini  Antheraea}
+1.
+1.
+0.54653
+-0.169299
+-0.082625
+8
+NC_017869
+mitochondrion Samia ricini
+15384
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Attacini  Samia}
+0.606383
+-0.744807
+0.699769
+-0.296782
+-0.126044
+9
+NC_018133
+mitochondrion Actias selene (Indian moon moth)
+15236
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Saturniini  Actias}
+-0.11853
+-0.163909
+-1.
+-1.
+-0.582809
+10
+NC_020780
+mitochondrion Sphinx morio (larch hawk moth)
+15299
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Sphingidae  Sphinginae  Sphingini  Sphinx}
+0.428062
+-0.523262
+0.0342562
+0.969712
+0.227437
+11
+NC_021770
+mitochondrion Attacus atlas
+15282
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Attacini  Attacus}
+-0.803771
+-0.276557
+1.
+0.881966
+-1.
+12
+NC_021962
+mitochondrion Rondotia menciana
+15301
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Bombycidae  Bombycinae  Rondotia}
+0.986989
+0.972643
+0.538766
+-0.156977
+-0.0949943
+13
+NC_024270
+mitochondrion Samia canningi
+15384
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Saturniidae  Saturniinae  Attacini  Samia}
+-0.310124
+-0.125018
+-0.919022
+1.
+1.
+14
+NC_025763
+mitochondrion Dendrolimus spectabilis (pine moth)
+15411
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Bombycoidea  Lasiocampidae  Dendrolimus}

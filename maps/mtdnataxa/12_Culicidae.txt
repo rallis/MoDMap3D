@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Culicidae (15)
+-0.783207
+-0.565832
+0.441125
+-0.323855
+-0.850896
+1
+NC_000875
+mitochondrion Anopheles quadrimaculatus A (mosquito)
+15455
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.686966
+-0.213024
+0.314961
+-0.28399
+-0.68285
+2
+NC_002084
+mitochondrion Anopheles gambiae (African malaria mosquito)
+15363
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.275462
+-0.924794
+-1.
+0.625109
+-0.695571
+3
+NC_006817
+mitochondrion Aedes albopictus (Asian tiger mosquito)
+16665
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Stegomyia}
+-0.635081
+-0.332672
+0.201205
+-1.
+-0.0950626
+4
+NC_008070
+mitochondrion Anopheles funestus (African malaria mosquito)
+15354
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.641581
+-0.392556
+-0.0886913
+0.250832
+-0.655942
+5
+NC_010241
+mitochondrion Aedes aegypti (yellow fever mosquito)
+16655
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Stegomyia}
+-0.809359
+0.419989
+-0.0379256
+0.475251
+-0.330417
+6
+NC_014275
+mitochondrion Anopheles darlingi (American malaria mosquito)
+15386
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+1.
+0.510499
+0.844244
+0.250095
+-0.449268
+7
+NC_014574
+mitochondrion Culex quinquefasciatus (southern house mosquito)
+15587
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Culicini  Culex  Culex}
+0.77099
+0.608387
+0.956786
+0.192717
+-0.290166
+8
+NC_015079
+mitochondrion Culex pipiens pipiens
+14856
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Culicini  Culex  Culex}
+-0.990425
+1.
+-0.166443
+0.57851
+-0.452966
+9
+NC_020662
+mitochondrion Anopheles albitarsis
+15413
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-1.
+0.94903
+-0.211268
+0.50183
+-0.413099
+10
+NC_020663
+mitochondrion Anopheles deaneorum
+15424
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.718557
+-0.235775
+0.493359
+-0.206295
+-1.
+11
+NC_020768
+mitochondrion Anopheles cracens
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.769577
+-0.806006
+0.878256
+0.899447
+-0.522025
+12
+NC_020769
+mitochondrion Anopheles hinesorum
+15336
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.814809
+-1.
+1.
+1.
+-0.330064
+13
+NC_020770
+mitochondrion Anopheles farauti No. 4
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.5861
+-0.36348
+0.288569
+0.165144
+1.
+14
+NC_024740
+mitochondrion Anopheles cruzii
+15449
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.2493
+-0.656128
+-0.38343
+0.152917
+0.0435018
+15
+NC_025473
+mitochondrion Aedes notoscriptus
+15846
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Finlaya}

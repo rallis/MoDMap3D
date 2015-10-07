@@ -1,0 +1,356 @@
+35
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Strongylida (35)
+-0.725248
+1.
+0.384711
+-0.225367
+-0.708435
+1
+NC_003415
+mitochondrion Ancylostoma duodenale (human hookworm)
+13721
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Ancylostomatoidea  Ancylostomatidae  Ancylostomatinae  Ancylostoma}
+-0.451408
+0.602367
+0.346611
+-0.265613
+-0.552153
+2
+NC_003416
+mitochondrion Necator americanus (human hookworm)
+13605
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Ancylostomatoidea  Ancylostomatidae  Bunostominae  Necator}
+-0.445736
+-0.196146
+0.41788
+-0.0979232
+-0.674801
+3
+NC_004806
+mitochondrion Cooperia oncophora (cattle intestinal nematode)
+13636
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Cooperiidae  Cooperia}
+-0.343118
+-1.
+1.
+0.767639
+-0.517517
+4
+NC_010383
+mitochondrion Haemonchus contortus (barber pole worm)
+14055
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Haemonchidae  Haemonchinae  Haemonchus}
+-0.333711
+0.926987
+0.623582
+-0.518602
+-0.46587
+5
+NC_012308
+mitochondrion Bunostomum phlebotomum (cattle hookworm)
+13790
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Ancylostomatoidea  Ancylostomatidae  Bunostominae  Bunostomum}
+-0.84311
+0.886172
+0.401857
+-0.296347
+-0.590669
+6
+NC_012309
+mitochondrion Ancylostoma caninum (dog hookworm)
+13717
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Ancylostomatoidea  Ancylostomatidae  Ancylostomatinae  Ancylostoma}
+0.707083
+0.725123
+0.723613
+0.312611
+-0.638625
+7
+NC_013065
+mitochondrion Angiostrongylus cantonensis (rat lungworm)
+13497
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Angiostrongylidae  Angiostrongylus}
+0.679815
+0.926606
+0.623211
+0.671113
+-1.
+8
+NC_013067
+mitochondrion Angiostrongylus costaricensis (American rat lungworm)
+13585
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Angiostrongylidae  Angiostrongylus}
+-0.474725
+-0.4168
+0.49018
+0.180065
+-0.439932
+9
+NC_013807
+mitochondrion Trichostrongylus vitrinus (parasitic nematode)
+13800
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Trichostrongylidae  Trichostrongylinae  Trichostrongylus}
+-0.835641
+0.615498
+0.298346
+0.0773805
+-0.700391
+10
+NC_013808
+mitochondrion Cylicocyclus insigne (parasitic nematode)
+13828
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Strongylidae  Cyathostominae  Cylicocyclus}
+0.409718
+0.472413
+0.471911
+-0.570369
+-0.576978
+11
+NC_013813
+mitochondrion Metastrongylus pudendotectus (pig lungworm)
+13793
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Metastrongylidae  Metastrongylus}
+0.605981
+0.499974
+0.479638
+-0.459035
+-0.61242
+12
+NC_013815
+mitochondrion Metastrongylus salmi (pig lungworm)
+13778
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Metastrongylidae  Metastrongylus}
+-0.910706
+0.980508
+0.541575
+-0.0863739
+-0.605955
+13
+NC_013817
+mitochondrion Oesophagostomum dentatum (pig nodule worm)
+13869
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+-0.619191
+0.900649
+0.342395
+0.0440202
+-0.718377
+14
+NC_013818
+mitochondrion Strongylus vulgaris (bloodworm)
+14301
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Strongylidae  Strongylinae  Strongylus}
+-0.0544123
+0.800241
+-0.805353
+1.
+-0.11697
+15
+NC_013821
+mitochondrion Syngamus trachea (gapeworm)
+14647
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Syngamidae  Syngamus}
+-0.354262
+-0.878122
+0.468399
+0.42327
+-0.455001
+16
+NC_013824
+mitochondrion Trichostrongylus axei (parasitic nematode)
+13653
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Trichostrongylidae  Trichostrongylinae  Trichostrongylus}
+-0.508018
+-0.714489
+0.444895
+0.546098
+-0.295049
+17
+NC_013827
+mitochondrion Teladorsagia circumcincta (parasitic nematode)
+14066
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Trichostrongylidae  Trichostrongylinae  Teladorsagia}
+-0.860374
+0.870544
+0.524777
+0.021393
+0.113656
+18
+NC_013831
+mitochondrion Chabertia ovina (large-mouth bowel worm)
+13682
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Chabertia}
+-0.39185
+-0.890074
+0.760146
+-0.0531001
+-0.629265
+19
+NC_013848
+mitochondrion Mecistocirrus digitatus (parasitic nematode)
+15221
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Haemonchidae  Haemonchinae  Mecistocirrus}
+-1.
+0.662732
+0.582613
+-0.221729
+-0.533961
+20
+NC_014181
+mitochondrion Oesophagostomum quadrispinulatum (porcine nodular
+13681
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+1.
+0.850501
+0.531682
+0.522597
+-0.814751
+21
+NC_018602
+mitochondrion Angiostrongylus vasorum (French heartworm)
+13422
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Angiostrongylidae  Angiostrongylus}
+0.732748
+0.859392
+0.242839
+0.231556
+-0.471137
+22
+NC_019571
+mitochondrion Aelurostrongylus abstrusus (cat lungworm)
+13913
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Angiostrongylidae  Aelurostrongylus}
+-0.471045
+0.893245
+0.651282
+-0.273398
+-0.462183
+23
+NC_019803
+mitochondrion Bunostomum trigonocephalum (sheep hookworm)
+13764
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Ancylostomatoidea  Ancylostomatidae  Bunostominae  Bunostomum}
+0.572695
+-0.0174233
+0.543639
+-0.855141
+0.873656
+24
+NC_019809
+mitochondrion Dictyocaulus eckerti (red deer lungworm)
+13300
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Dictyocaulidae  Dictyocaulinae  Dictyocaulus}
+0.574116
+0.0430559
+0.685999
+-1.
+0.822794
+25
+NC_019810
+mitochondrion Dictyocaulus viviparus (bovine lungworm)
+13310
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Dictyocaulidae  Dictyocaulinae  Dictyocaulus}
+-0.445521
+0.771767
+0.106544
+0.574745
+0.618528
+26
+NC_023098
+mitochondrion Hypodontus macropi
+13634
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Cloacinidae  Hypodontus}
+-0.639518
+0.840499
+0.366093
+0.1769
+-0.107771
+27
+NC_023099
+mitochondrion Macropicola ocydromi
+13659
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Strongylidae  Strongylinae  Macropicola}
+0.322058
+0.367773
+0.307899
+0.518745
+-0.100134
+28
+NC_023262
+mitochondrion Protostrongylus rufescens
+13619
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Protostrongylidae  Protostrongylinae  Protostrongylus}
+-0.714974
+0.628081
+0.0363577
+0.805526
+1.
+29
+NC_023782
+mitochondrion Chabertia erschowi
+13705
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Chabertia}
+-0.897849
+0.576604
+0.373251
+-0.365965
+-0.400404
+30
+NC_023932
+mitochondrion Oesophagostomum asperum
+13672
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+-0.792632
+0.556492
+0.395072
+-0.0104563
+-0.162254
+31
+NC_023933
+mitochondrion Oesophagostomum columbianum
+13561
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Strongyloidea  Chabertiidae  Oesophagostomum}
+-0.0210992
+-0.250308
+-0.870907
+-0.613101
+-0.680849
+32
+NC_024638
+mitochondrion Nematodirus spathiger
+13519
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Molineidae  Nematodirus}
+-0.1369
+-0.317401
+-1.
+-0.643443
+-0.831003
+33
+NC_024639
+mitochondrion Nematodirus oiratianus
+13765
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Trichostrongyloidea  Molineidae  Nematodirus}
+0.767049
+0.75376
+0.291043
+0.0522911
+-0.302768
+34
+NC_024656
+mitochondrion Parafilaroides normani
+13414
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Metastrongyloidea  Filaroididae  Parafilaroides}
+-0.621908
+0.519947
+0.496396
+-0.412282
+-0.282103
+35
+NC_025267
+mitochondrion Uncinaria sanguinis
+13753
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Rhabditida  Strongylida  Ancylostomatoidea  Ancylostomatidae  Ancylostomatinae  Uncinaria}

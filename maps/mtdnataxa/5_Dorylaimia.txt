@@ -1,0 +1,206 @@
+20
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Dorylaimia (20)
+-0.87553
+-0.396373
+-0.71414
+0.603424
+-0.067612
+1
+NC_002681
+mitochondrion Trichinella spiralis (trichinosis nematode)
+16706
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+0.80712
+-0.272428
+1.
+1.
+-0.497898
+2
+NC_005928
+mitochondrion Xiphinema americanum (American dagger nematode)
+12626
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Dorylaimida  Dorylaimina  Longidoroidea  Longidoridae  Xiphinema}
+1.
+-0.605045
+-0.557108
+-0.154733
+0.822301
+3
+NC_008046
+mitochondrion Thaumamermis cosgrovei (pillbug nematode)
+20013
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Thaumamermis}
+0.950839
+-0.912154
+-0.81168
+0.195887
+-0.202118
+4
+NC_008047
+mitochondrion Strelkovimermis spiculatus (mosquito nematode)
+18030
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Strelkovimermis}
+0.921256
+-0.958383
+-0.86374
+0.118806
+-0.233078
+5
+NC_008231
+mitochondrion Agamermis sp. BH-2006 (nematode)
+16561
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Agamermis}
+0.993219
+-1.
+-0.775074
+0.410129
+-0.444802
+6
+NC_008640
+mitochondrion Romanomermis culicivorax (nematode)
+26194
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Romanomermis}
+0.951655
+-0.975044
+-0.781198
+0.335362
+-0.375153
+7
+NC_008692
+mitochondrion Romanomermis nielseni (nematode)
+15546
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Romanomermis}
+0.944125
+-0.998582
+-0.796584
+0.210705
+-0.259806
+8
+NC_008693
+mitochondrion Romanomermis iyengari (nematode)
+18919
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Romanomermis}
+0.925734
+-0.953512
+-0.761907
+0.1498
+-0.276271
+9
+NC_008828
+mitochondrion Hexamermis agrotis (cutworm parasitic nematode)
+24606
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Mermithida  Mermithoidea  Mermithidae  Hexamermis}
+0.765248
+0.656516
+-0.768017
+0.366477
+0.136755
+10
+NC_017747
+mitochondrion Trichuris suis (pig whipworm)
+14436
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichuridae  Trichuris}
+0.756805
+1.
+-0.527396
+-0.0229795
+1.
+11
+NC_017750
+mitochondrion Trichuris trichiura (human whipworm)
+14046
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichuridae  Trichuris}
+0.856308
+0.839239
+-1.
+0.603341
+-0.957589
+12
+NC_018596
+mitochondrion Trichuris discolor
+13904
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichuridae  Trichuris}
+0.798047
+0.874692
+-0.969658
+0.409034
+-1.
+13
+NC_018597
+mitochondrion Trichuris ovis
+13946
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichuridae  Trichuris}
+-0.487849
+-0.244164
+-0.518634
+-0.423014
+-0.389602
+14
+NC_025749
+mitochondrion Trichinella pseudospiralis
+17667
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+-0.951581
+-0.435039
+-0.774532
+0.814523
+-0.0313425
+15
+NC_025750
+mitochondrion Trichinella britovi
+16421
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+-1.
+-0.44861
+-0.769117
+0.848202
+-0.0358953
+16
+NC_025751
+mitochondrion Trichinella murrelli
+16592
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+-0.942379
+-0.415646
+-0.74287
+0.716498
+-0.0682677
+17
+NC_025752
+mitochondrion Trichinella nativa
+14077
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+-0.882732
+-0.402461
+-0.743264
+0.619698
+-0.0841134
+18
+NC_025753
+mitochondrion Trichinella nelsoni
+15278
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+-0.585965
+-0.209331
+-0.35079
+-1.
+-0.58835
+19
+NC_025754
+mitochondrion Trichinella papuae
+17326
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}
+-0.626993
+-0.217509
+-0.379527
+-0.848845
+-0.566686
+20
+NC_025755
+mitochondrion Trichinella zimbabwensis
+14244
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Enoplea  Dorylaimia  Trichocephalida  Trichinellidae  Trichinella}

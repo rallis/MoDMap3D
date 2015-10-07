@@ -1,0 +1,166 @@
+16
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Carmovirus (16)
+-0.752337
+0.292555
+1.
+-0.35148
+0.162644
+1
+NC_001265
+Carnation mottle virus
+4003
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.0580637
+0.151621
+-0.933752
+-0.637084
+-0.0170197
+2
+NC_001504
+Melon necrotic spot virus
+4266
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.159015
+-1.
+0.905495
+-0.44334
+-0.114788
+3
+NC_001600
+Cardamine chlorotic fleck virus
+4041
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.966174
+0.349941
+0.528925
+-0.428314
+0.510837
+4
+NC_001780
+Saguaro cactus virus
+3879
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.278289
+0.258589
+0.585393
+1.
+-1.
+5
+NC_002187
+Japanese iris necrotic ring virus
+4014
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.966359
+1.
+0.777078
+-0.363942
+-0.186876
+6
+NC_003535
+Cowpea mottle virus
+4029
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.181289
+-0.387685
+0.23012
+0.171808
+-0.533856
+7
+NC_003608
+Hibiscus chlorotic ringspot virus
+3911
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.170434
+-0.898418
+0.709625
+-0.901559
+0.173689
+8
+NC_003821
+Turnip crinkle virus
+4050
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.107837
+0.246938
+-1.
+-0.469713
+-0.280232
+9
+NC_004995
+Pea stem necrosis virus
+4048
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-1.
+0.520985
+0.486428
+-1.
+-0.935246
+10
+NC_005286
+Pelargonium flower break virus
+3923
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.731843
+0.452513
+0.532356
+-0.46682
+-0.829967
+11
+NC_007733
+Angelonia flower break virus
+3964
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.685944
+0.179771
+0.225338
+-0.17601
+0.736503
+12
+NC_009017
+Nootka lupine vein clearing virus
+4172
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+1.
+0.91944
+0.882827
+-0.621618
+0.16237
+13
+NC_011643
+Soybean yellow mottle mosaic virus
+4009
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.893087
+0.58174
+0.482409
+-0.983484
+-0.315194
+14
+NC_014967
+Honeysuckle ringspot virus
+3956
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.25528
+0.31727
+-0.386526
+0.091501
+0.517228
+15
+NC_015227
+TGP Carmovirus 1
+3929
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.668495
+0.517616
+0.704426
+0.136632
+1.
+16
+NC_021926
+Calibrachoa mottle virus
+3919
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}

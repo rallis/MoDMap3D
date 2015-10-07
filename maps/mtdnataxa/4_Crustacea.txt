@@ -1,0 +1,1656 @@
+165
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Crustacea (165)
+0.167561
+0.591513
+-0.0468315
+0.00174227
+-0.0683627
+1
+NC_000844
+mitochondrion Daphnia pulex (water flea)
+15333
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Diplostraca  Cladocera  Anomopoda  Daphniidae  Daphnia}
+0.311046
+0.640616
+-0.162204
+0.323769
+-0.0105462
+2
+NC_001620
+mitochondrion Artemia franciscana (brine shrimp)
+15822
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Anostraca  Artemiidae  Artemia}
+-0.534678
+-0.0771296
+-0.812891
+-0.53519
+0.918314
+3
+NC_002184
+mitochondrion Penaeus monodon (tiger prawn)
+15984
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Penaeoidea  Penaeidae  Penaeus}
+0.903161
+0.487845
+0.0792422
+0.383695
+0.37356
+4
+NC_003979
+mitochondrion Tigriopus japonicus (copepod)
+14628
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Harpacticoida  Harpacticidae  Tigriopus}
+-0.33949
+0.497758
+-0.187413
+0.0600801
+-0.0305411
+5
+NC_004251
+mitochondrion Panulirus japonicus (Japanese spiny lobster)
+15717
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Palinuridae  Panulirus}
+-0.233424
+0.134911
+-0.172779
+-0.388742
+-0.027427
+6
+NC_004465
+mitochondrion Triops cancriformis (tadpole shrimp)
+15101
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Notostraca  Triopsidae  Triops}
+-0.757142
+-0.595613
+-0.0725493
+0.056923
+0.134435
+7
+NC_005037
+mitochondrion Portunus trituberculatus (swimming crab)
+16026
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Portunus}
+-0.120951
+0.598071
+0.0114424
+-0.138027
+-0.317559
+8
+NC_005306
+mitochondrion Vargula hilgendorfii (sea firefly)
+15923
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Ostracoda  Myodocopa  Myodocopida  Cypridinoidea  Cypridinidae  Vargula}
+-0.436483
+0.338758
+0.272109
+-0.55863
+-0.460097
+9
+NC_005934
+mitochondrion Armillifer armillatus (tongue worm)
+16747
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Pentastomida  Porocephalida  Armilliferidae  Armillifer}
+0.546061
+-0.430811
+0.195389
+-0.477103
+0.307919
+10
+NC_005935
+mitochondrion Argulus americanus (fish louse)
+15102
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Branchiura  Arguloida  Argulidae  Argulus}
+0.00594101
+0.360032
+-0.226343
+-0.443938
+-0.625887
+11
+NC_005936
+mitochondrion Pollicipes polymerus (goose barnacle)
+15634
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Pedunculata  Scalpellomorpha  Pollicipedidae  Pollicipes}
+0.79141
+-0.154924
+0.114281
+-0.0348013
+0.48196
+12
+NC_005937
+mitochondrion Hutchinsoniella macracantha (cephalocarid crustacean)
+16491
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Cephalocarida  Brachypoda  Hutchinsoniellidae  Hutchinsoniella}
+-0.179514
+0.419984
+0.044262
+-0.387106
+-0.224078
+13
+NC_005938
+mitochondrion Speleonectes tulumensis (remipede)
+18372
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Remipedia  Nectiopoda  Speleonectidae  Speleonectes}
+-0.198598
+0.0365929
+-0.199147
+-0.473542
+0.033473
+14
+NC_006079
+mitochondrion Triops longicaudatus (tadpole shrimp)
+15111
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Notostraca  Triopsidae  Triops}
+-0.198745
+0.0925465
+-0.612838
+-0.48279
+0.693534
+15
+NC_006081
+mitochondrion Squilla mantis (a mantis shrimp)
+15994
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Hoplocarida  Stomatopoda  Squillidae  Squilla}
+-0.799537
+-0.42265
+-0.0541844
+0.0747177
+0.00932856
+16
+NC_006281
+mitochondrion Callinectes sapidus (blue crab)
+16263
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Callinectes}
+0.0928077
+0.136751
+-0.256777
+-0.671203
+-0.825758
+17
+NC_006293
+mitochondrion Megabalanus volcano (an acorn barnacle)
+15107
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Balanidae  Megabalanus}
+-0.561863
+0.875412
+-0.45763
+-0.301299
+-0.144405
+18
+NC_006880
+mitochondrion Macrobrachium rosenbergii (giant freshwater prawn)
+15772
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Palaemonoidea  Palaemonidae  Macrobrachium}
+-0.796708
+-0.516865
+-0.0179036
+0.0184133
+0.0959385
+19
+NC_006891
+mitochondrion Pseudocarcinus gigas (Australian giant crab)
+15515
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Xanthoidea  Eriphiidae  Pseudocarcinus}
+-0.238239
+0.119775
+-0.571014
+-0.475111
+0.733052
+20
+NC_006916
+mitochondrion Harpiosquilla harpax (mantis shrimp)
+15714
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Hoplocarida  Stomatopoda  Squillidae  Harpiosquilla}
+-0.802067
+-0.754215
+-0.000264565
+0.985749
+-0.905884
+21
+NC_006992
+mitochondrion Eriocheir sinensis (Chinese mitten crab)
+16354
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Eriocheir}
+-0.569714
+0.299005
+-0.828075
+-0.361736
+0.75894
+22
+NC_007010
+mitochondrion Marsupenaeus japonicus (kuruma prawn)
+15968
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Penaeoidea  Penaeidae  Marsupenaeus}
+0.705929
+0.340479
+0.112807
+0.0470388
+0.193969
+23
+NC_007215
+mitochondrion Lepeophtheirus salmonis (salmon louse)
+15445
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Siphonostomatoida  Caligidae  Lepeophtheirus}
+-0.597784
+-0.435901
+0.147684
+-0.30116
+0.0156687
+24
+NC_007379
+mitochondrion Geothelphusa dehaani (Japanese freshwater crab)
+18197
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Potamoidea  Potamidae  Geothelphusa}
+-0.452806
+0.308139
+-0.559068
+-0.467312
+0.467787
+25
+NC_007442
+mitochondrion Gonodactylus chiragra (mantis shrimp)
+16279
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Hoplocarida  Stomatopoda  Gonodactylidae  Gonodactylus}
+-0.259357
+0.597362
+-0.548053
+-0.16847
+0.440825
+26
+NC_007443
+mitochondrion Lysiosquillina maculata (mantis shrimp)
+16325
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Hoplocarida  Stomatopoda  Lysiosquillidae  Lysiosquillina}
+-0.337699
+0.296467
+-0.607694
+-0.484218
+0.609425
+27
+NC_007444
+mitochondrion Squilla empusa (mantis shrimp)
+15828
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Hoplocarida  Stomatopoda  Squillidae  Squilla}
+0.618861
+0.542585
+-0.0327801
+0.270829
+0.188912
+28
+NC_008412
+mitochondrion Ligia oceanica (common sea slater)
+15289
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Isopoda  Oniscidea  Diplocheta  Ligiidae  Ligia}
+-0.368993
+0.684285
+-0.196885
+-0.0927979
+-0.0738962
+29
+NC_008413
+mitochondrion Halocaridina rubra (Hawaiian volcano shrimp)
+16065
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Atyoidea  Atyidae  Halocaridina}
+-0.224159
+0.43328
+-0.253842
+-0.538553
+-0.723789
+30
+NC_008742
+mitochondrion Capitulum mitella (goose barnacle)
+14915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Pedunculata  Scalpellomorpha  Scalpellidae  Capitulum}
+0.869272
+0.408958
+0.104759
+0.264821
+0.411005
+31
+NC_008831
+mitochondrion Tigriopus californicus (tidepool copepod)
+14578
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Harpacticoida  Harpacticidae  Tigriopus}
+-0.199064
+0.391381
+-0.267124
+-0.659296
+-1.
+32
+NC_008974
+mitochondrion Tetraclita japonica (Japanese acorn barnacle)
+15194
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Tetraclitidae  Tetraclita}
+-0.54799
+0.218871
+-1.
+-0.427302
+0.988168
+33
+NC_009626
+mitochondrion Litopenaeus vannamei (Pacific white shrimp)
+15990
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Penaeoidea  Penaeidae  Litopenaeus}
+-0.620546
+0.0561711
+-0.841636
+-0.505662
+0.87292
+34
+NC_009679
+mitochondrion Fenneropenaeus chinensis (fleshy prawn)
+16004
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Penaeoidea  Penaeidae  Fenneropenaeus}
+-0.568784
+-0.318429
+0.106851
+-0.481748
+0.152864
+35
+NC_011013
+mitochondrion Shinkaia crosnieri (hydrothermal vent crab)
+15182
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Galatheoidea  Galatheidae  Shinkaia}
+-0.646279
+0.89813
+0.690414
+0.0519456
+0.544952
+36
+NC_011243
+mitochondrion Cherax destructor (Australian freshwater crayfish)
+15894
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.836011
+-0.771423
+-0.0257929
+0.961022
+-0.881524
+37
+NC_011597
+mitochondrion Eriocheir japonica (Japanese mitten crab)
+16352
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Eriocheir}
+-0.801659
+-0.774324
+-0.042997
+1.
+-0.872804
+38
+NC_011598
+mitochondrion Eriocheir hepuensis (Hepu mitten crab)
+16335
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Eriocheir}
+-0.62332
+0.0706937
+-0.971833
+-0.506254
+1.
+39
+NC_012060
+mitochondrion Litopenaeus stylirostris (blue shrimp)
+15988
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Penaeoidea  Penaeidae  Litopenaeus}
+-0.59855
+0.503928
+-0.411892
+-0.477192
+0.029342
+40
+NC_012217
+mitochondrion Macrobrachium lanchesteri (riceland prawn)
+15694
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Palaemonoidea  Palaemonidae  Macrobrachium}
+0.311687
+0.211148
+0.0557547
+-0.232018
+0.00840398
+41
+NC_012455
+mitochondrion Paracyclopina nana (cyclopoid copepod)
+15981
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Cyclopoida  Cyclopettidae  Paracyclopina}
+-0.756465
+-0.825567
+0.129753
+0.0618264
+0.114906
+42
+NC_012565
+mitochondrion Scylla serrata (giant mud crab)
+15775
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+-0.434114
+0.661862
+-0.344461
+-0.143129
+-0.129652
+43
+NC_012566
+mitochondrion Palaemon carinicauda (ridgetail white praw)
+15730
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Palaemonoidea  Palaemonidae  Palaemon}
+-0.800588
+-1.
+0.08346
+-0.0306684
+0.178152
+44
+NC_012567
+mitochondrion Scylla tranquebarica (purple mud crab)
+15833
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+-0.788585
+-0.509489
+0.0585476
+0.150399
+0.0685632
+45
+NC_012569
+mitochondrion Scylla olivacea (orange mud crab)
+15723
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+-0.764876
+-0.853545
+0.112216
+0.041981
+0.154465
+46
+NC_012572
+mitochondrion Scylla paramamosain (green mud crab)
+15825
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Scylla}
+-0.5237
+0.232142
+-0.950226
+-0.381073
+0.901693
+47
+NC_012738
+mitochondrion Farfantepenaeus californiensis (yellowleg shrimp)
+15975
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Penaeoidea  Penaeidae  Farfantepenaeus}
+0.517609
+-0.511951
+0.451627
+-0.848581
+-0.0698877
+48
+NC_013032
+mitochondrion Metacrangonyx longipes (subterranean amphipod)
+14113
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.715459
+-0.494338
+-0.0709324
+0.167538
+0.0650817
+49
+NC_013246
+mitochondrion Charybdis japonica (shore swimming crab)
+15738
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Charybdis}
+-0.713355
+-0.615606
+0.0289486
+-0.25206
+-0.00424614
+50
+NC_013480
+mitochondrion Xenograpsus testudinatus (hydrothermal vent crab)
+15798
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Xenograpsidae  Xenograpsus}
+-0.838312
+-0.446823
+0.0482619
+0.0535148
+0.0542906
+51
+NC_013713
+mitochondrion Gandalfus yunohana (hydrothermal vent crab)
+15567
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Bythograeoidea  Bythograeidae  Gandalfus}
+0.148336
+-0.0345273
+0.12317
+-0.43225
+-0.17209
+52
+NC_013819
+mitochondrion Onisimus nanseni (amphipod)
+14734
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Lysianassoidea  Lysianassidae  Onisimus}
+0.800303
+-0.096424
+0.114779
+-0.0897538
+0.513553
+53
+NC_013976
+mitochondrion Eophreatoicus sp. 14 FK-2009 (freshwater isopod)
+14994
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Isopoda  Phreatoicidea  Phreatoicidae  Eophreatoicus}
+-0.500738
+0.497029
+-0.151188
+0.112879
+-0.280503
+54
+NC_014339
+mitochondrion Panulirus stimpsoni (Chinese spiny lobster)
+15677
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Palinuridae  Panulirus}
+-0.362064
+0.0298482
+-0.601735
+-0.619149
+0.652165
+55
+NC_014342
+mitochondrion Oratosquilla oratoria (mantis shrimp)
+15783
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Hoplocarida  Stomatopoda  Squillidae  Oratosquilla}
+0.192682
+0.30022
+0.104504
+-0.179837
+-0.339546
+56
+NC_014492
+mitochondrion Caprella mutica (skeleton shrimp)
+15427
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Caprellidea  Caprellida  Caprellidae  Caprella}
+0.293161
+0.365254
+0.15403
+-0.133292
+-0.289552
+57
+NC_014687
+mitochondrion Caprella scaura (amphipod)
+15079
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Caprellidea  Caprellida  Caprellidae  Caprella}
+-0.467815
+0.429822
+-0.21006
+0.0872483
+-0.186599
+58
+NC_014854
+mitochondrion Panulirus ornatus (ornate spiny lobster)
+16105
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Palinuridae  Panulirus}
+-0.359837
+0.872039
+-0.297919
+-0.0158941
+-0.0372983
+59
+NC_014883
+mitochondrion Alpheus distinguendus (Forceps Snapping Shrimp)
+15700
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Alpheoidea  Alpheidae  Alpheus}
+-0.604085
+0.586519
+-0.498118
+-0.478882
+-0.0301578
+60
+NC_015073
+mitochondrion Macrobrachium nipponense (oriental river pawn)
+15806
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Palaemonoidea  Palaemonidae  Macrobrachium}
+-0.566602
+-0.155808
+-0.117073
+-0.178938
+0.741809
+61
+NC_015607
+mitochondrion Homarus americanus (American lobster)
+16432
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Nephropoidea  Nephropidae  Homarus}
+-0.513859
+0.418203
+-0.202291
+0.0201462
+-0.232173
+62
+NC_016015
+mitochondrion Panulirus homarus (Indian spiny lobster)
+15665
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Palinuridae  Panulirus}
+-0.355336
+-0.186221
+-0.323761
+-0.451506
+0.415602
+63
+NC_016184
+mitochondrion Euphausia pacifica (North Pacific krill)
+16898
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Euphausiacea  Euphausiidae  Euphausia}
+0.0140997
+0.141086
+0.0964677
+-0.338504
+-0.219526
+64
+NC_016192
+mitochondrion Gondogeneia antarctica (amphipod)
+18424
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Eusiroidea  Pontogeneiidae  Gondogeneia}
+0.725183
+-0.199041
+0.256721
+-0.108855
+0.717827
+65
+NC_016925
+mitochondrion Cambaroides similis (Korean Freshwater Crayfish)
+16220
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Astacoidea  Cambaridae  Cambaroides}
+1.
+-0.351802
+0.310232
+-0.175599
+0.944369
+66
+NC_016926
+mitochondrion Procambarus clarkii (red swamp crayfish)
+15928
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Astacoidea  Cambaridae  Procambarus}
+-0.490726
+0.0438687
+-0.408532
+-0.486065
+0.463973
+67
+NC_017600
+mitochondrion Acetes chinensis (northern mauxia shrimp)
+15740
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Dendrobranchiata  Sergestoidea  Sergestidae  Acetes}
+0.210935
+0.543411
+0.0772441
+-0.105839
+-0.312365
+68
+NC_017760
+mitochondrion Gammarus duebeni (gammarid amphipod)
+15651
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Gammaridae  Gammarus}
+-0.49627
+0.376964
+-0.160581
+0.0640664
+-0.223596
+69
+NC_017868
+mitochondrion Panulirus versicolor (painted spiny lobster)
+15700
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Palinuridae  Panulirus}
+-0.505248
+-0.0698552
+-0.182071
+-0.521062
+0.160933
+70
+NC_018097
+mitochondrion Stenopus hispidus (banded coral shrimp)
+15528
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Stenopodidea  Stenopodidae  Stenopus}
+-0.774617
+0.897323
+-0.454495
+-0.345782
+-0.0199088
+71
+NC_018778
+mitochondrion Alvinocaris chelys (Hydrothermal vent Shrimp)
+15910
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Bresilioidea  Alvinocarididae  Alvinocaris}
+-0.731729
+-0.508484
+-0.103346
+-0.527434
+0.489728
+72
+NC_019606
+mitochondrion Austinogebia edulis (mudshrimp)
+15761
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Upogebiidae  Austinogebia}
+-0.775136
+-0.242166
+-0.174242
+-0.408259
+0.467478
+73
+NC_019607
+mitochondrion Upogebia major (Japanese mud shrimp)
+16143
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Upogebiidae  Upogebia}
+-0.738089
+0.344161
+-0.0196212
+-0.31781
+-0.0526467
+74
+NC_019608
+mitochondrion Thalassina kelanang
+15528
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Thalassinoidea  Thalassinidae  Thalassina}
+-0.0638271
+0.126955
+-0.143359
+-0.00905032
+0.536429
+75
+NC_019609
+mitochondrion Neaxius glyptocercus (red mud lobster)
+14909
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Axioidea  Strahlaxiidae  Neaxius}
+0.379639
+-0.197074
+-0.166203
+-0.0260508
+0.95471
+76
+NC_019610
+mitochondrion Nihonotrypaea thermophila (callianassid shrimp)
+15240
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Callianassidae  Nihonotrypaea}
+0.756037
+0.507662
+0.0159873
+0.244873
+0.309188
+77
+NC_019627
+mitochondrion Calanus hyperboreus
+17910
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Calanoida  Calanidae  Calanus}
+0.515916
+-0.658094
+0.414541
+-0.851891
+-0.0107512
+78
+NC_019653
+mitochondrion Metacrangonyx repens (amphipod)
+14355
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.54971
+-0.349163
+0.38669
+-0.746837
+-0.0610484
+79
+NC_019654
+mitochondrion Metacrangonyx dominicanus (amphipod)
+14543
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.539506
+0.0272968
+0.337773
+-0.441838
+-0.125318
+80
+NC_019655
+mitochondrion Metacrangonyx goulmimensis (amphipod)
+14507
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.525675
+-0.378067
+0.38528
+-0.734148
+-0.0971365
+81
+NC_019656
+mitochondrion Metacrangonyx ilvanus (amphipod)
+14770
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.305508
+-0.378554
+0.374306
+-0.798458
+-0.213217
+82
+NC_019657
+mitochondrion Metacrangonyx spinicaudatus (amphipod)
+15037
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.497095
+-0.454234
+0.41282
+-0.780106
+-0.0456256
+83
+NC_019658
+mitochondrion Metacrangonyx longicaudus (amphipod)
+14711
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.487309
+-0.52565
+0.448574
+-0.831467
+-0.0694072
+84
+NC_019659
+mitochondrion Metacrangonyx panousei (amphipod)
+14478
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.592886
+-0.0220553
+0.374583
+-0.451832
+-0.0553437
+85
+NC_019660
+mitochondrion Metacrangonyx remyi (amphipod)
+14787
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.296479
+-0.0585876
+0.217429
+-0.66315
+-0.338963
+86
+NC_019661
+mitochondrion Bahadzia jaraguensis (amphipod)
+14657
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Melitoidea  Hadziidae  Bahadzia}
+-0.0335442
+0.238536
+0.182036
+-0.403325
+-0.316683
+87
+NC_019662
+mitochondrion Pseudoniphargus daviui (amphipod)
+15155
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Allocrangonyctidae  Pseudoniphargus}
+0.473997
+-0.00461664
+0.032718
+-0.0466595
+0.678326
+88
+NC_020020
+mitochondrion Homarus gammarus (European lobster)
+14316
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Nephropoidea  Nephropidae  Homarus}
+0.98378
+-0.357587
+0.289297
+-0.195486
+0.968085
+89
+NC_020021
+mitochondrion Procambarus fallax (deceitful crayfish)
+15253
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Astacoidea  Cambaridae  Procambarus}
+-0.544118
+0.164671
+-0.161727
+-0.190669
+0.33763
+90
+NC_020022
+mitochondrion Scyllarides latus (Mediterranean slipper lobster)
+15663
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Scyllaridae  Scyllarides}
+-0.641427
+-0.274539
+-0.169159
+-0.447821
+0.470364
+91
+NC_020023
+mitochondrion Upogebia pusilla (Mediterranean mud shrimp)
+15680
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Upogebiidae  Upogebia}
+-0.472957
+-0.228912
+-0.00513041
+-0.40312
+0.151633
+92
+NC_020024
+mitochondrion Neopetrolisthes maculatus (porcelain anemone crab)
+15324
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Galatheoidea  Porcellanidae  Neopetrolisthes}
+0.52607
+0.227619
+-0.177096
+0.262226
+0.836332
+93
+NC_020025
+mitochondrion Corallianassa coutierei
+15481
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Callianassidae  Corallianassa}
+-0.606333
+0.0891453
+0.162825
+-0.375108
+0.234025
+94
+NC_020026
+mitochondrion Polycheles typhlops
+16221
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Polychelida  Eryonoidea  Polychelidae  Polycheles}
+-0.649389
+-0.323176
+-0.0923913
+-0.449668
+0.575936
+95
+NC_020027
+mitochondrion Enoplometopus occidentalis (Hawaiian reef lobster)
+15111
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Enoplometopoidea  Enoplometopidae  Enoplometopus}
+-0.329634
+-0.462619
+-0.0802017
+-0.465097
+0.482732
+96
+NC_020029
+mitochondrion Paralithodes camtschaticus (red king crab)
+16720
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Paguroidea  Lithodidae  Paralithodes}
+-0.747272
+-0.279377
+-0.0029206
+0.00488655
+0.0361452
+97
+NC_020040
+mitochondrion Ilyoplax deschampsi
+15460
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Ocypodoidea  Dotillidae  Ilyoplax}
+-0.898117
+0.763824
+-0.597464
+-0.526487
+-0.0245619
+98
+NC_020310
+mitochondrion Rimicaris kairei (hydrothermal vent shrimp)
+15900
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Bresilioidea  Alvinocarididae  Rimicaris}
+-0.795759
+0.806139
+-0.589416
+-0.438559
+0.0390884
+99
+NC_020311
+mitochondrion Opaepele loihi (hydrothermal vent shrimp)
+15905
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Bresilioidea  Alvinocarididae  Opaepele}
+-0.981346
+-0.388525
+0.0408786
+0.0296643
+-0.121048
+100
+NC_020312
+mitochondrion Austinograea rodriguezensis (hydrothermal vent crab)
+15611
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Bythograeoidea  Bythograeidae  Austinograea}
+-0.69386
+1.
+-0.444153
+-0.241336
+-0.0400061
+101
+NC_020313
+mitochondrion Alvinocaris longirostris (hydrothermal vent shrimp)
+16050
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Bresilioidea  Alvinocarididae  Alvinocaris}
+-0.878594
+-0.169904
+0.0512788
+0.163414
+-0.11876
+102
+NC_020314
+mitochondrion Austinograea alayseae (hydrothermal vent crab)
+15620
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Bythograeoidea  Bythograeidae  Austinograea}
+0.401529
+-0.289246
+-0.116153
+-0.0247353
+0.96881
+103
+NC_020351
+mitochondrion Nihonotrypaea japonica (Japanese ghost shrimp)
+15274
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Callianassidae  Nihonotrypaea}
+0.35871
+0.922345
+-0.269512
+0.591317
+-0.174928
+104
+NC_021382
+mitochondrion Artemia urmiana
+15945
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Anostraca  Artemiidae  Artemia}
+0.305345
+0.867155
+-0.24996
+0.565133
+-0.180485
+105
+NC_021383
+mitochondrion Artemia tibetiana
+15742
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Anostraca  Artemiidae  Artemia}
+-0.226127
+-0.284841
+-0.0800989
+-0.326738
+0.402113
+106
+NC_021458
+mitochondrion Paralithodes brevipes
+16303
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Paguroidea  Lithodidae  Paralithodes}
+-0.398742
+0.598613
+-0.143854
+0.0883967
+0.15907
+107
+NC_021753
+mitochondrion Palinurellus wieneckii
+15699
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Synaxidae  Palinurellus}
+-0.531009
+-0.115825
+-0.0790867
+0.290266
+0.039825
+108
+NC_021754
+mitochondrion Pachygrapsus crassipes
+15652
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Grapsidae  Pachygrapsus}
+-0.801013
+0.551748
+-0.453862
+-0.429372
+0.0316133
+109
+NC_021971
+mitochondrion Nautilocaris saintlaurentae
+15928
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Bresilioidea  Alvinocarididae  Nautilocaris}
+0.116308
+0.22626
+-0.272582
+-0.593091
+-0.710502
+110
+NC_022716
+mitochondrion Notochthamalus scabrosus
+15397
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Chthamalidae  Notochthamalus}
+-0.46529
+0.566092
+-0.185129
+0.0079704
+0.114954
+111
+NC_022736
+mitochondrion Sagmariasus verreauxi
+15470
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Palinuridae  Sagmariasus}
+-0.768436
+0.302064
+0.539309
+-0.470338
+0.142869
+112
+NC_022847
+mitochondrion Engaeus lengana
+15934
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+-0.893287
+0.424427
+0.882945
+-0.386362
+0.592016
+113
+NC_022936
+mitochondrion Cherax cainii
+15801
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.771254
+0.521392
+0.584279
+-0.270746
+0.376568
+114
+NC_022937
+mitochondrion Cherax quadricarinatus
+15869
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.750144
+0.434068
+0.55828
+-0.252676
+0.441692
+115
+NC_022938
+mitochondrion Cherax monticola
+15917
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.905294
+0.727534
+0.993145
+-0.278415
+0.604235
+116
+NC_022939
+mitochondrion Cherax glaber
+15806
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.204398
+0.123391
+0.218868
+-0.396991
+-0.337284
+117
+NC_023104
+mitochondrion Eulimnogammarus verrucosus
+15315
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Eulimnogammaridae  Eulimnogammarinae  Eulimnogammarus}
+-0.594137
+-0.0994749
+0.0117359
+0.0337734
+0.230263
+118
+NC_023474
+mitochondrion Ranina ranina
+15557
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Raninoidea  Raninidae  Ranina}
+-0.499052
+-0.209423
+0.0750771
+0.234469
+0.235829
+119
+NC_023476
+mitochondrion Chaceon granulatus
+16135
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Geryonidae  Chaceon}
+-0.624802
+0.782623
+0.504036
+-0.176676
+0.127189
+120
+NC_023477
+mitochondrion Engaeus lyelli
+16027
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+-0.84327
+0.527009
+0.729137
+-0.232247
+0.454513
+121
+NC_023478
+mitochondrion Cherax robustus
+15703
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.821202
+0.746398
+0.941375
+-0.140222
+0.539895
+122
+NC_023479
+mitochondrion Cherax quinquecarinatus
+15810
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.662328
+0.774572
+0.668323
+-0.0111183
+0.558156
+123
+NC_023480
+mitochondrion Cherax dispar
+15675
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.824548
+0.509194
+0.712951
+-0.189741
+0.540536
+124
+NC_023481
+mitochondrion Cherax cairnsensis
+15600
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+-0.904427
+0.729909
+0.977788
+-0.273553
+0.603986
+125
+NC_023482
+mitochondrion Cherax preissii
+15809
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.631046
+0.451182
+-0.00373201
+0.116466
+0.122331
+126
+NC_023783
+mitochondrion Amphiascoides atopus
+13831
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Harpacticoida  Miraciidae  Amphiascoides}
+-0.788309
+0.407105
+0.634871
+-0.516534
+0.216123
+127
+NC_023809
+mitochondrion Engaeus cunicularius
+16042
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+-0.805374
+0.409034
+0.525119
+-0.36458
+0.266644
+128
+NC_023810
+mitochondrion Geocharax gracilis
+15924
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Geocharax}
+-0.860125
+0.380492
+0.52981
+-0.400476
+0.294109
+129
+NC_023811
+mitochondrion Euastacus yarraensis (Yarra cray)
+15548
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Euastacus}
+-0.334062
+0.495018
+-0.32888
+-0.152729
+0.110046
+130
+NC_023823
+mitochondrion Neocaridina denticulata (Japanese swamp shrimp)
+15561
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Atyoidea  Atyidae  Neocaridina}
+-0.148197
+-0.167806
+-0.222857
+-0.960744
+-0.819323
+131
+NC_023945
+mitochondrion Nobia grandis
+15032
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Pyrgomatidae  Nobia}
+-1.
+0.646053
+1.
+-0.333749
+0.633325
+132
+NC_024029
+mitochondrion Cherax crassimanus
+15807
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Cherax}
+0.813856
+0.248972
+0.157385
+0.10783
+0.288654
+133
+NC_024046
+mitochondrion Pandarus rhincodonicus
+14480
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Siphonostomatoida  Pandaridae  Pandarus}
+0.738904
+0.29784
+0.0994561
+0.0941166
+0.338221
+134
+NC_024054
+mitochondrion Limnoria quadripunctata
+16515
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Isopoda  Limnoriidae  Limnoria}
+-0.272289
+-0.450997
+-0.0612077
+-0.412932
+0.480048
+135
+NC_024202
+mitochondrion Lithodes nintokuae
+15731
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Paguroidea  Lithodidae  Lithodes}
+-0.7487
+0.503569
+0.480559
+-0.370193
+0.296934
+136
+NC_024295
+mitochondrion Gramastacus lacus
+15764
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Gramastacus}
+-0.626278
+-0.409581
+-0.00128312
+-0.176355
+0.102001
+137
+NC_024435
+mitochondrion Ashtoret lunaris
+15807
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Calappoidea  Matutidae  Ashtoret}
+-0.886788
+-0.553156
+0.0309253
+-0.183219
+0.0291497
+138
+NC_024437
+mitochondrion Myomenippe fornasinii
+15658
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Eriphioidea  Menippidae  Myomenippe}
+-0.762027
+-0.531224
+-0.0254303
+0.127771
+0.136932
+139
+NC_024438
+mitochondrion Thalamita crenata
+15787
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Thalamita}
+-0.195824
+-0.126945
+-0.171011
+-0.573212
+0.150126
+140
+NC_024439
+mitochondrion Triops australiensis
+15125
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Branchiopoda  Notostraca  Triopsidae  Triops}
+-0.434273
+0.646194
+-0.0598632
+0.117943
+0.0954955
+141
+NC_024440
+mitochondrion Thenus orientalis
+16826
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Scyllaridae  Thenus}
+-0.925786
+0.513311
+0.800613
+-0.628565
+0.103189
+142
+NC_024441
+mitochondrion Engaeus sericatus
+17350
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+-0.948047
+0.494863
+0.830502
+-0.596636
+0.0965263
+143
+NC_024442
+mitochondrion Engaeus quadrimanus
+17321
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Engaeus}
+0.0195985
+-0.0742531
+-0.288665
+-0.782969
+-0.776599
+144
+NC_024525
+mitochondrion Amphibalanus amphitrite
+15683
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Balanidae  Amphibalanus}
+-0.245149
+-0.0911002
+-0.326042
+-1.
+-0.875357
+145
+NC_024526
+mitochondrion Striatobalanus amaryllis
+15064
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Archaeobalanidae  Striatobalanus}
+-0.772958
+-0.559335
+-0.0315741
+0.0805006
+0.129847
+146
+NC_024632
+mitochondrion Charybdis feriata
+15660
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Portunoidea  Portunidae  Charybdis}
+-0.0415043
+0.315793
+-0.270838
+-0.651743
+-0.895232
+147
+NC_024636
+mitochondrion Megabalanus ajax
+15510
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Sessilia  Balanidae  Megabalanus}
+0.604397
+0.0729293
+-0.0179514
+0.262231
+0.917742
+148
+NC_024651
+mitochondrion Paraglypturus tonganus (nomen nudum)
+15924
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Callianassidae  Paraglypturus}
+-0.306762
+0.650857
+-0.39286
+-0.0497668
+0.0716363
+149
+NC_024751
+mitochondrion Caridina gracilipes
+15550
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Caridea  Atyoidea  Atyidae  Caridina}
+0.302108
+0.0519441
+0.136028
+-0.331726
+-0.0514723
+150
+NC_025239
+mitochondrion Lernaea cyprinacea
+14656
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Copepoda  Cyclopoida  Lernaeidae  Lernaea}
+0.108242
+0.262973
+-0.180345
+-0.408846
+-0.384872
+151
+NC_025295
+mitochondrion Lepas australis
+15502
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Maxillopoda  Cirripedia  Thoracica  Pedunculata  Lepadomorpha  Lepadidae  Lepas}
+-0.52335
+0.43335
+0.0616504
+-0.0405261
+0.463801
+152
+NC_025323
+mitochondrion Metanephrops sibogae (Siboga lobster)
+20677
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Nephropoidea  Nephropidae  Metanephrops}
+-0.690797
+-0.373801
+0.010224
+-0.0019725
+0.0243391
+153
+NC_025324
+mitochondrion Ocypode ceratophthalmus
+15564
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Ocypodoidea  Ocypodidae  Ocypodinae  Ocypode}
+-0.565461
+-0.198403
+-0.0506846
+0.111711
+-0.00396456
+154
+NC_025325
+mitochondrion Mictyris longicarpus
+15548
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Ocypodoidea  Mictyridae  Mictyris}
+-0.677034
+-0.389927
+0.0824352
+-0.214434
+0.119373
+155
+NC_025518
+mitochondrion Damithrax spinosissimus
+15817
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Majoidea  Mithracidae  Damithrax}
+0.219504
+0.260131
+0.169368
+-0.318452
+-0.322642
+156
+NC_025564
+mitochondrion Eulimnogammarus vittatus
+15534
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Eulimnogammaridae  Eulimnogammarinae  Eulimnogammarus}
+-0.704058
+-0.272789
+-0.0176267
+0.343551
+-0.228018
+157
+NC_025571
+mitochondrion Cyclograpsus granulosus
+16300
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Brachyura  Eubrachyura  Grapsoidea  Varunidae  Cyclograpsus}
+-0.49201
+-0.18867
+-0.00606896
+-0.373812
+0.144951
+158
+NC_025572
+mitochondrion Petrolisthes haswelli
+15348
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Galatheoidea  Porcellanidae  Petrolisthes}
+-0.708493
+-0.0512658
+-0.0834629
+-0.451376
+0.206322
+159
+NC_025581
+mitochondrion Ibacus ciliatus
+15696
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Achelata  Palinuroidea  Scyllaridae  Ibacus}
+-0.765595
+-0.221746
+-0.111648
+-0.487645
+0.537953
+160
+NC_025592
+mitochondrion Enoplometopus debelius
+15641
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Enoplometopoidea  Enoplometopidae  Enoplometopus}
+-0.822187
+0.562792
+0.542939
+-0.390444
+0.168468
+161
+NC_025647
+mitochondrion Tenuibranchiurus glypticus
+17342
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Tenuibranchiurus}
+-0.349822
+0.128953
+-0.0791626
+-0.197581
+0.308804
+162
+NC_025776
+mitochondrion Clibanarius infraspinatus
+16504
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Anomura  Paguroidea  Diogenidae  Clibanarius}
+-0.716316
+-0.357558
+-0.135111
+-0.441057
+0.491338
+163
+NC_025943
+mitochondrion Upogebia yokoyai
+16063
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Thalassinidea  Callianassoidea  Upogebiidae  Upogebia}
+-0.748885
+0.185235
+0.59075
+-0.354611
+0.23692
+164
+NC_025957
+mitochondrion Paranephrops planifrons
+16174
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Parastacoidea  Parastacidae  Paranephrops}
+-0.340068
+-0.228802
+-0.0600895
+-0.182319
+0.814742
+165
+NC_025958
+mitochondrion Nephrops norvegicus (Norway lobster)
+16132
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Eucarida  Decapoda  Pleocyemata  Astacidea  Nephropoidea  Nephropidae  Nephrops}

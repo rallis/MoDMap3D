@@ -1,0 +1,376 @@
+37
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Lambdalikevirus (37)
+0.167305
+-0.960512
+-0.950417
+0.959647
+-0.632635
+1
+NC_001416
+Enterobacteria phage lambda
+48502
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus}
+-0.863627
+0.274138
+-0.137663
+0.00841997
+-0.597044
+2
+NC_002166
+Enterobacteria phage HK022 (HK022)
+40751
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus}
+-0.874385
+0.328164
+-0.0869843
+-0.0101607
+-0.498856
+3
+NC_002167
+Enterobacteria phage HK97
+39732
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus}
+0.693807
+0.233307
+0.996853
+0.578051
+-0.966281
+4
+NC_003309
+Burkholderia phage phiE125
+53373
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.26085
+-0.278837
+0.122194
+0.00476896
+-0.0431664
+5
+NC_004166
+Bacillus phage SPP1
+44010
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.25352
+-0.285498
+0.102923
+-0.00936696
+-0.015075
+6
+NC_004167
+Bacillus phage phi105
+39325
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.273594
+-0.708538
+-0.0494476
+-0.475317
+-0.512782
+7
+NC_004813
+Enterobacteria phage BP-4795
+57930
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.24663
+-0.996175
+-0.038463
+-0.972437
+-0.989878
+8
+NC_004913
+Escherichia Stx1 converting phage (Stx1 converting bacteriophage)
+59866
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.252448
+-1.
+-0.0284955
+-1.
+-1.
+9
+NC_004914
+Stx2 converting phage II (Stx2 converting bacteriophage II)
+62706
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.696388
+0.228297
+1.
+0.58896
+-0.967221
+10
+NC_005284
+Burkholderia phage phi1026b
+54865
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.688307
+0.341406
+0.234821
+0.24481
+-0.551301
+11
+NC_005345
+Streptomyces phage VWB
+49220
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.206973
+-0.828225
+-0.0472105
+-0.73305
+-0.817648
+12
+NC_008464
+Stx2-converting phage 86 (Stx2-converting bacteriophage 8)
+60238
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.998718
+0.997008
+-0.820802
+-0.252019
+-0.433297
+13
+NC_008717
+Pseudomonas phage DMS3
+36415
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.679957
+0.223626
+0.927152
+0.550357
+-0.912861
+14
+NC_009235
+Burkholderia phage phi644-2
+48674
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.318552
+-0.516912
+-0.0442179
+0.0893228
+0.154478
+15
+NC_009514
+Enterobacteria phage cdtI (Bacteriophage cdtI)
+47021
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.964178
+0.945417
+-0.771243
+-0.22686
+-0.425725
+16
+NC_009818
+Pseudomonas phage MP22
+36409
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.21955
+-0.670678
+-0.0392898
+-0.489539
+-0.491636
+17
+NC_011357
+Stx2-converting phage 1717
+62147
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.990565
+0.991171
+-0.814114
+-0.243764
+-0.434757
+18
+NC_011611
+Pseudomonas phage MP38
+36885
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.559012
+0.169689
+0.400782
+0.286048
+-0.49517
+19
+NC_013055
+Burkholderia phage KS9
+39896
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.311874
+-0.120914
+0.115125
+0.0120601
+-0.131492
+20
+NC_016158
+Escherichia phage HK639
+49576
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-1.
+0.417128
+-0.116659
+-0.00248695
+-0.624458
+21
+NC_016160
+Escherichia phage HK75
+36661
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+1.
+1.
+-0.822828
+-0.25112
+-0.437748
+22
+NC_018274
+Pseudomonas phage MP42
+36847
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.265341
+-0.197897
+0.161641
+0.0413587
+0.33032
+23
+NC_019704
+Enterobacteria phage mEp237
+44375
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.881058
+0.303121
+-0.149789
+0.0590578
+-0.563057
+24
+NC_019705
+Enterobacteria phage mEpX2
+38759
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.0491368
+-0.133331
+0.0832746
+0.0342219
+1.
+25
+NC_019706
+Enterobacteria phage mEp043 c-1
+42780
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.573861
+0.148983
+-0.160911
+0.0857019
+-0.560845
+26
+NC_019708
+Enterobacteria phage mEp235
+37595
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.884429
+0.392474
+-0.0558745
+-0.0127381
+-0.550977
+27
+NC_019709
+Enterobacteria phage mEpX1
+41567
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.644196
+0.193161
+-0.106927
+0.0498235
+-0.416204
+28
+NC_019710
+Enterobacteria phage HK140
+40710
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.0819096
+-0.853128
+-0.955129
+1.
+-0.687788
+29
+NC_019711
+Enterobacteria phage HK629
+47288
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.933171
+0.399179
+-0.0597951
+0.00384639
+-0.388571
+30
+NC_019714
+Enterobacteria phage HK446
+39026
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.936122
+0.335721
+-0.0971631
+-0.0520738
+-0.558703
+31
+NC_019715
+Enterobacterial phage mEp234
+39578
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.32152
+-0.481478
+-0.0511104
+0.105763
+0.13886
+32
+NC_019716
+Enterobacteria phage mEp460
+44510
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.274815
+-0.180769
+0.159799
+0.0395208
+0.284429
+33
+NC_019717
+Enterobacteria phage HK225
+45366
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.926322
+0.356312
+-0.0979505
+-0.00919168
+-0.538664
+34
+NC_019719
+Enterobacteria phage HK633
+41528
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.0512389
+-0.17647
+0.0686388
+0.023428
+0.974095
+35
+NC_019720
+Enterobacterial phage mEp213
+44120
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+-0.108368
+0.112222
+0.0750182
+-0.00888362
+-0.313799
+36
+NC_019721
+Enterobacterial phage mEp390
+40029
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}
+0.127357
+-0.969658
+-1.
+0.979679
+-0.71864
+37
+NC_019723
+Enterobacteria phage HK630
+47090
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Siphoviridae  Lambdalikevirus  unclassified Lambda like viruses}

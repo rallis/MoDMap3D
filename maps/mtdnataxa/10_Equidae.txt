@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Equidae (11)
+1.
+-0.00869059
+-0.412664
+0.226868
+-0.594455
+1
+NC_001640
+mitochondrion Equus caballus (horse)
+16660
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.571097
+0.120698
+1.
+-1.
+-1.
+2
+NC_001788
+mitochondrion Equus asinus (donkey)
+16670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.939877
+-1.
+-0.509389
+0.149625
+-0.633919
+3
+NC_016061
+mitochondrion Equus hemionus (onager)
+16634
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.992775
+1.
+-0.994617
+-0.00716428
+-0.641863
+4
+NC_018780
+mitochondrion Equus zebra hartmannae (Hartmann's mountain zebra)
+16409
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.796087
+0.35264
+0.533228
+1.
+-0.869759
+5
+NC_018781
+mitochondrion Equus burchellii chapmani (Chapman's zebra)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.918032
+-0.930572
+-0.496591
+0.245793
+-0.716047
+6
+NC_018782
+mitochondrion Equus hemionus kulan (kulan)
+16381
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.66833
+0.104629
+0.298558
+0.200817
+1.
+7
+NC_018783
+mitochondrion Equus ovodovi
+16415
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.766413
+0.343488
+0.458721
+0.982641
+-0.951455
+8
+NC_020432
+mitochondrion Equus grevyi (Grevy's zebra)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.918702
+-0.966418
+-0.535165
+0.17766
+-0.625282
+9
+NC_020433
+mitochondrion Equus kiang (kiang)
+16380
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-1.
+0.99893
+-1.
+-0.0281088
+-0.627603
+10
+NC_020476
+mitochondrion Equus zebra (mountain zebra)
+16405
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+0.964876
+-0.00425773
+-0.413261
+0.262315
+-0.635716
+11
+NC_024030
+mitochondrion Equus przewalskii (Przewalski's horse)
+16592
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}

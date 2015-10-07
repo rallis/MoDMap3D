@@ -1,0 +1,566 @@
+56
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Porifera (56)
+-0.393676
+-0.0859639
+-0.00372454
+0.147017
+0.658149
+1
+NC_006894
+mitochondrion Axinella corrugata (marine sponge)
+25610
+{Eukaryota  Metazoa  Porifera  Demospongiae  Halichondrida  Axinellidae  Axinella}
+-0.377933
+-0.145504
+-0.0261217
+0.187184
+0.775404
+2
+NC_006990
+mitochondrion Geodia neptuni (sponge)
+18020
+{Eukaryota  Metazoa  Porifera  Demospongiae  Astrophorida  Geodiidae  Geodia}
+-0.388646
+-0.282797
+-0.0556428
+0.253344
+0.636829
+3
+NC_006991
+mitochondrion Tethya actinia (sponge)
+19565
+{Eukaryota  Metazoa  Porifera  Demospongiae  Hadromerida  Tethyidae  Tethya}
+-0.256053
+-0.246395
+-0.210952
+0.0658864
+0.411486
+4
+NC_008944
+mitochondrion Amphimedon queenslandica (desmosponge)
+19960
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Niphatidae  Amphimedon}
+0.943301
+0.343127
+0.308989
+0.121811
+0.0506187
+5
+NC_009090
+mitochondrion Oscarella carmela (sponge)
+20327
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Oscarella}
+-0.385155
+-0.272837
+-0.0728256
+0.289692
+0.62077
+6
+NC_010171
+mitochondrion Negombata magnifica (Red Sea sponge)
+20088
+{Eukaryota  Metazoa  Porifera  Demospongiae  Poecilosclerida  Latrunculiidae  Negombata}
+-0.372353
+-0.160109
+-0.0207746
+0.185469
+0.723276
+7
+NC_010198
+mitochondrion Cinachyrella kuekenthali (sponge)
+18089
+{Eukaryota  Metazoa  Porifera  Demospongiae  Spirophorida  Tetillidae  Cinachyrella}
+-0.349626
+-0.104498
+-0.0345853
+0.0844712
+0.552948
+8
+NC_010201
+mitochondrion Amphimedon compressa (erect rope sponge)
+18564
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Niphatidae  Amphimedon}
+-0.973474
+0.940792
+0.411139
+-0.19621
+-0.364485
+9
+NC_010202
+mitochondrion Ephydatia muelleri
+23929
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Spongillidae  Ephydatia}
+-0.190803
+-0.192391
+-0.114003
+0.123443
+0.998016
+10
+NC_010203
+mitochondrion Aplysina fulva (scattered pore rope sponge)
+19620
+{Eukaryota  Metazoa  Porifera  Demospongiae  Verongida  Aplysinidae  Aplysina}
+-0.423432
+-0.0565346
+0.0942254
+0.168475
+0.663407
+11
+NC_010204
+mitochondrion Topsentia ophiraphidites (Columbia Caribbean sponge)
+19763
+{Eukaryota  Metazoa  Porifera  Demospongiae  Halichondrida  Halichondriidae  Topsentia}
+-0.43159
+-0.158424
+0.0128428
+0.215971
+0.697169
+12
+NC_010206
+mitochondrion Callyspongia plicifera (azure vase sponge)
+18846
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Callyspongiidae  Callyspongia}
+-0.365453
+-0.286386
+-0.104094
+0.307023
+0.557883
+13
+NC_010207
+mitochondrion Iotrochota birotulata (green finger sponge)
+19112
+{Eukaryota  Metazoa  Porifera  Demospongiae  Poecilosclerida  Myxillina  Iotrochotidae  Iotrochota}
+-0.367279
+-0.199013
+-0.0577076
+0.266173
+0.881031
+14
+NC_010208
+mitochondrion Chondrilla aff. nucula CHOND (chicken liver sponge)
+19282
+{Eukaryota  Metazoa  Porifera  Demospongiae  Hadromerida  Chondrillidae  Chondrilla}
+-0.319073
+-0.312226
+-0.0894012
+0.19978
+0.627792
+15
+NC_010209
+mitochondrion Ptilocaulis walpersi (orange branching sponge)
+18865
+{Eukaryota  Metazoa  Porifera  Demospongiae  Halichondrida  Axinellidae  Ptilocaulis}
+-0.326401
+-0.304131
+-0.112055
+0.199653
+0.632529
+16
+NC_010210
+mitochondrion Ectyoplasia ferox (brown encrusting octopus sponge)
+18312
+{Eukaryota  Metazoa  Porifera  Demospongiae  Poecilosclerida  Microcionina  Raspailiidae  Raspailiinae  Ectyoplasia}
+-0.439983
+-0.121448
+0.0563695
+0.219234
+0.676499
+17
+NC_010211
+mitochondrion Xestospongia muta (giant barrel sponge)
+18990
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Petrosiidae  Xestospongia}
+-0.351627
+-0.167534
+-0.099177
+0.249629
+0.826624
+18
+NC_010212
+mitochondrion Halisarca dujardini (sponge)
+19277
+{Eukaryota  Metazoa  Porifera  Demospongiae  Dendroceratida  Halisarcidae  Halisarca}
+-0.3419
+-0.179333
+-0.0712948
+0.174305
+0.563522
+19
+NC_010213
+mitochondrion Agelas schmidti (Pipes of Pan sponge)
+20360
+{Eukaryota  Metazoa  Porifera  Demospongiae  Agelasida  Agelasidae  Agelas}
+-0.32455
+-0.632377
+-0.756749
+1.
+-1.
+20
+NC_010215
+mitochondrion Hippospongia lachne (sheepswool sponge)
+16755
+{Eukaryota  Metazoa  Porifera  Demospongiae  Dictyoceratida  Spongiidae  Hippospongia}
+-0.257212
+-0.368147
+-0.200573
+0.171726
+0.38295
+21
+NC_010216
+mitochondrion Igernella notabilis (sponge)
+20310
+{Eukaryota  Metazoa  Porifera  Demospongiae  Dendroceratida  Dictyodendrillidae  Igernella}
+-0.279125
+-0.852706
+0.738343
+-0.121686
+0.0260017
+22
+NC_010217
+mitochondrion Plakinastrella cf. onkodes DVL-2011 (sponge)
+19790
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakinastrella}
+-0.316324
+-0.59442
+-0.681941
+0.855313
+-0.76705
+23
+NC_010218
+mitochondrion Vaceletia sp. GW948 (sponge)
+20658
+{Eukaryota  Metazoa  Porifera  Demospongiae  Cryptocoeliidae  Vaceletia}
+-0.380663
+-0.113349
+-0.009967
+0.163499
+0.754583
+24
+NC_010496
+mitochondrion Suberites domuncula (sponge)
+26300
+{Eukaryota  Metazoa  Porifera  Demospongiae  Hadromerida  Suberitidae  Suberites}
+-0.0864746
+-0.360606
+-0.467046
+-0.280865
+0.27806
+25
+NC_010769
+mitochondrion Aphrocallistes vastus (cloud sponge)
+17427
+{Eukaryota  Metazoa  Porifera  Hexactinellida  Hexasterophora  Hexactinosida  Sceptrulophora  Aphrocallistidae  Aphrocallistes}
+-0.324231
+-0.62644
+-0.727141
+0.963161
+-0.961972
+26
+NC_013662
+mitochondrion Ircinia strobilina (black-ball sponge)
+16414
+{Eukaryota  Metazoa  Porifera  Demospongiae  Dictyoceratida  Irciniidae  Ircinia}
+-1.
+1.
+0.414534
+-0.234845
+-0.441744
+27
+NC_013760
+mitochondrion Lubomirskia baicalensis (Lake Baikal sponge)
+28958
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Lubomirskiidae  Lubomirskia}
+0.747994
+0.280942
+0.255129
+0.0909822
+0.0643127
+28
+NC_014850
+mitochondrion Oscarella microlobata (marine sponge)
+20368
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Oscarella}
+-0.256542
+-0.939959
+0.88266
+-0.196146
+-0.056588
+29
+NC_014852
+mitochondrion Plakina trilopha (subtidal sponge)
+20427
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakina}
+0.753406
+0.234587
+0.244772
+0.0676161
+0.099815
+30
+NC_014853
+mitochondrion Pseudocorticium jarrei (sponge)
+20472
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Pseudocorticium}
+0.985647
+0.380762
+0.331087
+0.11893
+0.0138987
+31
+NC_014856
+mitochondrion Oscarella viridis (marine sponge)
+20440
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Oscarella}
+-0.277354
+-0.970896
+0.901986
+-0.178272
+-0.0473905
+32
+NC_014857
+mitochondrion Plakortis halichondrioides (sponge)
+18385
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakortis}
+-0.262399
+-0.998373
+0.992816
+-0.210486
+-0.0782835
+33
+NC_014860
+mitochondrion Plakina jani (sponge)
+18907
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakina}
+1.
+0.382702
+0.328408
+0.120509
+0.0280725
+34
+NC_014863
+mitochondrion Oscarella lobularis (sponge)
+20260
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Oscarella}
+-0.280432
+-0.981484
+0.890005
+-0.165525
+-0.0301008
+35
+NC_014868
+mitochondrion Plakortis simplex (sponge)
+18551
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakortis}
+-0.263333
+-0.915048
+0.83703
+-0.176548
+-0.043398
+36
+NC_014872
+mitochondrion Corticium candelabrum (sponge)
+18402
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Corticium}
+-0.377982
+-0.190153
+-0.065041
+0.265085
+0.891422
+37
+NC_014876
+mitochondrion Halisarca sp. DVL-2010 (sponge)
+20591
+{Eukaryota  Metazoa  Porifera  Demospongiae  Dendroceratida  Halisarcidae  Halisarca}
+-0.252269
+-0.989665
+0.972095
+-0.217965
+-0.112935
+38
+NC_014884
+mitochondrion Plakina monolopha (sponge)
+19371
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakina}
+-0.268938
+-0.975567
+0.941905
+-0.201466
+-0.0881641
+39
+NC_014885
+mitochondrion Plakina crypta (sponge)
+20069
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakina}
+0.943755
+0.348198
+0.308396
+0.120054
+0.0534362
+40
+NC_014886
+mitochondrion Oscarella malakhovi (sponge)
+20332
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Oscarella}
+0.99938
+0.38247
+0.331029
+0.120271
+0.0290272
+41
+NC_014888
+mitochondrion Oscarella tuberculata (sponge)
+20262
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Oscarella}
+-0.251786
+-1.
+1.
+-0.222972
+-0.109197
+42
+NC_014892
+mitochondrion Plakina sp. DVL-2010 (sponge)
+18997
+{Eukaryota  Metazoa  Porifera  Homoscleromorpha  Homosclerophorida  Plakinidae  Plakina}
+-0.960267
+0.938093
+0.406709
+-0.207217
+-0.357091
+43
+NC_016431
+mitochondrion Eunapius subterraneus (Ogulin cave sponge)
+24850
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Spongillidae  Eunapius}
+-0.188802
+-0.189054
+-0.112178
+0.125153
+1.
+44
+NC_016949
+mitochondrion Aplysina cauliformis (row pore rope sponge)
+19620
+{Eukaryota  Metazoa  Porifera  Demospongiae  Verongida  Aplysinidae  Aplysina}
+-0.996594
+0.987131
+0.419951
+-0.232905
+-0.435347
+45
+NC_018343
+mitochondrion Baikalospongia intermedia profundalis (sponge)
+28227
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Lubomirskiidae  Baikalospongia}
+-0.997619
+0.99186
+0.415332
+-0.23503
+-0.441596
+46
+NC_018360
+mitochondrion Rezinkovia echinata (sponge)
+28614
+{Eukaryota  Metazoa  Porifera  Demospongiae  Haplosclerida  Lubomirskiidae  Rezinkovia}
+-0.0859168
+-0.413507
+-0.926012
+-0.897987
+0.0135368
+47
+NC_021112
+mitochondrion Clathrina clathrus
+9406
+{Eukaryota  Metazoa  Porifera  Calcarea  Calcinea  Clathrinida  Clathrinidae  Clathrina}
+-0.0863773
+-0.428065
+-1.
+-1.
+-0.0119447
+48
+NC_021113
+mitochondrion Clathrina clathrus
+9270
+{Eukaryota  Metazoa  Porifera  Calcarea  Calcinea  Clathrinida  Clathrinidae  Clathrina}
+-0.0799933
+-0.421317
+-0.916721
+-0.866902
+0.0225144
+49
+NC_021114
+mitochondrion Clathrina clathrus
+8870
+{Eukaryota  Metazoa  Porifera  Calcarea  Calcinea  Clathrinida  Clathrinidae  Clathrina}
+-0.0872349
+-0.439426
+-0.953884
+-0.85301
+-0.000742746
+50
+NC_021115
+mitochondrion Clathrina clathrus
+7920
+{Eukaryota  Metazoa  Porifera  Calcarea  Calcinea  Clathrinida  Clathrinidae  Clathrina}
+-0.0809784
+-0.420489
+-0.966753
+-0.904396
+-0.0176237
+51
+NC_021116
+mitochondrion Clathrina clathrus
+8958
+{Eukaryota  Metazoa  Porifera  Calcarea  Calcinea  Clathrinida  Clathrinidae  Clathrina}
+-0.0985457
+-0.438867
+-0.733874
+-0.520187
+0.0691327
+52
+NC_021117
+mitochondrion Clathrina clathrus
+5596
+{Eukaryota  Metazoa  Porifera  Calcarea  Calcinea  Clathrinida  Clathrinidae  Clathrina}
+-0.331515
+-0.633496
+-0.750893
+0.981014
+-0.967926
+53
+NC_021422
+mitochondrion Hyattella sinuosa
+16422
+{Eukaryota  Metazoa  Porifera  Demospongiae  Dictyoceratida  Spongiidae  Hyattella}
+-0.373508
+-0.113161
+0.0144468
+0.166691
+0.765794
+54
+NC_022450
+mitochondrion Hymeniacidon sinapium
+23435
+{Eukaryota  Metazoa  Porifera  Demospongiae  Halichondrida  Hymeniacidonidae  Hymeniacidon}
+-0.427529
+-0.172235
+0.0502967
+0.212086
+0.671847
+55
+NC_023834
+mitochondrion Polymastia littoralis
+21719
+{Eukaryota  Metazoa  Porifera  Demospongiae  Hadromerida  Polymastiidae  Polymastia}
+-0.379523
+-0.162331
+-0.0353915
+0.207957
+0.758853
+56
+NC_025335
+mitochondrion Poecillastra laminaris
+18413
+{Eukaryota  Metazoa  Porifera  Demospongiae  Astrophorida  Vulcanellidae  Poecillastra}

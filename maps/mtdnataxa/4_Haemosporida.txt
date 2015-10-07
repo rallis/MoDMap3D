@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Haemosporida (21)
+-0.938994
+-0.877859
+0.959983
+-0.954565
+-0.710313
+1
+NC_002235
+mitochondrion Plasmodium reichenowi
+5966
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Laverania}
+-0.955452
+-0.871194
+0.998554
+-0.944663
+-0.713572
+2
+NC_002375
+mitochondrion Plasmodium falciparum (malaria parasite P.
+5967
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Laverania}
+-0.979002
+-0.777776
+-0.851244
+0.928138
+-0.699243
+3
+NC_007232
+mitochondrion Plasmodium knowlesi
+5957
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Plasmodium}
+-1.
+-0.780113
+-0.872125
+0.858056
+-0.703112
+4
+NC_007233
+mitochondrion Plasmodium simium
+5990
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium}
+-0.999889
+-0.778175
+-0.875154
+0.856962
+-0.702915
+5
+NC_007243
+mitochondrion Plasmodium vivax Sal-1
+5990
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Plasmodium}
+-0.92767
+0.0132525
+-0.913869
+-0.650373
+-0.913493
+6
+NC_008279
+mitochondrion Plasmodium juxtanucleare
+6014
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Novyella}
+-0.935921
+0.0875582
+-0.822894
+-0.822424
+-0.989517
+7
+NC_008288
+mitochondrion Plasmodium gallinaceum
+6003
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Haemamoeba}
+-0.619961
+0.591444
+0.345375
+0.182173
+-0.666019
+8
+NC_009336
+mitochondrion Leucocytozoon sabrazesi
+5935
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoon}
+-0.8977
+-0.0149907
+-0.74763
+-0.701813
+-0.855881
+9
+NC_009960
+mitochondrion Plasmodium mexicanum
+5991
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Paraplasmodium}
+-0.939345
+0.102247
+-0.839348
+-0.694367
+-1.
+10
+NC_009961
+mitochondrion Plasmodium floridense
+6002
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium}
+-0.989872
+-0.799056
+-0.843001
+0.823032
+-0.66936
+11
+NC_012369
+mitochondrion Plasmodium fragile
+5977
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Plasmodium}
+1.
+-1.
+-0.71795
+-0.396671
+-0.969314
+12
+NC_012423
+mitochondrion Haemoproteus sp. jb1.JA27
+5970
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteus  unclassified Haemoproteus}
+-0.795838
+0.466103
+-0.921136
+-1.
+-0.824678
+13
+NC_012425
+mitochondrion Haemoproteus sp. jb2.SEW5141
+5970
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteus  unclassified Haemoproteus}
+-0.942862
+0.0550911
+-0.890459
+-0.770012
+-0.979149
+14
+NC_012426
+mitochondrion Plasmodium relictum
+5996
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Haemamoeba}
+-0.773626
+0.426718
+-1.
+-0.909105
+-0.815786
+15
+NC_012447
+mitochondrion Parahaemoproteus vireonis
+5893
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Parahaemoproteus}
+-0.557073
+0.262695
+-0.591356
+-0.500881
+1.
+16
+NC_012448
+mitochondrion Haemoproteus columbae
+5988
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Haemoproteus}
+-0.550744
+1.
+0.713874
+1.
+-0.962751
+17
+NC_012450
+mitochondrion Leucocytozoon majoris
+6684
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoon}
+-0.565632
+0.957019
+0.609761
+0.894295
+-0.8771
+18
+NC_012451
+mitochondrion Leucocytozoon fringillinarum
+5992
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoon}
+-0.908358
+-0.56616
+-0.493927
+0.0797066
+-0.654065
+19
+NC_015303
+mitochondrion Plasmodium berghei
+5957
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Vinckeia}
+-0.778962
+0.378265
+-0.828437
+-0.744523
+-0.793905
+20
+NC_015304
+mitochondrion Leucocytozoon caulleryi
+5959
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Leucocytozoon}
+-0.95597
+-0.869933
+1.
+-0.941654
+-0.711023
+21
+NC_017931
+mitochondrion Plasmodium falciparum HB3
+5967
+{Eukaryota  Alveolata  Apicomplexa  Aconoidasida  Haemosporida  Plasmodium  Plasmodium Laverania}

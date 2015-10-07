@@ -1,0 +1,266 @@
+26
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Inovirus (26)
+0.484465
+0.191005
+-0.12424
+-0.145692
+-0.00548334
+1
+NC_001331
+Pseudomonas phage Pf1
+7349
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.620312
+0.133396
+-0.146513
+-0.0387858
+-0.0335031
+2
+NC_001332
+Enterobacteria phage I2-2
+6744
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.493201
+0.189072
+-0.122396
+-0.120408
+-0.00614475
+3
+NC_001396
+Xanthomonas phage Cf1c
+7308
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.594894
+0.153939
+-0.0954958
+-0.057985
+-0.00469239
+4
+NC_001418
+Pseudomonas phage Pf3
+5833
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.60308
+0.170473
+-0.11344
+-0.0177485
+-0.0323681
+5
+NC_001954
+Enterobacteria phage If1
+8454
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.732805
+0.138919
+-0.714235
+1.
+0.0865308
+6
+NC_001956
+Vibrio phage fs2 (Vibrio cholerae filamentous bacteriophage fs-2)
+8651
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.633931
+0.148907
+-0.168214
+-0.0230909
+-0.0289969
+7
+NC_002014
+Enterobacteria phage Ike
+6883
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.824084
+0.993021
+0.866749
+-0.0882961
+-1.
+8
+NC_002362
+Vibrio phage VfO3K6 (Bacteriophage VfO3K6)
+8784
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.820811
+1.
+0.876105
+-0.0973931
+-0.999758
+9
+NC_002363
+Vibrio phage VfO4K68 (Bacteriophage VfO4K68)
+6891
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.625595
+0.158381
+-0.106161
+-0.0181255
+-0.0170219
+10
+NC_003287
+Enterobacteria phage M13
+6407
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+1.
+-0.987238
+0.792951
+-0.196415
+0.00942315
+11
+NC_003327
+Vibrio phage VSK
+6882
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.472553
+0.175551
+-0.15386
+-0.151767
+-0.00211698
+12
+NC_003460
+Propionibacterium phage B5
+5804
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.996109
+-1.
+0.80335
+-0.207733
+0.000212595
+13
+NC_004306
+Vibrio phage fs1 (Vibrio cholerae O139 fs1 phage)
+6340
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.991432
+-0.956374
+0.763843
+-0.177689
+0.00958193
+14
+NC_004736
+Vibrio phage VGJphi
+7542
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.858145
+0.997409
+1.
+-0.112004
+1.
+15
+NC_005948
+Vibrio phage Vf33 (Bacteriophage Vf33)
+7965
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.858068
+0.997978
+0.999779
+-0.111806
+0.999933
+16
+NC_005949
+Vibrio phage Vf12 (Bacteriophage Vf12)
+7965
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.760487
+-0.30068
+0.305483
+-0.108314
+-0.0114745
+17
+NC_006294
+Vibrio phage KSF-1phi
+7107
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.488943
+0.282911
+-1.
+-1.
+0.0776624
+18
+NC_008574
+Ralstonia phage RSM1
+9004
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+-0.986101
+0.0156296
+0.436841
+-0.00664439
+0.0191749
+19
+NC_008575
+Ralstonia phage RSS1 (Ralstonia solanacearum phage RSS1)
+6662
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.480238
+0.279749
+-0.993921
+-0.999614
+0.0809434
+20
+NC_011399
+Ralstonia phage RSM3 (Ralstonia solanacearum phage RSM3)
+8929
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.617889
+0.167759
+-0.0575448
+-0.0503305
+-0.00838537
+21
+NC_015209
+Vibrio phage CTX
+10638
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus}
+0.662863
+0.0734125
+-0.0275815
+-0.00267655
+-0.00895495
+22
+NC_016162
+Vibrio phage VCY-phi
+7103
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+-1.
+0.0134523
+0.441646
+-0.00365386
+0.0200026
+23
+NC_019548
+Ralstonia phage RSS0
+7288
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+0.741638
+0.119478
+-0.705011
+0.999564
+0.0892122
+24
+NC_021562
+Vibrio phage VFJ
+8555
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+-0.808744
+0.0361101
+0.379021
+-0.0195837
+0.0249088
+25
+NC_021862
+Ralstonia phage RSS30
+8576
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}
+-0.788125
+0.033624
+0.389381
+-0.00778884
+0.0178134
+26
+NC_021866
+Ralstonia phage RSS20
+7219
+{root  Viruses  ssDNA viruses  Inoviridae  Inovirus  unclassified            Inovirus}

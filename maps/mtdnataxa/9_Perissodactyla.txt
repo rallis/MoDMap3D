@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Perissodactyla (18)
+-0.738424
+0.304577
+0.625943
+1.
+0.141523
+1
+NC_001640
+mitochondrion Equus caballus (horse)
+16660
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+0.991442
+-0.882494
+0.811572
+-0.24509
+1.
+2
+NC_001779
+mitochondrion Rhinoceros unicornis (greater Indian rhinoceros)
+16829
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Rhinocerotidae  Rhinoceros}
+-0.842385
+0.083452
+0.565628
+-0.602541
+0.383901
+3
+NC_001788
+mitochondrion Equus asinus (donkey)
+16670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+0.996846
+1.
+0.984158
+-0.791678
+0.840326
+4
+NC_001808
+mitochondrion Ceratotherium simum (white rhinoceros)
+16832
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Rhinocerotidae  Ceratotherium}
+0.921275
+-0.0634881
+0.361412
+-0.759829
+-0.784479
+5
+NC_012681
+mitochondrion Coelodonta antiquitatis (woolly rhinoceros)
+16436
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Rhinocerotidae  Coelodonta}
+0.976245
+0.994419
+1.
+-0.798218
+0.800413
+6
+NC_012682
+mitochondrion Diceros bicornis (black rhinoceros)
+16411
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Rhinocerotidae  Diceros}
+1.
+-1.
+0.788027
+-0.281774
+0.864802
+7
+NC_012683
+mitochondrion Rhinoceros sondaicus (Javan rhinoceros)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Rhinocerotidae  Rhinoceros}
+0.96292
+-0.0274534
+0.518576
+-0.808238
+-1.
+8
+NC_012684
+mitochondrion Dicerorhinus sumatrensis (Sumatran rhinoceros)
+16466
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Rhinocerotidae  Dicerorhinus}
+-0.999025
+-0.0000648259
+0.552654
+-0.927496
+0.364311
+9
+NC_016061
+mitochondrion Equus hemionus (onager)
+16634
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.942347
+-0.0687586
+0.528169
+-0.991319
+0.452878
+10
+NC_018780
+mitochondrion Equus zebra hartmannae (Hartmann's mountain zebra)
+16409
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.934129
+-0.0114174
+0.569028
+-0.790078
+0.448458
+11
+NC_018781
+mitochondrion Equus burchellii chapmani (Chapman's zebra)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.986812
+0.0102453
+0.560441
+-0.904352
+0.402346
+12
+NC_018782
+mitochondrion Equus hemionus kulan (kulan)
+16381
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.925743
+0.000743068
+0.604597
+-0.666284
+0.380572
+13
+NC_018783
+mitochondrion Equus ovodovi
+16415
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.942557
+-0.0125964
+0.560432
+-0.758801
+0.419457
+14
+NC_020432
+mitochondrion Equus grevyi (Grevy's zebra)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-1.
+0.00735003
+0.548779
+-0.906274
+0.362949
+15
+NC_020433
+mitochondrion Equus kiang (kiang)
+16380
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+-0.935665
+-0.076856
+0.526633
+-1.
+0.443145
+16
+NC_020476
+mitochondrion Equus zebra (mountain zebra)
+16405
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}
+0.617441
+0.312478
+-1.
+-0.408781
+0.954618
+17
+NC_023838
+mitochondrion Tapirus indicus (Asiatic tapir)
+16717
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Tapiridae  Tapirus}
+-0.741179
+0.290058
+0.630659
+0.968542
+0.158167
+18
+NC_024030
+mitochondrion Equus przewalskii (Przewalski's horse)
+16592
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Perissodactyla  Equidae  Equus}

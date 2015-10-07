@@ -1,0 +1,596 @@
+59
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Galliformes (59)
+1.
+0.992877
+0.382146
+-0.125088
+-0.382824
+1
+NC_001323
+mitochondrion Gallus gallus (chicken)
+16775
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+-0.100585
+-0.31336
+0.54602
+-0.21027
+-0.309588
+2
+NC_003408
+mitochondrion Coturnix japonica (Japanese quail)
+16697
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Coturnix}
+-0.0748173
+-0.326005
+0.502552
+-0.164946
+-0.377202
+3
+NC_004575
+mitochondrion Coturnix chinensis (Excalfactoria chinensis)
+16687
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Coturnix}
+-0.15785
+-0.439046
+0.482398
+-0.226816
+-0.374189
+4
+NC_006382
+mitochondrion Numida meleagris (helmeted guineafowl)
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Numididae  Numida}
+-0.196032
+-0.662596
+-0.0963207
+-0.282157
+-0.414813
+5
+NC_007227
+mitochondrion Alectura lathami (australian brush-turkey)
+16698
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Megapodiidae  Alectura}
+0.992508
+1.
+0.391522
+-0.131527
+-0.380379
+6
+NC_007235
+mitochondrion Gallus gallus spadiceus (Burmese Red Jungle Fowl)
+16785
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+0.992414
+0.996603
+0.389354
+-0.134595
+-0.375025
+7
+NC_007236
+mitochondrion Gallus gallus gallus (Cochin-Chinese Red Jungle Fowl)
+16785
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+0.990467
+0.996001
+0.396393
+-0.133896
+-0.376141
+8
+NC_007237
+mitochondrion Gallus gallus bankiva (Javan Red Jungle Fowl)
+16785
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+0.870921
+0.866753
+0.411152
+-0.134863
+-0.396178
+9
+NC_007238
+mitochondrion Gallus varius (green junglefowl)
+16783
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+0.829632
+0.808509
+0.413295
+-0.173357
+-0.452304
+10
+NC_007239
+mitochondrion Gallus lafayetii (Ceylon junglefowl)
+16841
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+0.764063
+0.742311
+0.425735
+-0.170246
+-0.40425
+11
+NC_007240
+mitochondrion Gallus sonneratii (gray junglefowl)
+16841
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Gallus}
+-0.39104
+-0.0690969
+0.671348
+-0.543712
+-0.637989
+12
+NC_010195
+mitochondrion Meleagris gallopavo (turkey)
+16719
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Meleagridinae  Meleagris}
+-0.743644
+0.506048
+0.487055
+-0.233341
+-0.421183
+13
+NC_010767
+mitochondrion Syrmaticus soemmerringii ijimae (Ijima copper
+16690
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Syrmaticus}
+-0.707081
+0.561675
+0.448511
+-0.238041
+-0.439579
+14
+NC_010770
+mitochondrion Syrmaticus reevesii (Reeves's pheasant)
+16678
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Syrmaticus}
+-0.833035
+0.639809
+0.424086
+-0.0970205
+-0.439781
+15
+NC_010771
+mitochondrion Syrmaticus ellioti (Elliot's pheasant)
+16688
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Syrmaticus}
+-0.832251
+0.636028
+0.431256
+-0.103078
+-0.437724
+16
+NC_010774
+mitochondrion Syrmaticus humiae (Hume's pheasant)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Syrmaticus}
+-0.9452
+0.763204
+0.417096
+0.112076
+-0.116436
+17
+NC_010778
+mitochondrion Phasianus versicolor (green pheasant)
+16690
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Phasianus}
+-0.930288
+0.737174
+0.407942
+0.0286291
+-0.264218
+18
+NC_010781
+mitochondrion Lophura ignita (crested fireback pheasant)
+16688
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Lophura}
+0.167997
+0.0896258
+0.625857
+-0.259678
+-0.405225
+19
+NC_011816
+mitochondrion Bambusicola thoracicus (Chinese bamboo-partridge)
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Bambusicola}
+0.111783
+0.0944564
+0.541831
+-0.378266
+-0.364726
+20
+NC_011817
+mitochondrion Francolinus pintadeanus (Chinese Francolin)
+16694
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Francolinus}
+-0.0354873
+-0.789763
+0.874448
+0.844289
+-0.567618
+21
+NC_012453
+mitochondrion Arborophila rufipectus (Sichuan partridge)
+16728
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Arborophila}
+-0.916427
+0.755159
+0.45203
+0.0465647
+-0.229546
+22
+NC_012895
+mitochondrion Lophura nycthemera (silver pheasant)
+16680
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Lophura}
+-0.0973874
+-0.218561
+0.739363
+-0.470074
+-0.309747
+23
+NC_012897
+mitochondrion Pavo muticus (green peafowl)
+16698
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Pavo}
+-0.134146
+-0.499812
+0.886304
+-0.847016
+0.972305
+24
+NC_012900
+mitochondrion Polyplectron bicalcaratum (gray peacock-pheasant)
+16702
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Polyplectron}
+-0.342177
+-0.0558287
+0.819232
+-0.744227
+-0.904547
+25
+NC_013619
+mitochondrion Tragopan caboti (Cabot's tragopan)
+16727
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Tragopan}
+-0.390221
+0.148807
+0.791233
+-0.796203
+-0.927454
+26
+NC_013979
+mitochondrion Lophophorus lhuysii (Chinese monal)
+16712
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Lophophorus}
+-0.206259
+-0.337033
+0.498616
+-0.245388
+-0.326782
+27
+NC_014180
+mitochondrion Acryllium vulturinum (vulturine guineafowl)
+16748
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Numididae  Acryllium}
+-0.93054
+0.771122
+0.51304
+-0.04799
+-0.289946
+28
+NC_014576
+mitochondrion Chrysolophus pictus (golden pheasant)
+16678
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Chrysolophus}
+-1.
+0.783231
+0.387825
+0.150261
+-0.0664796
+29
+NC_015526
+mitochondrion Phasianus colchicus (Ring-necked pheasant)
+16692
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Phasianus}
+-0.863575
+0.686658
+0.394321
+-0.0303097
+-0.309387
+30
+NC_015897
+mitochondrion Crossoptilon auritum (blue eared-pheasant)
+16687
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Crossoptilon}
+-0.866465
+0.694086
+0.391891
+0.00258875
+-0.328431
+31
+NC_016679
+mitochondrion Crossoptilon crossoptilon (white-eared pheasant)
+16680
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Crossoptilon}
+-0.263692
+-0.0936297
+0.632517
+-0.483453
+-0.524969
+32
+NC_018033
+mitochondrion Ithaginis cruentus
+16683
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Ithaginis}
+-0.335936
+0.0817923
+0.819987
+-1.
+-0.920975
+33
+NC_018034
+mitochondrion Tetraophasis obscurus (chestnut-throated partridge)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Tetraophasis}
+0.161397
+0.0910722
+0.585112
+-0.390989
+-0.445078
+34
+NC_020583
+mitochondrion Bambusicola fytchii
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Bambusicola}
+-0.0938841
+-0.820965
+0.859929
+0.855591
+-0.506581
+35
+NC_020584
+mitochondrion Arborophila rufogularis
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Arborophila}
+-0.12777
+-0.278936
+0.597746
+-0.443744
+-0.440229
+36
+NC_020585
+mitochondrion Alectoris chukar (chukar partridge)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Alectoris}
+-0.362508
+-0.0552713
+0.810869
+-0.750911
+-0.893964
+37
+NC_020586
+mitochondrion Tragopan temminckii
+16728
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Tragopan}
+-0.349276
+0.150217
+0.585927
+-0.531104
+-0.622752
+38
+NC_020587
+mitochondrion Pucrasia macrolopha
+16696
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Pucrasia}
+-0.439666
+-0.127427
+0.426075
+-0.641834
+-0.589063
+39
+NC_020588
+mitochondrion Perdix dauurica (Daurian partridge)
+16695
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Perdix}
+-0.413775
+0.127769
+0.788552
+-0.686625
+-0.860867
+40
+NC_020589
+mitochondrion Lophophorus sclateri (Sclater's monal)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Lophophorus}
+-0.921779
+0.772379
+0.497306
+-0.0574815
+-0.325836
+41
+NC_020590
+mitochondrion Chrysolophus amherstiae (Lady Amherst's pheasant)
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Chrysolophus}
+-0.452427
+-0.0356406
+0.570539
+-0.618939
+-0.998235
+42
+NC_020591
+mitochondrion Tetrastes bonasia
+16673
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Tetraoninae  Tetrastes}
+-0.32021
+0.0995298
+0.821777
+-0.984526
+-0.941048
+43
+NC_020613
+mitochondrion Tetraophasis szechenyii
+16709
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Tetraophasis}
+-0.0759141
+-0.851819
+0.989417
+0.96361
+-0.623865
+44
+NC_022683
+mitochondrion Arborophila ardens (Hainan partridge)
+16728
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Arborophila}
+-0.0700692
+-0.831763
+1.
+1.
+-0.629378
+45
+NC_022684
+mitochondrion Arborophila brunneopectus (bar-backed partridge)
+16719
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Arborophila}
+-0.122669
+-0.493429
+0.896579
+-0.870661
+1.
+46
+NC_023264
+mitochondrion Polyplectron germaini
+16699
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Polyplectron}
+-0.891507
+0.726009
+0.442447
+-0.0121944
+-0.273943
+47
+NC_023779
+mitochondrion Lophura swinhoii
+16693
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Lophura}
+-0.113925
+-0.239609
+0.570151
+-0.393247
+-0.389217
+48
+NC_023939
+mitochondrion Tetraogallus tibetanus (Tibetan snowcock)
+16692
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Tetraogallus}
+-0.411586
+-0.0849219
+0.444127
+-0.60814
+-0.575875
+49
+NC_023940
+mitochondrion Perdix hodgsoniae (Tibetan partridge)
+16699
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Perdix}
+-0.959826
+0.68793
+0.32428
+0.199598
+-0.00960343
+50
+NC_024152
+mitochondrion Phasianus colchicus (Ring-necked pheasant)
+16697
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Phasianus}
+-0.125713
+-0.217923
+0.741262
+-0.469125
+-0.337091
+51
+NC_024533
+mitochondrion Pavo cristatus (Indian peafowl)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Pavo}
+-0.413429
+-0.0267214
+0.556352
+-0.569445
+-0.736961
+52
+NC_024554
+mitochondrion Lyrurus tetrix
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Tetraoninae  Lyrurus}
+-0.143724
+-0.439424
+0.840087
+-0.766103
+0.790785
+53
+NC_024615
+mitochondrion Polyplectron napoleonis (Polyplectron emphanum)
+16710
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Phasianinae  Polyplectron}
+-0.128077
+-0.405301
+0.377932
+-0.216562
+-0.521831
+54
+NC_024616
+mitochondrion Ptilopachus petrosus
+16773
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Ptilopachus}
+-0.195487
+-0.974158
+-1.
+-0.342345
+-0.419062
+55
+NC_024617
+mitochondrion Crax daubentoni
+16684
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Cracidae  Crax}
+-0.208114
+-1.
+-0.969512
+-0.359229
+-0.405694
+56
+NC_024618
+mitochondrion Crax rubra
+16666
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Cracidae  Crax}
+-0.124047
+-0.533973
+0.567584
+0.106126
+-0.493476
+57
+NC_024619
+mitochondrion Caloperdix oculeus
+16488
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Perdicinae  Caloperdix}
+-0.138906
+-0.423897
+0.394545
+-0.17397
+-0.429542
+58
+NC_024620
+mitochondrion Colinus virginianus (northern bobwhite)
+16702
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Odontophoridae  Colinus}
+-0.475362
+-0.0518481
+0.56164
+-0.611736
+-1.
+59
+NC_025318
+mitochondrion Tetrastes sewerzowi
+16658
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Galloanserae  Galliformes  Phasianidae  Tetraoninae  Tetrastes}

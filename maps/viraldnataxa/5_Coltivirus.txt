@@ -1,0 +1,246 @@
+24
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Coltivirus (24)
+0.530693
+1.
+-0.0550824
+0.938373
+1.
+1
+NC_003696
+Eyach virus
+4349
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.415677
+0.891618
+-0.152154
+0.849693
+0.382934
+2
+NC_003697
+Eyach virus
+3934
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.433587
+0.821197
+-0.281584
+0.755333
+0.907898
+3
+NC_003698
+Eyach virus
+3585
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.250562
+0.835546
+-0.148136
+0.670296
+0.551987
+4
+NC_003699
+Eyach virus
+3156
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.0792333
+0.979169
+-0.117001
+0.816548
+-1.
+5
+NC_003700
+Eyach virus
+2398
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.257626
+0.712365
+-0.193093
+0.660796
+0.314669
+6
+NC_003701
+Eyach virus
+2178
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.222514
+0.696469
+-0.160508
+0.633845
+0.589126
+7
+NC_003702
+Eyach virus
+2139
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.195394
+0.489033
+-0.0126157
+0.562533
+0.491454
+8
+NC_003703
+Eyach virus
+2028
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.294314
+0.884673
+-0.366979
+-1.
+0.346699
+9
+NC_003704
+Eyach virus
+1884
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.997965
+-1.
+-0.018377
+0.52021
+0.209531
+10
+NC_003705
+Eyach virus
+1879
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+-0.7375
+0.303794
+0.998814
+0.393728
+0.544543
+11
+NC_003706
+Eyach virus
+1002
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+-0.968205
+-0.0819651
+-1.
+0.724526
+0.535013
+12
+NC_003707
+Eyach virus
+678
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.237937
+0.917154
+-0.325323
+-0.99923
+0.430422
+13
+NC_004180
+Colorado tick fever virus
+1884
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.523132
+0.959974
+-0.0184395
+1.
+0.976042
+14
+NC_004181
+Colorado tick fever virus
+4350
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.328206
+0.855677
+-0.175252
+0.758632
+0.519713
+15
+NC_004182
+Colorado tick fever virus
+3909
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.369624
+0.886323
+-0.213421
+0.651551
+0.80915
+16
+NC_004183
+Colorado tick fever virus
+3586
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.256323
+0.806421
+-0.157999
+0.807948
+0.370898
+17
+NC_004184
+Colorado tick fever virus
+3157
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.042765
+0.971319
+-0.0777398
+0.823386
+-0.996658
+18
+NC_004185
+Colorado tick fever virus
+2432
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.189391
+0.72996
+-0.132187
+0.689689
+0.568603
+19
+NC_004186
+Colorado tick fever virus
+2141
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.232709
+0.781447
+-0.238787
+0.564551
+0.270713
+20
+NC_004187
+Colorado tick fever virus
+2133
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+0.15235
+0.618119
+-0.069396
+0.468241
+0.329602
+21
+NC_004188
+Colorado tick fever virus
+2029
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+1.
+-0.962561
+-0.0578672
+0.448735
+0.193652
+22
+NC_004189
+Colorado tick fever virus
+1880
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+-1.
+-0.0551939
+-0.972716
+0.703992
+0.558129
+23
+NC_004190
+Colorado tick fever virus
+675
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}
+-0.749118
+0.276806
+1.
+0.354208
+0.573827
+24
+NC_004191
+Colorado tick fever virus
+998
+{root  Viruses  dsRNA viruses  Reoviridae  Spinareovirinae  Coltivirus}

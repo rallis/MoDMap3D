@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Canidae (12)
+1.
+0.616593
+0.080022
+0.24432
+0.353488
+1
+NC_002008
+mitochondrion Canis lupus familiaris (dog)
+16727
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Canis}
+0.995648
+0.623625
+0.0868778
+0.237272
+0.354744
+2
+NC_008092
+mitochondrion Canis lupus (gray wolf)
+16729
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Canis}
+0.813796
+0.372426
+-0.0936207
+0.110062
+0.447828
+3
+NC_008093
+mitochondrion Canis latrans (coyote)
+16724
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Canis}
+-1.
+1.
+-0.0798343
+0.198596
+0.82306
+4
+NC_008434
+mitochondrion Vulpes vulpes (red fox)
+16813
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Vulpes}
+0.995049
+0.624204
+0.0851523
+0.241212
+0.354655
+5
+NC_009686
+mitochondrion Canis lupus lupus (Eurasian wolf)
+16757
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Canis}
+0.994934
+0.586136
+0.0859746
+0.222617
+0.411978
+6
+NC_010340
+mitochondrion Canis lupus chanco (Mongolian wolf)
+16774
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Canis}
+0.99371
+0.592579
+0.084225
+0.224358
+0.411748
+7
+NC_011218
+mitochondrion Canis lupus laniger (Tibetan wolf)
+16723
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Canis}
+0.367866
+-0.20474
+-0.726216
+-1.
+0.48059
+8
+NC_013445
+mitochondrion Cuon alpinus (dhole)
+16672
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Cuon}
+-0.339123
+-1.
+1.
+0.124048
+0.518944
+9
+NC_013700
+mitochondrion Nyctereutes procyonoides (raccoon dog)
+16713
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Nyctereutes}
+-0.984276
+0.975824
+-0.0753255
+0.160388
+1.
+10
+NC_023459
+mitochondrion Vulpes zerda (fennec fox)
+16683
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Vulpes}
+-0.74593
+0.593024
+-0.0845587
+0.139493
+-1.
+11
+NC_023958
+mitochondrion Vulpes corsac (Corsac fox)
+16721
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Vulpes}
+0.125959
+-0.611314
+-1.
+1.
+0.477046
+12
+NC_024172
+mitochondrion Chrysocyon brachyurus (maned wolf)
+16760
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Canidae  Chrysocyon}

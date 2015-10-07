@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Hystricognathi (12)
+0.547145
+0.116014
+1.
+0.515551
+0.695298
+1
+NC_000884
+mitochondrion Cavia porcellus (domestic guinea pig)
+16801
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Caviidae  Cavia}
+0.36696
+0.00968115
+-0.600446
+1.
+-0.140915
+2
+NC_002658
+mitochondrion Thryonomys swinderianus (Greater cane rat)
+16626
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Thryonomyidae  Thryonomys}
+1.
+0.395475
+-1.
+0.0991278
+1.
+3
+NC_015112
+mitochondrion Heterocephalus glaber (naked mole-rat)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Bathyergidae  Heterocephalus}
+-0.459276
+0.0944358
+-0.113239
+-0.291644
+0.115788
+4
+NC_020657
+mitochondrion Proechimys longicaudatus (long-tailed spiny rat)
+16816
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Echimyidae  Proechimys}
+-0.939658
+-0.918878
+-0.320264
+0.0344716
+0.346956
+5
+NC_020658
+mitochondrion Ctenomys sociabilis (social tuco-tuco)
+17016
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Ctenomyidae  Ctenomys}
+-0.896275
+-1.
+-0.318304
+0.0810116
+0.31768
+6
+NC_020659
+mitochondrion Ctenomys leucodon (white-toothed tuco-tuco)
+16216
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Ctenomyidae  Ctenomys}
+-1.
+0.926508
+-0.246836
+0.382856
+0.115653
+7
+NC_020660
+mitochondrion Spalacopus cyanus (coruro)
+16830
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Octodontidae  Spalacopus}
+-0.99192
+1.
+-0.2219
+0.286037
+0.13079
+8
+NC_020661
+mitochondrion Octodon degus (degu)
+16798
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Octodontidae  Octodon}
+-0.919142
+0.810564
+-0.266619
+0.224325
+0.158188
+9
+NC_020792
+mitochondrion Tympanoctomys barrerae (plains viscacha rat)
+16863
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Octodontidae  Tympanoctomys}
+0.498415
+0.33671
+-0.156315
+-1.
+-0.273027
+10
+NC_021386
+mitochondrion Chinchilla lanigera (long-tailed chinchilla)
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Chinchillidae  Chinchilla}
+0.418912
+-0.0485663
+-0.163109
+0.303999
+-1.
+11
+NC_021387
+mitochondrion Coendou insidiosus
+16571
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Erethizontidae  Coendou}
+-0.368777
+0.403576
+-0.139325
+-0.66172
+0.387378
+12
+NC_021388
+mitochondrion Trinomys dimidiatus
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Glires  Rodentia  Hystricognathi  Echimyidae  Trinomys}

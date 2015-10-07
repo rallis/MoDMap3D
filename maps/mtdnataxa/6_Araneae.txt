@@ -1,0 +1,206 @@
+20
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Araneae (20)
+0.610948
+-0.932868
+0.650509
+-0.0854708
+-0.0596865
+1
+NC_005924
+mitochondrion Heptathela hangzhouensis (spider)
+14215
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Mesothelae  Heptathelidae  Heptathela}
+-0.34444
+0.452311
+0.58379
+-0.351814
+-0.168237
+2
+NC_005925
+mitochondrion Haplopelma schmidti (Chinese earth tiger)
+13874
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Mygalomorphae  Theraphosidae  Haplopelma}
+-0.923109
+-0.13026
+0.995994
+0.0343901
+-0.135872
+3
+NC_005942
+mitochondrion Habronattus oregonensis (spider)
+14381
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Dionycha  Salticidae  Salticoida  Plexippoida  Pelleninae  Habronattus}
+-0.770219
+-0.289299
+-0.0489701
+-0.131231
+-0.155483
+4
+NC_008063
+mitochondrion Nephila clavata (golden orb-web spider)
+14436
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Araneoidea  Nephilidae  Nephila}
+0.00339452
+0.478641
+0.396339
+1.
+-1.
+5
+NC_010777
+mitochondrion Hypochilus thorelli (lampshade spider)
+13991
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Hypochilidae  Hypochilus}
+0.316875
+1.
+0.205495
+-1.
+-0.392593
+6
+NC_010780
+mitochondrion Brachythele longitarsis (tarantula)
+14070
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Mygalomorphae  Nemesiidae  Brachythele}
+-0.390255
+0.411126
+0.459499
+-0.24472
+-0.0668621
+7
+NC_020322
+mitochondrion Phyxioschema suthepium (funnel-web spider)
+13931
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Mygalomorphae  Dipluridae  Phyxioschema}
+1.
+-1.
+0.729282
+-0.134034
+-0.113989
+8
+NC_020323
+mitochondrion Liphistius erawan (trapdoor spider)
+14197
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Mesothelae  Liphistiidae  Liphistius}
+-0.0596616
+0.62148
+0.149931
+0.570033
+1.
+9
+NC_020324
+mitochondrion Pholcus phalangioides (longbodied cellar spider)
+14459
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Haplogynae  Pholcidae  Pholcus}
+-0.760515
+-0.421166
+-0.728654
+-0.0946161
+-0.198495
+10
+NC_024281
+mitochondrion Argiope bruennichi
+14063
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Araneoidea  Araneidae  Argiope}
+-0.600621
+-0.317984
+-1.
+-0.0546489
+-0.228124
+11
+NC_024282
+mitochondrion Argiope amoena
+14121
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Araneoidea  Araneidae  Argiope}
+-0.943824
+-0.260621
+0.913762
+-0.0186875
+-0.183417
+12
+NC_024287
+mitochondrion Telamonia vlijmi
+14601
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Dionycha  Salticidae  Salticoida  Plexippoida  Plexippinae  Telamonia}
+-0.941484
+-0.138968
+1.
+0.0263211
+-0.185981
+13
+NC_024877
+mitochondrion Plexippus paykulli
+14316
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Dionycha  Salticidae  Salticoida  Plexippoida  Plexippinae  Plexippus}
+-0.861005
+-0.0875434
+0.761939
+0.0167401
+-0.134849
+14
+NC_024878
+mitochondrion Selenops bursarius
+14272
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Dionycha  Selenopidae  Selenops}
+-0.984765
+-0.284263
+0.736412
+-0.194242
+-0.109741
+15
+NC_025223
+mitochondrion Pardosa laura
+14513
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Lycosoidea  Lycosidae  Pardosa}
+-0.922513
+-0.213054
+0.687418
+-0.174856
+-0.121374
+16
+NC_025224
+mitochondrion Oxyopes sertatus
+14442
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Lycosoidea  Oxyopidae  Oxyopes}
+-1.
+-0.302263
+0.480411
+-0.261311
+-0.0856973
+17
+NC_025523
+mitochondrion Pirata subpiraticus
+14528
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Lycosoidea  Lycosidae  Pirata}
+-0.780821
+-0.344524
+0.710223
+-0.180099
+-0.110286
+18
+NC_025557
+mitochondrion Oxytate striatipes
+14407
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Dionycha  Thomisidae  Oxytate}
+-0.655022
+-0.376197
+-0.637354
+-0.0171256
+-0.178664
+19
+NC_025634
+mitochondrion Araneus ventricosus
+14617
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Araneoidea  Araneidae  Araneus}
+-0.562495
+-0.307015
+0.136669
+-0.220991
+-0.0667266
+20
+NC_025775
+mitochondrion Tetragnatha maxillosa
+14414
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Chelicerata  Arachnida  Araneae  Araneomorphae  Entelegynae  Araneoidea  Tetragnathidae  Tetragnatha}

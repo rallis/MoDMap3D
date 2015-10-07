@@ -1,0 +1,206 @@
+20
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cimicomorpha (20)
+-1.
+1.
+0.27827
+0.578484
+-0.329996
+1
+NC_002609
+mitochondrion Triatoma dimidiata (kissing bug)
+17019
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Triatominae  Triatoma}
+-0.330915
+-0.82998
+0.923171
+1.
+0.20818
+2
+NC_012429
+mitochondrion Orius niger (minute pirate bug)
+14494
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Anthocoridae  Anthocorinae  Orius}
+-0.569761
+0.0188202
+0.523514
+0.264571
+-0.819474
+3
+NC_012823
+mitochondrion Valentia hoffmanni (assassin bug)
+15625
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Salyavatinae  Valentia}
+-0.715202
+0.27263
+0.748641
+-0.695696
+-0.803892
+4
+NC_015842
+mitochondrion Agriosphodrus dohrni
+16470
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Harpactorinae  Harpactorini  Agriosphodrus}
+-0.645343
+-0.591701
+0.28339
+0.00536628
+-1.
+5
+NC_016432
+mitochondrion Alloeorhynchus bakeri (damsel bug)
+15851
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Nabidae  Prostemmatinae  Alloeorhynchus}
+-0.786823
+-0.887018
+-1.
+0.523479
+0.048972
+6
+NC_019593
+mitochondrion Gorpis humeralis (damsel bug)
+18165
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Nabidae  Nabinae  Gorpis}
+-0.534784
+-0.884196
+-0.0393514
+0.079722
+-0.574565
+7
+NC_019594
+mitochondrion Nabis apicalis (damsel bug)
+15588
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Nabidae  Nabinae  Nabis  Mila}
+-0.574682
+-1.
+-0.236242
+0.114271
+-0.653521
+8
+NC_019595
+mitochondrion Gorpis annulatus (damsel bug)
+16660
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Nabidae  Nabinae  Gorpis}
+-0.796309
+0.806654
+0.317407
+0.330727
+0.360876
+9
+NC_020143
+mitochondrion Sirthenea flavipes (an assassin bug)
+15961
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Peiratinae  Sirthenea}
+0.98535
+0.391032
+0.0388788
+0.349669
+-0.477485
+10
+NC_021975
+mitochondrion Lygus lineolaris (tarnished plant bug)
+17027
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Miridae  Mirini  Lygus}
+-0.220482
+-0.426715
+0.330566
+-1.
+1.
+11
+NC_022677
+mitochondrion Nesidiocoris tenuis
+17544
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Miridae  Dicyphina  Nesidiocoris}
+-0.603826
+0.190046
+0.460041
+0.196769
+-0.600967
+12
+NC_022816
+mitochondrion Oncocephalus breviscutum
+15948
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Oncocephalus}
+-0.340409
+-0.848356
+0.708571
+0.0539573
+-0.628968
+13
+NC_022922
+mitochondrion Corythucha ciliata (sycamore lace bug)
+15257
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Tingidae  Corythucha}
+0.303776
+-0.0292258
+0.321843
+0.106376
+-0.362578
+14
+NC_023083
+mitochondrion Apolygus lucorum
+14768
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Miridae  Mirini  Apolygus}
+0.150046
+-0.314108
+0.414815
+0.202922
+-0.312185
+15
+NC_023796
+mitochondrion Adelphocoris fasciaticollis
+15434
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Miridae  Mirini  Adelphocoris}
+-0.912497
+0.95198
+0.239335
+0.27316
+-0.188486
+16
+NC_024264
+mitochondrion Peirates arcuatus
+16176
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Peiratinae  Peirates}
+-0.339812
+-0.836681
+1.
+0.987692
+0.223048
+17
+NC_024583
+mitochondrion Orius sauteri
+16246
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Anthocoridae  Anthocorinae  Orius}
+1.
+0.39446
+0.040289
+0.354398
+-0.482846
+18
+NC_024641
+mitochondrion Lygus hesperus (lygus bug)
+17747
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Miridae  Mirini  Lygus}
+-0.698447
+0.0352907
+0.205358
+0.572841
+-0.717027
+19
+NC_024745
+mitochondrion Brontostoma colossus
+16625
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Reduviidae  Ectrichodiinae  Brontostoma}
+-0.299675
+-0.862476
+0.820563
+0.00238554
+-0.663282
+20
+NC_025299
+mitochondrion Pseudacysta perseae
+15850
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Euhemiptera  Heteroptera  Panheteroptera  Cimicomorpha  Tingidae  Pseudacysta}

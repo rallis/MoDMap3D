@@ -1,0 +1,196 @@
+19
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Feliformia (19)
+0.181587
+0.878505
+0.109199
+0.300182
+0.0387078
+1
+NC_001700
+mitochondrion Felis catus (domestic cat)
+17009
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Felis}
+0.10466
+0.932282
+0.130444
+0.0105803
+0.128248
+2
+NC_005212
+mitochondrion Acinonyx jubatus (cheetah)
+17047
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Acinonychinae  Acinonyx}
+-0.684384
+-0.311261
+-0.820459
+-0.112049
+1.
+3
+NC_006835
+mitochondrion Herpestes javanicus (small Indian mongoose)
+16763
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Herpestidae  Herpestes}
+0.367195
+-0.0754241
+-0.242117
+0.476242
+-0.184944
+4
+NC_008450
+mitochondrion Neofelis nebulosa (Clouded leopard)
+16844
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Neofelis}
+0.788856
+-0.439398
+-0.251432
+0.870787
+0.102092
+5
+NC_010638
+mitochondrion Uncia uncia (snow leopard)
+16773
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Uncia}
+0.905769
+-0.539588
+-0.259575
+1.
+0.135028
+6
+NC_010641
+mitochondrion Panthera pardus (leopard)
+16964
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+0.935838
+-0.746138
+-0.160364
+-1.
+-0.116496
+7
+NC_010642
+mitochondrion Panthera tigris (tiger)
+16990
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+0.185467
+0.974078
+0.249074
+0.141562
+0.0984952
+8
+NC_014456
+mitochondrion Lynx rufus (bobcat)
+17056
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Lynx}
+1.
+-0.762153
+-0.173928
+-0.88875
+-0.0906441
+9
+NC_014770
+mitochondrion Panthera tigris amoyensis (Amoy tiger)
+17001
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+0.168881
+0.811479
+0.110867
+0.223259
+0.0197746
+10
+NC_016189
+mitochondrion Prionailurus bengalensis euptilurus (Amur leopard
+16990
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Prionailurus}
+0.182749
+1.
+0.185648
+0.110376
+0.102789
+11
+NC_016470
+mitochondrion Puma concolor (puma)
+17153
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Felinae  Puma}
+0.903092
+-0.529356
+-0.265134
+0.957473
+0.13168
+12
+NC_018053
+mitochondrion Panthera leo persica (Asiatic lion)
+16818
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+-0.989732
+-0.895925
+0.942355
+0.380848
+0.003641
+13
+NC_020669
+mitochondrion Hyaena hyaena (striped hyena)
+17112
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Hyaenidae  Hyaena}
+-1.
+-1.
+1.
+0.294562
+-0.0685797
+14
+NC_020670
+mitochondrion Crocuta crocuta (spotted hyena)
+17138
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Hyaenidae  Crocuta}
+0.857901
+-0.487128
+-0.216782
+0.730663
+0.13719
+15
+NC_022842
+mitochondrion Panthera onca (jaguar)
+17049
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Felidae  Pantherinae  Panthera}
+-0.644267
+-0.0629678
+-0.68091
+0.214074
+0.0189458
+16
+NC_024567
+mitochondrion Nandinia binotata (African palm civet)
+17103
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Nandiniidae  Nandinia}
+-0.663318
+-0.1816
+-0.96291
+0.232265
+0.12323
+17
+NC_024568
+mitochondrion Genetta servalina
+16938
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Viverridae  Viverrinae  Genetta}
+-0.608177
+0.0485975
+-1.
+0.36377
+-1.
+18
+NC_024569
+mitochondrion Prionodon pardicolor
+16718
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Viverridae  Prionodontinae  Prionodon}
+-0.590381
+-0.19336
+-0.98609
+0.223663
+0.127703
+19
+NC_025296
+mitochondrion Viverricula indica (small Indian civet)
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Feliformia  Viverridae  Viverrinae  Viverricula}

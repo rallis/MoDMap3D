@@ -1,0 +1,576 @@
+57
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tombusviridae (57)
+-0.915348
+0.083097
+0.415798
+-0.906248
+0.981939
+1
+NC_000939
+Pothos latent virus
+4354
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Aureusvirus}
+-0.959541
+0.0918008
+0.271505
+-0.501946
+0.654287
+2
+NC_001265
+Carnation mottle virus
+4003
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.424787
+0.601322
+0.274905
+-0.429326
+0.566926
+3
+NC_001339
+Artichoke mottled crinkle virus
+4789
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+0.337218
+0.231601
+0.313345
+-0.414143
+0.57771
+4
+NC_001469
+Cucumber necrosis virus
+4701
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.94262
+0.0925499
+0.382053
+-0.492918
+0.627592
+5
+NC_001504
+Melon necrotic spot virus
+4266
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.570841
+0.690654
+0.292655
+-0.41004
+0.556247
+6
+NC_001554
+Tomato bushy stunt virus
+4776
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.959289
+0.0966562
+0.320822
+-0.47713
+0.568826
+7
+NC_001600
+Cardamine chlorotic fleck virus
+4041
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.998844
+0.0803311
+-0.974968
+0.0474932
+0.3823
+8
+NC_001721
+Olive latent virus 1
+3699
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Alphanecrovirus}
+-1.
+0.0884614
+-0.911275
+0.0574197
+0.379712
+9
+NC_001777
+Tobacco necrosis virus A (TNV-A)
+3684
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Alphanecrovirus}
+-0.950195
+0.0738893
+0.360285
+-0.493588
+0.622612
+10
+NC_001780
+Saguaro cactus virus
+3879
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.935315
+0.0836495
+0.235474
+-0.420082
+0.604008
+11
+NC_001818
+Galinsoga mosaic virus
+3803
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Gallantivirus}
+-0.926187
+0.081453
+0.329495
+-0.460662
+0.637473
+12
+NC_001822
+Leek white stripe virus
+3662
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Betanecrovirus}
+-0.946384
+0.0872952
+0.34874
+-0.462709
+0.601015
+13
+NC_002187
+Japanese iris necrotic ring virus
+4014
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.956084
+0.0818791
+0.361214
+-0.473478
+0.623661
+14
+NC_002598
+Panicum mosaic virus
+4326
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Panicovirus}
+-0.925015
+0.0850671
+0.229846
+-0.469548
+0.577961
+15
+NC_003487
+Tobacco necrosis virus D (TNV-D)
+3762
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Betanecrovirus}
+0.421345
+0.540368
+0.280725
+-0.431167
+0.588544
+16
+NC_003500
+Carnation Italian ringspot virus
+4760
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.936567
+0.0780995
+0.470833
+-0.393559
+0.181281
+17
+NC_003530
+Carnation ringspot virus
+3840
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Dianthovirus}
+-0.940258
+0.0911631
+0.51759
+-0.128698
+0.648208
+18
+NC_003531
+Carnation ringspot virus
+1403
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Dianthovirus}
+0.228969
+0.368927
+0.317937
+-0.429604
+0.556701
+19
+NC_003532
+Cymbidium ringspot virus
+4733
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.932688
+0.0686871
+0.354419
+-0.447005
+0.609706
+20
+NC_003535
+Cowpea mottle virus
+4029
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.951804
+0.0785658
+0.330183
+-0.487589
+0.614173
+21
+NC_003608
+Hibiscus chlorotic ringspot virus
+3911
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.910884
+0.0902223
+0.298768
+-0.418837
+0.592273
+22
+NC_003627
+Maize chlorotic mottle virus
+4437
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Machlomovirus}
+-0.914913
+0.0805318
+0.298181
+-0.470029
+0.593945
+23
+NC_003633
+Oat chlorotic stunt virus
+4114
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Avenavirus}
+-0.985008
+0.0745294
+0.795239
+-0.374105
+-0.994656
+24
+NC_003756
+Red clover necrotic mosaic virus
+3890
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Dianthovirus}
+-0.9864
+0.0755456
+0.994676
+0.996269
+1.
+25
+NC_003775
+Red clover necrotic mosaic virus
+1448
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Dianthovirus}
+-0.980382
+0.0666546
+0.799883
+-0.379315
+-1.
+26
+NC_003806
+Sweet clover necrotic mosaic virus
+3876
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Dianthovirus}
+-0.980201
+0.0821327
+1.
+1.
+0.993682
+27
+NC_003807
+Sweet clover necrotic mosaic virus
+1449
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Dianthovirus}
+-0.956121
+0.0840468
+0.339304
+-0.513059
+0.61189
+28
+NC_003821
+Turnip crinkle virus
+4050
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.909547
+0.0925019
+0.34466
+-0.524098
+0.651244
+29
+NC_004452
+Beet black scorch virus
+3644
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Betanecrovirus}
+0.989843
+-1.
+0.285918
+-0.361056
+0.541997
+30
+NC_004723
+Pear latent virus
+4766
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.414187
+0.228768
+0.340449
+-0.491288
+0.584402
+31
+NC_004725
+Cucumber Bulgarian virus
+4576
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.924624
+0.073145
+0.339245
+-0.511802
+0.634264
+32
+NC_004995
+Pea stem necrosis virus
+4048
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.327545
+0.341917
+0.293239
+-0.452461
+0.596332
+33
+NC_005285
+Pelargonium necrotic spot virus
+4744
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.938236
+0.0946864
+0.34688
+-0.479264
+0.610296
+34
+NC_005286
+Pelargonium flower break virus
+3923
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.912786
+0.0877694
+0.389998
+-0.556372
+0.754218
+35
+NC_005287
+Johnsongrass chlorotic stripe mosaic virus
+4421
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Aureusvirus}
+-0.942581
+0.0730289
+0.341546
+-0.46513
+0.606193
+36
+NC_005985
+Pelargonium chlorotic ring pattern virus
+3904
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae}
+-0.987213
+0.0945267
+-1.
+0.0454974
+0.339046
+37
+NC_006939
+Olive mild mosaic virus
+3683
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Alphanecrovirus}
+-0.946189
+0.068722
+0.356671
+-0.464292
+0.578967
+38
+NC_007017
+Pelargonium line pattern virus
+3884
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae}
+-0.554695
+0.1383
+0.307148
+-0.455179
+0.626449
+39
+NC_007729
+Maize necrotic streak virus
+4094
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Zeavirus}
+-0.932001
+0.102746
+0.309728
+-0.456147
+0.574512
+40
+NC_007733
+Angelonia flower break virus
+3964
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.941042
+0.0895379
+0.4584
+-0.947012
+0.987905
+41
+NC_007816
+Cucumber leaf spot virus
+4433
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Aureusvirus}
+0.960032
+-0.992931
+0.293183
+-0.36245
+0.550156
+42
+NC_007983
+Lisianthus necrosis virus
+4764
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.939454
+0.075702
+0.300405
+-0.509353
+0.594279
+43
+NC_009017
+Nootka lupine vein clearing virus
+4172
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.907258
+0.0893119
+0.361466
+-0.563697
+0.751723
+44
+NC_009533
+Maize white line mosaic virus
+4293
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Aureusvirus}
+-0.942443
+0.0854533
+0.29228
+-0.423575
+0.622652
+45
+NC_011108
+Cocksfoot mild mosaic virus (CMMV)
+4198
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Panicovirus}
+0.489185
+0.462193
+0.304626
+-0.404529
+0.546056
+46
+NC_011535
+Grapevine Algerian latent virus
+4731
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.944667
+0.0895618
+0.339183
+-0.515879
+0.62258
+47
+NC_011643
+Soybean yellow mottle mosaic virus
+4009
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.931471
+0.0781191
+0.31285
+-0.510363
+0.624679
+48
+NC_014967
+Honeysuckle ringspot virus
+3956
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.93089
+0.0837442
+0.299761
+-0.406002
+0.603512
+49
+NC_015227
+TGP Carmovirus 1
+3929
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+0.662186
+0.986699
+0.30448
+-0.270327
+0.491757
+50
+NC_018104
+Lettuce necrotic stunt virus
+4772
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+0.643933
+1.
+0.307643
+-0.278485
+0.488328
+51
+NC_020073
+Moroccan pepper virus (MPV)
+4772
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}
+-0.957986
+0.0699436
+0.307993
+-0.523682
+0.595478
+52
+NC_020415
+Rosa rugosa leaf distortion virus
+3971
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae}
+-0.932122
+0.0729874
+0.218281
+-0.462354
+0.571846
+53
+NC_020469
+Furcraea necrotic streak virus
+3966
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Macanavirus}
+-0.968731
+0.077496
+0.359064
+-0.472329
+0.550957
+54
+NC_021705
+Thin paspalum asymptomatic virus
+4195
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Panicovirus  unclassified Panicovirus}
+-0.945703
+0.0896808
+0.333652
+-0.498791
+0.615108
+55
+NC_021926
+Calibrachoa mottle virus
+3919
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Carmovirus}
+-0.949064
+0.10887
+0.469901
+-1.
+0.997061
+56
+NC_022895
+Yam spherical virus
+4464
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Aureusvirus  unclassified Aureusvirus}
+1.
+-0.95
+0.287584
+-0.365437
+0.544679
+57
+NC_023339
+Eggplant mottled crinkle virus
+4767
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tombusviridae  Tombusvirus}

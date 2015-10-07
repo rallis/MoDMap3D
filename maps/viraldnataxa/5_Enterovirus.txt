@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Enterovirus (15)
+0.983858
+0.356207
+0.768503
+-0.542433
+0.996036
+1
+NC_001430
+Enterovirus D
+7390
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.965281
+0.928109
+-0.00814048
+-0.594877
+-1.
+2
+NC_001472
+Enterovirus B
+7389
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.871116
+-0.758513
+0.459062
+0.0441825
+-0.737155
+3
+NC_001490
+Human rhinovirus B14
+7212
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.890641
+1.
+0.353674
+-0.939849
+-0.890112
+4
+NC_001612
+Enterovirus A
+7413
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+1.
+-1.
+0.503359
+-0.313281
+-0.120249
+5
+NC_001617
+Rhinovirus A
+7152
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+-0.0779111
+0.0436008
+-1.
+-0.832047
+0.494357
+6
+NC_001859
+Enterovirus E
+7414
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.937838
+0.318546
+1.
+-0.615346
+1.
+7
+NC_002058
+Enterovirus C
+7440
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.887984
+-0.514038
+-0.724146
+1.
+0.0535295
+8
+NC_003988
+Enterovirus H
+7374
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.731276
+0.476061
+-0.527518
+-0.615156
+-0.191712
+9
+NC_004441
+Enterovirus G
+7388
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+-0.980951
+0.0859368
+0.861569
+0.0179325
+-0.351566
+10
+NC_008714
+Possum enterovirus W1
+7390
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+-1.
+0.167992
+0.804589
+0.0600459
+-0.329423
+11
+NC_008715
+Possum enterovirus W6
+7391
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.999608
+-0.946631
+0.645981
+-1.
+-0.593312
+12
+NC_009996
+Rhinovirus C
+7099
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.88838
+0.832141
+0.545164
+0.555782
+-0.0796823
+13
+NC_010415
+Enterovirus J (simian virus 6)
+7351
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+0.953858
+0.824214
+0.336168
+0.739242
+-0.0881676
+14
+NC_013695
+Enterovirus J
+7379
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}
+-0.4899
+0.0764041
+-0.272737
+-0.645892
+0.119426
+15
+NC_021220
+Enterovirus F
+7397
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Picornaviridae  Enterovirus}

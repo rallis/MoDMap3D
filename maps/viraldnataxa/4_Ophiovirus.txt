@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Ophiovirus (12)
+-1.
+0.0664125
+-0.110014
+0.0310652
+-0.0882226
+1
+NC_004779
+Mirafiori lettuce big-vein virus
+7794
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.610159
+0.148455
+-0.340266
+1.
+0.624542
+2
+NC_004780
+Mirafiori lettuce big-vein virus
+1402
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.417247
+0.55543
+-0.283828
+0.418832
+1.
+3
+NC_004781
+Mirafiori lettuce big-vein virus
+1788
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.882617
+-0.840644
+-0.33983
+0.46091
+-0.0464296
+4
+NC_004782
+Mirafiori lettuce big-vein virus
+1515
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+-0.848334
+-0.0101228
+-0.0830284
+-0.0121938
+-0.0648507
+5
+NC_006051
+Lettuce ring necrosis virus
+7651
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.680936
+1.
+-0.116037
+0.355926
+-0.366154
+6
+NC_006052
+Lettuce ring necrosis virus
+1830
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.954241
+-1.
+0.195863
+0.203882
+-0.405592
+7
+NC_006053
+Lettuce ring necrosis virus
+1527
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.688705
+0.928064
+-0.34389
+0.611088
+-1.
+8
+NC_006054
+Lettuce ring necrosis virus
+1417
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+-0.926893
+0.117415
+-0.0525762
+0.0693393
+-0.0529058
+9
+NC_006314
+Citrus psorosis virus
+8186
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.701324
+0.505802
+1.
+-0.00792377
+0.395371
+10
+NC_006315
+Citrus psorosis virus
+1645
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+0.871745
+0.31926
+0.614685
+-0.453562
+-0.0724911
+11
+NC_006316
+Citrus psorosis virus
+1447
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}
+1.
+0.284351
+-1.
+-1.
+0.204183
+12
+NC_020906
+Freesia sneak virus
+1305
+{root  Viruses  ssRNA negative strand viruses  Ophioviridae  Ophiovirus}

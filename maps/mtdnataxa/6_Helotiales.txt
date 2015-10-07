@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Helotiales (11)
+0.0143733
+0.383666
+0.882431
+0.408014
+-1.
+1
+NC_015789
+mitochondrion Phialocephala subalpina
+43742
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  mitosporic Helotiales  Phialocephala  Phialocephala fortinii complex}
+-0.0914582
+-0.0134252
+0.700962
+0.0324419
+-0.765966
+2
+NC_015991
+mitochondrion Marssonina brunnea f. sp. 'multigermtubi'
+70379
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  Dermateaceae  Marssonina}
+-1.
+-0.26413
+-0.0968316
+0.276837
+0.0958058
+3
+NC_023125
+mitochondrion Rhynchosporium agropyri
+68904
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  mitosporic Helotiales  Rhynchosporium}
+-0.995764
+-0.267019
+-0.0973007
+0.274711
+0.0960849
+4
+NC_023126
+mitochondrion Rhynchosporium commune
+69581
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  mitosporic Helotiales  Rhynchosporium}
+-0.511446
+0.118581
+0.36414
+0.386307
+-0.487507
+5
+NC_023127
+mitochondrion Rhynchosporium orthosporum
+49539
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  mitosporic Helotiales  Rhynchosporium}
+-0.99843
+-0.261624
+-0.0948228
+0.277155
+0.091257
+6
+NC_023128
+mitochondrion Rhynchosporium secalis (leaf blotch of barley)
+68729
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  mitosporic Helotiales  Rhynchosporium}
+0.649279
+-0.590638
+0.248762
+-1.
+-0.0814623
+7
+NC_025200
+mitochondrion Sclerotinia borealis
+203051
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  Sclerotiniaceae  Sclerotinia}
+0.865455
+-0.788593
+0.148552
+1.
+-0.195526
+8
+NW_001814287
+mitochondrion Botrytis cinerea B05.10
+80799
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  Sclerotiniaceae  Botrytis}
+0.896061
+1.
+-1.
+0.213476
+-0.347095
+9
+NW_001820797
+mitochondrion Sclerotinia sclerotiorum 1980 UF-70
+12275
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  Sclerotiniaceae  Sclerotinia}
+0.593646
+0.66281
+1.
+0.371513
+1.
+10
+NW_001820798
+mitochondrion Sclerotinia sclerotiorum 1980 UF-70
+29710
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  Sclerotiniaceae  Sclerotinia}
+1.
+-1.
+0.0420336
+0.498788
+-0.149803
+11
+NW_001820799
+mitochondrion Sclerotinia sclerotiorum 1980 UF-70
+160509
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Leotiomycetes  Helotiales  Sclerotiniaceae  Sclerotinia}

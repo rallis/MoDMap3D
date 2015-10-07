@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Myliobatiformes (14)
+-0.70628
+-0.332475
+-0.242283
+0.302698
+0.16929
+1
+NC_007230
+mitochondrion Plesiobatis daviesi (deepwater stingray)
+17514
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Plesiobatidae  Plesiobatis}
+-0.734304
+-1.
+-0.87489
+0.431037
+0.600022
+2
+NC_018784
+mitochondrion Mobula japanica (spinetail devil ray)
+18880
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Mobula}
+0.540404
+-0.159703
+-0.28313
+0.223511
+0.340525
+3
+NC_019641
+mitochondrion Taeniura meyeni (blotched fantail ray)
+17638
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Potamotrygonidae  Taeniura}
+0.232167
+-0.183279
+-0.0121916
+0.0883907
+0.578237
+4
+NC_019643
+mitochondrion Dasyatis zugei (pale-edged stingray)
+18264
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Dasyatis}
+0.995967
+-0.153472
+-0.32861
+0.275072
+0.596465
+5
+NC_020352
+mitochondrion Dasyatis bennetti (frilltailed stingray)
+17668
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Dasyatis}
+1.
+-0.137642
+-0.317676
+0.25762
+0.588825
+6
+NC_021132
+mitochondrion Dasyatis akajei (red stingray)
+17658
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Dasyatis}
+-0.157319
+-0.307279
+-0.0967078
+0.078076
+-0.117027
+7
+NC_021767
+mitochondrion Neotrygon kuhlii (spotted stingray)
+18039
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Neotrygon}
+-0.855876
+0.0120752
+1.
+1.
+1.
+8
+NC_022837
+mitochondrion Aetobatus flagellum (longheaded eagle ray)
+20201
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Aetobatus}
+-0.576386
+0.0501921
+-0.116204
+0.305286
+-1.
+9
+NC_023116
+mitochondrion Potamotrygon motoro (ocellate freshwater stingray)
+17448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Potamotrygonidae  Potamotrygon}
+-0.45916
+-0.576397
+0.466928
+-1.
+0.641705
+10
+NC_023525
+mitochondrion Himantura granulata (mangrove whipray)
+17657
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Himantura}
+-0.33345
+-0.489042
+0.0422654
+-0.178151
+0.469058
+11
+NC_023808
+mitochondrion Pastinachus atrus
+18162
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Pastinachus}
+-1.
+1.
+-1.
+-0.155429
+0.882965
+12
+NC_024102
+mitochondrion Gymnura poecilura (longtail butterfly ray)
+17874
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Gymnura}
+0.671568
+-0.158486
+-0.298415
+0.242032
+0.396837
+13
+NC_024570
+mitochondrion Pteroplatytrygon violacea (pelagic stingray)
+17665
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Dasyatidae  Pteroplatytrygon}
+-0.686659
+-0.890497
+-0.917585
+0.392365
+0.692502
+14
+NC_025954
+mitochondrion Mobula eregoodootenkee (pygmy devil ray)
+15716
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Chondrichthyes  Elasmobranchii  Batoidea  Myliobatiformes  Mobula}

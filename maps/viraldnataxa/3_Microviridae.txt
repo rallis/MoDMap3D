@@ -1,0 +1,196 @@
+19
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Microviridae (19)
+1.
+-1.
+0.511321
+-0.336778
+0.238909
+1
+NC_001330
+Enterobacteria phage alpha3
+6087
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus}
+0.894917
+0.245838
+-0.853282
+-0.633559
+0.167444
+2
+NC_001420
+Enterobacteria phage G4 sensu lato
+5577
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus}
+0.828103
+0.0887268
+-0.283672
+-0.135961
+-0.160493
+3
+NC_001422
+Enterobacteria phage phiX174 sensu lato
+5386
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus}
+0.659532
+0.273313
+0.128079
+0.746872
+-1.
+4
+NC_001741
+Chlamydia phage 1 (Bacteriophage chp1)
+4877
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Chlamydiamicrovirus}
+-1.
+0.0502054
+0.0474355
+-0.176539
+0.159412
+5
+NC_001998
+Guinea pig Chlamydia phage
+4529
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Chlamydiamicrovirus}
+-0.991039
+0.051262
+0.0475637
+-0.181948
+0.158916
+6
+NC_002180
+Chlamydia pneumoniae phage CPAR39
+4532
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Chlamydiamicrovirus}
+-0.985349
+0.0470084
+0.0420648
+-0.186035
+0.161769
+7
+NC_002194
+Chlamydia phage 2
+4563
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Chlamydiamicrovirus}
+0.727389
+0.351784
+-0.00100327
+0.863349
+1.
+8
+NC_002643
+Bdellovibrio phage phiMH2K
+4594
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Bdellomicrovirus}
+0.729981
+0.349102
+0.155687
+0.824097
+-0.721598
+9
+NC_003438
+Spiroplasma phage 4 (Sp-4)
+4421
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Spiromicrovirus}
+-0.946835
+0.0453497
+0.0375737
+-0.181659
+0.166417
+10
+NC_007461
+Chlamydia phage 4
+4530
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Chlamydiamicrovirus  unclassified Chlamydiamicrovirus}
+0.905959
+0.261126
+-1.
+-0.764783
+0.164006
+11
+NC_007817
+Enterobacteria phage ID2 Moscow/ID/2001
+5486
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus  unclassified            Enterobacteria phage G4 clade}
+0.962082
+-0.739199
+0.377713
+-0.266258
+0.169611
+12
+NC_007821
+Enterobacteria phage WA13 sensu lato
+6068
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus}
+0.911552
+0.240437
+-0.963074
+-0.777101
+0.169105
+13
+NC_007856
+Enterobacteria phage ID18 sensu lato
+5486
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus}
+-0.981526
+0.0530291
+0.0436779
+-0.185144
+0.165536
+14
+NC_008355
+Chlamydia phage 3
+4554
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  Chlamydiamicrovirus  unclassified Chlamydiamicrovirus}
+0.982579
+-0.983187
+0.519937
+-0.328865
+0.226899
+15
+NC_012868
+Enterobacteria phage St-1
+6094
+{root  Viruses  ssDNA viruses  Microviridae  Microvirus}
+0.737626
+0.37676
+0.0303839
+0.930604
+0.656969
+16
+NC_015785
+Microviridae phi-CA82
+5514
+{root  Viruses  ssDNA viruses  Microviridae  unclassified Microviridae}
+0.834712
+1.
+0.99934
+-1.
+0.21089
+17
+NC_021797
+Cellulophaga phage phi12:2
+6453
+{root  Viruses  ssDNA viruses  Microviridae  unclassified Microviridae}
+0.841305
+0.997645
+1.
+-0.993972
+0.192924
+18
+NC_021805
+Cellulophaga phage phi12a:1
+6478
+{root  Viruses  ssDNA viruses  Microviridae  unclassified Microviridae}
+0.723717
+0.390765
+0.0496176
+1.
+0.694033
+19
+NC_022790
+Marine gokushovirus
+4129
+{root  Viruses  ssDNA viruses  Microviridae  Gokushovirinae  unclassified            Gokushovirinae}

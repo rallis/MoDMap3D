@@ -1,0 +1,436 @@
+43
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Alphaflexiviridae (43)
+-0.123173
+0.735495
+-0.495886
+0.505457
+0.0440284
+1
+NC_001441
+Narcissus mosaic virus
+6955
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.0771192
+-0.157191
+-0.174158
+-0.202008
+-0.357456
+2
+NC_001483
+Foxtail mosaic virus
+6151
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.146104
+-0.251854
+-0.10403
+-0.12434
+0.0257999
+3
+NC_001642
+Bamboo mosaic virus
+6366
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.0479871
+-0.397237
+-0.629842
+-0.32632
+0.854954
+4
+NC_001658
+Cassava common mosaic virus
+6376
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.146544
+-0.380824
+-0.719822
+0.0127555
+1.
+5
+NC_001748
+Papaya mosaic virus
+6656
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.313914
+-0.426941
+0.0574832
+-0.192487
+0.777014
+6
+NC_001753
+Clover yellow mosaic virus
+7015
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.79757
+-0.161696
+0.223989
+0.0892402
+-0.012831
+7
+NC_001800
+Garlic virus X
+8106
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Allexivirus}
+-0.0425579
+0.196022
+-0.461577
+-0.322894
+-0.123729
+8
+NC_001812
+Cymbidium mosaic virus
+6227
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.416439
+-0.885859
+-0.600199
+0.951896
+-0.470587
+9
+NC_002815
+Cactus virus X
+6614
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.229059
+-0.0734849
+0.0931648
+-0.176916
+-0.121914
+10
+NC_003093
+Indian citrus ringspot virus
+7560
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Mandarivirus}
+0.708301
+-0.170538
+0.652541
+0.189918
+-0.0765549
+11
+NC_003375
+Garlic virus A
+8660
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Allexivirus}
+0.858669
+-0.225905
+0.534803
+0.201316
+0.0855652
+12
+NC_003376
+Garlic virus C
+8405
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Allexivirus}
+-0.581747
+1.
+0.00378254
+0.956051
+0.213909
+13
+NC_003400
+Scallion virus X
+6985
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus  unclassified Potexvirus}
+0.233243
+0.206344
+-0.960072
+-0.249513
+0.414396
+14
+NC_003632
+Potato aucuba mosaic virus
+7059
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.0497175
+0.00450199
+-0.569156
+-0.619028
+-0.185429
+15
+NC_003794
+Strawberry mild yellow edge virus (Strawberry mild yellow
+5966
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.586607
+-0.268049
+0.587484
+0.33155
+0.0172506
+16
+NC_003795
+Shallot virus X
+8832
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Allexivirus}
+0.0773817
+0.175875
+-0.564028
+-0.114672
+0.124279
+17
+NC_003820
+White clover mosaic virus
+5845
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-1.
+-0.358199
+1.
+-0.528802
+0.533538
+18
+NC_003849
+Plantago asiatica mosaic virus
+6128
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.941128
+-0.212406
+0.798291
+0.297886
+0.256325
+19
+NC_004012
+Garlic virus E
+8451
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Allexivirus}
+0.36097
+0.331813
+-0.986605
+-0.172204
+0.274333
+20
+NC_004067
+Pepino mosaic virus
+6450
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.910521
+-0.274628
+0.821338
+-0.429439
+0.473839
+21
+NC_004322
+Tulip virus X
+6056
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.313503
+-0.0351035
+0.656481
+-0.287556
+-0.126489
+22
+NC_005132
+Botrytis virus X
+6966
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Botrexvirus}
+-0.581223
+-1.
+-0.504324
+0.885011
+-0.617132
+23
+NC_006059
+Zygocactus virus X
+6624
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.274114
+-0.856285
+-0.706861
+0.832134
+-0.325487
+24
+NC_006060
+Opuntia virus X
+6653
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.801692
+-0.475327
+0.432581
+-0.370526
+0.392697
+25
+NC_006943
+Hydrangea ringspot virus
+6185
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.516345
+-0.00953644
+0.319133
+-0.690584
+-0.967886
+26
+NC_006948
+Mint virus X
+5914
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.127589
+0.00699168
+-0.275376
+-0.943285
+-1.
+27
+NC_007192
+Lily virus X
+5823
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.39064
+0.457822
+0.16874
+0.410592
+-0.0828698
+28
+NC_007408
+Alstroemeria virus x
+7009
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.39701
+0.0384633
+-1.
+-0.766666
+-0.236999
+29
+NC_007415
+Sclerotinia sclerotiorum debilitation-associated RNA virus
+5470
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Sclerodarnavirus}
+-0.0930535
+0.0417356
+-0.225934
+-0.289687
+-0.115716
+30
+NC_007679
+Nerine virus X
+6582
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.337038
+-0.366269
+-0.536287
+-0.0757441
+0.868202
+31
+NC_007731
+Alternanthera mosaic virus (AltMV)
+6607
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.121203
+0.587822
+-0.838986
+0.276892
+0.297542
+32
+NC_008251
+Malva mosaic virus
+6858
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.0924658
+-0.0570505
+-0.417782
+-1.
+-0.490828
+33
+NC_010295
+Phaius virus X
+5816
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.764037
+0.965956
+0.2625
+0.813011
+0.124846
+34
+NC_010416
+Asparagus virus 3
+6937
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.0525898
+-0.190661
+0.154972
+-0.552798
+0.131531
+35
+NC_010434
+Lolium latent virus
+7674
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Lolavirus}
+-0.544692
+0.446612
+0.28405
+0.1862
+-0.237642
+36
+NC_010832
+Lettuce virus X
+7212
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.384438
+-0.42106
+-0.11567
+-0.196524
+0.235018
+37
+NC_011544
+Hosta virus X (HVX)
+6528
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.174321
+-0.171385
+-0.794814
+-0.505362
+0.251909
+38
+NC_011620
+Potato virus X
+6435
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.156297
+-0.685678
+-0.767565
+1.
+-0.198445
+39
+NC_011659
+Schlumbergera virus X
+6633
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+-0.222122
+-0.301585
+-0.0422618
+-0.159493
+0.389618
+40
+NC_012211
+Allium virus X
+7118
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+0.178762
+-0.116563
+0.526214
+-0.0387882
+-0.0802256
+41
+NC_015706
+Blackberry virus E
+7718
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  unclassified Alphaflexiviridae}
+-0.123657
+-0.229263
+-0.696161
+-0.26376
+0.386727
+42
+NC_016003
+Tamus red mosaic virus
+6495
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Potexvirus}
+1.
+-0.206222
+0.748665
+0.255561
+0.195151
+43
+NC_022961
+Garlic virus D
+8424
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Tymovirales  Alphaflexiviridae  Allexivirus}

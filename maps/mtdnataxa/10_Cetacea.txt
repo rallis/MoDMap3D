@@ -1,0 +1,476 @@
+47
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cetacea (47)
+-0.893001
+0.805564
+-0.541363
+0.256043
+0.0139169
+1
+NC_001321
+mitochondrion Balaenoptera physalus (Fin whale)
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.938725
+0.82779
+-0.613817
+0.379962
+-0.104996
+2
+NC_001601
+mitochondrion Balaenoptera musculus (Blue whale)
+16402
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.403028
+-0.394761
+0.331255
+0.2436
+0.562314
+3
+NC_002503
+mitochondrion Physeter catodon (sperm whale)
+16428
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Physeteridae  Physeter}
+-0.842701
+0.46387
+0.795313
+-0.790408
+-0.752411
+4
+NC_005268
+mitochondrion Balaena mysticetus (bowhead whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Balaena}
+-0.68828
+0.293586
+-0.0891605
+0.155596
+-0.234997
+5
+NC_005269
+mitochondrion Caperea marginata (pygmy right whale)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Neobalaenidae  Caperea}
+-0.891451
+0.699057
+-0.439504
+0.400114
+-0.0693715
+6
+NC_005270
+mitochondrion Eschrichtius robustus (grey whale)
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Eschrichtiidae  Eschrichtius}
+-0.86324
+0.730904
+-0.399014
+0.35574
+-0.0814059
+7
+NC_005271
+mitochondrion Balaenoptera acutorostrata (minke whale)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.439778
+-0.376065
+0.282807
+0.181664
+0.749534
+8
+NC_005272
+mitochondrion Kogia breviceps (pygmy sperm whale)
+16406
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Physeteridae  Kogia}
+-0.359172
+-0.850997
+-0.778122
+-0.109813
+-0.67137
+9
+NC_005273
+mitochondrion Hyperoodon ampullatus (northern bottlenose whale)
+16346
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Hyperoodon}
+-0.362361
+-0.789404
+-0.656572
+0.0163178
+-0.444875
+10
+NC_005274
+mitochondrion Berardius bairdii (Baird's beaked whale)
+16346
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Berardius}
+-0.404813
+-0.43074
+-0.0503845
+0.179419
+-0.00617824
+11
+NC_005275
+mitochondrion Platanista minor (Indus River dolphin)
+16324
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Platanistidae  Platanista}
+-0.267219
+-0.546058
+0.00796486
+0.51606
+0.535278
+12
+NC_005276
+mitochondrion Inia geoffrensis (boutu)
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Iniidae  Inia}
+-0.282401
+-0.455963
+0.156057
+0.535237
+0.573669
+13
+NC_005277
+mitochondrion Pontoporia blainvillei (franciscana)
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Pontoporiidae  Pontoporia}
+0.708977
+0.302032
+-0.135128
+0.346583
+-0.299325
+14
+NC_005278
+mitochondrion Lagenorhynchus albirostris (white-beaked dolphin)
+16393
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Lagenorhynchus}
+0.121548
+-0.194895
+0.0985672
+0.258591
+0.421848
+15
+NC_005279
+mitochondrion Monodon monoceros (narwhal)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Monodontidae  Monodon}
+0.0841128
+-0.385226
+0.282092
+0.908288
+0.937574
+16
+NC_005280
+mitochondrion Phocoena phocoena (harbor porpoise)
+16382
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Phocoenidae  Phocoena}
+-0.888279
+0.757322
+-0.462831
+0.327224
+-0.0746146
+17
+NC_006926
+mitochondrion Balaenoptera bonaerensis (Antarctic minke whale)
+16421
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.921987
+0.804356
+-0.515867
+0.319663
+-0.11859
+18
+NC_006927
+mitochondrion Megaptera novaeangliae (humpback whale)
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Megaptera}
+-0.962889
+0.974224
+-0.833161
+0.532053
+-0.0149114
+19
+NC_006928
+mitochondrion Balaenoptera brydei (Bryde's whale)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-1.
+0.981893
+-0.840636
+0.509725
+-0.0487369
+20
+NC_006929
+mitochondrion Balaenoptera borealis (sei whale)
+16410
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.845894
+0.444502
+0.977739
+-1.
+-0.91007
+21
+NC_006930
+mitochondrion Eubalaena australis (Southern right whale)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Eubalaena}
+-0.841333
+0.43691
+1.
+-0.994768
+-0.921342
+22
+NC_006931
+mitochondrion Eubalaena japonica (North Pacific right whale)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Eubalaena}
+-0.250154
+-0.38137
+0.0339988
+0.227424
+0.270607
+23
+NC_007629
+mitochondrion Lipotes vexillifer (Yangtze River dolphin)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Lipotidae  Lipotes}
+-0.892641
+0.744406
+-0.554568
+0.446842
+-0.103098
+24
+NC_007937
+mitochondrion Balaenoptera omurai (Omura's baleen whale)
+16404
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.994237
+1.
+-0.808803
+0.497198
+-0.0670889
+25
+NC_007938
+mitochondrion Balaenoptera edeni (pygmy Bryde's whale)
+16409
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+0.969227
+0.479772
+-0.577126
+-0.50234
+0.23228
+26
+NC_012051
+mitochondrion Stenella attenuata (bridled dolphin)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Stenella}
+1.
+0.486814
+-0.629406
+-0.635622
+0.333686
+27
+NC_012053
+mitochondrion Stenella coeruleoalba (striped dolphin)
+16384
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Stenella}
+0.956394
+0.492372
+-0.586275
+-0.595129
+0.308869
+28
+NC_012057
+mitochondrion Sousa chinensis (Chinese white dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Sousa}
+0.988198
+0.44228
+-0.613396
+-0.674674
+0.382766
+29
+NC_012058
+mitochondrion Tursiops aduncus (Indo-pacific bottlenose dolphin)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+0.983137
+0.462853
+-0.601914
+-0.571082
+0.34663
+30
+NC_012059
+mitochondrion Tursiops truncatus (bottlenosed dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+0.984465
+0.490184
+-0.60693
+-0.627381
+0.306644
+31
+NC_012061
+mitochondrion Delphinus capensis (Longbeaked common dolphin)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Delphinus}
+0.856635
+0.376887
+-0.0709135
+0.65086
+-0.634984
+32
+NC_012062
+mitochondrion Grampus griseus (Risso's dolphin)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Grampus}
+0.870504
+0.344956
+-0.0135192
+0.976411
+-1.
+33
+NC_019441
+mitochondrion Globicephala melas (long-finned pilot whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Globicephala}
+0.860762
+0.353747
+-0.0580507
+0.638164
+-0.772966
+34
+NC_019577
+mitochondrion Pseudorca crassidens (false killer whale)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Pseudorca}
+0.866922
+0.377141
+0.0151838
+1.
+-0.996466
+35
+NC_019578
+mitochondrion Globicephala macrorhynchus (short-finned pilot whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Globicephala}
+0.877152
+0.353482
+-0.00635253
+0.897519
+-0.905324
+36
+NC_019588
+mitochondrion Feresa attenuata (pygmy killer whale)
+16387
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Feresa}
+0.870645
+0.388796
+0.00273174
+0.899282
+-0.918649
+37
+NC_019589
+mitochondrion Peponocephala electra (melon-headed whale)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Peponocephala}
+0.788373
+0.288078
+-0.175925
+0.360377
+-0.374719
+38
+NC_019590
+mitochondrion Orcaella brevirostris (Irrawaddy dolphin)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcaella}
+0.830871
+0.323538
+-0.140836
+0.398989
+-0.328235
+39
+NC_019591
+mitochondrion Orcaella heinsohni (Australian snubfin dolphin)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcaella}
+0.77856
+0.32432
+-0.148383
+0.264087
+-0.214595
+40
+NC_020696
+mitochondrion Cephalorhynchus heavisidii (Heaviside's dolphin)
+16371
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Cephalorhynchus}
+-0.35584
+-0.979468
+-0.922585
+-0.0815967
+-0.785533
+41
+NC_021434
+mitochondrion Mesoplodon europaeus (Gervais' beaked whale)
+16343
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Mesoplodon}
+-0.37597
+-0.880156
+-0.747147
+-0.0964277
+-0.595285
+42
+NC_021435
+mitochondrion Ziphius cavirostris (Cuvier's beaked whale)
+16349
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Ziphius}
+0.0275478
+-0.394629
+0.327224
+0.929405
+1.
+43
+NC_021461
+mitochondrion Neophocaena phocaenoides (Indo-Pacific finless
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Phocoenidae  Neophocaena}
+-0.317954
+-0.982834
+-0.998737
+-0.00024279
+-0.843604
+44
+NC_021974
+mitochondrion Mesoplodon densirostris (Blainville's beaked whale)
+16347
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Mesoplodon}
+0.930413
+0.441735
+-0.541992
+-0.497336
+0.239383
+45
+NC_022805
+mitochondrion Tursiops australis (Burrunan dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+-0.329396
+-1.
+-1.
+-0.0232346
+-0.84843
+46
+NC_023830
+mitochondrion Mesoplodon grayi (Gray's beaked whale)
+16347
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Mesoplodon}
+0.733628
+0.276036
+-0.151087
+0.431227
+-0.237062
+47
+NC_023889
+mitochondrion Orcinus orca (killer whale)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcinus}

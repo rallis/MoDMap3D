@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Phocidae (15)
+-0.968205
+-0.652838
+-0.133788
+-0.0851052
+0.445348
+1
+NC_001325
+mitochondrion Phoca vitulina (harbor seal)
+16826
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Phoca}
+-0.963339
+-0.676225
+-0.232084
+-0.0931035
+0.464417
+2
+NC_001602
+mitochondrion Halichoerus grypus (gray seal)
+16797
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Halichoerus}
+0.827965
+-0.0304898
+1.
+-1.
+1.
+3
+NC_008421
+mitochondrion Monachus schauinslandi (Hawaiian monk seal)
+16754
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Monachus}
+0.871604
+-0.235177
+0.266936
+-0.0650787
+-1.
+4
+NC_008422
+mitochondrion Mirounga leonina (Southern elephant seal)
+16970
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Mirounga}
+0.943763
+-0.745
+-0.704937
+-0.147684
+0.689966
+5
+NC_008423
+mitochondrion Lobodon carcinophaga (crabeater seal)
+16759
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Lobodon}
+1.
+-0.98543
+-0.958764
+0.000762274
+0.619817
+6
+NC_008424
+mitochondrion Leptonychotes weddellii (Weddell seal)
+16603
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Leptonychotes}
+0.96986
+-1.
+-0.970117
+-0.0163088
+0.654966
+7
+NC_008425
+mitochondrion Hydrurga leptonyx (leopard seal)
+16602
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Hydrurga}
+0.404018
+0.549784
+0.67582
+1.
+0.895744
+8
+NC_008426
+mitochondrion Erignathus barbatus (bearded seal)
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Erignathus}
+-0.198774
+0.733886
+-1.
+0.125174
+0.471535
+9
+NC_008427
+mitochondrion Cystophora cristata (hooded seal)
+16952
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Cystophora}
+-0.284137
+1.
+-0.829261
+-0.381642
+0.478432
+10
+NC_008428
+mitochondrion Phoca fasciata (ribbon seal)
+16694
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Phoca}
+-0.355774
+0.917171
+-0.806191
+-0.464372
+0.352464
+11
+NC_008429
+mitochondrion Phoca groenlandica (harp seal)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Phoca}
+-1.
+-0.686877
+-0.132992
+-0.103545
+0.441832
+12
+NC_008430
+mitochondrion Phoca largha (spotted seal)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Phoca}
+-0.95715
+-0.65795
+-0.206233
+-0.0882586
+0.42383
+13
+NC_008431
+mitochondrion Pusa caspica (Caspian seal)
+16737
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Pusa}
+-0.982446
+-0.697239
+-0.139881
+-0.0881511
+0.472166
+14
+NC_008432
+mitochondrion Pusa sibirica (Baikal seal)
+16773
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Pusa}
+-0.943804
+-0.578767
+-0.172765
+-0.111597
+0.453802
+15
+NC_008433
+mitochondrion Pusa hispida (Ringed seal)
+16754
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Carnivora  Caniformia  Phocidae  Pusa}

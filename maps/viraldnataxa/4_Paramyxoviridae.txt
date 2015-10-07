@@ -1,0 +1,366 @@
+36
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Paramyxoviridae (36)
+-0.77847
+-0.953856
+-0.00449969
+0.974659
+0.676545
+1
+NC_001498
+Measles virus
+15894
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+-0.541562
+-0.82953
+0.298054
+-0.293085
+-0.792203
+2
+NC_001552
+Sendai virus
+15384
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+1.
+-0.163329
+-0.657709
+0.588168
+0.636847
+3
+NC_001781
+Human respiratory syncytial virus
+15225
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus}
+0.379904
+-0.723928
+0.95541
+-0.94304
+0.433971
+4
+NC_001796
+Human parainfluenza virus 3
+15462
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+0.990434
+-0.139934
+-0.579197
+0.605116
+0.672618
+5
+NC_001803
+Respiratory syncytial virus
+15191
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus  unclassified            Pneumovirus}
+-0.160635
+-0.897404
+0.302766
+-0.466198
+0.895225
+6
+NC_001906
+Hendra virus
+18234
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Henipavirus}
+-0.507043
+-1.
+0.0607809
+0.413255
+0.604441
+7
+NC_001921
+Canine distemper virus
+15690
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+0.754539
+-0.248087
+-0.475516
+0.469369
+0.596519
+8
+NC_001989
+Bovine respiratory syncytial virus
+15140
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus}
+0.320683
+-0.723351
+1.
+-1.
+0.450168
+9
+NC_002161
+Bovine parainfluenza virus 3
+15456
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+-0.120646
+-0.78142
+0.0260278
+-0.285746
+0.474344
+10
+NC_002199
+Tupaia paramyxovirus
+17904
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+-0.404594
+-0.682779
+-0.741384
+-0.689188
+0.453666
+11
+NC_002200
+Mumps virus
+15384
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.996596
+1.
+0.329895
+-0.21282
+0.518268
+12
+NC_002617
+Newcastle disease virus B1
+15186
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus}
+-0.0901878
+-0.904304
+0.351309
+-0.536474
+0.958569
+13
+NC_002728
+Nipah virus
+18246
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Henipavirus}
+-0.545164
+-0.649918
+-0.497592
+-0.30179
+-0.134619
+14
+NC_003043
+Avian paramyxovirus 6 (APMV-6)
+16236
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus}
+-0.16441
+-0.609228
+-0.548348
+-0.838001
+1.
+15
+NC_003443
+Human parainfluenza virus 2
+15646
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+0.0294457
+-0.735524
+0.45244
+-0.548774
+-0.215271
+16
+NC_003461
+Human parainfluenza virus 1 (HPIV-1)
+15600
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+-0.468604
+-0.669793
+-0.753549
+-0.492984
+0.357261
+17
+NC_004074
+Tioman virus
+15522
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus  unclassified            Rubulavirus}
+0.343582
+-0.542432
+-0.247733
+-0.00354063
+-0.439008
+18
+NC_004148
+Human metapneumovirus
+13335
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Metapneumovirus}
+-1.
+0.988343
+0.303348
+-0.174372
+0.485391
+19
+NC_005036
+Goose paramyxovirus SF02
+15192
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus  unclassified            Avulavirus}
+-0.424658
+-0.812949
+0.0677909
+-0.188756
+0.38953
+20
+NC_005084
+Fer-de-Lance paramyxovirus
+15378
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Ferlavirus}
+-0.516048
+-0.997012
+0.140376
+0.477926
+0.844353
+21
+NC_005283
+Dolphin morbillivirus
+15702
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus  Cetacean            morbillivirus}
+-0.293543
+-0.7986
+0.0737155
+-0.119087
+0.53883
+22
+NC_005339
+Mossman virus
+16650
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+-0.805474
+-0.976121
+0.0414394
+1.
+0.585908
+23
+NC_006296
+Rinderpest virus (strain Kabete O)
+15882
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+-0.804882
+-0.939642
+0.0561555
+0.898674
+0.493451
+24
+NC_006383
+Peste-des-petits-ruminants virus
+15948
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+-0.466196
+-0.640002
+-0.764506
+-0.636886
+0.807212
+25
+NC_006428
+Simian virus 41
+15450
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.398263
+-0.662317
+-0.761785
+-0.922437
+0.618149
+26
+NC_006430
+Parainfluenza virus 5
+15246
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.0990531
+-0.561631
+-0.379392
+0.0891512
+-0.379714
+27
+NC_006579
+Pneumonia virus of mice J3666
+14885
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus}
+-0.288446
+-0.812738
+0.00761187
+-0.366804
+0.690679
+28
+NC_007454
+J-virus
+18954
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+-0.427361
+-0.705753
+-0.657825
+-0.700417
+0.401375
+29
+NC_007620
+Menangle virus
+15516
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus  unclassified            Rubulavirus}
+-0.0382607
+-0.637199
+-0.198718
+0.00648304
+-1.
+30
+NC_007652
+Avian metapneumovirus
+14071
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Metapneumovirus}
+-0.405866
+-0.883414
+-0.0105578
+-0.283138
+0.672005
+31
+NC_007803
+Beilong virus
+19212
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+-0.526885
+-0.705103
+-1.
+-0.646839
+0.289051
+32
+NC_009489
+Mapuera virus
+15486
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.69343
+-0.700922
+-0.865722
+-0.537844
+0.450427
+33
+NC_009640
+Porcine rubulavirus (PoRV)
+15180
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.550676
+-0.823255
+-0.0851597
+-0.0319053
+0.31714
+34
+NC_017937
+Nariva virus
+15276
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  unclassified Paramyxoviridae}
+-0.607851
+-0.643273
+-0.61129
+-0.209197
+-0.0654986
+35
+NC_019531
+Avian paramyxovirus 4 (APMV-4)
+15048
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus}
+0.0961779
+-0.659806
+-0.254589
+-0.722944
+0.708481
+36
+NC_021928
+Human parainfluenza virus 4a
+17052
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}

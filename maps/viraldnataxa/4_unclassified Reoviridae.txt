@@ -1,0 +1,316 @@
+31
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified Reoviridae (31)
+0.752555
+0.519574
+0.0931259
+0.0129388
+0.461602
+1
+NC_007559
+Operophtera brumata reovirus
+4170
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.888083
+0.351909
+0.20951
+-0.0348229
+0.484571
+2
+NC_007560
+Operophtera brumata reovirus
+3780
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+1.
+0.193517
+-0.12693
+-0.123359
+-0.0368197
+3
+NC_007561
+Operophtera brumata reovirus
+3595
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.930162
+0.55437
+-0.124639
+-0.205734
+-0.032765
+4
+NC_007562
+Operophtera brumata reovirus
+3362
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.775788
+0.115878
+-0.0697989
+0.134917
+-0.193552
+5
+NC_007563
+Operophtera brumata reovirus
+2106
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.120799
+-0.246998
+-0.210613
+0.747855
+1.
+6
+NC_007564
+Operophtera brumata reovirus
+1935
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.033287
+-0.774079
+-0.411374
+0.715574
+0.392046
+7
+NC_007565
+Operophtera brumata reovirus
+1606
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.136176
+0.195024
+-0.0704784
+-0.7767
+0.510103
+8
+NC_007566
+Operophtera brumata reovirus
+1584
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.341751
+-0.522039
+1.
+0.0782984
+-0.216165
+9
+NC_007567
+Operophtera brumata reovirus
+1547
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.139474
+-0.0325939
+0.232494
+-1.
+-0.966103
+10
+NC_007568
+Operophtera brumata reovirus
+1509
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.433458
+0.305877
+-0.742598
+0.0266036
+-0.400141
+11
+NC_014598
+Raspberry latent virus
+3948
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.55626
+0.956431
+-0.147741
+0.84515
+-0.338609
+12
+NC_014599
+Raspberry latent virus
+3914
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.441961
+0.569009
+-0.551985
+0.45287
+-0.552895
+13
+NC_014600
+Raspberry latent virus
+3818
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.851164
+0.231896
+-0.804706
+0.57422
+0.036575
+14
+NC_014601
+Raspberry latent virus
+3650
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.395574
+0.330263
+-0.147235
+0.370771
+-0.552967
+15
+NC_014602
+Raspberry latent virus
+2563
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.337041
+0.324336
+-0.543103
+0.447439
+0.257427
+16
+NC_014603
+Raspberry latent virus
+1996
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.451364
+-0.636796
+-1.
+-0.135677
+-1.
+17
+NC_014604
+Raspberry latent virus
+1957
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.370244
+-0.57199
+-0.405206
+0.252981
+-0.446712
+18
+NC_014605
+Raspberry latent virus
+1936
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.105488
+-1.
+-0.265698
+-0.0948451
+0.0877784
+19
+NC_014606
+Raspberry latent virus
+1205
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.435031
+0.202022
+-0.407246
+-0.89002
+0.327535
+20
+NC_014607
+Raspberry latent virus
+1141
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.0870034
+0.832648
+0.020296
+0.467742
+-0.173041
+21
+NC_016874
+Spissistilus festinus reovirus
+3780
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.0505208
+0.893857
+-0.769437
+0.0409543
+-0.203574
+22
+NC_016875
+Spissistilus festinus reovirus
+3325
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.353996
+0.422353
+0.403983
+0.0613165
+0.353024
+23
+NC_016876
+Spissistilus festinus reovirus
+2031
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.444112
+0.100361
+0.608862
+1.
+-0.785245
+24
+NC_016877
+Spissistilus festinus reovirus
+1761
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-1.
+0.0606424
+-0.740443
+0.290185
+0.577228
+25
+NC_016878
+Spissistilus festinus reovirus
+1121
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.0945176
+0.590845
+0.229818
+0.460461
+-0.295339
+26
+NC_016879
+Spissistilus festinus reovirus
+4012
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.103745
+1.
+-0.572133
+-0.129575
+-0.152459
+27
+NC_016880
+Spissistilus festinus reovirus
+3729
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.561375
+0.614537
+0.163502
+-0.421137
+-0.257051
+28
+NC_016881
+Spissistilus festinus reovirus
+2238
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.906842
+0.655982
+-0.395766
+-0.0292449
+-0.0476703
+29
+NC_016882
+Spissistilus festinus reovirus
+1937
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+-0.764512
+0.0315176
+-0.0130569
+0.619704
+-0.585513
+30
+NC_016883
+Spissistilus festinus reovirus
+1205
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}
+0.715172
+0.452548
+0.293836
+0.235691
+0.357501
+31
+NC_023420
+Cimodo virus
+4080
+{root  Viruses  dsRNA viruses  Reoviridae  unclassified Reoviridae}

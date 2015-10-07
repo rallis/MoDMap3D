@@ -1,0 +1,316 @@
+31
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cyclophyllidea (31)
+0.763017
+0.311402
+0.0335891
+-0.264868
+0.402476
+1
+NC_000928
+mitochondrion Echinococcus multilocularis (echinococcosis tapeworm)
+13738
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.385075
+-0.485536
+0.275983
+-0.919771
+0.584497
+2
+NC_002547
+mitochondrion Taenia crassiceps (tapeworm)
+13503
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.123602
+-1.
+1.
+1.
+0.924327
+3
+NC_002767
+mitochondrion Hymenolepis diminuta (rat tapeworm)
+13900
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Hymenolepididae  Hymenolepis}
+-0.673737
+0.225013
+0.103087
+-0.278992
+0.416847
+4
+NC_004022
+mitochondrion Taenia solium (pork tapeworm)
+13709
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.862987
+1.
+0.0653557
+-0.176174
+0.314715
+5
+NC_004826
+mitochondrion Taenia asiatica (tapeworm)
+13703
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.934177
+0.4694
+-0.0250154
+-0.24947
+0.200373
+6
+NC_008075
+mitochondrion Echinococcus granulosus (hydatid disease agent)
+13588
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.852501
+0.345473
+0.0296571
+-0.323163
+0.383725
+7
+NC_009460
+mitochondrion Echinococcus shiquicus (tapeworm)
+13807
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.723079
+0.256616
+0.0411325
+-0.288778
+0.308804
+8
+NC_009461
+mitochondrion Echinococcus oligarthrus (tapeworm)
+13791
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+0.900847
+0.416349
+0.0447944
+-0.339927
+0.349821
+9
+NC_009462
+mitochondrion Echinococcus vogeli (tapeworm)
+13750
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.894528
+0.977986
+0.0590774
+-0.221048
+0.348021
+10
+NC_009938
+mitochondrion Taenia saginata (beef tapeworm)
+13670
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.952174
+0.42006
+-0.0719363
+-0.178808
+0.190885
+11
+NC_011121
+mitochondrion Echinococcus canadensis (tapeworm)
+13721
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+1.
+0.479788
+-0.0523032
+-0.22854
+0.226741
+12
+NC_011122
+mitochondrion Echinococcus ortleppi (tapeworm)
+13717
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.905726
+0.838121
+-0.0500534
+-0.133208
+0.171829
+13
+NC_012894
+mitochondrion Taenia multiceps (tapeworm)
+13693
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.399322
+-0.735398
+-0.970689
+-0.041771
+1.
+14
+NC_012896
+mitochondrion Taenia hydatigena (tapeworm)
+13492
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.451045
+-0.536254
+-0.037566
+-0.433455
+-0.212335
+15
+NC_013844
+mitochondrion Taenia pisiformis (tapeworm)
+13387
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.237918
+-0.690507
+-0.178565
+-0.119931
+-0.644205
+16
+NC_014768
+mitochondrion Hydatigera taeniaeformis (tapeworm)
+13647
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Hydatigera}
+-0.387702
+-0.425814
+0.341634
+-0.996821
+0.690013
+17
+NC_020153
+mitochondrion Taenia martis (marten tapeworm)
+13536
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+0.925552
+0.481037
+-0.0553019
+-0.315906
+0.305832
+18
+NC_020374
+mitochondrion Echinococcus equinus (horse tapeworm)
+13605
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.419028
+-0.547513
+0.303122
+-1.
+0.641401
+19
+NC_021093
+mitochondrion Taenia twitchelli
+13519
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.72079
+0.655502
+0.0183164
+-0.228111
+0.479331
+20
+NC_021138
+mitochondrion Taenia ovis (sheep tapeworm)
+13704
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-1.
+0.752205
+0.0574674
+-0.223803
+0.114084
+21
+NC_021139
+mitochondrion Taenia madoquae
+13689
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.299612
+-0.46172
+0.15615
+-0.637323
+0.0826223
+22
+NC_021140
+mitochondrion Taenia laticollis
+13483
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.173517
+-0.556138
+0.0484084
+-0.295695
+-0.575894
+23
+NC_021141
+mitochondrion Hydatigera parva
+13482
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Hydatigera}
+-0.334841
+-0.696028
+-0.0988772
+-0.0246896
+-1.
+24
+NC_021142
+mitochondrion Hydatigera krepkogorski
+13792
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Hydatigera}
+-0.124681
+-0.294203
+0.209636
+-0.472775
+0.559949
+25
+NC_021143
+mitochondrion Versteria mustelae
+13582
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Versteria}
+0.910575
+0.382332
+-0.00165341
+-0.322214
+0.280331
+26
+NC_021144
+mitochondrion Echinococcus felidis
+13632
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Echinococcus}
+-0.0254869
+-0.41838
+0.328703
+-0.34538
+0.563086
+27
+NC_021145
+mitochondrion Dipylidium caninum
+14296
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Dipylidiidae  Dipylidium}
+-0.896781
+0.808844
+0.0403554
+-0.165489
+0.290924
+28
+NC_021457
+mitochondrion Taenia serialis
+13688
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.378619
+-0.706611
+-1.
+-0.0370415
+0.989825
+29
+NC_024589
+mitochondrion Taenia regis
+13489
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.623493
+0.331778
+0.0610829
+-0.265775
+0.38067
+30
+NC_024590
+mitochondrion Taenia arctos
+13650
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}
+-0.939174
+0.908297
+-0.00313239
+-0.176721
+0.224378
+31
+NC_024591
+mitochondrion Taenia crocutae
+13711
+{Eukaryota  Metazoa  Platyhelminthes  Cestoda  Eucestoda  Cyclophyllidea  Taeniidae  Taenia}

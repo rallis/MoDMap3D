@@ -1,0 +1,716 @@
+71
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Caudata (71)
+-0.395664
+0.271963
+-0.325497
+0.0135758
+0.654469
+1
+NC_002756
+mitochondrion Lyciasalamandra atifi (Lycian salamander)
+16650
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Salamandrinae  Lyciasalamandra}
+0.583741
+0.0767649
+-0.12274
+-0.442327
+0.788929
+2
+NC_004021
+mitochondrion Ranodon sibiricus (Siberian salamander)
+16418
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Ranodon}
+-0.134199
+0.0999834
+-0.567856
+-0.177819
+-1.
+3
+NC_004926
+mitochondrion Andrias davidianus (Chinese giant salamander)
+16503
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Cryptobranchidae  Andrias}
+-0.631957
+-1.
+0.696825
+0.0378607
+0.769745
+4
+NC_005797
+mitochondrion Ambystoma mexicanum (axolotl)
+16369
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.481948
+0.211446
+-0.957438
+0.253577
+1.
+5
+NC_006325
+mitochondrion Stereochilus marginatus (many-lined salamander)
+19631
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Stereochilus}
+-0.384951
+0.12619
+-0.724308
+0.177622
+0.779824
+6
+NC_006326
+mitochondrion Oedipina poelzi (quarry worm salamander)
+16731
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Oedipina  Oedipina}
+-0.346981
+0.0985309
+-0.951879
+0.138881
+0.83508
+7
+NC_006327
+mitochondrion Aneides flavipunctatus (black salamander)
+20197
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Aneides}
+-0.354602
+0.101989
+-0.850195
+0.149319
+0.831436
+8
+NC_006328
+mitochondrion Ensatina eschscholtzii (redwood salamander)
+22816
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Ensatina}
+-0.391886
+0.0760004
+-0.87979
+0.142058
+0.889695
+9
+NC_006329
+mitochondrion Eurycea bislineata (two-lined salamander)
+17184
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Eurycea}
+-0.495468
+-0.667992
+0.314623
+0.021171
+0.739326
+10
+NC_006330
+mitochondrion Ambystoma laterale (blue-spotted salamander)
+16367
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.238498
+0.0337396
+-0.622859
+-0.0063071
+0.731969
+11
+NC_006331
+mitochondrion Rhyacotriton variegatus (southern torrent salamander)
+21606
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Rhyacotritonidae  Rhyacotriton}
+-0.414375
+0.0899481
+-1.
+0.258872
+0.965038
+12
+NC_006332
+mitochondrion Pseudotriton ruber (red salamander)
+16661
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Pseudotriton}
+-0.419889
+0.140774
+-0.826223
+0.216579
+0.85394
+13
+NC_006333
+mitochondrion Batrachoseps wrighti (Oregon slender salamander)
+19789
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Batrachoseps}
+-0.423147
+0.112947
+-0.937803
+0.22893
+0.835698
+14
+NC_006334
+mitochondrion Plethodon petraeus (Pigeon Mountain salamander)
+19235
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Plethodon}
+-0.405612
+0.0909069
+-0.995983
+0.265864
+0.909312
+15
+NC_006335
+mitochondrion Plethodon elongatus (Del Norte salamander)
+18767
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Plethodon}
+-0.459983
+0.186558
+-0.795848
+0.258127
+0.725984
+16
+NC_006336
+mitochondrion Thorius n. sp. RLM-2004 (Mexican pygmy salamander)
+19097
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Thorius}
+-0.356649
+0.0516513
+-0.863174
+0.152678
+0.808794
+17
+NC_006337
+mitochondrion Desmognathus wrighti (pygmy salamander)
+16578
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Desmognathus}
+-0.340177
+0.121635
+-0.91866
+0.174797
+0.828767
+18
+NC_006338
+mitochondrion Aneides hardii (Sacramento mountain salamander)
+22184
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Aneides}
+-0.296783
+-0.024124
+-0.897925
+0.115704
+0.905477
+19
+NC_006339
+mitochondrion Desmognathus fuscus (dusky salamander)
+16628
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Desmognathus}
+-0.378867
+0.102139
+-0.837117
+0.158226
+0.853092
+20
+NC_006340
+mitochondrion Batrachoseps attenuatus (California slender
+17559
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Batrachoseps}
+-0.483211
+0.144359
+-0.991411
+0.280761
+0.99917
+21
+NC_006341
+mitochondrion Gyrinophilus porphyriticus (spring salamander)
+16778
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Gyrinophilus}
+-0.394988
+0.0765912
+-0.742473
+0.15073
+0.895515
+22
+NC_006342
+mitochondrion Hemidactylium scutatum (four-toed salamander)
+17421
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Hemidactylium}
+-0.413626
+0.12931
+-0.932862
+0.196626
+0.832613
+23
+NC_006343
+mitochondrion Plethodon cinereus (red-backed salamander)
+20001
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Plethodon}
+-0.338561
+0.0631614
+-0.919827
+0.175023
+0.923469
+24
+NC_006344
+mitochondrion Phaeognathus hubrichti (Red Hills salamander)
+16294
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Phaeognathus}
+-0.278231
+-0.00262848
+-0.876413
+0.111247
+0.811935
+25
+NC_006345
+mitochondrion Hydromantes brunus (limestone salamander)
+17220
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Plethodontinae  Hydromantes  Hydromantes}
+-0.396902
+0.123364
+-0.803915
+0.171757
+0.731683
+26
+NC_006346
+mitochondrion Bolitoglossa n. sp. RLM-2004 (mushroomtongue
+21657
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Plethodontidae  Hemidactyliinae  Bolitoglossa  unclassified Bolitoglossa}
+-0.510424
+0.388765
+-0.040833
+-0.0132386
+0.726993
+27
+NC_006407
+mitochondrion Paramesotriton hongkongensis (Hong Kong warty newt)
+16285
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Paramesotriton}
+-0.601155
+-0.928638
+0.630993
+0.0355772
+0.763992
+28
+NC_006887
+mitochondrion Ambystoma tigrinum tigrinum (Eastern tiger
+16375
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.621279
+-0.988405
+0.689189
+0.0365511
+0.769065
+29
+NC_006888
+mitochondrion Ambystoma andersoni (Anderson's salamander)
+16370
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.612936
+-0.971325
+0.671533
+0.0348046
+0.760792
+30
+NC_006889
+mitochondrion Ambystoma dumerilii (Lake Patzcuaro salamander)
+16370
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.571985
+-0.832143
+0.564353
+0.0540226
+0.743895
+31
+NC_006890
+mitochondrion Ambystoma californiense (California tiger salamander)
+16374
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.144781
+0.103599
+-0.561944
+-0.169921
+-0.992156
+32
+NC_007446
+mitochondrion Andrias japonicus (Japanese giant salamander)
+16298
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Cryptobranchidae  Andrias}
+0.861117
+0.173213
+0.206322
+0.69154
+0.693215
+33
+NC_008076
+mitochondrion Hynobius amjiensis (Amji salamander)
+16401
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.704951
+0.0873842
+-0.0625644
+-1.
+0.883759
+34
+NC_008077
+mitochondrion Batrachuperus londongensis (Longdong stream
+16379
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Batrachuperus}
+0.568553
+0.0963673
+-0.129447
+-0.784447
+0.867446
+35
+NC_008078
+mitochondrion Liua shihi (Wushan salamander)
+16376
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Liua}
+0.913662
+0.18644
+0.239014
+0.765511
+0.746051
+36
+NC_008079
+mitochondrion Hynobius leechii (Gensan salamander)
+16428
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.497496
+0.100768
+-0.164667
+-0.440529
+0.772295
+37
+NC_008080
+mitochondrion Pachyhynobius shangchengensis (Shangcheng stout
+16394
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Pachyhynobius}
+0.546818
+0.107768
+-0.137302
+-0.734786
+0.846035
+38
+NC_008081
+mitochondrion Liua tsinpaensis (Ranodon tsinpaensis)
+16380
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Liua}
+0.515643
+0.137826
+-0.118409
+-0.527048
+0.801638
+39
+NC_008082
+mitochondrion Salamandrella keyserlingii (Siberian salamander)
+16338
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Salamandrella}
+0.748979
+0.105289
+-0.0686601
+-0.97783
+0.878357
+40
+NC_008083
+mitochondrion Batrachuperus pinchonii (Western Chinese mountain
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Batrachuperus}
+0.795287
+0.11952
+0.0494133
+0.339427
+0.851944
+41
+NC_008084
+mitochondrion Hynobius formosanus (Formosan salamander)
+16394
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Poyarius}
+0.718524
+0.105386
+-0.0695908
+-0.953885
+0.88543
+42
+NC_008085
+mitochondrion Batrachuperus tibetanus (Tibetan mountain salamander)
+16379
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Batrachuperus}
+0.98775
+0.218926
+0.326368
+1.
+0.669709
+43
+NC_008088
+mitochondrion Hynobius chinensis (Chinese salamander)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.13206
+0.044482
+-0.35171
+-0.195657
+0.682631
+44
+NC_008089
+mitochondrion Onychodactylus fischeri (Fischer's clawed salamander)
+16456
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Onychodactylus}
+0.49815
+0.129186
+-0.195793
+-0.478067
+0.753607
+45
+NC_008090
+mitochondrion Paradactylodon mustersi (Paghman mountain salamander)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Paradactylodon}
+0.493836
+0.142603
+-0.187387
+-0.523077
+0.758524
+46
+NC_008091
+mitochondrion Paradactylodon gorganensis (Gorgan mountain
+16374
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Paradactylodon}
+0.782781
+0.113072
+0.0493939
+0.37056
+0.843136
+47
+NC_009335
+mitochondrion Hynobius arisanensis (Arisan salamander)
+16401
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Poyarius}
+0.816782
+0.168074
+0.182182
+0.626149
+0.713817
+48
+NC_010224
+mitochondrion Hynobius quelpaertensis (Cheju salamander)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.693772
+0.0779383
+-0.0623518
+-0.83485
+0.866112
+49
+NC_012430
+mitochondrion Batrachuperus yenyuanensis (Yenyuan stream
+16394
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Batrachuperus}
+1.
+0.221358
+0.332547
+0.997392
+0.672367
+50
+NC_013762
+mitochondrion Hynobius guabangshanensis (Guabangshan salamander)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.897165
+0.199371
+0.246993
+0.774901
+0.745
+51
+NC_013825
+mitochondrion Hynobius yangi (Kori salamander)
+16424
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+-0.572717
+-0.764088
+0.454768
+0.0706559
+0.730381
+52
+NC_014568
+mitochondrion Ambystoma barbouri (streamside salamander)
+16365
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.547615
+-0.734038
+0.434014
+0.108918
+0.747573
+53
+NC_014571
+mitochondrion Ambystoma texanum (smallmouth salamander)
+16367
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.566508
+-0.750253
+0.436895
+0.11396
+0.735627
+54
+NC_014572
+mitochondrion Ambystoma unisexual lineage LJJJ (unisexual mole
+16367
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Ambystomatidae  Ambystoma}
+-0.997241
+1.
+1.
+-0.0705879
+0.806266
+55
+NC_015788
+mitochondrion Triturus carnifex (Italian crested newt)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-0.967094
+0.969912
+0.958433
+-0.0431878
+0.787241
+56
+NC_015790
+mitochondrion Triturus cristatus (warty newt)
+16564
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-0.93823
+0.958937
+0.948487
+-0.0596286
+0.781018
+57
+NC_015791
+mitochondrion Triturus dobrogicus (Danube newt)
+16425
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-0.959842
+0.943897
+0.908908
+-0.0936796
+0.769864
+58
+NC_015792
+mitochondrion Triturus karelinii (Balkan newt)
+16541
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-1.
+0.987101
+0.986129
+-0.0561517
+0.810053
+59
+NC_015794
+mitochondrion Triturus macedonicus (Macedonian crested newt)
+16569
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-0.78894
+0.74237
+0.533748
+0.0097933
+0.732661
+60
+NC_015795
+mitochondrion Triturus marmoratus (marbled newt)
+16546
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-0.79251
+0.751371
+0.522494
+-0.000207985
+0.70314
+61
+NC_015796
+mitochondrion Triturus pygmaeus (southern marbled newt)
+16442
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Triturus}
+-0.494469
+0.309879
+-0.246988
+0.0864613
+0.683705
+62
+NC_017870
+mitochondrion Echinotriton andersoni (Ryukyu spiny newt)
+16268
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Echinotriton}
+-0.525935
+0.362739
+-0.147622
+0.0486306
+0.666312
+63
+NC_017871
+mitochondrion Tylototriton verrucosus (crocodile newt)
+17100
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Salamandridae  Pleurodelinae  Tylototriton  Tylototriton}
+0.433779
+0.181115
+-0.141083
+-0.574071
+0.773189
+64
+NC_020634
+mitochondrion Pseudohynobius puxiongensis
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Pseudohynobius}
+0.471624
+0.0810946
+-0.160137
+-0.639649
+0.824309
+65
+NC_020635
+mitochondrion Pseudohynobius flavomaculatus (yellow-spotted
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Pseudohynobius}
+0.877189
+0.189945
+0.222033
+0.704843
+0.728358
+66
+NC_020649
+mitochondrion Hynobius yiwuensis
+16494
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.865702
+0.173003
+0.180045
+0.578944
+0.749645
+67
+NC_020650
+mitochondrion Hynobius nebulosus
+16447
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}
+0.533928
+0.130913
+-0.083386
+-0.550508
+0.788835
+68
+NC_021106
+mitochondrion Salamandrella tridactyla (Schrenck's Siberian newt)
+16342
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Salamandrella}
+-0.226285
+0.0653752
+-0.543645
+-0.0270324
+0.687877
+69
+NC_023341
+mitochondrion Necturus beyeri (Gulf Coast waterdog)
+16284
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Proteidae  Necturus}
+-0.397496
+0.204259
+-0.528435
+0.143689
+0.629216
+70
+NC_023342
+mitochondrion Proteus anguinus (olm)
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Salamandroidea  Proteidae  Proteus}
+0.969032
+0.210734
+0.31286
+0.967023
+0.660925
+71
+NC_023789
+mitochondrion Hynobius maoershanensis
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Batrachia  Caudata  Cryptobranchoidea  Hynobiidae  Hynobius  Hynobius}

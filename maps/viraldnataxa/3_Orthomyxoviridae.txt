@@ -1,0 +1,696 @@
+69
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Orthomyxoviridae (69)
+-1.
+0.264194
+-0.496191
+0.278477
+-0.0661859
+1
+NC_002016
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+1027
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.821753
+0.235347
+-0.547416
+0.272976
+-0.0794814
+2
+NC_002017
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+1778
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.834011
+0.278738
+-0.552517
+0.258834
+-0.0675654
+3
+NC_002018
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+1413
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.947319
+0.217067
+0.951589
+0.279754
+-0.093868
+4
+NC_002019
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+1565
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.927853
+-0.946568
+-0.884826
+-0.207393
+-0.0557656
+5
+NC_002020
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+890
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.914274
+0.367642
+-0.74999
+0.614583
+-0.499279
+6
+NC_002021
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.917954
+0.95389
+-0.807366
+-0.905309
+-0.127063
+7
+NC_002022
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+2233
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.970703
+0.475405
+-0.884958
+0.817896
+0.88775
+8
+NC_002023
+Influenza A virus (A/Puerto Rico/8/1934(H1N1))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.856217
+0.277896
+-0.590495
+0.327509
+-0.122742
+9
+NC_002204
+Influenza B virus
+2368
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.848616
+0.298588
+-0.567221
+0.292926
+-0.0282885
+10
+NC_002205
+Influenza B virus
+2313
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.857525
+0.304427
+-0.552086
+0.288098
+-0.0733691
+11
+NC_002206
+Influenza B virus
+2204
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.823121
+0.269171
+-0.524085
+0.279498
+-0.0422251
+12
+NC_002207
+Influenza B virus
+1882
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.830559
+0.271727
+-0.505772
+0.282128
+-0.0421541
+13
+NC_002208
+Influenza B virus
+1841
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.841577
+0.261808
+-0.507675
+0.304243
+-0.042946
+14
+NC_002209
+Influenza B virus
+1557
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.830168
+0.243495
+-0.53178
+0.280821
+-0.0589415
+15
+NC_002210
+Influenza B virus
+1191
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.847483
+0.271196
+-0.530124
+0.265767
+-0.0484825
+16
+NC_002211
+Influenza B virus
+1096
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus B}
+0.963776
+0.211759
+0.876968
+0.287558
+-0.0939859
+17
+NC_004905
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+1557
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.910406
+-0.73642
+-0.818117
+-0.13074
+-0.0549574
+18
+NC_004906
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+890
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+-0.586283
+0.26741
+-0.515594
+0.27227
+-0.0700157
+19
+NC_004907
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+1025
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.815322
+0.274399
+-0.538109
+0.260809
+-0.0599287
+20
+NC_004908
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+1714
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.846685
+0.268539
+-0.54931
+0.27668
+-0.0626416
+21
+NC_004909
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+1418
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.91907
+0.406675
+-0.78198
+0.628473
+0.574904
+22
+NC_004910
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.998251
+0.429985
+-0.992473
+0.978767
+-0.960989
+23
+NC_004911
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+2328
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.90115
+0.736059
+-0.711584
+-0.499377
+-0.119686
+24
+NC_004912
+Influenza A virus (A/Hong Kong/1073/99(H9N2))
+2225
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.837976
+0.263773
+-0.532159
+0.25147
+-0.0572463
+25
+NC_006306
+Influenza C virus (C/Ann Arbor/1/50)
+935
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.826748
+0.292874
+-0.539461
+0.303617
+-0.0616249
+26
+NC_006307
+Influenza C virus (C/Ann Arbor/1/50)
+2325
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.858329
+0.291777
+-0.553499
+0.324078
+-0.101382
+27
+NC_006308
+Influenza C virus (C/Ann Arbor/1/50)
+2265
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.8573
+0.294974
+-0.535471
+0.266471
+-0.0661689
+28
+NC_006309
+Influenza C virus (C/Ann Arbor/1/50)
+2130
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.842416
+0.291152
+-0.555088
+0.285785
+-0.0519593
+29
+NC_006310
+Influenza C virus (C/Ann Arbor/1/50)
+1968
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.843011
+0.302917
+-0.529317
+0.278043
+-0.0745237
+30
+NC_006311
+Influenza C virus (C/Ann Arbor/1/50)
+1807
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.82474
+0.260763
+-0.547746
+0.257152
+-0.0348123
+31
+NC_006312
+Influenza C virus (C/Ann Arbor/1/50)
+1125
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus C}
+0.836729
+0.294035
+-0.518716
+0.283482
+-0.0402344
+32
+NC_006495
+Thogoto virus
+2212
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Thogotovirus}
+0.836219
+0.270076
+-0.523403
+0.276134
+-0.0518652
+33
+NC_006496
+Thogoto virus
+1927
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Thogotovirus}
+0.832618
+0.275207
+-0.523288
+0.289156
+-0.0643793
+34
+NC_006497
+Infectious salmon anemia virus
+736
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.789866
+0.279869
+-0.510761
+0.267357
+-0.0601921
+35
+NC_006498
+Infectious salmon anemia virus
+966
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.833584
+0.268781
+-0.553789
+0.298442
+-0.0484146
+36
+NC_006499
+Infectious salmon anemia virus
+1323
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.82116
+0.271755
+-0.525431
+0.284281
+-0.0634159
+37
+NC_006500
+Infectious salmon anemia virus
+1504
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.840113
+0.28303
+-0.525895
+0.276472
+-0.0588324
+38
+NC_006501
+Infectious salmon anemia virus
+1787
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.842403
+0.266913
+-0.558787
+0.283935
+-0.0408749
+39
+NC_006502
+Infectious salmon anemia virus
+2046
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.839152
+0.300551
+-0.536615
+0.295385
+-0.0453787
+40
+NC_006503
+Infectious salmon anemia virus
+2185
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.810306
+0.264846
+-0.504051
+0.272342
+-0.0532178
+41
+NC_006504
+Thogoto virus
+955
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Thogotovirus}
+0.840006
+0.281475
+-0.488722
+0.284908
+-0.0378323
+42
+NC_006505
+Infectious salmon anemia virus (ISAV)
+2169
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Isavirus}
+0.818605
+0.261338
+-0.493956
+0.27196
+-0.0598988
+43
+NC_006506
+Thogoto virus
+1574
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Thogotovirus}
+0.822356
+0.267776
+-0.518949
+0.263108
+-0.0691818
+44
+NC_006507
+Thogoto virus
+1418
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Thogotovirus}
+0.801828
+0.2664
+-0.514443
+0.261848
+-0.0594147
+45
+NC_006508
+Thogoto virus
+2375
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Thogotovirus}
+0.934603
+0.412179
+-0.785562
+0.619844
+0.563844
+46
+NC_007357
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+1.
+0.446973
+-1.
+1.
+-1.
+47
+NC_007358
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.895889
+0.762681
+-0.711697
+-0.56435
+-0.115785
+48
+NC_007359
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+2233
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.959864
+0.2088
+0.929082
+0.281896
+-0.0931859
+49
+NC_007360
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+1565
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.813715
+0.273386
+-0.523612
+0.261718
+-0.0477897
+50
+NC_007361
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+1458
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.841857
+0.273253
+-0.522411
+0.301784
+-0.0672859
+51
+NC_007362
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+1760
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+-0.706663
+0.257765
+-0.523289
+0.270793
+-0.0691841
+52
+NC_007363
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+1027
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.855708
+-0.150388
+-0.637814
+0.125078
+-0.0645318
+53
+NC_007364
+Influenza A virus (A/goose/Guangdong/1/1996(H5N1))
+865
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.848584
+0.240138
+-0.557727
+0.291946
+-0.0451945
+54
+NC_007366
+Influenza A virus (A/New York/392/2004(H3N2))
+1762
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+-0.872066
+0.259932
+-0.509482
+0.292169
+-0.0661035
+55
+NC_007367
+Influenza A virus (A/New York/392/2004(H3N2))
+1027
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.84938
+0.269034
+-0.550289
+0.260242
+-0.0554941
+56
+NC_007368
+Influenza A virus (A/New York/392/2004(H3N2))
+1467
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.918795
+0.228553
+0.779861
+0.280532
+-0.0877742
+57
+NC_007369
+Influenza A virus (A/New York/392/2004(H3N2))
+1566
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.928325
+-0.955873
+-0.891082
+-0.200082
+-0.0546086
+58
+NC_007370
+Influenza A virus (A/New York/392/2004(H3N2))
+890
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.918681
+0.898936
+-0.782081
+-0.821588
+-0.115904
+59
+NC_007371
+Influenza A virus (A/New York/392/2004(H3N2))
+2233
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.957176
+0.422587
+-0.887951
+0.82156
+-0.758298
+60
+NC_007372
+Influenza A virus (A/New York/392/2004(H3N2))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.968867
+0.475572
+-0.867746
+0.830951
+0.888554
+61
+NC_007373
+Influenza A virus (A/New York/392/2004(H3N2))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.848038
+0.252635
+-0.524229
+0.286951
+-0.036123
+62
+NC_007374
+Influenza A virus (A/Korea/426/1968(H2N2))
+1773
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.988011
+0.438799
+-0.961573
+0.945369
+-0.91428
+63
+NC_007375
+Influenza A virus (A/Korea/426/1968(H2N2))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.928436
+1.
+-0.827218
+-1.
+-0.12063
+64
+NC_007376
+Influenza A virus (A/Korea/426/1968(H2N2))
+2233
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+-0.984127
+0.261292
+-0.505357
+0.277103
+-0.0680766
+65
+NC_007377
+Influenza A virus (A/Korea/426/1968(H2N2))
+1027
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.985486
+0.493363
+-0.925058
+0.880417
+1.
+66
+NC_007378
+Influenza A virus (A/Korea/426/1968(H2N2))
+2341
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.945128
+-1.
+-0.90925
+-0.232493
+-0.0523521
+67
+NC_007380
+Influenza A virus (A/Korea/426/1968(H2N2))
+838
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.946712
+0.240017
+1.
+0.288843
+-0.101961
+68
+NC_007381
+Influenza A virus (A/Korea/426/1968(H2N2))
+1497
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}
+0.855838
+0.266185
+-0.554242
+0.283175
+-0.0520112
+69
+NC_007382
+Influenza A virus (A/Korea/426/1968(H2N2))
+1410
+{root  Viruses  ssRNA negative strand viruses  Orthomyxoviridae  Influenzavirus A}

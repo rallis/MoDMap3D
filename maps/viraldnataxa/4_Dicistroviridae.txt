@@ -1,0 +1,176 @@
+17
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Dicistroviridae (17)
+0.74011
+-0.87535
+-0.0533905
+-1.
+0.872667
+1
+NC_001834
+Drosophila C virus
+9264
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+0.726227
+-0.724903
+-0.0683066
+-0.730818
+-0.614432
+2
+NC_001874
+Rhopalosiphum padi virus
+10011
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+-0.338506
+-0.287828
+-0.0229124
+-0.559781
+0.190584
+3
+NC_002548
+Acute bee paralysis virus
+9491
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Aparavirus}
+0.922045
+1.
+-0.552289
+-0.40873
+0.205058
+4
+NC_003005
+Taura syndrome virus
+10205
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Aparavirus}
+0.776642
+-0.697919
+0.725944
+-0.380174
+1.
+5
+NC_003779
+Plautia stali intestine virus
+8797
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+0.796836
+-0.410666
+0.398758
+-0.117875
+0.811005
+6
+NC_003782
+Himetobi P virus
+9275
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+0.762114
+-0.558148
+1.
+-0.309359
+0.558173
+7
+NC_003783
+Triatoma virus
+9010
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+0.811608
+-0.442496
+0.872115
+0.197807
+-0.609577
+8
+NC_003784
+Black queen cell virus
+8550
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+0.63521
+-1.
+-0.649431
+-0.734857
+0.830998
+9
+NC_003924
+Cricket paralysis virus
+9185
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+0.623781
+-0.764996
+-0.296233
+-0.889309
+-1.
+10
+NC_004365
+Aphid lethal paralysis virus
+9812
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+-1.
+-0.046609
+0.0525378
+-0.312003
+0.322971
+11
+NC_004807
+Kashmir bee virus
+9524
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Aparavirus}
+0.348071
+-0.71964
+-0.493601
+-0.87159
+0.721017
+12
+NC_006559
+Solenopsis invicta virus-1
+8026
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Aparavirus}
+0.740317
+-0.705012
+-1.
+1.
+0.419745
+13
+NC_008029
+Homalodisca coagulata virus-1
+9345
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Cripavirus}
+-0.824816
+0.0241127
+0.146798
+-0.343692
+0.350572
+14
+NC_009025
+Israeli acute paralysis virus (IAPV)
+9499
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  Aparavirus}
+1.
+0.919829
+0.111803
+-0.609721
+0.461263
+15
+NC_014793
+Mud crab dicistrovirus
+10436
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  unclassified Dicistroviridae}
+0.984472
+0.97741
+-0.0303138
+-0.578637
+0.388205
+16
+NC_018570
+Macrobrachium rosenbergii Taihu virus
+10303
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  unclassified Dicistroviridae}
+-0.885686
+-0.0427986
+0.0800721
+-0.329823
+0.315692
+17
+NC_023021
+Formica exsecta virus 1
+9554
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Dicistroviridae  unclassified Dicistroviridae}

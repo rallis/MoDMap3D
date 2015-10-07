@@ -1,0 +1,136 @@
+13
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Crotalinae (13)
+0.191099
+0.24331
+0.0767541
+0.398077
+-1.
+1
+NC_007397
+mitochondrion Ovophis okinavensis (himehabu)
+17388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Ovophis}
+0.248432
+0.541919
+-0.303748
+0.636615
+-0.11036
+2
+NC_009768
+mitochondrion Agkistrodon piscivorus (cottonmouth)
+17213
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Agkistrodon}
+0.278676
+1.
+0.0473654
+-1.
+0.74696
+3
+NC_010223
+mitochondrion Deinagkistrodon acutus (Chinese moccasin)
+17548
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Deinagkistrodon}
+-0.395245
+-0.144567
+0.0265241
+0.285504
+-0.286327
+4
+NC_011390
+mitochondrion Gloydius brevicaudus (short-tailed mamushi)
+17227
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Gloydius}
+0.336897
+0.425651
+0.878623
+0.772107
+0.717417
+5
+NC_012146
+mitochondrion Trimeresurus stejnegeri stejnegeri (Taiwan green tree
+17239
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Trimeresurus}
+0.168248
+0.943323
+-1.
+1.
+1.
+6
+NC_014400
+mitochondrion Crotalus horridus (timber rattlesnake)
+17260
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Crotalus}
+1.
+-0.969936
+0.00865003
+0.358074
+0.458429
+7
+NC_021402
+mitochondrion Protobothrops jerdonii
+17239
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.852558
+-0.704234
+0.0134592
+0.313695
+0.387117
+8
+NC_021412
+mitochondrion Protobothrops mucrosquamatus
+17234
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.985761
+-1.
+-0.0082062
+0.368677
+0.417006
+9
+NC_022473
+mitochondrion Protobothrops dabieshanensis
+17193
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.978562
+-0.880324
+0.0169314
+0.36079
+0.460786
+10
+NC_022695
+mitochondrion Protobothrops cornutus
+17219
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Protobothrops}
+0.350768
+0.784692
+1.
+0.811695
+0.578619
+11
+NC_022820
+mitochondrion Trimeresurus albolabris (white-lipped tree viper)
+17220
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Trimeresurus}
+-1.
+-0.944541
+0.120463
+0.359405
+0.633775
+12
+NC_025560
+mitochondrion Gloydius intermedius (Central Asian pitviper)
+17226
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Gloydius}
+-0.985905
+-0.998453
+0.103153
+0.376529
+0.661628
+13
+NC_025666
+mitochondrion Gloydius saxatilis
+17218
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Viperidae  Crotalinae  Gloydius}

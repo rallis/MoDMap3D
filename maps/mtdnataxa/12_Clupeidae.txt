@@ -1,0 +1,526 @@
+52
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Clupeidae (52)
+0.0595307
+0.517321
+-0.221574
+-0.095197
+-0.434433
+1
+NC_002616
+mitochondrion Sardinops melanostictus (Japanese pilchard)
+16881
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sardinops}
+-0.069056
+0.0126579
+0.189342
+-0.752257
+-0.44778
+2
+NC_006917
+mitochondrion Jenkinsia lamprotaenia (dwarf round herring)
+16784
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Spratelloidinae  Jenkinsia}
+0.235837
+-0.897268
+0.226336
+0.503463
+-0.175759
+3
+NC_006919
+mitochondrion Sundasalanx mekongensis (clupeiform fish)
+16736
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sundasalanx}
+0.564928
+0.550897
+0.325361
+0.0150032
+-0.650356
+4
+NC_008107
+mitochondrion Dorosoma cepedianum (American gizzard shad)
+16704
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Dorosoma}
+0.313611
+1.
+-0.998132
+0.979762
+0.151337
+5
+NC_009575
+mitochondrion Alosa alosa (allis shad)
+16698
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Alosa}
+0.324904
+0.958256
+-0.834878
+0.919039
+0.0511289
+6
+NC_009576
+mitochondrion Alosa pseudoharengus (alewife)
+16646
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Alosa}
+-0.988837
+0.647255
+0.943406
+0.744234
+-0.19762
+7
+NC_009577
+mitochondrion Clupea harengus (Atlantic herring)
+16701
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupea}
+-1.
+0.662406
+0.946983
+0.733369
+-0.201894
+8
+NC_009578
+mitochondrion Clupea pallasii (Pacific herring)
+16700
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupea}
+0.572554
+0.543477
+0.340703
+0.0561831
+-0.590419
+9
+NC_009580
+mitochondrion Dorosoma petenense (threadfin shad)
+16792
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Dorosoma}
+0.606768
+0.568612
+0.364841
+0.0467466
+-0.593304
+10
+NC_009582
+mitochondrion Ethmalosa fimbriata (Bonga shad)
+16898
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Ethmalosa}
+0.364093
+0.550398
+0.208419
+-0.753565
+-0.993543
+11
+NC_009586
+mitochondrion Nematalosa japonica (Japanese gizzard shad)
+16655
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Nematalosa}
+0.484551
+0.689826
+0.241896
+-0.174469
+-0.754906
+12
+NC_009587
+mitochondrion Sardinella maderensis (Madeiran sardinella)
+16651
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sardinella}
+-0.0556658
+0.0633423
+0.11935
+-0.848739
+-0.520438
+13
+NC_009588
+mitochondrion Spratelloides delicatulus (delicate round herring)
+16617
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Spratelloidinae  Spratelloides}
+-0.066243
+0.0676606
+0.141856
+-0.645748
+-0.432739
+14
+NC_009589
+mitochondrion Spratelloides gracilis (silver-stripe round herring)
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Spratelloidinae  Spratelloides}
+0.985733
+0.526492
+0.998657
+0.564948
+-0.269649
+15
+NC_009590
+mitochondrion Odaxothrissa vittata (Regan's fangtooth pellonuline)
+16733
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Odaxothrissa}
+1.
+0.547866
+0.984328
+0.618771
+-0.23673
+16
+NC_009591
+mitochondrion Pellonula leonensis (smalltoothed pellonula)
+16736
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Pellonula}
+-0.0708291
+0.33225
+-0.00930267
+-0.403272
+-0.489321
+17
+NC_009592
+mitochondrion Sardina pilchardus (sardine)
+16822
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sardina}
+-0.797843
+0.580821
+0.830436
+0.57939
+-0.256599
+18
+NC_009593
+mitochondrion Sprattus sprattus (European sprat)
+16668
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sprattus}
+0.239442
+0.805068
+-0.504937
+0.521407
+-0.148448
+19
+NC_014266
+mitochondrion Brevoortia tyrannus (Atlantic menhaden)
+16692
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Brevoortia}
+0.332802
+0.984789
+-1.
+1.
+0.157064
+20
+NC_014690
+mitochondrion Alosa sapidissima (American shad)
+16697
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Alosa}
+-0.123306
+-0.0780654
+0.171953
+-0.733853
+-0.293734
+21
+NC_015076
+mitochondrion Jenkinsia sp. CL54 (round herring)
+17507
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Spratelloidinae  Jenkinsia}
+0.173284
+0.241237
+0.0468976
+0.00346196
+-0.607878
+22
+NC_015109
+mitochondrion Clupeonella cultriventris (Black Sea sprat)
+16650
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupeonella}
+0.226162
+-0.932122
+0.230041
+0.49579
+-0.230209
+23
+NC_016663
+mitochondrion Sundasalanx sp. Chao Phraya
+16748
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sundasalanx}
+0.106617
+0.293002
+0.206548
+-0.616168
+-0.593926
+24
+NC_016667
+mitochondrion Harengula jaguana (scaled sardine)
+17158
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Harengula}
+-0.956047
+0.700863
+0.835769
+0.41607
+-0.483704
+25
+NC_016669
+mitochondrion Sprattus muelleri (New Zealand sprat)
+16726
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sprattus}
+0.122222
+0.273683
+0.186926
+0.125105
+-0.41839
+26
+NC_016671
+mitochondrion Hyperlophus vittatus (sandy sprat)
+16653
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Hyperlophus}
+-0.952704
+0.709279
+0.825747
+0.424877
+-0.491505
+27
+NC_016673
+mitochondrion Sprattus antipodum (New Zealand blueback sprat)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sprattus}
+0.168347
+0.260804
+0.260203
+0.40291
+-0.244469
+28
+NC_016674
+mitochondrion Potamalosa richmondia (Australian freshwater herring)
+16681
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Potamalosa}
+0.906688
+0.474231
+0.915389
+0.538182
+-0.191045
+29
+NC_016678
+mitochondrion Odaxothrissa losera (Losera fangtooth pellonuline)
+16730
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Odaxothrissa}
+0.234938
+0.0791063
+0.465178
+-0.9629
+0.996047
+30
+NC_016682
+mitochondrion Tenualosa ilisha (Hilsa ilisa)
+16821
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Tenualosa}
+0.959633
+0.529553
+1.
+0.492227
+-0.275826
+31
+NC_016683
+mitochondrion Microthrissa royauxi (royal sprat)
+16738
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Microthrissa}
+0.932188
+0.502408
+0.925427
+0.479441
+-0.313937
+32
+NC_016688
+mitochondrion Potamothrissa acutirostris (sharpnosed sawtooth
+16736
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Potamothrissa}
+0.364438
+0.587567
+0.251803
+-0.614376
+-0.725342
+33
+NC_016694
+mitochondrion Konosirus punctatus (Konoshiro gizzard shad)
+16698
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Konosirus}
+0.943913
+0.536151
+0.930608
+0.503885
+-0.304872
+34
+NC_016695
+mitochondrion Microthrissa congica (bigscale pellonuline)
+16735
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Microthrissa}
+0.913377
+0.496575
+0.915731
+0.504063
+-0.24323
+35
+NC_016698
+mitochondrion Potamothrissa obtusirostris (bluntnosed sawtooth
+16736
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Potamothrissa}
+0.262207
+0.122369
+0.465678
+-1.
+0.972062
+36
+NC_016700
+mitochondrion Tenualosa toli (Toli shad)
+16541
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Tenualosa}
+0.216097
+-1.
+0.116258
+0.508816
+-0.829065
+37
+NC_016702
+mitochondrion Clupeichthys aesarnensis (Thai river sprat)
+16729
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupeichthys}
+0.254083
+-0.785135
+0.164697
+0.510731
+-0.639395
+38
+NC_016705
+mitochondrion Clupeichthys perakensis (Perak river sprat)
+16672
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupeichthys}
+0.0936975
+0.107718
+0.163566
+-0.458785
+-0.573331
+39
+NC_016706
+mitochondrion Escualosa thoracata (white sardine)
+16749
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Escualosa}
+0.261506
+-0.69194
+0.21814
+0.500416
+-0.279852
+40
+NC_016709
+mitochondrion Clupeoides borneensis (Borneo river sprat)
+16661
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupeoides}
+0.105331
+0.424846
+0.271801
+0.312732
+-0.273295
+41
+NC_016710
+mitochondrion Ethmidium maculatum (Pacific menhaden)
+16741
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Ethmidium}
+0.269343
+-0.688783
+0.264131
+0.55569
+-0.228693
+42
+NC_016714
+mitochondrion Clupeoides sp. Chao Phraya
+16639
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupeoides}
+0.405305
+0.0571879
+0.512692
+-0.414804
+0.614164
+43
+NC_016715
+mitochondrion Gudusia chapra (Indian river shad)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Gudusia}
+0.309649
+-0.314846
+0.232869
+0.406854
+-0.33643
+44
+NC_016717
+mitochondrion Ehirava fluviatilis (Malabar sprat)
+16689
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Ehirava}
+0.238744
+0.104173
+0.444333
+-0.973333
+1.
+45
+NC_016719
+mitochondrion Tenualosa thibaudeaui (Mekong herring)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Tenualosa}
+0.211944
+-0.993522
+0.130847
+0.485394
+-0.844444
+46
+NC_016721
+mitochondrion Clupeichthys goniognathus (Sumatran river sprat)
+16712
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupeichthys}
+0.23791
+-0.704942
+0.192014
+0.372598
+-0.248222
+47
+NC_016725
+mitochondrion Sundasalanx praecox (dwarf noodlefish)
+16748
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sundasalanx}
+0.411983
+0.679781
+0.265392
+-0.294201
+-0.818583
+48
+NC_016726
+mitochondrion Sardinella albella (white sardinella)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Sardinella}
+0.398805
+0.585451
+0.279817
+-0.454766
+-0.701698
+49
+NC_018600
+mitochondrion Clupanodon thrissa (Chinese gizzard shad)
+16692
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Clupanodon}
+0.446787
+0.508355
+0.323957
+-0.397844
+-0.646631
+50
+NC_021446
+mitochondrion Anodontostoma chacunda (Chacunda gizzard shad)
+16772
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Anodontostoma}
+0.356889
+0.563195
+0.229759
+-0.853283
+-1.
+51
+NC_021447
+mitochondrion Nematalosa come (Western Pacific gizzard shad)
+16644
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Nematalosa}
+0.373016
+0.517023
+0.225655
+-0.732398
+-0.942117
+52
+NC_023824
+mitochondrion Nematalosa nasus (Bloch's gizzard shad)
+16674
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Clupei  Clupeiformes  Clupeoidei  Clupeidae  Nematalosa}

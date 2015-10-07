@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Twortlikevirus (11)
+-1.
+-0.235459
+0.0218243
+-0.32261
+-1.
+1
+NC_005880
+Staphylococcus phage K
+127395
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus}
+0.44619
+0.45764
+-0.277711
+1.
+-0.425517
+2
+NC_007021
+Staphylococcus phage Twort
+130706
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus}
+-0.980972
+-0.226376
+0.0240921
+-0.319666
+-0.954661
+3
+NC_007066
+Staphylococcus phage G1
+138715
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus}
+0.534723
+1.
+1.
+-0.625679
+-0.420432
+4
+NC_009811
+Listeria phage A511
+137619
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus}
+-0.737569
+-0.157143
+-0.00041589
+-0.319691
+1.
+5
+NC_019448
+Staphylococcus phage GH15
+139806
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}
+0.364071
+0.755303
+-1.
+-1.
+-0.440005
+6
+NC_019726
+Staphylococcus phage JD007
+141836
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}
+1.
+-1.
+0.0427976
+-0.423291
+-0.406383
+7
+NC_020877
+Staphylococcus phage vB_SauM_Romulus
+131332
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}
+0.995782
+-0.989961
+0.0418961
+-0.420769
+-0.407382
+8
+NC_022090
+Staphylococcus phage vB_SauM_Remus
+134643
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}
+-0.93397
+-0.204467
+0.0176625
+-0.318953
+0.0172322
+9
+NC_022918
+Staphylococcus phage S25-4
+132123
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}
+-0.985526
+-0.224231
+0.0278143
+-0.317478
+-0.477051
+10
+NC_022920
+Staphylococcus phage S25-3
+139738
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}
+-0.939528
+-0.209456
+0.0291345
+-0.320383
+-0.609269
+11
+NC_023573
+Staphylococcus phage phiSA012
+142094
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Spounavirinae  Twortlikevirus  unclassified Twortlikevirus}

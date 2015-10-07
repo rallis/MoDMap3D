@@ -1,0 +1,1276 @@
+127
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Retro transcribing viruses (127)
+-0.281608
+-0.397783
+-0.495966
+-0.196499
+0.996312
+1
+NC_000858
+Simian T-lymphotropic virus 1
+9028
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus}
+-0.783308
+-0.557178
+-0.642945
+0.609604
+-0.0687472
+2
+NC_001343
+Commelina yellow mottle virus
+7489
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.577685
+-0.262434
+1.
+0.721423
+-0.147596
+3
+NC_001344
+Duck hepatitis B virus
+3027
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  Avihepadnavirus}
+0.99183
+-0.992435
+-0.659382
+0.87078
+-0.239162
+4
+NC_001362
+Friend murine leukemia virus
+8323
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  Murine leukemia virus}
+-0.71858
+-0.561815
+-0.64701
+0.66182
+0.0907478
+5
+NC_001364
+Simian foamy virus
+13246
+{root  Viruses  Retro transcribing viruses  Retroviridae  Spumaretrovirinae  Spumavirus}
+-0.29766
+0.223453
+-0.650769
+0.578016
+-0.0156939
+6
+NC_001402
+Avian carcinoma virus
+2630
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus  unclassified Alpharetrovirus}
+-0.272488
+0.188331
+-0.679085
+0.558784
+-0.0268544
+7
+NC_001403
+Fujinami sarcoma virus
+4788
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus}
+-0.0906023
+1.
+-1.
+0.89661
+-0.166873
+8
+NC_001407
+Rous sarcoma virus
+9392
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus}
+-0.126726
+0.900628
+-0.968254
+0.884896
+-0.155016
+9
+NC_001408
+Avian leukosis virus
+7286
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus}
+-0.61495
+-0.503289
+-0.620577
+0.582841
+0.0709644
+10
+NC_001413
+Bovine immunodeficiency virus (BIV)
+8482
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Bovine lentivirus group}
+-0.372321
+-0.41667
+-0.539721
+0.332987
+0.288094
+11
+NC_001414
+Bovine leukemia virus
+8419
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus}
+-0.286115
+-0.409367
+-0.500775
+-0.194678
+1.
+12
+NC_001436
+Human T-lymphotropic virus 1
+8507
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus}
+-0.738242
+-0.540728
+-0.63552
+0.705888
+0.0561635
+13
+NC_001450
+Equine infectious anemia virus
+8359
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Equine lentivirus group}
+-0.782341
+-0.56164
+-0.694865
+0.771719
+-0.00381348
+14
+NC_001452
+Visna/maedi virus
+9202
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Ovine caprine lentivirus group}
+-0.775082
+-0.569388
+-0.713772
+0.78019
+-0.00263316
+15
+NC_001463
+Caprine arthritis encephalitis virus
+9189
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Ovine caprine lentivirus group}
+-0.791466
+-0.588113
+-0.665185
+0.790696
+0.0089938
+16
+NC_001482
+Feline immunodeficiency virus
+9474
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Feline lentivirus group}
+-0.533591
+-0.387382
+-0.428726
+0.43494
+0.178328
+17
+NC_001484
+Ground squirrel hepatitis virus
+3311
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  Orthohepadnavirus}
+-0.5468
+-0.307653
+0.59114
+0.641124
+-0.0884209
+18
+NC_001486
+Heron hepatitis B virus
+3027
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  Avihepadnavirus}
+-0.336747
+-0.405399
+-0.522357
+0.186451
+0.463491
+19
+NC_001488
+Human T-lymphotropic virus 2
+8952
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus}
+-0.600587
+-0.454018
+-0.54627
+0.50542
+0.441593
+20
+NC_001494
+Jaagsiekte sheep retrovirus
+7462
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus}
+-0.764684
+-0.562226
+-0.648928
+0.647823
+-0.0392202
+21
+NC_001497
+Cauliflower mosaic virus
+8024
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+0.147971
+-0.585118
+-0.547549
+0.507616
+0.0165136
+22
+NC_001499
+Abelson murine leukemia virus
+5894
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  unclassified Gammaretrovirus}
+0.819306
+-0.892425
+-0.584412
+0.776214
+-0.141939
+23
+NC_001500
+Spleen focus-forming virus
+6296
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  unclassified Gammaretrovirus}
+0.831877
+-0.894787
+-0.629582
+0.770361
+-0.154694
+24
+NC_001501
+Moloney murine leukemia virus
+8332
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  Murine leukemia virus}
+0.534005
+-0.752632
+-0.576556
+0.665906
+-0.0822504
+25
+NC_001502
+Moloney murine sarcoma virus
+5833
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus}
+-0.623531
+-0.491471
+-0.575825
+0.574906
+0.134313
+26
+NC_001503
+Mouse mammary tumor virus
+8805
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus}
+0.0995213
+-0.604812
+-0.509564
+0.531867
+0.0473766
+27
+NC_001506
+Murine osteosarcoma virus
+3811
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  unclassified Gammaretrovirus}
+-0.793673
+-0.567733
+-0.697547
+0.793682
+-0.0220342
+28
+NC_001511
+Ovine lentivirus
+9256
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  unclassified Lentivirus}
+-0.473517
+-0.439783
+-0.535879
+0.401956
+0.232696
+29
+NC_001514
+Squirrel monkey retrovirus
+8785
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus}
+-0.680753
+-0.531194
+-0.653903
+0.637462
+0.0237586
+30
+NC_001549
+Simian immunodeficiency virus (SIV)
+9623
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Primate lentivirus group}
+-0.596057
+-0.503061
+-0.603889
+0.542722
+0.195688
+31
+NC_001550
+Mason-Pfizer monkey virus
+8557
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus}
+-0.659302
+-0.526837
+-0.636122
+0.520612
+-0.0519318
+32
+NC_001574
+Cacao swollen shoot virus
+7161
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.347012
+0.209478
+-0.690804
+0.641078
+-0.0659803
+33
+NC_001618
+UR2 sarcoma virus
+3166
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus}
+-0.842924
+-0.598336
+-0.67869
+0.798613
+-0.0453733
+34
+NC_001634
+Peanut chlorotic streak virus
+8174
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Soymovirus}
+-1.
+-0.685541
+-0.699728
+1.
+0.0116392
+35
+NC_001648
+Cassava vein mosaic virus
+8159
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Cavemovirus}
+0.712805
+-0.862705
+-0.599173
+0.716383
+-0.0880483
+36
+NC_001702
+Murine type C retrovirus
+8135
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  Murine leukemia virus}
+-0.650653
+-0.537188
+-0.660531
+0.617377
+0.0227732
+37
+NC_001722
+Human immunodeficiency virus 2 (HIV-2)
+10359
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Primate lentivirus group}
+-0.610381
+-0.503623
+-0.624613
+0.574133
+0.0549335
+38
+NC_001724
+Snakehead retrovirus
+10688
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  unclassified Orthoretrovirinae}
+-0.741728
+-0.575552
+-0.642932
+0.645168
+-0.0157328
+39
+NC_001725
+Strawberry vein banding virus (SVBV)
+7876
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.833513
+-0.623985
+-0.646395
+0.797854
+0.00667057
+40
+NC_001739
+Soybean chlorotic mottle virus
+8178
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Soymovirus}
+-0.68955
+-0.532646
+-0.66149
+0.686446
+0.0292754
+41
+NC_001802
+Human immunodeficiency virus 1 (HIV-1)
+9181
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Primate lentivirus group}
+-0.336025
+-0.398208
+-0.511873
+0.199944
+0.457993
+42
+NC_001815
+Simian T-lymphotropic virus 2
+8855
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus}
+1.
+-1.
+-0.658473
+0.87593
+-0.240431
+43
+NC_001819
+Rauscher murine leukemia virus
+8282
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  Murine leukemia virus}
+-0.578683
+-0.488504
+-0.617644
+0.52915
+0.101223
+44
+NC_001831
+Bovine foamy virus (BFV)
+12002
+{root  Viruses  Retro transcribing viruses  Retroviridae  Spumaretrovirinae  Spumavirus}
+-0.728534
+-0.530131
+-0.57824
+0.59819
+0.0323817
+45
+NC_001839
+Petunia vein clearing virus (PVCV)
+7206
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Petuvirus}
+-0.22052
+0.46268
+-0.746221
+0.644878
+-0.0575508
+46
+NC_001866
+Avian myelocytomatosis virus
+3392
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus  unclassified Alpharetrovirus}
+-0.653802
+-0.511027
+-0.618156
+0.601737
+0.130526
+47
+NC_001867
+Walleye dermal sarcoma virus
+12708
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Epsilonretrovirus}
+-0.728589
+-0.558962
+-0.640822
+0.681832
+0.0760039
+48
+NC_001871
+Feline foamy virus
+10479
+{root  Viruses  Retro transcribing viruses  Retroviridae  Spumaretrovirinae  Spumavirus}
+-0.228107
+-0.499492
+-0.575582
+0.380947
+0.204367
+49
+NC_001885
+Gibbon ape leukemia virus (GALV)
+8088
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus}
+-0.83109
+-0.604569
+-0.674274
+0.803168
+0.00112221
+50
+NC_001914
+Rice tungro bacilliform virus
+8002
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Tungrovirus}
+-0.258334
+-0.530685
+-0.604677
+0.491293
+0.105901
+51
+NC_001940
+Feline leukemia virus
+8448
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus}
+-0.69091
+-0.544963
+-0.63682
+0.654673
+0.09204
+52
+NC_002201
+Equine foamy virus
+12035
+{root  Viruses  Retro transcribing viruses  Retroviridae  Spumaretrovirinae  Spumavirus}
+-0.724425
+-0.524059
+-0.651443
+0.552072
+-0.131188
+53
+NC_003031
+Sugarcane bacilliform IM virus
+7687
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.463989
+-0.481519
+-0.578865
+0.474285
+0.116014
+54
+NC_003059
+Porcine endogenous retrovirus E
+8072
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus}
+-0.899473
+-0.636857
+-0.662555
+0.83587
+-0.0196338
+55
+NC_003138
+Blueberry red ringspot virus
+8303
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Soymovirus}
+-0.356251
+-0.416985
+-0.513443
+0.224613
+0.395683
+56
+NC_003323
+Simian T-lymphotropic virus 3
+8918
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus}
+-0.935034
+-0.653404
+-0.684726
+0.937478
+0.02309
+57
+NC_003378
+Tobacco vein clearing virus
+7767
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Cavemovirus}
+-0.749392
+-0.548069
+-0.672467
+0.589027
+-0.120858
+58
+NC_003381
+Banana streak OL virus
+7389
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.627579
+-0.495575
+-0.585649
+0.466563
+-0.0199262
+59
+NC_003382
+Citrus yellow mosaic virus (CMBV)
+7559
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.777772
+-0.585521
+-0.64129
+0.701697
+-0.00275257
+60
+NC_003498
+Carnation etched ring virus
+7932
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.807844
+-0.604086
+-0.635128
+0.745794
+-0.00333734
+61
+NC_003554
+Figwort mosaic virus
+7743
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.462973
+-0.38107
+-0.432725
+0.38031
+0.177363
+62
+NC_003977
+Hepatitis B virus
+3215
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  Orthohepadnavirus}
+-0.785766
+-0.584882
+-0.634446
+0.664727
+-0.00067766
+63
+NC_004036
+Mirabilis mosaic virus (MiMV)
+7857
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.505084
+-0.390071
+-0.408906
+0.406413
+0.189296
+64
+NC_004107
+Woodchuck hepatitis virus
+3323
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  Orthohepadnavirus}
+-0.813686
+-0.602838
+-0.666457
+0.705747
+-0.0273466
+65
+NC_004324
+Cestrum yellow leaf curling virus
+8253
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Soymovirus}
+-0.732759
+-0.529899
+-0.596475
+0.552218
+-0.00042984
+66
+NC_004450
+Taro bacilliform virus
+7458
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.665919
+-0.540288
+-0.650711
+0.639397
+0.0366897
+67
+NC_004455
+Simian immunodeficiency virus SIV-mnd 2
+9518
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Lentivirus  Primate lentivirus group}
+-0.623296
+-0.481803
+-0.607787
+0.457668
+-0.0445968
+68
+NC_004540
+Kalanchoe top-spotting virus (KTSV)
+7591
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.607064
+-0.454915
+-0.556248
+0.48914
+0.403618
+69
+NC_004994
+Enzootic nasal tumour virus of goats (ENTV-2)
+7448
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus  unclassified Betaretrovirus}
+-0.555548
+-0.288394
+0.729773
+0.683599
+-0.115558
+70
+NC_005888
+Ross's goose hepatitis B virus
+3018
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  unclassified            Hepadnaviridae}
+-0.590816
+-0.291178
+0.870213
+0.722204
+-0.134755
+71
+NC_005890
+Sheldgoose hepatitis B virus
+3051
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  unclassified            Hepadnaviridae}
+-0.443479
+-0.241332
+-0.56968
+0.493306
+0.0551601
+72
+NC_005947
+Avian endogenous retrovirus EAV-HP
+4302
+{root  Viruses  Retro transcribing viruses  Retroviridae}
+-0.572429
+-0.279138
+0.964051
+0.718566
+-0.144993
+73
+NC_005950
+Snow goose hepatitis B virus
+3024
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  unclassified            Hepadnaviridae}
+-0.410325
+-0.415584
+-0.555243
+0.420347
+0.136826
+74
+NC_006934
+Reticuloendotheliosis virus
+8295
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus}
+-0.703767
+-0.552794
+-0.638302
+0.557087
+-0.0849927
+75
+NC_006955
+Banana streak Mysore virus (BSMyV)
+7650
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.71036
+-0.525137
+-0.628931
+0.518343
+-0.0736496
+76
+NC_007002
+Banana streak GF virus
+7263
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.757918
+-0.553008
+-0.68692
+0.520678
+-0.168111
+77
+NC_007003
+Banana streak virus strain Acuminata Vietnam
+7801
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.61739
+-0.460799
+-0.551935
+0.509393
+0.440113
+78
+NC_007015
+Ovine enzootic nasal tumor virus
+7434
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus  unclassified Betaretrovirus}
+-0.514566
+-0.450913
+-0.582408
+0.463005
+0.108345
+79
+NC_007654
+Atlantic salmon swim bladder sarcoma virus
+10305
+{root  Viruses  Retro transcribing viruses  Retroviridae}
+0.688025
+-0.861598
+-0.596116
+0.72156
+-0.089429
+80
+NC_007815
+PreXMRV-1
+8197
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  unclassified Gammaretrovirus}
+-0.741348
+-0.544378
+-0.658531
+0.556242
+-0.15329
+81
+NC_008017
+Sugarcane bacilliform MO virus
+7568
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.765952
+-0.550527
+-0.695727
+0.511821
+-0.175465
+82
+NC_008018
+Banana streak virus
+7722
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.615462
+-0.477381
+-0.654086
+-0.999676
+-0.999704
+83
+NC_008034
+Dracaena mottle virus
+7531
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.237943
+0.45156
+-0.774767
+0.687937
+-0.0612371
+84
+NC_008094
+Y73 sarcoma virus
+5188
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus}
+-0.674636
+-0.505239
+-0.620367
+0.464704
+-0.0689254
+85
+NC_009010
+Dioscorea bacilliform virus
+7261
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.198829
+-0.466054
+-0.533129
+0.38055
+0.17849
+86
+NC_009424
+Woolly monkey sarcoma virus
+5159
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus}
+-0.615546
+-0.476124
+-0.652769
+-1.
+-1.
+87
+NC_009568
+Lucky bamboo bacilliform virus
+7522
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  unclassified            Caulimoviridae}
+-0.332929
+-0.482387
+-0.551975
+0.43939
+0.153048
+88
+NC_009889
+RD114 retrovirus
+8406
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  unclassified Gammaretrovirus}
+-0.80436
+-0.590452
+-0.619795
+0.720427
+0.00364653
+89
+NC_010737
+Lamium leaf distortion virus
+7713
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.773868
+-0.581315
+-0.652535
+0.689264
+0.0140379
+90
+NC_010738
+Eupatorium vein clearing virus
+8463
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus  unclassified Caulimovirus}
+-0.719023
+-0.560573
+-0.652055
+0.677501
+0.10768
+91
+NC_010819
+Macaque simian foamy virus (SFVmac)
+12972
+{root  Viruses  Retro transcribing viruses  Retroviridae  Spumaretrovirinae  Spumavirus}
+-0.750376
+-0.555276
+-0.656256
+0.692331
+0.094647
+92
+NC_010820
+African green monkey simian foamy virus
+13111
+{root  Viruses  Retro transcribing viruses  Retroviridae  Spumaretrovirinae  Spumavirus}
+-0.488692
+-0.439548
+-0.549547
+0.436972
+0.151811
+93
+NC_010955
+Xenopus laevis endogenous retrovirus Xen1
+10207
+{root  Viruses  Retro transcribing viruses  Retroviridae}
+-0.636905
+-0.494352
+-0.627034
+0.494223
+-0.0145963
+94
+NC_011097
+Cycad leaf necrosis virus
+9205
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.38404
+-0.429015
+-0.528244
+0.236723
+0.383547
+95
+NC_011546
+Simian T-cell lymphotropic virus 6
+8913
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus  unclassified Deltaretrovirus}
+-0.669349
+-0.52142
+-0.619196
+0.510983
+-0.0065558
+96
+NC_011592
+Bougainvillea spectabilis chlorotic vein-banding virus
+8759
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.317931
+-0.410907
+-0.52777
+0.197513
+0.422973
+97
+NC_011800
+Human T-lymphotropic virus 4
+8791
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Deltaretrovirus  unclassified Deltaretrovirus}
+-0.744996
+-0.562099
+-0.618535
+0.660129
+0.0327709
+98
+NC_011920
+Rudbeckia flower distortion virus
+8222
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  unclassified            Caulimoviridae}
+-0.672095
+-0.522513
+-0.629354
+0.523078
+-0.060849
+99
+NC_012728
+Sweetpotato badnavirus B
+7961
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.60677
+-0.481437
+-0.617448
+0.411569
+-0.0602867
+100
+NC_013262
+Pelargonium vein banding virus (PVBV)
+7586
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.711682
+-0.519808
+-0.653793
+0.509213
+-0.138165
+101
+NC_013455
+Sugarcane bacilliform virus
+7317
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.584501
+-0.492894
+-0.595972
+0.555781
+0.224914
+102
+NC_014474
+Simian retrovirus 4 (SRV-4)
+8126
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Betaretrovirus  unclassified Betaretrovirus}
+-0.604186
+-0.489783
+-0.609833
+0.44106
+-0.0559691
+103
+NC_014648
+Pineapple bacilliform comosus virus
+7543
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.166293
+0.739778
+-0.914021
+0.845435
+-0.130499
+104
+NC_015116
+Avian leukemia virus
+7489
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Alpharetrovirus}
+-0.853693
+-0.603238
+-0.659882
+0.870445
+0.0154427
+105
+NC_015228
+Sweet potato vein clearing virus
+8837
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Solendovirus}
+-0.962353
+-0.656403
+-0.687567
+0.985088
+0.0212933
+106
+NC_015328
+Sweet potato caulimo-like virus
+7723
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Cavemovirus  unclassified Cavemovirus}
+-0.771691
+-0.551763
+-0.688765
+0.576983
+-0.149543
+107
+NC_015502
+Banana streak UA virus
+7519
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.789437
+-0.573457
+-0.683626
+0.61484
+-0.134004
+108
+NC_015503
+Banana streak UI virus
+7458
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.791698
+-0.579505
+-0.687484
+0.598631
+-0.159729
+109
+NC_015504
+Banana streak UL virus
+7401
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.751787
+-0.551117
+-0.657044
+0.595961
+-0.128255
+110
+NC_015505
+Banana streak UM virus
+7532
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.784578
+-0.567848
+-0.684403
+0.601955
+-0.178517
+111
+NC_015506
+Banana streak CA virus
+7408
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.733597
+-0.540299
+-0.665819
+0.531248
+-0.111421
+112
+NC_015507
+Banana streak IM virus
+7769
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.692359
+-0.522355
+-0.641226
+0.542781
+-0.0721043
+113
+NC_015655
+Sweetpotato badnavirus A
+8082
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.606608
+-0.502422
+-0.613227
+0.428564
+-0.0310961
+114
+NC_015784
+Grapevine vein-clearing virus
+7753
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.563618
+-0.337724
+0.466231
+0.66694
+-0.07898
+115
+NC_016561
+Parrot hepatitis B virus
+3048
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  Avihepadnavirus  unclassified Avihepadnavirus}
+-0.710981
+-0.531308
+-0.643759
+0.543845
+-0.123565
+116
+NC_017830
+Fig badnavirus 1
+7140
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.576551
+-0.450682
+-0.579806
+0.440877
+-0.0209251
+117
+NC_018105
+Gooseberry vein banding associated virus
+7659
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.749488
+-0.564972
+-0.628545
+0.66268
+0.0210656
+118
+NC_018505
+Soybean Putnam virus
+7757
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus  unclassified Caulimovirus}
+-0.782385
+-0.590084
+-0.644319
+0.693836
+0.00985384
+119
+NC_018616
+Dahlia mosaic virus
+7916
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.725695
+-0.548315
+-0.631985
+0.616638
+-0.0193397
+120
+NC_018858
+Horseradish latent virus
+7954
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Caulimovirus}
+-0.457396
+-0.382356
+-0.400763
+0.404367
+0.162429
+121
+NC_020881
+Bat hepatitis virus
+3230
+{root  Viruses  Retro transcribing viruses  Hepadnaviridae  unclassified            Hepadnaviridae}
+-0.76608
+-0.572529
+-0.627908
+0.663289
+0.0278642
+122
+NC_020999
+Rose yellow vein virus
+9314
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  unclassified            Caulimoviridae}
+-0.272535
+-0.46742
+-0.558638
+0.3844
+0.176228
+123
+NC_021704
+Koala retrovirus
+8566
+{root  Viruses  Retro transcribing viruses  Retroviridae  Orthoretrovirinae  Gammaretrovirus  unclassified Gammaretrovirus}
+-0.688473
+-0.534417
+-0.642559
+0.546365
+-0.0831596
+124
+NC_022365
+Piper yellow mottle virus
+7562
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}
+-0.650034
+-0.527891
+-0.601162
+0.636559
+0.123171
+125
+NC_022518
+Human endogenous retrovirus K113
+9472
+{root  Viruses  Retro transcribing viruses  Retroviridae}
+-0.599953
+-0.488573
+-0.563684
+0.427175
+0.141294
+126
+NC_023153
+Citrus endogenous pararetrovirus
+6996
+{root  Viruses  Retro transcribing viruses  Retroviridae}
+-0.675225
+-0.522983
+-0.641254
+0.537291
+-0.0749542
+127
+NC_023485
+Hibiscus bacilliform virus GD1
+7435
+{root  Viruses  Retro transcribing viruses  Caulimoviridae  Badnavirus}

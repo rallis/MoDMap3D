@@ -1,0 +1,546 @@
+54
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Alphasatellites (54)
+0.651318
+0.723638
+-0.318209
+-0.407271
+-0.235434
+1
+NC_001465
+Coconut foliar decay alphasatellite
+1291
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.683886
+0.771173
+-0.279828
+-0.0716855
+-0.180039
+2
+NC_003414
+Ageratum yellow vein Singapore alphasatellite
+1360
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+0.784731
+0.879403
+-0.372903
+-1.
+-1.
+3
+NC_003558
+Faba bean necrotic yellows C11 alphasatellite (FBNYC11A)
+1004
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites}
+0.697296
+0.741546
+-0.321878
+-0.549386
+-0.253026
+4
+NC_003565
+Faba bean necrotic yellows C7 alphasatellite (FBNYC7A)
+1015
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites}
+0.652787
+0.653668
+-0.284201
+-0.469847
+-0.236873
+5
+NC_003567
+Faba bean necrotic yellows C9 alphasatellite (FBNYC9A)
+1007
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites}
+0.654609
+0.739399
+-0.299886
+-0.510272
+-0.150515
+6
+NC_003638
+Milk vetch dwarf C1 alphasatellite (MVDC1A)
+1007
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites}
+0.752939
+0.840389
+-0.383289
+-0.903268
+-0.906908
+7
+NC_003639
+Milk vetch dwarf C2 alphasatellite (MVDC2A)
+1009
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites}
+0.718007
+0.731731
+-0.312815
+-0.542505
+-0.238763
+8
+NC_003640
+Milk vetch dwarf C3 alphasatellite (MVDC3A)
+1000
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites}
+0.779717
+0.870735
+-0.34406
+-0.94693
+-0.930719
+9
+NC_003814
+Subterranean clover stunt C2 alphasatellite
+1022
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites  unclassified Babu  and nanovirus associated            alphasatellites}
+0.712113
+0.730408
+-0.317112
+-0.574209
+-0.185616
+10
+NC_003818
+Subterranean clover stunt C6 alphasatellite
+1017
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Babu  and nanovirus associated            alphasatellites  unclassified Babu  and nanovirus associated            alphasatellites}
+-0.894366
+0.3078
+0.43388
+0.0164583
+-0.61844
+11
+NC_005057
+Tobacco curly shoot alphasatellite
+1367
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.600578
+0.445753
+1.
+-0.0488465
+-0.507628
+12
+NC_005058
+Tomato yellow leaf curl China alphasatellite
+1363
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.616919
+0.443649
+0.999865
+-0.0491967
+-0.508262
+13
+NC_005059
+Tomato yellow leaf curl Thailand virus associated DNA 1
+1363
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.808742
+0.328376
+0.382026
+0.00645914
+-0.628505
+14
+NC_005060
+Tobacco leaf curl Yunnan virus associated DNA 1
+1370
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.77801
+0.377478
+-0.954457
+-0.127637
+-0.205258
+15
+NC_005954
+Nanovirus-like particle
+1377
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.55562
+0.387687
+-0.313466
+-0.0750265
+-0.379085
+16
+NC_007640
+Sida leaf curl virus-associated DNA 1
+1384
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.4302
+0.416309
+-0.0953582
+-0.0493611
+-0.544645
+17
+NC_008561
+Malvastrum yellow mosaic alphasatellite
+1373
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.364758
+0.48869
+0.30044
+-0.162168
+-0.0270651
+18
+NC_009563
+Sida yellow vein Vietnam alphasatellite
+1372
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.497705
+0.459483
+0.384387
+-0.162698
+-0.307154
+19
+NC_009564
+Mimosa yellow leaf curl virus-associated DNA 1
+1378
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.240683
+0.527234
+-0.153923
+-0.535893
+0.759
+20
+NC_010620
+Okra leaf curl alphasatellite
+1388
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+0.842553
+-0.557006
+-0.311043
+-0.133657
+-0.0257022
+21
+NC_012789
+Tomato leaf curl Pakistan alphasatellite
+1384
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+1.
+-1.
+-0.227182
+0.0553193
+-0.16097
+22
+NC_013011
+Gossypium davidsonii symptomless alphasatellite
+1315
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+0.998194
+-0.995617
+-0.225753
+0.0583012
+-0.162803
+23
+NC_013012
+Gossypium mustilinum symptomless alphasatellite
+1321
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.393889
+0.336404
+-0.298077
+-0.16085
+-0.109079
+24
+NC_013013
+Gossypium darwinii symptomless alphasatellite
+1378
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.440652
+0.504828
+0.189879
+-0.293659
+0.201803
+25
+NC_013103
+Chilli leaf curl Multan alphasatellite
+1369
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.182272
+0.569085
+-0.169411
+-0.551088
+0.85119
+26
+NC_013593
+Cotton leaf curl Gezira alphasatellite
+1387
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+0.755012
+0.985947
+-0.261126
+0.964749
+0.0231985
+27
+NC_013801
+Croton yellow vein mosaic alphasatellite
+1347
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.726264
+0.287351
+-0.432656
+-0.175521
+-0.00127894
+28
+NC_013803
+Cotton leaf curl Burewala alphasatellite
+1366
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-1.
+0.29955
+-0.963118
+0.02245
+-0.526759
+29
+NC_014065
+Sida yellow vein disease associated DNA 1
+1370
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.715196
+0.878898
+-0.316429
+0.587633
+0.00149031
+30
+NC_014379
+Melon chlorotic mosaic virus-associated alphasatellite
+1334
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.91234
+0.267789
+-0.841503
+-0.118093
+-0.177255
+31
+NC_014597
+Tobacco leaf curl PUSA alphasatellite
+1379
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.710027
+0.892716
+-0.284776
+0.665821
+-0.105087
+32
+NC_014630
+Euphorbia mosaic virus associated DNA 1
+1331
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.718136
+0.903675
+-0.345889
+0.563332
+-0.131449
+33
+NC_014646
+Cleome leaf crumple virus associated DNA 1
+1351
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.0275967
+0.634516
+-0.128548
+-0.555509
+0.952039
+34
+NC_014744
+Ageratum leaf curl Cameroon alphasatellite
+1383
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.230803
+0.564499
+-0.105155
+-0.556552
+1.
+35
+NC_014747
+Tomato leaf curl Cameroon alphasatellite
+1392
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.722536
+0.351264
+-0.285316
+-0.431114
+0.113588
+36
+NC_014906
+Okra yellow crinkle Cameroon alphasatellite [CM:Lys1sp2:09]
+1356
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+0.180998
+0.626806
+-0.240286
+-0.339861
+0.314474
+37
+NC_014907
+Malvastrum yellow mosaic Cameroon alphasatellite
+1416
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+-0.606603
+0.319192
+-0.361036
+-0.165761
+-0.00797048
+38
+NC_015327
+Cotton leaf curl virus associated DNA 1 isolate Lucknow
+1396
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.603287
+0.352077
+-0.928577
+-0.112395
+-0.278019
+39
+NC_015631
+Verbesina encelioides leaf curl alphasatellite
+1395
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.617038
+-0.168712
+-0.0115925
+-0.159628
+-0.236204
+40
+NC_015929
+Vernonia yellow vein Fujian virus alphasatellite
+1343
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.737511
+0.297717
+-0.393256
+-0.156046
+-0.0570001
+41
+NC_018082
+Cotton leaf curl Multan alphasatellite
+1376
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites}
+0.844636
+-0.143605
+-0.23788
+-0.322124
+0.0605193
+42
+NC_018573
+Mesta yellow vein mosaic virus-associated alphasatellite
+1358
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.869787
+-0.729194
+-0.247893
+-0.0455057
+-0.14477
+43
+NC_018574
+Bhendi yellow vein mosaic virus-associated alphasatellite
+1316
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.0590565
+0.596091
+-0.315511
+-0.456549
+0.398974
+44
+NC_018628
+Cassava mosaic Madagascar alphasatellite
+1478
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.598837
+0.704564
+-0.290079
+-0.361491
+-0.141663
+45
+NC_019498
+Dragonfly-associated alphasatellite
+1479
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.376708
+0.48035
+-0.207229
+-0.407091
+0.45227
+46
+NC_019499
+Sunflower leaf curl Karnataka alphasatellite
+1350
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.794142
+0.368696
+-0.374593
+-0.114589
+-0.200308
+47
+NC_019546
+Tomato leaf curl Karnataka alphasatellite
+1389
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.863117
+0.343508
+-0.617473
+-0.0927743
+-0.26715
+48
+NC_019547
+Ageratum enation alphasatellite
+1378
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.811484
+-0.0216366
+-0.235313
+-0.342611
+-0.0632905
+49
+NC_019944
+Okra enation leaf curl alphasatellite
+1350
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.879063
+0.306677
+-0.985805
+-0.0665372
+-0.266348
+50
+NC_020502
+Guar leaf curl alphasatellite
+1364
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.733622
+0.911884
+-0.32873
+0.56772
+-0.0446143
+51
+NC_021708
+Cuban alphasatellite 1
+1292
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+0.790256
+1.
+-0.290867
+1.
+0.00559778
+52
+NC_023292
+Papaya leaf curl alphasatellite
+1364
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.466354
+0.379555
+0.049699
+-0.2225
+0.0155487
+53
+NC_023443
+Ageratum yellow vein China alphasatellite
+1365
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}
+-0.91916
+0.284042
+-1.
+-0.000748445
+-0.429108
+54
+NC_023484
+Sida yellow vein China alphasatellite
+1359
+{root  Viruses  Satellites  Satellite Nucleic Acids  Single stranded DNA            satellites  Alphasatellites  Begomovirus associated            alphasatellites  unclassified Begomovirus associated            alphasatellites}

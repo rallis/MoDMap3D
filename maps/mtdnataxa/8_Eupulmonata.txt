@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Eupulmonata (18)
+-0.82065
+0.624447
+-0.0919025
+0.0655413
+-0.230494
+1
+NC_001761
+mitochondrion Albinaria caerulea (door snail)
+14130
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Clausilioidea  Clausiliidae  Alopiinae  Albinaria}
+-0.143293
+-1.
+-1.
+0.444341
+0.153862
+2
+NC_001816
+mitochondrion Cepaea nemoralis (banded wood snail)
+14100
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Helicoidea  Helicidae  Cepaea}
+0.40531
+0.883932
+-0.425327
+0.823694
+0.115616
+3
+NC_012376
+mitochondrion Onchidella celtica (Celtic sea slug)
+14150
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Systellommatophora  Onchidioidea  Onchidiidae  Onchidella}
+0.823957
+-0.394081
+1.
+1.
+-0.152024
+4
+NC_012434
+mitochondrion Myosotella myosotis (mouse ear snail)
+14246
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Ellobioidea  Ellobiidae  Myosotella}
+0.149181
+0.921736
+-0.465954
+0.867306
+0.278428
+5
+NC_013934
+mitochondrion Platevindex mortoni (slug)
+13991
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Systellommatophora  Onchidioidea  Onchidiidae  Platevindex}
+0.799417
+0.307944
+-0.501092
+-0.102391
+-0.0736817
+6
+NC_016168
+mitochondrion Auriculinella bidentata (two-toothed white snail)
+14135
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Ellobioidea  Ellobiidae  Auriculinella}
+1.
+0.251496
+-0.386475
+-0.833033
+-1.
+7
+NC_016175
+mitochondrion Ovatella vulcani (hollow-shelled snail)
+14274
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Ellobioidea  Ellobiidae  Ovatella}
+0.385319
+0.293916
+-0.103096
+-1.
+1.
+8
+NC_016179
+mitochondrion Pedipes pedipes (hollow-shelled snail)
+16708
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Ellobioidea  Ellobiidae  Pedipes}
+0.0298844
+1.
+-0.508637
+0.572529
+0.00560654
+9
+NC_016181
+mitochondrion Peronia peronii (air-breathing sea slug)
+13968
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Systellommatophora  Onchidioidea  Onchidiidae  Peronia}
+-0.15273
+0.514867
+0.155723
+-0.528294
+-0.00968044
+10
+NC_016183
+mitochondrion Rhopalocaulis grandidieri (leatherleaf slugs)
+14523
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Systellommatophora  Rathouisioidea  Veronicellidae  Rhopalocaulis}
+-0.981896
+0.671382
+-0.0749985
+0.0301349
+-0.182416
+11
+NC_016190
+mitochondrion Succinea putris (European ambersnail)
+14092
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Succineoidea  Succineidae  Succinea}
+0.423919
+0.900621
+-0.432532
+0.537444
+-0.35697
+12
+NC_016193
+mitochondrion Trimusculus reticulatus (button snail)
+14044
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Trimusculoidea  Trimusculidae  Trimusculus}
+-0.391942
+-0.425451
+-0.371493
+0.422507
+-0.134773
+13
+NC_017872
+mitochondrion Cylindrus obtusus (land snail)
+14610
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Helicoidea  Helicidae  Cylindrus}
+-0.926972
+0.104433
+-0.326669
+0.268326
+-0.178389
+14
+NC_021747
+mitochondrion Helix aspersa (Cornu aspersum)
+14050
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Helicoidea  Helicidae  Helix}
+-0.266181
+0.435089
+0.255756
+0.180163
+0.272735
+15
+NC_024601
+mitochondrion Achatina fulica (giant African snail)
+15057
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Achatinoidea  Achatinidae  Achatina}
+-0.873569
+0.230239
+-0.0563184
+-0.0123457
+-0.230208
+16
+NC_024935
+mitochondrion Mastigeulota kiangsinensis
+14029
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Helicoidea  Bradybaenidae  Mastigeulota}
+-1.
+0.227953
+-0.191517
+0.0111043
+-0.160601
+17
+NC_025511
+mitochondrion Camaena cicatricosa
+13843
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Camaenoidea  Camaenidae  Camaena}
+-0.53432
+0.599384
+0.0957499
+0.0467022
+-0.258629
+18
+NC_025645
+mitochondrion Cerion incanum
+15177
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Gastropoda  Heterobranchia  Euthyneura  Panpulmonata  Eupulmonata  Stylommatophora  Sigmurethra  Urocoptoidea  Cerionidae  Cerion}

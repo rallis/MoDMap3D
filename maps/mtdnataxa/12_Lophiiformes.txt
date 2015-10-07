@@ -1,0 +1,256 @@
+25
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Lophiiformes (25)
+-0.220086
+0.97202
+1.
+-0.205203
+0.0583963
+1
+NC_004380
+mitochondrion Lophius americanus (American angler)
+16479
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Lophiidae  Lophius}
+-0.978877
+-0.968831
+-0.0482299
+-0.270846
+0.0843323
+2
+NC_004381
+mitochondrion Chaunax abei (sea toad)
+16486
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Chaunacoidei  Chaunacidae  Chaunax}
+-1.
+-1.
+-0.0344625
+-0.262682
+0.0823041
+3
+NC_004382
+mitochondrion Chaunax tosaensis (sea toad)
+16488
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Chaunacoidei  Chaunacidae  Chaunax}
+0.953654
+-0.187363
+0.044821
+0.25035
+-0.987816
+4
+NC_004384
+mitochondrion Melanocetus murrayi (Murray's abyssal anglerfish)
+16758
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Melanocetidae  Melanocetus}
+-0.150335
+0.867688
+0.140591
+-0.303584
+0.178932
+5
+NC_008125
+mitochondrion Lophiomus setigerus (anglerfish)
+15879
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Lophiidae  Lophiomus}
+0.153956
+0.517814
+-0.337609
+-1.
+0.0141571
+6
+NC_013863
+mitochondrion Rhynchactis macrothrix (anglerfish)
+17072
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Gigantactinidae  Rhynchactis}
+0.143171
+0.432741
+-0.328869
+-0.69927
+0.122682
+7
+NC_013864
+mitochondrion Neoceratias spinifer (Tandangler)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Neoceratiidae  Neoceratias}
+-0.0467814
+0.621238
+-0.272793
+-0.319141
+0.232946
+8
+NC_013865
+mitochondrion Haplophryne mollis (solf leafvent angler)
+17209
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Linophrynidae  Haplophryne}
+0.946425
+-0.181362
+0.0510494
+0.25312
+-1.
+9
+NC_013866
+mitochondrion Melanocetus johnsonii (Johnson's black anglerfish)
+16871
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Melanocetidae  Melanocetus}
+0.993761
+-0.263672
+0.0043399
+-0.464074
+1.
+10
+NC_013867
+mitochondrion Himantolophus albinares (footballfish)
+16440
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Himantolophidae  Himantolophus}
+1.
+-0.273845
+0.0117622
+-0.463866
+0.99454
+11
+NC_013868
+mitochondrion Himantolophus groenlandicus (Atlantic footballfish)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Himantolophidae  Himantolophus}
+0.971304
+-0.23011
+0.0617585
+-0.192799
+0.343419
+12
+NC_013869
+mitochondrion Bufoceratias thele (anglerfish)
+16430
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Diceratiidae  Bufoceratias}
+0.941442
+-0.230869
+0.068853
+-0.190706
+0.346944
+13
+NC_013870
+mitochondrion Diceratias pileatus (two rod lantern angler)
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Diceratiidae  Diceratias}
+0.477875
+0.0651259
+-0.165777
+-0.551014
+0.120933
+14
+NC_013871
+mitochondrion Oneirodes thompsoni (spiny dreamer)
+17391
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Oneirodidae  Oneirodes}
+-0.185375
+0.877335
+0.217801
+-0.188343
+0.168913
+15
+NC_013872
+mitochondrion Lophiodes caulinaris (spottedtail angler)
+16471
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Lophiidae  Lophiodes}
+-0.195333
+0.715052
+0.206542
+-0.273687
+0.276791
+16
+NC_013873
+mitochondrion Sladenia gardineri (anglerfish)
+16435
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Lophiidae  Sladenia}
+0.243553
+0.229145
+-0.136902
+-0.550828
+0.218429
+17
+NC_013875
+mitochondrion Thaumatichthys pagidostomus (wonderfish)
+16828
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Thaumatichthyidae  Thaumatichthys}
+-0.253718
+1.
+-1.
+1.
+0.872315
+18
+NC_013879
+mitochondrion Tetrabrachium ocellatum (four-armed frogfish)
+19100
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Antennarioidei  Tetrabrachiidae  Tetrabrachium}
+-0.0913016
+0.759716
+-0.595743
+-0.361498
+-0.706783
+19
+NC_013880
+mitochondrion Cryptopsaras couesii (triplewart seadevil)
+18350
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Ceratiidae  Cryptopsaras}
+0.0601264
+0.556945
+-0.476799
+-0.624857
+-0.600074
+20
+NC_013882
+mitochondrion Ceratias uranoscopus (stargazing seadevil)
+18365
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Ceratiidae  Ceratias}
+-0.992155
+-0.993517
+-0.038781
+-0.26318
+0.0911635
+21
+NC_013883
+mitochondrion Chaunax pictus (pink frogmouth)
+16487
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Chaunacoidei  Chaunacidae  Chaunax}
+0.0570625
+0.558471
+-0.334214
+-0.985029
+-0.0464186
+22
+NC_013885
+mitochondrion Gigantactis vanhoeffeni (Vanhoffenis piskeangler)
+17205
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Gigantactinidae  Gigantactis}
+-0.148467
+0.739305
+-0.217655
+-0.208992
+0.305325
+23
+NC_013886
+mitochondrion Coelophrys brevicaudata (anglerfish)
+16862
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ogcocephalidae  Coelophrys}
+0.0887327
+0.567903
+-0.361182
+-0.762572
+0.0376413
+24
+NC_016020
+mitochondrion Caulophryne pelagica (fanfin anglerfish)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Caulophrynidae  Caulophryne}
+-0.248376
+0.926546
+0.996986
+-0.180786
+0.112338
+25
+NC_023828
+mitochondrion Lophius litulon
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Lophiidae  Lophius}

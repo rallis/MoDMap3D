@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Vespertilionidae (14)
+0.478487
+0.294771
+-0.347031
+-0.860649
+0.70416
+1
+NC_002626
+mitochondrion Chalinolobus tuberculatus (New Zealand long-tailed
+16818
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Chalinolobus}
+0.474795
+0.205785
+-0.722192
+-1.
+0.609024
+2
+NC_005436
+mitochondrion Pipistrellus abramus (Japanese house bat)
+16976
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Pipistrellus}
+0.578453
+0.666133
+-0.865087
+-0.45181
+1.
+3
+NC_015484
+mitochondrion Plecotus auritus (brown big-eared bat)
+16900
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Plecotus}
+0.889257
+-0.851396
+-0.246235
+-0.0134098
+0.412392
+4
+NC_015828
+mitochondrion Myotis formosus (Hodgson's bat)
+17159
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+0.593376
+1.
+-1.
+1.
+0.826095
+5
+NC_016872
+mitochondrion Plecotus rafinesquii (Rafinesque's big-eared bat)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Plecotus}
+0.55729
+0.580225
+-0.945919
+-0.215398
+-1.
+6
+NC_016873
+mitochondrion Lasiurus borealis (red bat)
+17048
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Lasiurus}
+0.690561
+0.607575
+0.812431
+-0.178392
+0.32777
+7
+NC_021119
+mitochondrion Murina ussuriensis (Ussurian tube-nosed bat)
+17285
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Murina}
+-1.
+-0.543756
+-0.201224
+-0.022844
+0.398599
+8
+NC_022474
+mitochondrion Eptesicus serotinus (Common serotine)
+16673
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Eptesicus}
+1.
+-0.986403
+-0.340228
+-0.0822338
+0.412658
+9
+NC_022694
+mitochondrion Myotis macrodactylus
+17562
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+0.944482
+-0.948569
+-0.239767
+-0.0258562
+0.454547
+10
+NC_022698
+mitochondrion Myotis ikonnikovi
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+-0.999179
+-0.536161
+-0.207485
+-0.0136377
+0.396329
+11
+NC_024558
+mitochondrion Vespertilio sinensis (Vespertilio superans)
+16971
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Vespertilio}
+0.927503
+-0.713052
+-0.383339
+-0.00890907
+0.340111
+12
+NC_025308
+mitochondrion Myotis brandtii (Brandt's bat)
+17470
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+0.960971
+-1.
+-0.377479
+-0.0494711
+0.430694
+13
+NC_025568
+mitochondrion Myotis davidii
+17531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+0.693561
+0.685148
+1.
+0.0158984
+0.331373
+14
+NC_025949
+mitochondrion Murina leucogaster (Greater tube-nosed bat)
+16823
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Murina}

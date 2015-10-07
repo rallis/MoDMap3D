@@ -1,0 +1,356 @@
+35
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Circoviridae (35)
+0.621466
+0.298764
+-0.540394
+0.681348
+1.
+1
+NC_001427
+Chicken anemia virus
+2319
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus}
+-0.804753
+0.083812
+0.0598587
+0.219058
+-0.135565
+2
+NC_001792
+Porcine circovirus 1
+1758
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.535608
+0.103059
+-0.850178
+-0.147015
+-0.227121
+3
+NC_001944
+Beak and feather disease virus
+1993
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.532789
+0.121615
+-0.940102
+-0.723043
+-0.0897949
+4
+NC_002361
+Columbid circovirus
+2037
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.608931
+-0.19043
+-0.451164
+0.355876
+-0.115209
+5
+NC_003054
+Goose circovirus
+1821
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.540627
+0.153566
+-1.
+-0.981205
+-0.288339
+6
+NC_003410
+Canary circovirus
+1952
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.900211
+-0.984711
+0.460096
+0.187993
+-0.176709
+7
+NC_005053
+Mulard duck circovirus
+1996
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+-0.6317
+0.0810199
+-0.035941
+0.193844
+-0.130888
+8
+NC_005148
+Porcine circovirus 2
+1768
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.764572
+-0.601858
+0.0375433
+0.258733
+-0.141141
+9
+NC_006561
+Muscovy duck circovirus
+1988
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.913638
+-1.
+0.478821
+0.197376
+-0.16046
+10
+NC_007220
+Duck circovirus
+1991
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.535224
+0.138524
+-0.936948
+-0.96118
+-0.232258
+11
+NC_008033
+Starling circovirus
+2063
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.544811
+0.100117
+-0.948319
+-0.857775
+-0.281434
+12
+NC_008375
+Raven circovirus
+1898
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.520213
+0.0983499
+-0.877709
+-0.349983
+-0.22138
+13
+NC_008521
+Gull circovirus
+2035
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+0.531281
+0.120558
+-0.970418
+-1.
+-0.234252
+14
+NC_008522
+Finch circovirus
+1962
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus}
+-1.
+0.0866861
+0.17064
+0.196193
+-0.13961
+15
+NC_013774
+Porcine circovirus type 1/2a
+1767
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.516103
+0.146964
+-0.916878
+0.981905
+-1.
+16
+NC_014927
+Cyclovirus PKgoat21/PAK/2009
+1838
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.532659
+0.163877
+-0.87943
+0.995529
+-0.913142
+17
+NC_014928
+Cyclovirus PKgoat11/PAK/2009
+1751
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.531202
+0.140897
+-0.845477
+0.947023
+-0.850948
+18
+NC_014929
+Cyclovirus bat/USA/2009
+1703
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.519232
+0.134928
+-0.865412
+1.
+-0.852032
+19
+NC_014930
+Cyclovirus NGchicken15/NGA/2009
+1760
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.997653
+1.
+0.998139
+-0.00139475
+-0.562956
+20
+NC_015396
+Avian gyrovirus 2
+2383
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus  unclassified            Gyrovirus}
+0.517579
+0.131096
+-0.841339
+0.370034
+-0.0410365
+21
+NC_015399
+Barbel circovirus
+1957
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+1.
+0.995114
+1.
+-0.0181801
+-0.572736
+22
+NC_015630
+Human gyrovirus type 1
+2315
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus  unclassified            Gyrovirus}
+0.687242
+0.423964
+-0.272125
+0.536824
+0.72674
+23
+NC_017091
+Gyrovirus GyV3
+2359
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus  unclassified            Gyrovirus}
+0.513913
+0.1558
+-0.806245
+0.525461
+-0.0248634
+24
+NC_017843
+Labidocera aestiva circovirus
+1764
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.525542
+0.147876
+-0.804467
+0.686267
+0.474207
+25
+NC_018401
+Gyrovirus 4
+2034
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus  unclassified            Gyrovirus}
+0.551793
+0.134746
+-0.818849
+0.351607
+0.115743
+26
+NC_020099
+Acartia tonsa copepod circovirus
+1670
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.545256
+0.142106
+-0.83733
+0.56477
+-0.057581
+27
+NC_020206
+Florida woods cockroach-associated cyclovirus (FWCasCyV-GS140)
+1719
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.536812
+0.128076
+-0.865258
+0.356063
+-0.0626746
+28
+NC_020904
+Canine circovirus
+2063
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.246407
+0.108463
+-0.677968
+0.198948
+-0.209656
+29
+NC_021206
+Bat circovirus
+1798
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.521223
+0.135907
+-0.884766
+0.940105
+-0.840557
+30
+NC_021568
+Human cyclovirus VS5700009
+1832
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.536206
+0.139223
+-0.807943
+0.551754
+0.150083
+31
+NC_021707
+Cyclovirus VN
+669
+{root  Viruses  ssDNA viruses  Circoviridae  unclassified Circoviridae}
+0.549387
+0.152348
+-0.764538
+0.666573
+0.466733
+32
+NC_022788
+Gyrovirus Tu243
+2020
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus  unclassified            Gyrovirus}
+0.657337
+0.362638
+-0.357136
+0.614759
+0.953517
+33
+NC_022789
+Gyrovirus Tu789
+2282
+{root  Viruses  ssDNA viruses  Circoviridae  Gyrovirus  unclassified            Gyrovirus}
+0.543981
+0.125205
+-0.847265
+0.553512
+-0.0187226
+34
+NC_022897
+Penaeus monodon circovirus VN11
+1777
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}
+0.518308
+0.0918324
+-0.797534
+0.438025
+-0.161594
+35
+NC_023421
+Anguilla anguilla circovirus
+1378
+{root  Viruses  ssDNA viruses  Circoviridae  Circovirus  unclassified            Circovirus}

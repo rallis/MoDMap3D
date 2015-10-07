@@ -1,0 +1,166 @@
+16
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Sternorrhyncha (16)
+-0.0829427
+-0.751717
+0.349768
+0.174636
+-0.534574
+1
+NC_005939
+mitochondrion Aleurodicus dugesii (Doogie Howzer whitefly)
+15723
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleurodicinae  Aleurodicus}
+-0.0800192
+-0.173363
+-0.485221
+0.138601
+-0.308651
+2
+NC_006157
+mitochondrion Pachypsylla venusta (hackberry petiole gall psyllid)
+14711
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Psylliformes  Psylloidea  Psyllidae  Pachypsylla}
+-0.94497
+-0.369962
+0.456744
+0.111443
+-0.0499073
+3
+NC_006158
+mitochondrion Schizaphis graminum (greenbug)
+15721
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Aphididae  Aphidini  Schizaphis}
+0.151908
+-0.863572
+0.390436
+0.213042
+-0.66772
+4
+NC_006159
+mitochondrion Neomaskellia andropogonis (sugarcane whitefly)
+14496
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleyrodinae  Neomaskellia}
+0.372004
+-0.892827
+0.351667
+0.294848
+-0.838117
+5
+NC_006160
+mitochondrion Aleurochiton aceris (whitefly)
+15388
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleyrodinae  Aleurochiton}
+0.436338
+-0.623766
+0.427812
+0.30457
+-1.
+6
+NC_006279
+mitochondrion Bemisia tabaci (sweet potato whitefly)
+15322
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleyrodinae  Bemisia}
+0.76628
+-1.
+0.456308
+-1.
+0.431804
+7
+NC_006280
+mitochondrion Trialeurodes vaporariorum (greenhouse whitefly)
+18414
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleyrodinae  Trialeurodes}
+0.738901
+-0.918073
+0.386241
+1.
+1.
+8
+NC_006292
+mitochondrion Tetraleurodes acaciae (acacia whitefly)
+15080
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleyrodinae  Tetraleurodes}
+-1.
+-0.375307
+0.443314
+0.107917
+-0.0480094
+9
+NC_011594
+mitochondrion Acyrthosiphon pisum (pea aphid)
+16971
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Aphididae  Macrosiphini  Acyrthosiphon}
+-0.929144
+-0.353669
+0.417033
+0.130949
+-0.0443123
+10
+NC_022682
+mitochondrion Cavariella salicicola
+16317
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Aphididae  Macrosiphini  Cavariella}
+-0.98187
+-0.371355
+0.424987
+0.120121
+-0.0685348
+11
+NC_022727
+mitochondrion Diuraphis noxia (Russian wheat aphid)
+15784
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Aphididae  Macrosiphini  Diuraphis}
+1.
+1.
+1.
+0.115088
+-0.156816
+12
+NC_024056
+mitochondrion Bemisia afer
+14968
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aleyrodiformes  Aleyrodoidea  Aleyrodidae  Aleyrodinae  Bemisia}
+0.148756
+0.0464233
+-1.
+0.0594327
+-0.00610815
+13
+NC_024577
+mitochondrion Paratrioza sinica
+14863
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Psylliformes  Psylloidea  Triozidae  Paratrioza}
+-0.97198
+-0.352269
+0.420677
+0.114239
+-0.0355832
+14
+NC_024581
+mitochondrion Aphis gossypii (cotton aphid)
+15869
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Aphididae  Aphidini  Aphis  Aphis}
+-0.989405
+-0.36241
+0.441114
+0.108018
+-0.0234816
+15
+NC_024683
+mitochondrion Sitobion avenae (English grain aphid)
+15180
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Aphididae  Macrosiphini  Sitobion}
+-0.827801
+-0.394576
+0.385843
+0.116195
+-0.12117
+16
+NC_024926
+mitochondrion Cervaphis quercus
+15272
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Paraneoptera  Hemiptera  Sternorrhyncha  Aphidiformes  Aphidoidea  Greenideidae  Cervaphis}

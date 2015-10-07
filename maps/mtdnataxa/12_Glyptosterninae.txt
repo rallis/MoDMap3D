@@ -1,0 +1,136 @@
+13
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Glyptosterninae (13)
+1.
+1.
+-0.14263
+-0.0511422
+-0.103658
+1
+NC_018769
+mitochondrion Glyptothorax fokiensis fokiensis
+16530
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptothorax}
+0.343764
+-0.974347
+-0.130749
+-0.427104
+-0.234102
+2
+NC_021597
+mitochondrion Glyptosternon maculatum
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptosternon}
+-0.539918
+0.0160635
+0.597042
+-1.
+-1.
+3
+NC_021598
+mitochondrion Euchiloglanis kishinouyei
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Euchiloglanis}
+-0.601704
+-0.275232
+-1.
+0.141628
+-0.243268
+4
+NC_021599
+mitochondrion Creteuchiloglanis kamengensis
+16651
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Creteuchiloglanis}
+0.161768
+-1.
+-0.99079
+0.00849292
+-0.46994
+5
+NC_021600
+mitochondrion Glaridoglanis andersonii
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glaridoglanis}
+0.216302
+-0.849488
+1.
+1.
+-0.182221
+6
+NC_021601
+mitochondrion Exostoma labiatum
+16542
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Exostoma}
+-0.963204
+0.445525
+-0.0267765
+0.0327918
+0.284411
+7
+NC_021603
+mitochondrion Pareuchiloglanis gracilicaudata
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pareuchiloglanis}
+-0.971394
+0.409974
+-0.0620349
+-0.07217
+0.23175
+8
+NC_021604
+mitochondrion Pseudexostoma yunnanensis
+16598
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pseudexostoma}
+0.433396
+-0.87036
+0.217202
+-0.83156
+1.
+9
+NC_021605
+mitochondrion Pseudecheneis sulcata (sucker throat catfish)
+16474
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pseudecheneis}
+-0.651033
+0.231469
+0.451263
+-0.200973
+-0.2506
+10
+NC_021607
+mitochondrion Oreoglanis macropterus
+16568
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Oreoglanis}
+0.7575
+0.476493
+-0.114057
+-0.146312
+-0.127816
+11
+NC_021608
+mitochondrion Glyptothorax trilineatus (three-lined catfish)
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptothorax}
+-1.
+0.446284
+-0.226406
+0.0162931
+0.196968
+12
+NC_024434
+mitochondrion Pareuchiloglanis sinensis
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Pareuchiloglanis}
+0.995222
+0.967278
+-0.139132
+-0.0565308
+-0.126424
+13
+NC_024672
+mitochondrion Glyptothorax sinensis
+16531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Siluriformes  Sisoridae  Glyptosterninae  Glyptothorax}

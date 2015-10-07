@@ -1,0 +1,136 @@
+13
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Beloniformes (13)
+-0.637062
+0.435591
+-0.89561
+0.842397
+0.739121
+1
+NC_003183
+mitochondrion Cololabis saira (Pacific saury)
+16499
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Belonidae  Cololabis}
+-1.
+1.
+1.
+0.33477
+0.423404
+2
+NC_003184
+mitochondrion Exocoetus volitans (tropical two-wing flyingfish)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Exocoetidae  Exocoetus}
+-0.334576
+-1.
+0.489522
+0.968109
+0.751609
+3
+NC_004387
+mitochondrion Oryzias latipes (Japanese medaka)
+16714
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.966903
+0.988958
+0.877603
+0.368147
+0.435785
+4
+NC_007403
+mitochondrion Cypselurus hiraii (Japanese flying fish)
+16528
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Exocoetidae  Cypselurus}
+-0.315556
+-0.322612
+-0.374836
+-0.0559156
+-1.
+5
+NC_011172
+mitochondrion Oryzias sarasinorum (Sarasin's minnow)
+16462
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.645288
+0.329699
+-0.515172
+0.564109
+0.56437
+6
+NC_011173
+mitochondrion Hyporhamphus sajori (Japanese halfbeak)
+16721
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Hemiramphidae  Hyporhamphus}
+-0.699303
+0.442657
+-1.
+1.
+0.78225
+7
+NC_011180
+mitochondrion Ablennes hians (flat needlefish)
+16825
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Belonidae  Ablennes}
+-0.128772
+-0.0871686
+-0.241156
+-1.
+1.
+8
+NC_012975
+mitochondrion Oryzias minutillus (dwarf medaka)
+16953
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+1.
+0.654466
+0.198968
+0.773204
+0.459517
+9
+NC_012976
+mitochondrion Oryzias dancena (mundalkanni)
+16863
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.395659
+-0.909534
+0.280662
+0.64489
+0.382274
+10
+NC_012979
+mitochondrion Oryzias luzonensis (coscosleng)
+16666
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.0418934
+-0.131446
+0.049218
+-0.599468
+0.99293
+11
+NC_012981
+mitochondrion Oryzias javanicus (javanese ricefish)
+16892
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.36202
+-0.980819
+0.4797
+0.887401
+0.776492
+12
+NC_013434
+mitochondrion Oryzias sinensis (Chinese medaka)
+16654
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.99641
+0.646295
+0.200119
+0.758937
+0.467561
+13
+NC_018546
+mitochondrion Oryzias melastigma (Indian medaka)
+16864
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}

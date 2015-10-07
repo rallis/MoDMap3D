@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Papilionidae (15)
+0.980277
+-1.
+-0.140962
+0.1116
+-0.164591
+1
+NC_014053
+mitochondrion Parnassius bremeri (red-spotted apollo butterfly)
+15389
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Parnassiinae  Parnassini  Parnassius  Parnassius}
+0.0842052
+0.58811
+1.
+0.0308551
+1.
+2
+NC_014055
+mitochondrion Papilio maraho (swallowtail butterfly)
+16094
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+0.457404
+1.
+-0.14543
+1.
+-0.828422
+3
+NC_014398
+mitochondrion Teinopalpus aureus (golden kaiserihind)
+15242
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Teinopalpus}
+-0.845445
+-0.341839
+-0.453111
+0.196272
+-0.0890621
+4
+NC_018040
+mitochondrion Papilio bianor (Chinese peacock)
+15340
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+-0.243242
+0.00656989
+0.241424
+-0.441123
+-1.
+5
+NC_018047
+mitochondrion Papilio machaon (common yellow swallowtail)
+15185
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+-1.
+-0.404518
+-0.562885
+0.343206
+0.0316494
+6
+NC_021411
+mitochondrion Papilio maackii
+15357
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+0.450947
+0.126244
+-0.567409
+0.563619
+0.0165095
+7
+NC_023938
+mitochondrion Luehdorfia taibai
+15553
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Parnassiinae  Zerynthini  Luehdorfia}
+0.358778
+0.930468
+-0.145314
+0.890685
+-0.380119
+8
+NC_023953
+mitochondrion Lamproptera curius
+15277
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Lamproptera}
+-0.980991
+-0.426812
+-0.644214
+0.461155
+0.0911637
+9
+NC_023978
+mitochondrion Papilio syfanius
+15359
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+0.656571
+0.753783
+-1.
+-0.891999
+0.167061
+10
+NC_024098
+mitochondrion Graphium timur
+15226
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Graphium}
+0.479687
+0.627043
+-0.937726
+-0.743103
+0.0635565
+11
+NC_024564
+mitochondrion Atrophaneura alcinous
+15266
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Atrophaneura}
+1.
+-0.953258
+-0.12074
+0.0602005
+-0.197614
+12
+NC_024727
+mitochondrion Parnassius apollo (apollo)
+15404
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Parnassiinae  Parnassini  Parnassius  Parnassius}
+-0.229413
+0.0499243
+0.0428171
+-0.656307
+-0.398255
+13
+NC_024742
+mitochondrion Papilio polytes
+15256
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}
+0.931545
+-0.911694
+-0.190196
+0.176791
+-0.130166
+14
+NC_025587
+mitochondrion Parnassius imperator
+15424
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Parnassiinae  Parnassini  Parnassius  Kailasius}
+-0.290066
+0.0107684
+0.277318
+-1.
+-0.621861
+15
+NC_025757
+mitochondrion Papilio helenus
+15349
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Papilionidae  Papilioninae  Papilio}

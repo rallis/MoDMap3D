@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Falconiformes (15)
+-1.
+0.229346
+0.438739
+0.00684891
+0.412303
+1
+NC_000878
+mitochondrion Falco peregrinus (peregrine falcon)
+18068
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Falconidae  Falco}
+0.501884
+-0.776288
+0.739007
+0.0531963
+0.323045
+2
+NC_003128
+mitochondrion Buteo buteo (common buzzard)
+18674
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Buteo}
+0.987318
+0.997795
+0.0827115
+0.205282
+0.775709
+3
+NC_007598
+mitochondrion Nisaetus nipalensis (mountain hawk-eagle)
+17667
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Nisaetus}
+1.
+1.
+0.0960093
+0.214588
+0.767733
+4
+NC_007599
+mitochondrion Nisaetus alboniger (Blyth's hawk-eagle)
+17977
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Nisaetus}
+-0.989268
+0.187466
+0.40812
+0.0567494
+0.376803
+5
+NC_008547
+mitochondrion Falco sparverius (American kestrel)
+17507
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Falconidae  Falco}
+-0.122464
+-0.626594
+-0.664825
+1.
+0.0624737
+6
+NC_008548
+mitochondrion Micrastur gilvicollis (lined forest-falcon)
+17344
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Falconidae  Micrastur}
+0.172304
+-0.821287
+-1.
+-1.
+0.884879
+7
+NC_008550
+mitochondrion Pandion haliaetus (osprey)
+17864
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Pandioninae  Pandion}
+-0.909431
+0.116837
+0.332797
+0.0502231
+0.377036
+8
+NC_011307
+mitochondrion Falco tinnunculus (common kestrel)
+17663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Falconidae  Falco}
+0.471152
+-1.
+0.953638
+0.143265
+0.966083
+9
+NC_011818
+mitochondrion Accipiter gentilis (Northern goshawk)
+18266
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Accipiter}
+0.595608
+-0.281379
+0.377064
+-0.0889227
+-0.650325
+10
+NC_015887
+mitochondrion Spilornis cheela (crested serpent eagle)
+18291
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Spilornis}
+0.554888
+-0.411245
+0.29016
+-0.114886
+-1.
+11
+NC_022957
+mitochondrion Aegypius monachus (black vulture)
+17811
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Aegypius}
+0.0636689
+-0.883172
+-0.419644
+0.811402
+0.691202
+12
+NC_023788
+mitochondrion Sagittarius serpentarius
+16773
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Sagittariidae  Sagittarius}
+0.802779
+0.36959
+0.194928
+0.106177
+0.343309
+13
+NC_024087
+mitochondrion Aquila chrysaetos (golden eagle)
+17332
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Aquila}
+-0.972029
+0.220025
+0.403394
+0.017536
+0.401263
+14
+NC_025579
+mitochondrion Falco columbarius
+17516
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Falconidae  Falco}
+0.46407
+-0.985114
+1.
+0.131198
+1.
+15
+NC_025580
+mitochondrion Accipiter nisus (Eurasian sparrowhawk)
+18647
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Dinosauria  Saurischia  Theropoda  Coelurosauria  Aves  Neognathae  Falconiformes  Accipitridae  Accipitrinae  Accipiter}

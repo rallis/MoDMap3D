@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cyprinidae hybrid sp (18)
+0.997007
+0.200695
+-0.98907
+-0.217465
+0.213899
+1
+NC_006136
+mitochondrion Carassius auratus x Cyprinus carpio (tetraploid
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+0.978838
+0.206329
+-0.95268
+-0.246366
+0.206057
+2
+NC_006387
+mitochondrion Carassius auratus x Cyprinus carpio x Carassius
+16581
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+0.999952
+0.213576
+-0.994661
+-0.204866
+0.210959
+3
+NC_012980
+mitochondrion natural gynogenetic Carassius auratus red var.
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+1.
+0.212452
+-0.997981
+-0.20158
+0.214098
+4
+NC_013430
+mitochondrion Carassius auratus x Megalobrama amblycephala
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+0.99783
+0.205202
+-1.
+-0.202333
+0.201404
+5
+NC_013431
+mitochondrion Carassius auratus x Megalobrama amblycephala triploid
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+0.778708
+0.161645
+-0.680113
+-0.270208
+0.13047
+6
+NC_013433
+mitochondrion Carassius auratus x Megalobrama amblycephala
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-1.
+0.996101
+-0.995598
+-0.99753
+0.127361
+7
+NC_013994
+mitochondrion diploid Megalobrama amblycephala x Xenocypris davidi
+16623
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-1.
+0.996101
+-0.995598
+-0.99753
+0.127361
+8
+NC_013995
+mitochondrion triploid Megalobrama amblycephala x Xenocypris davidi
+16623
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.760599
+0.105977
+-0.523893
+0.12902
+0.64637
+9
+NC_015838
+mitochondrion diploid Xenocypris davidi x Megalobrama amblycephala
+16630
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+0.227975
+0.157163
+0.628345
+-0.584021
+-1.
+10
+NC_018038
+mitochondrion Cyprinus carpio wuyuanensis x Carassius auratus
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.860367
+-1.
+-0.897343
+-0.448742
+0.0487578
+11
+NC_018134
+mitochondrion Ctenopharyngodon idella x Megalobrama amblycephala
+16610
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.874297
+-0.994638
+-0.895561
+-0.435797
+0.0669648
+12
+NC_020466
+mitochondrion Ctenopharyngodon idella x Squaliobarbus curriculus
+16609
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.768136
+-0.0874361
+-0.577743
+-0.0767941
+0.585456
+13
+NC_020467
+mitochondrion Squaliobarbus curriculus x Ctenopharyngodon idella
+16616
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.998394
+1.
+-0.99409
+-1.
+0.127288
+14
+NC_023534
+mitochondrion Megalobrama amblycephala x Parabramis pekinensis
+16623
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.930726
+0.679476
+-0.580124
+1.
+-0.0213777
+15
+NC_024623
+mitochondrion Megalobrama amblycephala x Ancherythroculter
+16621
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.930726
+0.679476
+-0.580124
+1.
+-0.0213777
+16
+NC_024645
+mitochondrion Culter alburnus x Ancherythroculter nigrocauda
+16621
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+-0.866164
+-0.984705
+-0.899803
+-0.424856
+0.0488197
+17
+NC_025590
+mitochondrion Ctenopharyngodon idellus x Elopichthys bambusa
+16608
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}
+0.0294066
+0.187866
+1.
+-0.647884
+1.
+18
+NC_025930
+mitochondrion Cirrhinus mrigala x Labeo rohita
+16595
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Ostariophysi  Cypriniformes  Cyprinidae  Cyprinidae hybrid sp}

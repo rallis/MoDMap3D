@@ -1,0 +1,196 @@
+19
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Gammapapillomavirus (19)
+0.519454
+0.15128
+-0.125735
+0.335408
+1.
+1
+NC_001457
+Human papillomavirus type 4
+7353
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+1.
+-0.870607
+0.136134
+0.0542563
+-0.159707
+2
+NC_001690
+Human papillomavirus type 48
+7100
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.920528
+-1.
+0.57148
+0.381481
+-0.211408
+3
+NC_001691
+Human papillomavirus type 50
+7184
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.726072
+0.242456
+-0.586696
+-0.38898
+-0.286521
+4
+NC_001693
+Human papillomavirus type 60
+7313
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+-0.97007
+-0.431378
+0.0894197
+0.137422
+-0.125508
+5
+NC_008188
+Human papillomavirus type 103 (HPV103)
+7263
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+-0.586361
+-0.1515
+0.125365
+0.108784
+-0.281281
+6
+NC_008189
+Human papillomavirus type 101 (HPV101)
+7259
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.449946
+-0.157541
+-0.53643
+-1.
+-1.
+7
+NC_010329
+Human papillomavirus type 88
+7326
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+-1.
+-0.410652
+0.237149
+0.180877
+-0.157687
+8
+NC_012213
+Human papillomavirus type 108
+7149
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.524697
+0.149699
+-0.876236
+0.74889
+-0.975183
+9
+NC_012485
+Human papillomavirus type 109
+7346
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.53687
+0.0289715
+-0.515518
+-0.135355
+-0.165114
+10
+NC_012486
+Human papillomavirus type 112
+7227
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.637791
+1.
+1.
+0.201207
+-0.75749
+11
+NC_013035
+Human papillomavirus 116
+7184
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.381614
+-0.153104
+-0.538425
+0.116141
+0.305075
+12
+NC_014185
+Human papillomavirus type 121
+7342
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus}
+0.905145
+-0.669719
+0.240209
+-0.0218356
+-0.0740653
+13
+NC_014469
+Gammapapillomavirus HPV127
+7181
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}
+0.702409
+0.417797
+0.239829
+0.00685476
+0.450006
+14
+NC_014952
+Human papillomavirus type 128
+7259
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}
+0.717202
+0.914171
+0.825931
+0.239709
+-0.466936
+15
+NC_014953
+Human papillomavirus type 129
+7219
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}
+0.916431
+-0.863715
+0.158195
+0.304117
+-0.439075
+16
+NC_014954
+Human papillomavirus type 131
+7182
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}
+0.940021
+-0.933012
+0.112203
+0.303591
+-0.382075
+17
+NC_014955
+Human papillomavirus type 132
+7125
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}
+0.497825
+0.204793
+-1.
+1.
+-0.541975
+18
+NC_014956
+Human papillomavirus type 134
+7309
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}
+0.767988
+0.301457
+-0.503392
+-0.0581044
+0.643058
+19
+NC_022892
+Human papillomavirus type 167
+7228
+{root  Viruses  dsDNA viruses no RNA stage  Papillomaviridae  Gammapapillomavirus  unclassified Gammapapillomavirus}

@@ -1,0 +1,1026 @@
+102
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Ovalentaria (102)
+0.897078
+0.784686
+0.432852
+-0.351908
+-0.641256
+1
+NC_003182
+mitochondrion Mugil cephalus (flathead mullet)
+16685
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Mugil}
+0.83188
+0.818811
+0.456549
+0.42533
+-0.513182
+2
+NC_003183
+mitochondrion Cololabis saira (Pacific saury)
+16499
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Belonidae  Cololabis}
+0.869248
+0.758162
+0.420936
+0.386624
+-0.48391
+3
+NC_003184
+mitochondrion Exocoetus volitans (tropical two-wing flyingfish)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Exocoetidae  Exocoetus}
+0.908853
+0.863611
+0.542779
+0.359737
+-0.5052
+4
+NC_003290
+mitochondrion Kryptolebias marmoratus (mangrove rivulus)
+17329
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Rivulidae  Kryptolebias}
+0.801996
+0.746884
+0.386416
+0.272419
+-0.413621
+5
+NC_004385
+mitochondrion Melanotaenia lacustris (Lake Kutubu rainbowfish)
+16487
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Atheriniformes  Melanotaeniidae  Melanotaenia}
+0.791959
+0.723826
+0.325801
+0.279942
+-0.435223
+6
+NC_004386
+mitochondrion Hypoatherina tsurugae (cobaltcap silverside)
+16566
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Atheriniformes  Atherinidae  Atherininae  Hypoatherina}
+0.876172
+0.911659
+0.624545
+0.62553
+-0.687154
+7
+NC_004387
+mitochondrion Oryzias latipes (Japanese medaka)
+16714
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.872439
+0.886769
+0.511057
+0.42301
+-0.457345
+8
+NC_004388
+mitochondrion Gambusia affinis (western mosquitofish)
+16614
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Gambusia}
+0.910625
+0.859959
+0.573086
+0.422072
+-0.629924
+9
+NC_004411
+mitochondrion Petroscirtes breviceps (striped poison-fang blenny
+16680
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Blenniimorphae  Blenniiformes  Blennioidei  Blenniidae  Blenniinae  Petroscirtes}
+0.839868
+0.770342
+0.463916
+0.260485
+-0.484219
+10
+NC_004412
+mitochondrion Salarias fasciatus (jewelled blenny)
+16496
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Blenniimorphae  Blenniiformes  Blennioidei  Blenniidae  Salariinae  Salarias}
+0.838479
+0.806431
+0.505992
+0.295765
+-0.590358
+11
+NC_004413
+mitochondrion Arcos sp. KU 149
+16534
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Blenniimorphae  Blenniiformes  Gobiesocoidei  Gobiesocidae  Gobiesocinae  Arcos}
+-0.222006
+0.687839
+-0.852404
+0.366057
+-0.951985
+12
+NC_007231
+mitochondrion Oreochromis mossambicus (Mozambique tilapia)
+16641
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+0.856242
+0.749158
+0.387946
+0.397786
+-0.472719
+13
+NC_007403
+mitochondrion Cypselurus hiraii (Japanese flying fish)
+16528
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Exocoetidae  Cypselurus}
+0.91853
+0.862438
+0.586211
+0.461676
+-0.647659
+14
+NC_008130
+mitochondrion Aspasma minima (clingfish)
+17487
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Blenniimorphae  Blenniiformes  Gobiesocoidei  Gobiesocidae  Gobiesocinae  Aspasma}
+0.853963
+0.728477
+0.432385
+0.126311
+-0.488683
+15
+NC_009054
+mitochondrion Labracinus cyclophthalmus (fire-tail devil)
+15713
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pseudochromidae  Pseudochrominae  Labracinus}
+-0.214906
+0.677725
+-0.838225
+0.338231
+-0.923963
+16
+NC_009057
+mitochondrion Oreochromis sp. KM-2006 (cichlid fish)
+16626
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+0.607478
+0.727654
+0.00502679
+0.142111
+0.0619979
+17
+NC_009058
+mitochondrion Astronotus ocellatus (oscar)
+16569
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Astronotinae  Astronotini  Astronotus}
+0.75076
+0.765862
+0.374181
+0.220103
+-0.456958
+18
+NC_009059
+mitochondrion Cymatogaster aggregata (shiner perch)
+16533
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Embiotocidae  Cymatogaster}
+0.827513
+0.785577
+0.411926
+0.249359
+-0.512759
+19
+NC_009060
+mitochondrion Ditrema temminckii (sea chub)
+16572
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Embiotocidae  Ditrema}
+-0.188312
+0.706882
+0.0482036
+0.239073
+-0.559897
+20
+NC_009062
+mitochondrion Neolamprologus brichardi (lyretail cichlid)
+16587
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Lamprologini  Neolamprologus}
+-0.739663
+0.616793
+0.484595
+0.155225
+-0.511858
+21
+NC_009063
+mitochondrion Tropheus duboisi (dwarf Tanganyikan cichlid)
+16598
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tropheini  Tropheus}
+0.744218
+0.432228
+0.118632
+0.151864
+-0.385036
+22
+NC_009064
+mitochondrion Abudefduf vaigiensis (Indo-Pacific sergeant)
+16703
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Abudefduf}
+0.9421
+-0.558348
+0.389099
+0.22382
+-0.573373
+23
+NC_009065
+mitochondrion Amphiprion ocellaris (clown anemonefish)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.803673
+0.84256
+0.423237
+0.41506
+-0.460413
+24
+NC_009125
+mitochondrion Cyprinodon rubrofluviatilis (Red River pupfish)
+16501
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Cyprinodontidae  Cyprinodon}
+0.604623
+0.760317
+-0.0862659
+0.192207
+0.319205
+25
+NC_011168
+mitochondrion Hypselecara temporalis (emerald cichlid)
+16544
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Cichlasomatinae  Heroini  Hypselecara}
+0.635687
+0.706699
+-0.00770457
+0.171941
+-0.285438
+26
+NC_011169
+mitochondrion Ptychochromoides katria (katria cichlid)
+16556
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  Ptychochrominae  Ptychochromoides}
+0.668028
+0.713402
+0.124747
+0.188076
+-0.31465
+27
+NC_011170
+mitochondrion Paratilapia polleni (Pollen's cichlid)
+16543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  Etroplinae  Paratilapia}
+0.489821
+0.738823
+-0.00543193
+0.309844
+-0.425182
+28
+NC_011171
+mitochondrion Tylochromis polylepis (cichlid)
+16976
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tylochromini  Tylochromis}
+0.905376
+0.911699
+0.589936
+0.585508
+-0.626559
+29
+NC_011172
+mitochondrion Oryzias sarasinorum (Sarasin's minnow)
+16462
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.835569
+0.8245
+0.478252
+0.387922
+-0.516115
+30
+NC_011173
+mitochondrion Hyporhamphus sajori (Japanese halfbeak)
+16721
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Hemiramphidae  Hyporhamphus}
+0.792739
+0.773267
+0.389404
+0.345873
+-0.495876
+31
+NC_011174
+mitochondrion Menidia menidia (Atlantic silverside)
+16456
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Atheriniformes  Atherinopsidae  Menidiinae  Menidia}
+0.785742
+0.746925
+0.36876
+0.285858
+-0.498999
+32
+NC_011175
+mitochondrion Odontesthes sp. Odsp-001 (neotropical silverside)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Atheriniformes  Atherinopsidae  Atherinopsinae  Odontesthes}
+0.820707
+0.811905
+0.473396
+0.384369
+-0.507998
+33
+NC_011176
+mitochondrion Aplocheilus panchax (blue panchax)
+16519
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Aplocheilidae  Aplocheilus}
+0.648156
+0.649688
+0.128982
+0.0873627
+-0.307889
+34
+NC_011177
+mitochondrion Paretroplus maculatus (damba mipentina)
+16486
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  Etroplinae  Paretroplus}
+0.77565
+0.75787
+0.442554
+0.300152
+-0.419485
+35
+NC_011178
+mitochondrion Iso hawaiiensis (Hawaiian surf sardine)
+16567
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Atheriniformes  Isonidae  Iso}
+0.704788
+0.710456
+0.177441
+0.220848
+-0.327365
+36
+NC_011179
+mitochondrion Etroplus maculatus (orange chromide)
+16457
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  Etroplinae  Etroplus}
+0.810745
+0.765862
+0.464037
+0.335387
+-0.53265
+37
+NC_011180
+mitochondrion Ablennes hians (flat needlefish)
+16825
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Belonidae  Ablennes}
+0.847066
+0.897448
+0.469629
+0.437871
+-0.325697
+38
+NC_011379
+mitochondrion Xiphophorus maculatus (southern platyfish)
+16646
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Xiphophorus}
+0.881474
+0.933387
+0.657673
+0.655542
+-0.550695
+39
+NC_011380
+mitochondrion Fundulus olivaceus (blackspotted topminnow)
+16509
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.838581
+0.815437
+0.524358
+0.495183
+-0.590901
+40
+NC_011381
+mitochondrion Xenotoca eiseni (redtail splitfin)
+16735
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Goodeidae  Xenotoca}
+0.798256
+0.837922
+0.465768
+0.381167
+-0.445858
+41
+NC_011387
+mitochondrion Jordanella floridae (flagfish)
+16177
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Cyprinodontidae  Jordanella}
+0.969868
+0.861181
+0.614396
+0.435447
+-0.636138
+42
+NC_011814
+mitochondrion Nothobranchius furzeri (turquoise killifish)
+19527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Nothobranchiidae  Nothobranchius}
+0.929867
+0.995026
+0.691641
+0.878895
+-0.610813
+43
+NC_012312
+mitochondrion Fundulus heteroclitus (mummichog)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.910459
+0.968136
+0.673118
+0.819456
+-0.618285
+44
+NC_012361
+mitochondrion Fundulus diaphanus (banded killifish)
+16531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.933801
+1.
+0.691442
+0.860524
+-0.592511
+45
+NC_012377
+mitochondrion Fundulus grandis (Gulf killifish)
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Fundulidae  Fundulus}
+0.949256
+0.905581
+0.687964
+0.572627
+-0.782404
+46
+NC_012975
+mitochondrion Oryzias minutillus (dwarf medaka)
+16953
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.950948
+0.984685
+0.781879
+1.
+-0.992019
+47
+NC_012976
+mitochondrion Oryzias dancena (mundalkanni)
+16863
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.890114
+0.872098
+0.576557
+0.520836
+-0.584785
+48
+NC_012979
+mitochondrion Oryzias luzonensis (coscosleng)
+16666
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.88085
+0.878277
+0.584059
+0.559207
+-0.703811
+49
+NC_012981
+mitochondrion Oryzias javanicus (javanese ricefish)
+16892
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+0.854436
+0.905281
+0.473834
+0.425951
+-0.296649
+50
+NC_013089
+mitochondrion Xiphophorus hellerii (green swordtail)
+16635
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Xiphophorus}
+0.884427
+0.907571
+0.59117
+0.612284
+-0.681826
+51
+NC_013434
+mitochondrion Oryzias sinensis (Chinese medaka)
+16654
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.263978
+0.684645
+-0.959535
+0.350798
+-0.985314
+52
+NC_013663
+mitochondrion Oreochromis niloticus (Nile tilapia)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.317078
+0.661624
+-1.
+0.344149
+-0.952602
+53
+NC_013750
+mitochondrion Oreochromis aureus (blue tilapia)
+16628
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.2666
+0.677078
+-0.942817
+0.361363
+-1.
+54
+NC_014060
+mitochondrion Oreochromis sp. 'red tilapia' (red tilapia)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.255175
+0.672856
+-0.838608
+0.296915
+-0.876225
+55
+NC_015611
+mitochondrion Sarotherodon melanotheron (blackchin tilapia)
+16627
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Sarotherodon}
+0.979567
+-0.982708
+0.443443
+0.202116
+-0.557238
+56
+NC_016701
+mitochondrion Amphiprion bicinctus (twoband anemonefish)
+16645
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.918212
+0.857767
+0.50125
+-0.351885
+-0.689579
+57
+NC_017876
+mitochondrion Agonostomus monticola (mountain mullet)
+16734
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Agonostomus}
+0.882888
+0.896566
+0.412403
+-0.715205
+-0.67325
+58
+NC_017879
+mitochondrion Aldrichetta forsteri (yellow-eye mullet)
+16797
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Aldrichetta}
+0.885525
+0.84089
+0.324512
+-0.485728
+-0.66954
+59
+NC_017881
+mitochondrion Chaenomugil proboscideus (snouted mullet)
+16666
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Chaenomugil}
+0.948935
+0.930016
+0.416639
+-0.959527
+-0.736448
+60
+NC_017883
+mitochondrion Chelon labrosus (thicklip grey mullet)
+16898
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Chelon}
+0.896578
+0.869554
+0.371706
+-0.739444
+-0.63432
+61
+NC_017884
+mitochondrion Crenimugil crenilabis (fringelip mullet)
+16888
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Crenimugil}
+0.947201
+0.922252
+0.380854
+-1.
+-0.836772
+62
+NC_017887
+mitochondrion Liza affinis (eastern keelback mullet)
+16835
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Liza}
+0.885252
+0.794242
+0.391375
+-0.448361
+-0.646238
+63
+NC_017889
+mitochondrion Mugil curema (white mullet)
+16828
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Mugil}
+0.919867
+0.8815
+0.464664
+-0.664774
+-0.756184
+64
+NC_017892
+mitochondrion Myxus capensis (freshwater mullet)
+17132
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Myxus}
+0.902049
+0.877533
+0.439697
+-0.692497
+-0.740491
+65
+NC_017893
+mitochondrion Oedalechilus labeo (boxlip mullet)
+17216
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Oedalechilus}
+0.741124
+0.687062
+0.291107
+0.17799
+-0.426412
+66
+NC_017895
+mitochondrion Opistognathus jacksoniensis (southern smiler)
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Opistognathidae  Opistognathus}
+0.9274
+0.837832
+0.507663
+-0.21267
+-0.635102
+67
+NC_017897
+mitochondrion Rhinomugil nasutus (shark mullet)
+16974
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Rhinomugil}
+0.883508
+0.857866
+0.433506
+-0.366411
+-0.707938
+68
+NC_017898
+mitochondrion Sicamugil cascasia (yellowtail mullet)
+17119
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Sicamugil}
+0.906575
+0.814089
+0.585314
+0.286365
+-0.579964
+69
+NC_017900
+mitochondrion Trachinops taeniatus (eastern hulafish)
+16821
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Plesiopidae  Plesiopinae  Trachinops}
+0.910971
+0.859095
+0.506068
+-0.296653
+-0.690836
+70
+NC_017902
+mitochondrion Moolgarda cunnesius (longarm mullet)
+16748
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Moolgarda}
+0.941239
+0.994388
+0.791025
+0.987827
+-0.993072
+71
+NC_018546
+mitochondrion Oryzias melastigma (Indian medaka)
+16864
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Beloniformes  Adrianichthyidae  Oryziinae  Oryzias}
+-0.977433
+0.582085
+0.991869
+0.111952
+-0.417458
+72
+NC_018555
+mitochondrion Trematocranus placodon (snail-crusher hap)
+16579
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Trematocranus}
+-0.967784
+0.592857
+0.978178
+0.113273
+-0.415978
+73
+NC_018556
+mitochondrion Diplotaxodon limnothrissa
+16579
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Diplotaxodon}
+-0.993803
+0.593987
+0.983956
+0.110054
+-0.407626
+74
+NC_018557
+mitochondrion Petrotilapia nigra
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Petrotilapia}
+-0.983267
+0.578855
+1.
+0.113588
+-0.42754
+75
+NC_018558
+mitochondrion Nimbochromis linni (elephantnose cichlid)
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Nimbochromis}
+-0.998825
+0.600409
+0.993009
+0.101554
+-0.408223
+76
+NC_018559
+mitochondrion Pseudotropheus crabro (bumblebee mouthbrooder)
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Pseudotropheus}
+-0.959844
+0.567717
+0.926343
+0.110128
+-0.400969
+77
+NC_018560
+mitochondrion Astatotilapia calliptera (eastern happy)
+16578
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Astatotilapia}
+-0.980703
+0.582249
+0.994905
+0.109627
+-0.417467
+78
+NC_018561
+mitochondrion Dimidiochromis compressiceps (Malawi eyebiter)
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Dimidiochromis}
+-0.99581
+0.594728
+0.982364
+0.109177
+-0.409514
+79
+NC_018562
+mitochondrion Genyochromis mento
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Genyochromis}
+-0.965448
+0.587784
+0.960939
+0.112743
+-0.407327
+80
+NC_018563
+mitochondrion Rhamphochromis esox
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Rhamphochromis}
+-1.
+0.595727
+0.985497
+0.105897
+-0.409712
+81
+NC_018564
+mitochondrion Cynotilapia afra
+16585
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Cynotilapia}
+-0.746327
+0.634219
+0.517886
+0.151179
+-0.506021
+82
+NC_018814
+mitochondrion Petrochromis trewavasae (threadfin cichlid)
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tropheini  Petrochromis}
+-0.731147
+0.621751
+0.505657
+0.137836
+-0.511307
+83
+NC_018815
+mitochondrion Tropheus moorii (blunthead cichlid)
+16590
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Tropheini  Tropheus}
+-0.979962
+0.587552
+0.996953
+0.114143
+-0.420844
+84
+NC_020672
+mitochondrion Cheilochromis euchilus (Malawi thick lip)
+16582
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Haplochromini  Cheilochromis}
+0.00100404
+0.684268
+-0.326072
+0.251396
+-0.66938
+85
+NC_023470
+mitochondrion Heterotilapia buttikoferi
+16577
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Heterotilapiini  Heterotilapia}
+0.618851
+0.754345
+-0.248757
+0.10558
+1.
+86
+NC_023526
+mitochondrion Paraneetroplus synspilus (redhead cichlid)
+16543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Cichlasomatinae  Heroini  Paraneetroplus}
+0.980757
+-0.950861
+0.448663
+0.194589
+-0.550981
+87
+NC_023826
+mitochondrion Amphiprion polymnus (saddleback clownfish)
+16804
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.647999
+0.762736
+-0.169704
+0.136547
+0.673578
+88
+NC_023827
+mitochondrion Amphilophus citrinellus (Midas cichlid)
+16522
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Cichlasomatinae  Heroini  Amphilophus}
+0.945749
+-0.553985
+0.389555
+0.238525
+-0.576135
+89
+NC_023966
+mitochondrion Amphiprion percula (orange clownfish)
+16645
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.976657
+-0.842661
+0.427077
+0.22182
+-0.579683
+90
+NC_023967
+mitochondrion Amphiprion clarkii (yellowtail clownfish)
+16976
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.876724
+0.822605
+0.490784
+0.457963
+-0.427489
+91
+NC_024238
+mitochondrion Poecilia reticulata (guppy)
+16538
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Cyprinodontiformes  Poeciliidae  Poeciliinae  Poecilia}
+0.921973
+0.907726
+0.387755
+-0.987719
+-0.804363
+92
+NC_024531
+mitochondrion Liza haematocheila (so-iny mullet)
+16822
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Liza}
+0.622431
+0.757472
+-0.24896
+0.104605
+0.999872
+93
+NC_024737
+mitochondrion Paraneetroplus synspilus x Amphilophus citrinellus
+16541
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Cichlasomatinae  Heroini}
+0.642469
+0.760455
+-0.215749
+0.104
+0.613178
+94
+NC_024835
+mitochondrion Petenia splendida (bay snook)
+16518
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Cichlasomatinae  Heroini  Petenia}
+1.
+-1.
+0.442251
+0.205731
+-0.554888
+95
+NC_024840
+mitochondrion Amphiprion frenatus (tomato clownfish)
+16774
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.971456
+-0.962718
+0.438614
+0.196053
+-0.545241
+96
+NC_024841
+mitochondrion Amphiprion perideraion (pink anemonefish)
+16579
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Amphiprion}
+0.899615
+-0.44729
+0.356921
+0.165439
+-0.572133
+97
+NC_024842
+mitochondrion Premnas biaculeatus (spinecheek anemonefish)
+16914
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Pomacentridae  Premnas}
+0.812097
+0.767656
+0.402113
+0.322532
+-0.510335
+98
+NC_024883
+mitochondrion Chirostoma humboldtianum (shortfin silverside)
+16447
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Atherinomorphae  Atheriniformes  Atherinopsidae  Menidiinae  Chirostoma}
+-0.13965
+0.672727
+-0.741388
+0.353359
+-0.888201
+99
+NC_025555
+mitochondrion Oreochromis esculentus (Singida tilapia)
+16622
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+-0.31292
+0.655402
+-0.984258
+0.33689
+-0.946039
+100
+NC_025669
+mitochondrion Oreochromis niloticus x Oreochromis aureus
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  African cichlids  Pseudocrenilabrinae  Oreochromini  Oreochromis}
+0.66369
+0.79946
+0.0861199
+0.273312
+0.0342633
+101
+NC_025671
+mitochondrion Andinoacara rivulatus (green terror)
+16585
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Cichlomorphae  Cichliformes  Cichlidae  New World cichlids  Cichlasomatinae  Cichlasomatini  Andinoacara}
+0.899542
+0.893453
+0.380574
+-0.597932
+-0.624543
+102
+NC_025941
+mitochondrion Oedalechilus labiosus (hornlip mullet)
+16829
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Ovalentaria  Mugilomorphae  Mugilidae  Oedalechilus}

@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Phycodnaviridae (15)
+0.79701
+0.720558
+-0.570696
+-0.160662
+-0.117112
+1
+NC_000852
+Paramecium bursaria Chlorella virus 1 (PBCV-1)
+330611
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Chlorovirus}
+0.83837
+-0.0312594
+-0.873459
+0.305694
+0.480301
+2
+NC_002687
+Ectocarpus siliculosus virus 1
+335593
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Phaeovirus}
+0.723586
+0.668159
+-0.566053
+0.0416842
+0.397694
+3
+NC_007346
+Emiliania huxleyi virus 86
+407339
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Coccolithovirus}
+0.656239
+0.431242
+-0.836265
+0.42922
+0.54509
+4
+NC_008603
+Paramecium bursaria Chlorella virus FR483
+321240
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Chlorovirus}
+0.785861
+0.115155
+-0.93191
+0.370656
+0.699257
+5
+NC_008724
+Acanthocystis turfacea Chlorella virus 1
+288047
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Chlorovirus}
+0.998243
+0.746637
+-0.767549
+-0.496314
+-0.964462
+6
+NC_009898
+Paramecium bursaria Chlorella virus NY2A
+368683
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Chlorovirus}
+1.
+0.761221
+-0.763087
+-0.525516
+-1.
+7
+NC_009899
+Paramecium bursaria Chlorella virus AR158
+344691
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Chlorovirus  unclassified Chlorovirus}
+-1.
+0.165565
+-1.
+-0.679611
+0.0419432
+8
+NC_010191
+Ostreococcus virus OsV5
+185373
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  unclassified            Phycodnaviridae}
+0.798725
+-1.
+0.789798
+-0.243754
+-0.374553
+9
+NC_011183
+Feldmannia species virus
+154641
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Phaeovirus}
+-0.96911
+0.173452
+-0.999489
+-0.677389
+0.0443157
+10
+NC_013288
+Ostreococcus tauri virus 1
+191761
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  unclassified            Phycodnaviridae}
+0.358405
+1.
+1.
+-1.
+1.
+11
+NC_014765
+Bathycoccus sp. RCC1105 virus BpV1
+198519
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Prasinovirus  unclassified Prasinovirus}
+-0.285545
+0.70583
+0.208055
+1.
+-0.441083
+12
+NC_014766
+Ostreococcus lucimarinus virus OlV1
+194022
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Prasinovirus  unclassified Prasinovirus}
+0.155675
+0.704197
+0.498741
+-0.129534
+-0.340962
+13
+NC_014767
+Micromonas sp. RCC1109 virus MpV1
+184095
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Prasinovirus  unclassified Prasinovirus}
+-0.4935
+0.618358
+0.0892519
+0.949297
+-0.412053
+14
+NC_014789
+Ostreococcus tauri virus 2
+184409
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  unclassified            Phycodnaviridae}
+0.451567
+0.87919
+-0.314312
+0.143851
+0.506377
+15
+NC_021312
+Phaeocystis globosa virus
+459984
+{root  Viruses  dsDNA viruses no RNA stage  Phycodnaviridae  Prymnesiovirus  unclassified Prymnesiovirus}

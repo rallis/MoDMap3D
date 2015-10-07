@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Gobionellinae (15)
+1.
+-0.0686464
+-0.160211
+0.387393
+0.00950295
+1
+NC_006131
+mitochondrion Acanthogobius hasta (javeline goby)
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Acanthogobius}
+-0.945104
+0.314093
+-0.196619
+0.303868
+0.175161
+2
+NC_008743
+mitochondrion Gymnogobius petschiliensis (edohaze)
+16424
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Gymnogobius}
+-1.
+0.965133
+-0.125105
+0.291312
+-0.373882
+3
+NC_012906
+mitochondrion Gillichthys mirabilis (long-jawed mudsucker)
+16481
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Gillichthys}
+-0.990975
+1.
+-0.139199
+0.279124
+-0.409811
+4
+NC_012908
+mitochondrion Gillichthys seta (shortjaw mudsucker)
+16481
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Gillichthys}
+-0.856974
+-1.
+-1.
+0.676059
+-0.520247
+5
+NC_015992
+mitochondrion Tridentiger bifasciatus (Shimofuri goby)
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Tridentiger}
+-0.873202
+-0.775784
+-0.809116
+0.519689
+-0.367064
+6
+NC_018823
+mitochondrion Tridentiger barbatus (Shokihaze gobi)
+16522
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Tridentiger}
+-0.931782
+0.32312
+-0.136151
+0.334121
+0.0756
+7
+NC_019811
+mitochondrion Luciogobius platycephalus
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Luciogobius}
+-0.749108
+-0.808528
+1.
+1.
+-1.
+8
+NC_020345
+mitochondrion Oxyurichthys formosanus (Formosan arrowfin goby)
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Oxyurichthys}
+0.991835
+-0.0618681
+-0.160691
+0.38686
+0.0156867
+9
+NC_020767
+mitochondrion Synechogobius ommaturus (Asian freshwater goby)
+16660
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Synechogobius}
+-0.629186
+-0.500498
+0.189777
+0.178462
+0.917237
+10
+NC_020783
+mitochondrion Lophiogobius ocellicauda
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Lophiogobius}
+-0.734439
+-0.92168
+0.104707
+-1.
+-0.320669
+11
+NC_020786
+mitochondrion Chaeturichthys stigmatias (finespot goby)
+18562
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Chaeturichthys}
+-0.84653
+-0.398896
+-0.00157141
+0.711123
+1.
+12
+NC_022186
+mitochondrion Pseudogobius javanicus (spotfin snouted goby)
+16493
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Pseudogobius}
+-0.819864
+-0.423787
+0.0989258
+0.41547
+0.713679
+13
+NC_022692
+mitochondrion Rhinogobius giurinus (barecheek goby)
+16520
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Rhinogobius}
+-0.901738
+-0.238814
+-0.221397
+0.594085
+0.671685
+14
+NC_023353
+mitochondrion Mugilogobius abei (Abe's mangrove goby)
+16483
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Mugilogobius}
+0.992685
+-0.058031
+-0.160319
+0.381747
+0.00608892
+15
+NC_024839
+mitochondrion Acanthogobius flavimanus (yellowfin goby)
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Gobiaria  Gobiiformes  Gobioidei  Gobiidae  Gobionellinae  Acanthogobius}

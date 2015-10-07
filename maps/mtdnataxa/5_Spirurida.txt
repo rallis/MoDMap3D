@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Spirurida (14)
+-0.973529
+-0.35965
+0.0391219
+0.616719
+0.0757266
+1
+NC_001861
+mitochondrion Onchocerca volvulus (river blindness roundworm)
+13747
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Onchocerca}
+-0.967005
+-0.683305
+-0.356944
+-0.557122
+-0.553042
+2
+NC_004298
+mitochondrion Brugia malayi (agent of lymphatic filariasis)
+13657
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Brugia}
+-0.902608
+-0.309171
+0.0453551
+0.446586
+0.0648332
+3
+NC_005305
+mitochondrion Dirofilaria immitis (dog heartworm nematode)
+13814
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Dirofilaria}
+-0.860881
+-0.199398
+0.0695398
+0.454715
+0.0522725
+4
+NC_014282
+mitochondrion Setaria digitata (filarial parasite of cattle)
+13839
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Setariidae  Setaria}
+-0.691047
+-0.0493092
+0.0599345
+0.115429
+0.0267629
+5
+NC_014486
+mitochondrion Chandlerella quiscali (grackle nematode)
+13757
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Chandlerella}
+0.211277
+-0.0898172
+1.
+0.718996
+-1.
+6
+NC_016019
+mitochondrion Dracunculus medinensis (Guinea worm)
+14628
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Dracunculoidea  Dracunculidae  Dracunculus}
+-0.152846
+1.
+0.238273
+-1.
+0.342043
+7
+NC_016127
+mitochondrion Heliconema longissimum (parasitic nematode)
+13610
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Physalopteroidea  Physalopteridae  Heliconema}
+-0.976286
+-0.404108
+0.0295485
+0.375773
+0.1843
+8
+NC_016172
+mitochondrion Onchocerca flexuosa (parasitic nematode)
+13672
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Onchocerca}
+-1.
+-0.488542
+-0.17433
+-0.0863096
+-0.25995
+9
+NC_016186
+mitochondrion Wuchereria bancrofti (agent of lymphatic filariasis)
+13636
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Wuchereria}
+-0.892624
+-0.36712
+-0.018665
+0.471674
+0.084491
+10
+NC_016197
+mitochondrion Acanthocheilonema viteae (parasitic nematode)
+13724
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Acanthocheilonema}
+-0.884991
+-0.299497
+0.0130978
+0.287289
+0.0027666
+11
+NC_016199
+mitochondrion Loa loa (eye worm)
+13590
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Filarioidea  Onchocercidae  Loa}
+-0.465221
+0.937094
+-1.
+0.813292
+-0.894087
+12
+NC_018363
+mitochondrion Thelazia callipaeda (thelaziosis nematode)
+13668
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Thelazioidea  Thelaziidae  Thelazia}
+-0.611118
+0.523667
+0.0186858
+1.
+1.
+13
+NC_021135
+mitochondrion Spirocerca lupi
+13780
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Thelazioidea  Thelaziidae  Spirocerca}
+1.
+-1.
+-0.582845
+0.279908
+0.396182
+14
+NC_024931
+mitochondrion Philometroides sanguineus
+14378
+{Eukaryota  Metazoa  Ecdysozoa  Nematoda  Chromadorea  Spirurida  Dracunculoidea  Philometridae  Philometroides}

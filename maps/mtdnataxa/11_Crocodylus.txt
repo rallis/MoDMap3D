@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Crocodylus (11)
+0.717324
+0.0733117
+0.524265
+0.573904
+-1.
+1
+NC_008142
+mitochondrion Crocodylus niloticus (Nile crocodile)
+16830
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+-0.987917
+0.973192
+0.618813
+0.700441
+0.0371563
+2
+NC_008143
+mitochondrion Crocodylus porosus (Australian saltwater crocodile)
+16916
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+-1.
+1.
+0.644956
+0.716158
+0.0649466
+3
+NC_008795
+mitochondrion Crocodylus siamensis (Siamese crocodile)
+16836
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+-0.552238
+-0.950073
+0.997978
+0.645723
+0.169051
+4
+NC_014670
+mitochondrion Crocodylus mindorensis (Philippine crocodile)
+16939
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+-0.219138
+-0.151007
+0.235922
+-1.
+0.145186
+5
+NC_014706
+mitochondrion Crocodylus palustris (marsh crocodile)
+17052
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+0.842536
+0.198322
+0.498828
+0.598956
+-0.482521
+6
+NC_015235
+mitochondrion Crocodylus moreletii (Morelet's crocodile)
+16827
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+-0.446432
+-0.438907
+-1.
+1.
+0.0874466
+7
+NC_015238
+mitochondrion Crocodylus johnsoni (Johnstone river crocodile)
+16851
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+0.992626
+0.189958
+0.509158
+0.668803
+0.9823
+8
+NC_015647
+mitochondrion Crocodylus acutus (American crocodile)
+16883
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+1.
+0.173755
+0.560215
+0.713572
+1.
+9
+NC_015648
+mitochondrion Crocodylus intermedius (Orinoco crocodile)
+16828
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+-0.513755
+-1.
+1.
+0.881673
+-0.0517103
+10
+NC_015651
+mitochondrion Crocodylus novaeguineae (New Guinea crocodile)
+16894
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}
+0.793091
+0.157415
+0.442466
+0.630599
+-0.757588
+11
+NC_024513
+mitochondrion Crocodylus rhombifer (Cuban crocodile)
+16795
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Archosauria  Crocodylia  Longirostres  Crocodylidae  Crocodylus}

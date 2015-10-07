@@ -1,0 +1,536 @@
+53
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Tevenvirinae (53)
+0.901609
+0.390636
+-0.359927
+-0.379923
+-0.222276
+1
+NC_000866
+Enterobacteria phage T4 (T4)
+168903
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.16717
+0.192432
+0.17505
+-0.224055
+0.129748
+2
+NC_004928
+Enterobacteria phage RB69 (RB69)
+167560
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.764154
+0.752418
+-1.
+1.
+-0.25839
+3
+NC_005066
+Enterobacteria phage RB49 (RB49)
+164018
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.729592
+0.223811
+-0.139347
+-0.449063
+-0.219429
+4
+NC_005083
+Vibrio phage KVP40
+244834
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  Schizot4likevirus}
+-0.689044
+0.843372
+0.651274
+-0.395204
+-0.432098
+5
+NC_005135
+Aeromonas phage 44RR2.8t
+173591
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.687531
+0.443314
+-0.0491811
+-0.317999
+-0.201935
+6
+NC_005260
+Aeromonas phage Aeh1 (Aeh1)
+233234
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.527615
+-0.710598
+-0.283208
+-0.359261
+-0.229822
+7
+NC_006820
+Synechococcus phage S-PM2
+196280
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.443482
+-0.821579
+-0.303334
+-0.320284
+-0.134575
+8
+NC_006883
+Prochlorococcus phage P-SSM2
+252401
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.481554
+-0.980396
+-0.34929
+-0.330542
+-0.179994
+9
+NC_006884
+Prochlorococcus phage P-SSM4
+178249
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.692783
+0.848635
+0.649158
+-0.400037
+-0.427808
+10
+NC_007022
+Aeromonas phage 31
+172963
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.961603
+0.907848
+-0.827894
+-0.900539
+0.00232148
+11
+NC_007023
+Enterobacteria phage RB43 (RB43)
+180500
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.586504
+0.629064
+0.955764
+-0.288747
+-0.964718
+12
+NC_008208
+Aeromonas phage 25
+161475
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.619618
+-0.90064
+-0.323231
+-0.37201
+-0.294463
+13
+NC_008296
+Synechococcus phage syn9
+177300
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+0.990627
+0.411317
+-0.408129
+-0.396633
+-0.249364
+14
+NC_008515
+Enterobacteria phage RB32
+165890
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.770709
+0.748045
+-0.993587
+0.98359
+-0.260535
+15
+NC_009821
+Enterobacteria phage Phi1
+164270
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.279005
+0.343071
+0.650168
+-0.0928672
+1.
+16
+NC_010105
+Enterobacteria phage JS98
+170523
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+0.975027
+0.402094
+-0.39107
+-0.396952
+-0.238017
+17
+NC_012635
+Enterobacteria phage RB51
+168394
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+1.
+0.412177
+-0.399573
+-0.400629
+-0.249888
+18
+NC_012638
+Enterobacteria phage RB14
+165429
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.760777
+0.733466
+-0.984381
+0.949431
+-0.254164
+19
+NC_012740
+Enterobacteria phage JSE
+166418
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.273127
+0.328671
+0.63355
+-0.0946183
+0.987592
+20
+NC_012741
+Enterobacteria phage JS10
+171451
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.521359
+-0.364497
+-0.183042
+-0.279039
+-0.192205
+21
+NC_013085
+Synechococcus phage S-RSM4
+194454
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.887635
+0.758804
+-0.789321
+-0.837056
+-0.00602912
+22
+NC_014036
+Klebsiella phage KP15
+174436
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.282997
+0.314902
+0.541797
+-0.134734
+0.819631
+23
+NC_014260
+Enterobacteria phage IME08
+172253
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-1.
+1.
+-0.925189
+-1.
+0.0198789
+24
+NC_014467
+Enterobacteria phage RB16
+176788
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.336118
+0.419225
+0.35793
+-0.233357
+0.375144
+25
+NC_014595
+Shigella phage SP18
+170605
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.559701
+0.259813
+0.163324
+-0.402121
+-0.231282
+26
+NC_014635
+Aeromonas phage phiAS4
+163875
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.696136
+0.438533
+-0.0503526
+-0.316672
+-0.20501
+27
+NC_014636
+Aeromonas phage phiAS5
+225268
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.332357
+0.0703563
+0.11414
+-0.234877
+-0.0792095
+28
+NC_014660
+Acinetobacter phage Ac42
+167716
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.444965
+0.0871687
+0.189881
+-0.311369
+-0.133694
+29
+NC_014661
+Acinetobacter phage Acj61
+164093
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.283874
+0.24826
+0.226037
+-0.257062
+0.0597624
+30
+NC_014662
+Enterobacteria phage CC31
+165540
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.472023
+0.187531
+0.215454
+-0.302215
+-0.138608
+31
+NC_014663
+Acinetobacter phage Acj9
+169947
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.352425
+0.409831
+0.34534
+-0.228208
+0.365442
+32
+NC_014792
+Enterobacteria phage vB_EcoM-VR7
+169285
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.471646
+0.218989
+0.138309
+-0.280633
+-0.0493955
+33
+NC_015250
+Acinetobacter phage 133
+159801
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.519577
+0.12443
+-0.141011
+-0.23876
+-0.0620324
+34
+NC_015251
+Aeromonas phage 65
+235229
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+0.954171
+0.416017
+-0.374179
+-0.396365
+-0.239989
+35
+NC_015457
+Shigella phage Shfl2
+165919
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.284227
+0.117675
+0.120294
+-0.207267
+-0.0334577
+36
+NC_018087
+Acinetobacter phage ZZ1
+166682
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.389485
+-0.00568141
+0.0842625
+-0.323101
+0.0635915
+37
+NC_018855
+Enterobacteria phage HX01
+169158
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.986281
+0.925216
+-0.806051
+-0.882717
+-0.0233466
+38
+NC_019398
+Cronobacter phage vB_CsaM_GAP161
+178193
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+0.948954
+0.385757
+-0.393139
+-0.391011
+-0.229339
+39
+NC_019399
+Enterobacteria phage vB_EcoM_ACG-C40
+167396
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.604036
+-0.944923
+-0.384737
+-0.416354
+-0.204834
+40
+NC_019443
+Synechococcus phage metaG-MbCM1
+172879
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.573997
+-1.
+-0.335228
+-0.354104
+-0.277206
+41
+NC_019444
+Synechococcus phage S-MbCM6
+176043
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.420153
+0.112176
+0.137365
+-0.311421
+0.161095
+42
+NC_019500
+Enterobacteria phage Bp7
+168066
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+0.896366
+0.402452
+-0.354935
+-0.391447
+-0.21814
+43
+NC_019503
+Enterobacteria phage ime09
+166499
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+0.992157
+0.405289
+-0.394183
+-0.395429
+-0.240452
+44
+NC_019505
+Escherichia phage wV7
+166452
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.566735
+0.179591
+-0.114073
+-0.263213
+-0.0633472
+45
+NC_019538
+Aeromonas phage CC2
+231743
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.607532
+0.65445
+1.
+-0.295493
+-0.996924
+46
+NC_019543
+Aeromonas phage Aes508
+160646
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.887345
+0.757812
+-0.78465
+-0.839045
+-0.00467443
+47
+NC_020080
+Klebsiella phage KP27
+174413
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.219675
+0.242631
+0.183548
+-0.2219
+0.0351853
+48
+NC_020416
+Salmonella phage S16
+160221
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.606638
+0.656091
+0.995282
+-0.293088
+-1.
+49
+NC_020879
+Aeromonas phage Aes012
+161978
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.984358
+0.949332
+-0.863812
+-0.955634
+0.00975678
+50
+NC_021344
+Escherichia phage Lw1
+176227
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.694033
+0.0857346
+-0.17528
+-0.444343
+-0.210372
+51
+NC_021529
+Vibrio phage nt-1 (nt-1)
+247489
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  Schizot4likevirus}
+-0.5856
+-0.975659
+-0.337159
+-0.379666
+-0.255629
+52
+NC_023584
+Synechococcus phage S-MbCM100
+170438
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}
+-0.610191
+-0.818779
+-0.345925
+-0.401734
+-0.225247
+53
+NC_023587
+Synechococcus phage S-MbCM7
+189311
+{root  Viruses  dsDNA viruses no RNA stage  Caudovirales  Myoviridae  Tevenvirinae  T4likevirus}

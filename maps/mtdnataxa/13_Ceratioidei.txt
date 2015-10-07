@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Ceratioidei (15)
+0.944103
+0.987624
+-0.632569
+-0.119111
+0.128387
+1
+NC_004384
+mitochondrion Melanocetus murrayi (Murray's abyssal anglerfish)
+16758
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Melanocetidae  Melanocetus}
+-0.613986
+-0.568094
+-0.897634
+-0.839716
+-0.0701184
+2
+NC_013863
+mitochondrion Rhynchactis macrothrix (anglerfish)
+17072
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Gigantactinidae  Rhynchactis}
+-0.504745
+-0.419896
+-0.49011
+0.470464
+0.678805
+3
+NC_013864
+mitochondrion Neoceratias spinifer (Tandangler)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Neoceratiidae  Neoceratias}
+-0.719769
+-0.16541
+-0.173151
+1.
+-1.
+4
+NC_013865
+mitochondrion Haplophryne mollis (solf leafvent angler)
+17209
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Linophrynidae  Haplophryne}
+0.938644
+1.
+-0.632144
+-0.130957
+0.128019
+5
+NC_013866
+mitochondrion Melanocetus johnsonii (Johnson's black anglerfish)
+16871
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Melanocetidae  Melanocetus}
+0.986835
+-1.
+0.263038
+-0.284684
+0.0276939
+6
+NC_013867
+mitochondrion Himantolophus albinares (footballfish)
+16440
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Himantolophidae  Himantolophus}
+1.
+-0.997084
+0.246148
+-0.279408
+0.0216903
+7
+NC_013868
+mitochondrion Himantolophus groenlandicus (Atlantic footballfish)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Himantolophidae  Himantolophus}
+0.979773
+-0.318316
+-0.0781194
+-0.145166
+0.175931
+8
+NC_013869
+mitochondrion Bufoceratias thele (anglerfish)
+16430
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Diceratiidae  Bufoceratias}
+0.95902
+-0.320194
+-0.0822163
+-0.148654
+0.157037
+9
+NC_013870
+mitochondrion Diceratias pileatus (two rod lantern angler)
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Diceratiidae  Diceratias}
+0.134687
+-0.35642
+-0.264879
+-0.153928
+0.2876
+10
+NC_013871
+mitochondrion Oneirodes thompsoni (spiny dreamer)
+17391
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Oneirodidae  Oneirodes}
+-0.172807
+-0.418902
+-0.382579
+0.194847
+0.403417
+11
+NC_013875
+mitochondrion Thaumatichthys pagidostomus (wonderfish)
+16828
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Thaumatichthyidae  Thaumatichthys}
+-1.
+0.572803
+1.
+-0.608166
+-0.109872
+12
+NC_013880
+mitochondrion Cryptopsaras couesii (triplewart seadevil)
+18350
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Ceratiidae  Cryptopsaras}
+-0.735604
+0.22735
+0.292808
+-0.546518
+0.685601
+13
+NC_013882
+mitochondrion Ceratias uranoscopus (stargazing seadevil)
+18365
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Ceratiidae  Ceratias}
+-0.723156
+-0.517805
+-1.
+-1.
+-0.252323
+14
+NC_013885
+mitochondrion Gigantactis vanhoeffeni (Vanhoffenis piskeangler)
+17205
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Gigantactinidae  Gigantactis}
+-0.669428
+-0.373862
+-0.314251
+0.408813
+1.
+15
+NC_016020
+mitochondrion Caulophryne pelagica (fanfin anglerfish)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Eupercaria  Lophiiformes  Ceratioidei  Caulophrynidae  Caulophryne}

@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Peracarida (21)
+0.776811
+1.
+-0.593571
+-1.
+0.78397
+1
+NC_008412
+mitochondrion Ligia oceanica (common sea slater)
+15289
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Isopoda  Oniscidea  Diplocheta  Ligiidae  Ligia}
+-0.933457
+-0.381384
+-0.302097
+-0.0988225
+0.163237
+2
+NC_013032
+mitochondrion Metacrangonyx longipes (subterranean amphipod)
+14113
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.236404
+-0.47794
+-0.114012
+-0.172214
+-0.39144
+3
+NC_013819
+mitochondrion Onisimus nanseni (amphipod)
+14734
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Lysianassoidea  Lysianassidae  Onisimus}
+-0.00459136
+0.535633
+-0.542608
+0.199194
+0.119404
+4
+NC_013976
+mitochondrion Eophreatoicus sp. 14 FK-2009 (freshwater isopod)
+14994
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Isopoda  Phreatoicidea  Phreatoicidae  Eophreatoicus}
+0.718595
+-0.320887
+0.915337
+0.110853
+0.536837
+5
+NC_014492
+mitochondrion Caprella mutica (skeleton shrimp)
+15427
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Caprellidea  Caprellida  Caprellidae  Caprella}
+0.703455
+-0.242251
+1.
+0.185073
+0.704245
+6
+NC_014687
+mitochondrion Caprella scaura (amphipod)
+15079
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Caprellidea  Caprellida  Caprellidae  Caprella}
+0.454798
+-0.530366
+-0.066721
+-0.37913
+-0.942295
+7
+NC_016192
+mitochondrion Gondogeneia antarctica (amphipod)
+18424
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Eusiroidea  Pontogeneiidae  Gondogeneia}
+1.
+-0.687342
+-0.644198
+-0.325772
+-1.
+8
+NC_017760
+mitochondrion Gammarus duebeni (gammarid amphipod)
+15651
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Gammaridae  Gammarus}
+-1.
+-0.352691
+-0.272324
+-0.0432334
+0.118194
+9
+NC_019653
+mitochondrion Metacrangonyx repens (amphipod)
+14355
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.824302
+-0.311603
+-0.272496
+-0.102351
+0.131601
+10
+NC_019654
+mitochondrion Metacrangonyx dominicanus (amphipod)
+14543
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.464477
+-0.158108
+-0.175082
+-0.144465
+-0.144532
+11
+NC_019655
+mitochondrion Metacrangonyx goulmimensis (amphipod)
+14507
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.824836
+-0.367821
+-0.273072
+-0.081477
+0.159483
+12
+NC_019656
+mitochondrion Metacrangonyx ilvanus (amphipod)
+14770
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.80525
+-0.424365
+-0.226142
+-0.0862478
+0.205036
+13
+NC_019657
+mitochondrion Metacrangonyx spinicaudatus (amphipod)
+15037
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.866893
+-0.400718
+-0.238543
+-0.0221433
+0.206651
+14
+NC_019658
+mitochondrion Metacrangonyx longicaudus (amphipod)
+14711
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.935268
+-0.37669
+-0.251653
+-0.061347
+0.161628
+15
+NC_019659
+mitochondrion Metacrangonyx panousei (amphipod)
+14478
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+-0.518684
+-0.210017
+-0.134261
+-0.0781024
+0.118794
+16
+NC_019660
+mitochondrion Metacrangonyx remyi (amphipod)
+14787
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Hadzioidea  Metacrangonyctidae  Metacrangonyx}
+0.0175246
+-0.574064
+0.0420959
+-0.132473
+-0.198136
+17
+NC_019661
+mitochondrion Bahadzia jaraguensis (amphipod)
+14657
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Melitoidea  Hadziidae  Bahadzia}
+0.401996
+-0.581999
+0.0123532
+-0.154707
+-0.572428
+18
+NC_019662
+mitochondrion Pseudoniphargus daviui (amphipod)
+15155
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Allocrangonyctidae  Pseudoniphargus}
+0.727022
+-1.
+-1.
+0.169329
+0.782256
+19
+NC_023104
+mitochondrion Eulimnogammarus verrucosus
+15315
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Eulimnogammaridae  Eulimnogammarinae  Eulimnogammarus}
+0.345055
+0.763231
+-0.563838
+1.
+-0.656686
+20
+NC_024054
+mitochondrion Limnoria quadripunctata
+16515
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Isopoda  Limnoriidae  Limnoria}
+0.866509
+-0.978415
+-0.989062
+0.237568
+1.
+21
+NC_025564
+mitochondrion Eulimnogammarus vittatus
+15534
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Crustacea  Malacostraca  Eumalacostraca  Peracarida  Amphipoda  Gammaridea  Gammaroidea  Eulimnogammaridae  Eulimnogammarinae  Eulimnogammarus}

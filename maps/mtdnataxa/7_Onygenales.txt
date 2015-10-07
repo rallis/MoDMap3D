@@ -1,0 +1,266 @@
+26
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Onygenales (26)
+0.939859
+0.258682
+0.716505
+-0.179431
+0.110218
+1
+NC_007394
+mitochondrion Epidermophyton floccosum
+30910
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Epidermophyton}
+0.0860324
+-0.147764
+-0.882213
+0.290011
+0.394824
+2
+NC_007935
+mitochondrion Paracoccidioides brasiliensis
+71335
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Paracoccidioides}
+0.986723
+0.330738
+0.801056
+-0.292612
+0.0740539
+3
+NC_012824
+mitochondrion Trichophyton rubrum
+26985
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Trichophyton}
+0.964882
+0.370171
+0.823839
+-0.293155
+0.0710003
+4
+NC_012826
+mitochondrion Trichophyton mentagrophytes
+24297
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Trichophyton}
+0.756621
+0.275602
+0.616545
+-0.178728
+0.0965255
+5
+NC_012828
+mitochondrion Arthroderma uncinatum (anamorph: Trichophyton
+28530
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Arthroderma}
+0.923927
+0.358434
+0.784714
+-0.291119
+0.0875823
+6
+NC_012830
+mitochondrion Arthroderma obtusum (anamorph: Microsporum nanum)
+24105
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Arthroderma}
+0.921055
+0.370455
+0.793549
+-0.31995
+0.084348
+7
+NC_012832
+mitochondrion Arthroderma otae (anamorph: Microsporum canis)
+23943
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Arthroderma}
+-0.412418
+0.304038
+0.377947
+0.763394
+0.155681
+8
+NW_001509362
+mitochondrion Coccidioides immitis RS
+14439
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Coccidioides}
+-0.704876
+-0.659994
+0.801913
+-0.471612
+0.352474
+9
+NW_001509363
+mitochondrion Coccidioides immitis RS
+20391
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Coccidioides}
+-0.163329
+-0.104875
+0.0373146
+1.
+0.234789
+10
+NW_001509364
+mitochondrion Coccidioides immitis RS
+34037
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Coccidioides}
+-0.996445
+1.
+0.828128
+-0.164852
+-0.0718467
+11
+NW_001813703
+mitochondrion Histoplasma capsulatum NAm1 (Ajellomyces capsulatus
+1032
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Histoplasma}
+-1.
+0.999001
+0.820962
+-0.111933
+-0.0755197
+12
+NW_001813704
+mitochondrion Histoplasma capsulatum NAm1 (Ajellomyces capsulatus
+1093
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Histoplasma}
+-0.933208
+0.715953
+0.970096
+-0.232927
+0.254402
+13
+NW_001813705
+mitochondrion Histoplasma capsulatum NAm1 (Ajellomyces capsulatus
+6949
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Histoplasma}
+-0.733838
+-0.648854
+0.770833
+-0.382129
+-1.
+14
+NW_001813706
+mitochondrion Histoplasma capsulatum NAm1 (Ajellomyces capsulatus
+18217
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Histoplasma}
+-0.385564
+0.338329
+0.348542
+0.94023
+-0.0555691
+15
+NW_001813912
+mitochondrion Histoplasma capsulatum NAm1 (Ajellomyces capsulatus
+14560
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Histoplasma}
+-0.869136
+0.714874
+0.857754
+-0.151154
+0.0340805
+16
+NW_003101580
+mitochondrion Blastomyces dermatitidis SLH14081 (Ajellomyces
+7187
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Blastomyces}
+-0.922128
+0.665198
+1.
+-0.209791
+0.269738
+17
+NW_003101581
+mitochondrion Blastomyces dermatitidis SLH14081 (Ajellomyces
+8933
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Blastomyces}
+-0.57856
+-1.
+0.64139
+-0.295552
+-0.854564
+18
+NW_003101582
+mitochondrion Blastomyces dermatitidis SLH14081 (Ajellomyces
+34670
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Ajellomycetaceae  Blastomyces}
+-0.894561
+0.705977
+0.816512
+-0.211696
+0.0767343
+19
+NW_003217174
+mitochondrion Paracoccidioides sp. 'lutzii' Pb01
+7044
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Paracoccidioides}
+-0.668031
+0.68819
+-0.635343
+-0.979338
+0.0346437
+20
+NW_003217175
+mitochondrion Paracoccidioides sp. 'lutzii' Pb01
+9783
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Paracoccidioides}
+-0.299684
+0.457565
+-1.
+-1.
+0.103223
+21
+NW_003217176
+mitochondrion Paracoccidioides sp. 'lutzii' Pb01
+17785
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Paracoccidioides}
+-0.9141
+0.594232
+0.826206
+-0.262964
+0.0847599
+22
+NW_003217187
+mitochondrion Paracoccidioides sp. 'lutzii' Pb01
+7294
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  mitosporic            Onygenales  Paracoccidioides}
+-0.70962
+-0.708221
+0.905079
+-0.470484
+1.
+23
+NW_003298754
+mitochondrion Uncinocarpus reesii 1704
+21803
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Onygenaceae  Uncinocarpus}
+0.893769
+0.403443
+0.805924
+-0.33535
+0.0773573
+24
+NW_003299153
+mitochondrion Arthroderma otae CBS 113480 (anamorph: Microsporum
+21449
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Arthroderma}
+-0.728148
+-0.546769
+0.955855
+-0.417936
+0.988645
+25
+NW_003345183
+mitochondrion Microsporum gypseum CBS 118893
+18750
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Microsporum}
+1.
+0.301607
+0.800764
+-0.292157
+0.0752071
+26
+NW_003456429
+mitochondrion Trichophyton rubrum CBS 118892
+27683
+{Eukaryota  Fungi  Dikarya  Ascomycota  Pezizomycotina  Eurotiomycetes  Eurotiomycetidae  Onygenales  Arthrodermataceae  Trichophyton}

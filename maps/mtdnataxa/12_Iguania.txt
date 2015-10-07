@@ -1,0 +1,406 @@
+40
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Iguania (40)
+-0.215336
+1.
+-0.957993
+-0.447443
+0.138164
+1
+NC_002793
+mitochondrion Iguana iguana (common iguana)
+16633
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Iguaninae  Iguana}
+-0.187638
+0.911108
+-0.959994
+-0.484601
+0.17967
+2
+NC_005960
+mitochondrion Sceloporus occidentalis (western fence lizard)
+17072
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Phrynosomatinae  Sceloporus}
+-0.246686
+0.429529
+-0.308627
+1.
+0.363645
+3
+NC_006922
+mitochondrion Pogona vitticeps (central bearded dragon)
+16751
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Amphibolurinae  Pogona}
+-0.303616
+0.249341
+-0.361112
+0.481044
+0.183932
+4
+NC_008065
+mitochondrion Xenagama taylori (dwarf shield tailed agama)
+16220
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Xenagama}
+0.273319
+0.02635
+-0.508961
+0.000529374
+0.268658
+5
+NC_008777
+mitochondrion Furcifer oustaleti (Malagasy giant chamelion)
+18021
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Furcifer}
+-0.276037
+0.408972
+-0.321502
+0.960707
+0.354778
+6
+NC_009421
+mitochondrion Chlamydosaurus kingii (frilled dragon)
+16761
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Amphibolurinae  Chlamydosaurus}
+-0.254915
+0.401014
+-0.429474
+0.519207
+0.194943
+7
+NC_009683
+mitochondrion Calotes versicolor (garden lizard)
+16670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Draconinae  Calotes}
+-0.199525
+0.794611
+-0.893599
+-0.451898
+0.126766
+8
+NC_010972
+mitochondrion Anolis carolinensis (green anole)
+17223
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Polychrotinae  Anolis}
+1.
+-0.589588
+-0.528101
+-0.317435
+0.175016
+9
+NC_012420
+mitochondrion Chamaeleo calyptratus (veiled chameleon)
+17433
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.916238
+-0.515068
+-0.558582
+-0.267509
+0.203531
+10
+NC_012422
+mitochondrion Chamaeleo africanus (African chameleon)
+17415
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.921119
+-0.51486
+-0.534655
+-0.30646
+0.222953
+11
+NC_012427
+mitochondrion Chamaeleo chamaeleon (common chameleon)
+17470
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.659914
+-0.340467
+-0.519395
+-0.163512
+0.241126
+12
+NC_012436
+mitochondrion Chamaeleo dilepis (flapneck chameleon)
+17875
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.689563
+-0.302551
+-0.51256
+-0.172398
+0.212144
+13
+NC_012443
+mitochondrion Chamaeleo monachus (monarch chameleon)
+18900
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.851287
+-0.462392
+-0.532207
+-0.234349
+0.206877
+14
+NC_012444
+mitochondrion Chamaeleo zeylanicus (Indian chameleon)
+18923
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.996417
+-0.599671
+-0.539157
+-0.321256
+0.1816
+15
+NC_012445
+mitochondrion Chamaeleo arabicus (Arabian chameleon)
+17400
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.944198
+-0.541896
+-0.537104
+-0.278707
+0.213428
+16
+NC_012452
+mitochondrion Chamaeleo calcaricarens (Awash chameleon)
+17451
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Chamaeleo}
+0.216232
+0.190857
+-0.44218
+0.157146
+0.154342
+17
+NC_012465
+mitochondrion Kinyongia fischeri (Fischer's chameleon)
+18997
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Kinyongia}
+-0.165555
+0.850876
+-0.982879
+-0.575202
+0.208513
+18
+NC_012827
+mitochondrion Oplurus grandidieri (Grandidier's Madagascar swift)
+17122
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Oplurinae  Oplurus}
+-0.20888
+0.919069
+-0.989288
+-0.565044
+0.199729
+19
+NC_012829
+mitochondrion Basiliscus vittatus (brown basilisk)
+16948
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Corytophaninae  Basiliscus}
+-0.178644
+0.922862
+-0.982603
+-0.466604
+0.167806
+20
+NC_012831
+mitochondrion Gambelia wislizenii (longnose leopard lizard)
+17563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Crotaphytinae  Gambelia}
+-0.196543
+0.830535
+-0.918188
+-0.531008
+0.252304
+21
+NC_012834
+mitochondrion Leiocephalus personatus (Haitian curlytail lizard)
+16681
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Tropidurinae  Leiocephalus}
+-0.186644
+0.938625
+-1.
+-0.593813
+0.246054
+22
+NC_012836
+mitochondrion Chalarodon madagascariensis (Madagascar iguana)
+16851
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Oplurinae  Chalarodon}
+-0.164249
+0.897868
+-0.910244
+-0.449525
+0.258492
+23
+NC_012839
+mitochondrion Polychrus marmoratus (common monkey lizard)
+17743
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Iguanidae  Polychrotinae  Polychrus}
+-0.289214
+0.334804
+-0.341634
+0.728814
+0.190627
+24
+NC_013603
+mitochondrion Pseudotrapelus sinaitus (Sinai agama)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Pseudotrapelus}
+0.112591
+0.158423
+-0.537643
+0.104429
+0.273058
+25
+NC_014174
+mitochondrion Brookesia decaryi (spiny leaf chameleon)
+17324
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Brookesia}
+-0.210325
+0.424541
+-0.359003
+0.600723
+0.22307
+26
+NC_014175
+mitochondrion Acanthosaura armata (armored pricklenape)
+16544
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Draconinae  Acanthosaura}
+0.267963
+0.0349685
+-0.505537
+0.0724332
+0.241121
+27
+NC_014176
+mitochondrion Trioceros melleri (Chameleo melleri)
+16832
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Chamaeleonidae  Trioceros}
+-0.228901
+0.352029
+-0.302363
+0.519385
+0.260118
+28
+NC_014178
+mitochondrion Hydrosaurus amboinensis (sailfin lizard)
+16129
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Hydrosaurinae  Hydrosaurus}
+-0.255692
+0.675555
+1.
+-1.
+0.185408
+29
+NC_014179
+mitochondrion Leiolepis guttata (spotted butterfly lizard)
+16552
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Leiolepinae  Leiolepis}
+-0.175297
+0.413553
+-0.335929
+0.487299
+0.216155
+30
+NC_014182
+mitochondrion Uromastyx benti (Yemeni spiny-tailed lizard)
+16380
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Uromastycinae  Uromastyx}
+-0.844943
+-0.725493
+-0.564798
+-0.247768
+0.215155
+31
+NC_020340
+mitochondrion Phrynocephalus axillaris (toad-headed agama)
+17937
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.777354
+-0.604707
+-0.540916
+-0.185399
+0.203499
+32
+NC_021131
+mitochondrion Phrynocephalus mystaceus (secret toadhead agama)
+16660
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.99068
+-0.986987
+-0.657334
+-0.480582
+0.980163
+33
+NC_022719
+mitochondrion Phrynocephalus przewalskii
+16892
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.220934
+0.496964
+0.263722
+-0.347267
+0.249523
+34
+NC_024179
+mitochondrion Leiolepis reevesii
+16908
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Leiolepinae  Leiolepis}
+-0.897135
+-0.830525
+-0.585783
+-0.232342
+-0.999565
+35
+NC_024612
+mitochondrion Phrynocephalus putjatai (Phrynocephalus putjatia)
+16283
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-1.
+-1.
+-0.648598
+-0.476696
+1.
+36
+NC_024654
+mitochondrion Phrynocephalus versicolor
+16429
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.893852
+-0.829618
+-0.594912
+-0.232799
+-1.
+37
+NC_024875
+mitochondrion Phrynocephalus guinanensis
+16279
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.788768
+-0.613054
+-0.564454
+-0.201595
+0.341822
+38
+NC_025639
+mitochondrion Phrynocephalus helioscopus (sunwatcher toadhead
+16249
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.921405
+-0.875028
+-0.609607
+-0.347121
+0.695282
+39
+NC_025640
+mitochondrion Phrynocephalus grumgrzimailoi (Grumgrzimail's
+16301
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Agaminae  Phrynocephalus}
+-0.252772
+0.676677
+0.994668
+-0.999674
+0.198557
+40
+NC_025956
+mitochondrion Leiolepis boehmei
+16106
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Iguania  Acrodonta  Agamidae  Leiolepinae  Leiolepis}

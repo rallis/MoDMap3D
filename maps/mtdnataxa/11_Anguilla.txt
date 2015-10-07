@@ -1,0 +1,206 @@
+20
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Anguilla (20)
+-0.0401292
+0.203274
+-0.741018
+0.0868323
+-0.699362
+1
+NC_002707
+mitochondrion Anguilla japonica (Japanese eel)
+16685
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.881558
+1.
+1.
+0.690523
+-0.468015
+2
+NC_006531
+mitochondrion Anguilla anguilla (European eel)
+16683
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+1.
+-0.983813
+0.716033
+0.355949
+-0.369103
+3
+NC_006532
+mitochondrion Anguilla australis australis (Australian shortfin
+16686
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.995722
+-1.
+0.725471
+0.363277
+-0.375347
+4
+NC_006533
+mitochondrion Anguilla australis schmidti (Australian shortfin eel)
+16682
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.794808
+0.0977229
+0.79016
+-1.
+-0.351477
+5
+NC_006534
+mitochondrion Anguilla bicolor bicolor (Indonesian shortfin eel)
+16700
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.771076
+0.122212
+0.792803
+-0.93497
+-0.319202
+6
+NC_006535
+mitochondrion Anguilla bicolor pacifica (Indonesian shortfin eel)
+16693
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.49161
+0.0467889
+-0.361138
+-0.321827
+0.327342
+7
+NC_006536
+mitochondrion Anguilla malgumora (Anguilla borneensis)
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.182565
+0.0171151
+-0.886771
+0.221444
+-1.
+8
+NC_006537
+mitochondrion Anguilla celebesensis (Celebes longfin eel)
+16700
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.671207
+0.00057532
+-0.0239024
+0.416437
+-0.103793
+9
+NC_006538
+mitochondrion Anguilla dieffenbachii (New Zealand longfin eel)
+16687
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.867122
+-0.0247346
+0.291767
+0.458824
+-0.213014
+10
+NC_006539
+mitochondrion Anguilla interioris (highlands long-finned eel)
+16713
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.74551
+-0.103137
+0.120201
+0.496385
+-0.24721
+11
+NC_006540
+mitochondrion Anguilla marmorata (giant mottled eel)
+16745
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.0937705
+-0.0308876
+-0.900411
+0.383376
+-0.89583
+12
+NC_006541
+mitochondrion Anguilla megastoma (Polynesian longfinned eel)
+16714
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.483241
+0.275702
+-0.997961
+0.0937811
+1.
+13
+NC_006542
+mitochondrion Anguilla mossambica (African longfin eel)
+16694
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-1.
+-0.0914618
+0.156956
+1.
+-0.0210567
+14
+NC_006543
+mitochondrion Anguilla bengalensis labiata (Indian mottled eel)
+16833
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.993217
+-0.0864973
+0.165783
+0.981669
+-0.0314973
+15
+NC_006544
+mitochondrion Anguilla nebulosa nebulosa (mottled eel)
+16707
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.761326
+0.038574
+0.417923
+-0.00695934
+-0.296677
+16
+NC_006545
+mitochondrion Anguilla obscura (Pacific shortfinned eel)
+16704
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.0137316
+0.0962308
+-1.
+0.193674
+-0.687115
+17
+NC_006546
+mitochondrion Anguilla reinhardtii (speckled longfin eel)
+16690
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+0.822224
+0.951585
+0.914581
+0.624943
+-0.481961
+18
+NC_006547
+mitochondrion Anguilla rostrata (American eel)
+16678
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.972528
+-0.010708
+0.375605
+0.768714
+-0.155846
+19
+NC_011575
+mitochondrion Anguilla luzonensis (Philippine eel)
+16635
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}
+-0.963667
+-0.00957555
+0.354262
+0.78886
+-0.157291
+20
+NC_013435
+mitochondrion Anguilla luzonensis (freshwater eel)
+16632
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Anguilliformes  Anguillidae  Anguilla}

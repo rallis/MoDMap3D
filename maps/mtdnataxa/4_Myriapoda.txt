@@ -1,0 +1,146 @@
+14
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Myriapoda (14)
+-0.62391
+-0.370224
+-0.428105
+-1.
+0.389949
+1
+NC_002629
+mitochondrion Lithobius forficatus (centipede)
+15695
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Chilopoda  Pleurostigmophora  Lithobiomorpha  Lithobiidae  Lithobius}
+-0.731283
+-0.45832
+0.29787
+1.
+1.
+2
+NC_003343
+mitochondrion Narceus annularus (millipede)
+14868
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Spirobolidae  Narceus}
+-0.637805
+-0.382512
+0.437537
+0.867669
+-0.142931
+3
+NC_003344
+mitochondrion Thyropygus sp. DVL-2001 (millipede)
+15133
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Spirostreptida  Harpagophoridae  Thyropygus}
+-0.901591
+-0.188947
+0.303013
+0.334656
+-0.399653
+4
+NC_005870
+mitochondrion Scutigera coleoptrata (house centipede)
+14922
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Chilopoda  Notostigmophora  Scutigeromorpha  Scutigeridae  Scutigera}
+-0.86284
+0.129786
+0.507419
+0.17466
+-0.687306
+5
+NC_008453
+mitochondrion Scutigerella causeyae (symphylan)
+14637
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Symphyla  Scutigerellidae  Scutigerella}
+-0.969493
+-0.149664
+0.160571
+-0.292421
+-0.381899
+6
+NC_009458
+mitochondrion Bothropolys sp. SP-2004 (centipede)
+15139
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Chilopoda  Pleurostigmophora  Lithobiomorpha  Ethopolyidae  Bothropolys}
+1.
+-1.
+1.
+-0.0249329
+-0.532325
+7
+NC_010221
+mitochondrion Antrokoreana gracilipes (millipede)
+14747
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Julida  Nemasomatidae  Antrokoreana}
+-1.
+0.0903673
+0.437806
+0.30839
+-0.448042
+8
+NC_011572
+mitochondrion Symphylella sp. YG-2006 (symphylan)
+14667
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Symphyla  Scolopendrellidae  Symphylella}
+-0.799379
+0.173966
+0.425133
+0.256494
+-0.455709
+9
+NC_016676
+mitochondrion Pauropus longiramus (pauropod)
+14487
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Pauropoda  Pauropodidae  Pauropus}
+-0.966372
+-0.00159052
+0.485992
+0.242465
+-0.4726
+10
+NC_018361
+mitochondrion Sphaerotheriidae sp. HYS-2012
+14970
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Sphaerotheriida  Sphaerotheriidae}
+-0.543234
+-0.857844
+-1.
+0.834048
+-1.
+11
+NC_021403
+mitochondrion Cermatobius longicornis
+16833
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Chilopoda  Pleurostigmophora  Lithobiomorpha  Henicopidae  Henicopinae  Henicopini  Cermatobius}
+-0.899018
+-0.303152
+0.385933
+0.614803
+-0.219245
+12
+NC_021932
+mitochondrion Abacion magnum
+15160
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Callipodida  Callipodidae  Abacion}
+0.863883
+1.
+-0.284667
+0.556213
+-0.123095
+13
+NC_021933
+mitochondrion Appalachioria falcifera
+15282
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Polydesmida  Xystodesmidae  Aphelorini  Appalachioria}
+-0.887347
+0.220643
+0.494249
+0.23022
+-0.511978
+14
+NC_021934
+mitochondrion Brachycybe lecontii
+15115
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Myriapoda  Diplopoda  Helminthomorpha  Playtdesmida  Andrognathidae  Brachycybe}

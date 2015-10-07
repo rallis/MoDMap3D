@@ -1,0 +1,336 @@
+33
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Gymnophiona (33)
+0.932437
+-0.302994
+-1.
+-0.995302
+0.202811
+1
+NC_002471
+mitochondrion Typhlonectes natans (caecilian)
+17005
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Typhlonectidae  Typhlonectes}
+-0.930495
+-0.829636
+0.264591
+-0.820597
+-0.228676
+2
+NC_006301
+mitochondrion Gegeneophis ramaswamii (Tenmalai caecilian)
+15897
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Indotyphlidae  Gegeneophis}
+-0.379237
+0.849561
+0.480384
+-0.535289
+-0.0245862
+3
+NC_006302
+mitochondrion Ichthyophis glutinosus (Ceylon caecilian)
+15986
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Ichthyophiidae  Ichthyophis}
+0.0543719
+0.0153023
+0.041448
+-0.0497078
+-0.461884
+4
+NC_006303
+mitochondrion Rhinatrema bivittatum (two-lined caecilian)
+16422
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Rhinatrematidae  Rhinatrema}
+-0.612837
+-0.464016
+0.254957
+-0.542266
+1.
+5
+NC_006304
+mitochondrion Scolecomorphus vittatus (banded caecilian)
+15973
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Scolecomorphidae  Scolecomorphus}
+-0.489599
+0.696255
+0.488899
+-0.727262
+0.284298
+6
+NC_006305
+mitochondrion Uraeotyphlus cf. oxyurus MW-212 (Indian caecilian)
+16432
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Ichthyophiidae  Uraeotyphlus}
+-0.273079
+1.
+0.467236
+-0.419543
+-0.133079
+7
+NC_006404
+mitochondrion Ichthyophis bannanicus (Banna caecilian)
+15983
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Ichthyophiidae  Ichthyophis}
+-0.737575
+-0.640669
+0.232742
+-0.596463
+0.198534
+8
+NC_007911
+mitochondrion Siphonops annulatus (ringed caecilian)
+16202
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Siphonopidae  Siphonops}
+-0.161255
+-0.0708377
+0.160073
+-0.324194
+0.260499
+9
+NC_019586
+mitochondrion Herpele squalostoma
+16073
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Herpelidae  Herpele}
+-0.569054
+-0.306184
+0.1522
+-0.419823
+0.530992
+10
+NC_019596
+mitochondrion Crotaphatrema lamottei
+17103
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Scolecomorphidae  Crotaphatrema}
+-0.655187
+-0.277587
+0.299648
+-0.618778
+0.678521
+11
+NC_020136
+mitochondrion Boulengerula boulengeri (Usambara bluish-gray
+15973
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Herpelidae  Boulengerula}
+1.
+-0.896033
+0.924267
+-0.482275
+0.0673007
+12
+NC_020137
+mitochondrion Caecilia volcani (Cocle caecilian)
+16187
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Caeciliidae  Caecilia}
+-1.
+-0.789778
+0.337479
+-0.719953
+0.631199
+13
+NC_020138
+mitochondrion Dermophis mexicanus (Mexican burrowing caecilian)
+16162
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Dermophis}
+-0.858962
+-0.7549
+0.258002
+-0.501482
+0.645018
+14
+NC_020139
+mitochondrion Gymnopis multiplicata (purple caecelian)
+16134
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Gymnopis}
+-0.898034
+-0.919496
+0.278683
+-0.954526
+-0.854947
+15
+NC_020140
+mitochondrion Hypogeophis rostratus (Frigate Island caecilian)
+16151
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Indotyphlidae  Hypogeophis}
+-0.541506
+-0.560984
+-0.00508769
+0.723167
+0.141056
+16
+NC_020141
+mitochondrion Microcaecilia sp. PZ-2009 (caecilian)
+16180
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Siphonopidae  Microcaecilia}
+0.725689
+-0.693424
+0.718681
+-0.483332
+0.223385
+17
+NC_020142
+mitochondrion Oscaecilia ochrocephala (yellow-headed caecelian)
+16238
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Caeciliidae  Oscaecilia}
+-0.688852
+-0.397994
+0.284431
+-0.484876
+0.624508
+18
+NC_020154
+mitochondrion Boulengerula taitana (Taita Mountains caecilian)
+16587
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Herpelidae  Boulengerula}
+-0.845675
+-0.616741
+0.308548
+-0.851728
+0.982669
+19
+NC_020155
+mitochondrion Geotrypetes seraphini (Gabon caecelian)
+16293
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Geotrypetes}
+-0.769237
+-0.478697
+0.315081
+-0.804323
+0.590341
+20
+NC_021369
+mitochondrion Chikila fulleri (Kuttal caecilian)
+16198
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Chikilidae}
+0.836616
+-0.93855
+1.
+-0.482204
+0.22568
+21
+NC_023507
+mitochondrion Caecilia tentaculata
+16297
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Caeciliidae  Caecilia}
+0.980311
+-0.884557
+0.999686
+-0.400711
+0.244451
+22
+NC_023508
+mitochondrion Caecilia gracilis
+16209
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Caeciliidae  Caecilia}
+0.105441
+-0.58086
+-0.00314058
+-0.792625
+0.559066
+23
+NC_023509
+mitochondrion Chthonerpeton indistinctum
+17215
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Typhlonectidae  Chthonerpeton}
+-0.841913
+-1.
+0.296244
+-0.99511
+-0.960838
+24
+NC_023510
+mitochondrion Grandisonia sechellensis
+16094
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Indotyphlidae  Grandisonia}
+-0.482619
+0.805324
+0.515056
+-0.668911
+0.0151273
+25
+NC_023511
+mitochondrion Ichthyophis bombayensis
+16100
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Ichthyophiidae  Ichthyophis}
+-0.825022
+-0.737328
+0.321164
+-0.771519
+-0.266022
+26
+NC_023512
+mitochondrion Indotyphlus maharashtraensis
+16167
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Indotyphlidae  Indotyphlus}
+-0.208349
+-0.532706
+0.09326
+-0.163032
+-0.586344
+27
+NC_023513
+mitochondrion Luetkenotyphlus brasiliensis
+16271
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Siphonopidae  Luetkenotyphlus}
+-0.41831
+-0.552173
+0.00308257
+1.
+0.168927
+28
+NC_023514
+mitochondrion Microcaecilia dermatophaga (tiny white caecilian)
+16085
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Siphonopidae  Microcaecilia}
+-0.639489
+-0.587346
+0.0541904
+0.772556
+0.149066
+29
+NC_023515
+mitochondrion Microcaecilia unicolor
+16007
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Siphonopidae  Microcaecilia}
+0.750195
+-0.32295
+-0.905265
+-1.
+0.246031
+30
+NC_023516
+mitochondrion Potomotyphlus kaupii
+17035
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Typhlonectidae  Potomotyphlus}
+-0.747048
+-0.827662
+0.217006
+-0.641323
+-1.
+31
+NC_023517
+mitochondrion Praslinia cooperi
+16192
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Indotyphlidae  Praslinia}
+-0.959812
+-0.766893
+0.365623
+-0.752317
+0.714401
+32
+NC_023518
+mitochondrion Schistometopum gregorii
+16038
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Schistometopum}
+-0.279703
+0.949938
+0.529568
+-0.617986
+-0.115477
+33
+NC_023519
+mitochondrion Uraeotyphlus gansi (Gansi caecilian)
+16101
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Amphibia  Gymnophiona  Ichthyophiidae  Uraeotyphlus}

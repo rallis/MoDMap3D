@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Liliopsida (18)
+0.971053
+0.095631
+-0.0403586
+-0.277499
+0.00827823
+1
+NC_001400
+mitochondrion Zea mays
+1913
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+0.969521
+0.0951385
+-0.0402013
+-0.276551
+0.00845101
+2
+NC_001751
+mitochondrion Oryza sativa Japonica Group (Japanese rice)
+2135
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+1.
+0.107641
+-0.049872
+-0.291067
+0.00944424
+3
+NC_001776
+mitochondrion Oryza sativa Indica Group (long-grained rice)
+1485
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.847475
+-0.702328
+0.785568
+-1.
+-0.0294812
+4
+NC_007579
+mitochondrion Triticum aestivum (bread wheat)
+452528
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Pooideae  Triticeae  Triticum}
+-0.880966
+-0.973266
+-1.
+-0.0714034
+-0.0693111
+5
+NC_007886
+mitochondrion Oryza sativa Indica Group (long-grained rice)
+491515
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.990146
+0.929305
+0.0253047
+-0.0514182
+-0.149273
+6
+NC_007982
+mitochondrion Zea mays subsp. mays (maize)
+569630
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-1.
+0.896965
+0.100194
+-0.0948021
+-0.157364
+7
+NC_008331
+mitochondrion Zea perennis
+570354
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.996916
+1.
+-0.0214548
+-0.0387799
+-0.0844088
+8
+NC_008332
+mitochondrion Zea mays subsp. parviglumis
+680603
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.976072
+0.789462
+0.244965
+-0.11446
+-0.122606
+9
+NC_008333
+mitochondrion Zea luxurians
+539368
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Zea}
+-0.879415
+-0.0141849
+0.0455711
+-0.24387
+-0.1274
+10
+NC_008360
+mitochondrion Sorghum bicolor (sorghum)
+468628
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Sorghum}
+-0.904397
+0.790048
+0.0477949
+-0.0648029
+0.0899693
+11
+NC_008362
+mitochondrion Tripsacum dactyloides (gama grass)
+704100
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  PACMAD            clade  Panicoideae  Andropogoneae  Tripsacum}
+-0.880612
+-0.975109
+-0.999408
+-0.0714016
+-0.0697735
+12
+NC_011033
+mitochondrion Oryza sativa Japonica Group (Japanese rice)
+490520
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.880748
+-0.78425
+-0.772886
+-0.0855445
+-0.0237504
+13
+NC_013816
+mitochondrion Oryza rufipogon
+559045
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Ehrhartoideae  Oryzeae  Oryza}
+-0.73704
+-0.172208
+0.310428
+0.286061
+0.755453
+14
+NC_016740
+mitochondrion Phoenix dactylifera (date palm)
+715001
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Arecaceae  Coryphoideae  Phoeniceae  Phoenix}
+-0.361574
+-1.
+1.
+1.
+-1.
+15
+NC_017840
+mitochondrion Spirodela polyrhiza (great duckweed)
+228493
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Araceae  Lemnoideae  Spirodela}
+-0.558592
+-0.667311
+0.688048
+0.678093
+1.
+16
+NC_021399
+mitochondrion Butomus umbellatus
+450826
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Butomaceae  Butomus}
+-0.864977
+-0.613446
+0.604599
+-0.849474
+0.0168751
+17
+NC_022666
+mitochondrion Aegilops speltoides
+476091
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Pooideae  Triticeae  Aegilops}
+-0.831204
+-0.82061
+0.751197
+-0.905769
+-0.0173964
+18
+NC_022714
+mitochondrion Triticum timopheevii
+443419
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  Liliopsida  Poales  Poaceae  BEP            clade  Pooideae  Triticeae  Triticum}

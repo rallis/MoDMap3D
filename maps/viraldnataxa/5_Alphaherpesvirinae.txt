@@ -1,0 +1,236 @@
+23
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Alphaherpesvirinae (23)
+-0.808666
+0.899067
+0.0230205
+-0.592693
+0.94523
+1
+NC_001348
+Human herpesvirus 3 (HHV-3)
+124884
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.386481
+-0.912182
+0.0425769
+-0.0908856
+-0.23917
+2
+NC_001491
+Equid herpesvirus 1 (Equine abortion virus)
+150224
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.613794
+0.562499
+0.950463
+0.668569
+0.440037
+3
+NC_001798
+Human herpesvirus 2 (Herpes simplex virus type 2)
+154746
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+0.452953
+0.519234
+0.628759
+0.432246
+0.124448
+4
+NC_001806
+Human herpesvirus 1 (Herpes simplex virus 1)
+152261
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.654582
+0.0480244
+-0.0907406
+0.00111668
+0.0457922
+5
+NC_001844
+Equid herpesvirus 4 (EHV-4)
+145597
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.615519
+0.436029
+-1.
+0.911123
+0.564555
+6
+NC_001847
+Bovine herpesvirus 1 (Infectious bovine rhinotracheitis virus)
+135301
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.953035
+0.889968
+0.000632131
+0.149909
+-0.708563
+7
+NC_002229
+Gallid herpesvirus 2 (Marek's disease virus type 1)
+177874
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-0.477433
+0.718524
+0.0430927
+0.786004
+-1.
+8
+NC_002577
+Gallid herpesvirus 3 (Marek's disease virus type 2)
+164270
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-0.780415
+0.839352
+0.0275482
+0.408489
+-0.83213
+9
+NC_002641
+Meleagrid herpesvirus 1 (MeHV-1)
+159160
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-1.
+1.
+-0.146679
+-0.799794
+1.
+10
+NC_002686
+Cercopithecine herpesvirus 9 (CeHV-9)
+124784
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.897043
+0.59504
+0.0579776
+-0.801551
+-0.745878
+11
+NC_004812
+Macacine herpesvirus 1 (McHV-1)
+156789
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+0.777316
+0.462142
+-0.950142
+0.657781
+0.450124
+12
+NC_005261
+Bovine herpesvirus 5 (BoHV-5)
+137821
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.0118794
+0.451652
+-0.0551922
+1.
+-0.799951
+13
+NC_005264
+Psittacid herpesvirus 1 (PsHV-1)
+163025
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Iltovirus}
+0.793863
+0.510055
+-0.378529
+-0.0815777
+-0.147685
+14
+NC_006151
+Suid herpesvirus 1 (Pseudorabies virus)
+143461
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.996932
+0.633999
+0.0180687
+-0.99783
+-0.805674
+15
+NC_006560
+Cercopithecine herpesvirus 2 (Simian agent 8)
+150715
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.711358
+0.773888
+-0.102251
+0.587228
+-0.920732
+16
+NC_006623
+Gallid herpesvirus 1 (Infectious laryngotracheitis virus)
+148687
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Iltovirus}
+1.
+0.631217
+0.017525
+-1.
+-0.814736
+17
+NC_007653
+Papiine herpesvirus 2 (Herpesvirus papio 2)
+156487
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.41468
+-1.
+0.043775
+-0.12733
+-0.239557
+18
+NC_011644
+Equid herpesvirus 9 (EHV-9)
+148371
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.898711
+0.848405
+-0.102711
+0.241221
+-0.486546
+19
+NC_013036
+Anatid herpesvirus 1 (Duck enteritis virus)
+158091
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-0.854375
+0.867001
+0.0108596
+-0.488059
+-0.299272
+20
+NC_013590
+Felid herpesvirus 1
+135797
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.358108
+0.396663
+-0.145108
+0.603638
+-0.614979
+21
+NC_014567
+Saimiriine herpesvirus 1 (Marmoset herpesvirus)
+156742
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.49507
+-0.911858
+0.0391485
+-0.121346
+-0.20582
+22
+NC_017826
+Equid herpesvirus 8
+149332
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.507826
+0.554448
+1.
+0.772085
+0.476148
+23
+NC_023677
+Chimpanzee alpha-1 herpesvirus
+153158
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae}

@@ -1,0 +1,206 @@
+20
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Limenitidinae (20)
+0.605932
+0.0405134
+0.474384
+-0.311928
+-0.624372
+1
+NC_017744
+mitochondrion Athyma sulpitia (spotted sergeant)
+15268
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+0.828217
+0.222224
+0.504427
+0.0346856
+-0.649061
+2
+NC_024393
+mitochondrion Athyma selenophora (staff sergeant)
+15200
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+0.871455
+0.48236
+0.484029
+0.8172
+-0.285146
+3
+NC_024394
+mitochondrion Athyma kasa
+15230
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+0.862486
+0.365833
+0.516258
+1.
+-0.335488
+4
+NC_024395
+mitochondrion Athyma cama (orange staff sergeant)
+15269
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+-0.132036
+-1.
+0.328137
+0.357164
+-0.493265
+5
+NC_024396
+mitochondrion Euthalia irrubescens
+15365
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Adoliadini  Euthalia}
+0.843956
+0.730555
+0.439721
+0.625733
+0.123132
+6
+NC_024397
+mitochondrion Athyma perius (common sargeant)
+15277
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+0.68912
+0.0527015
+0.461593
+0.263157
+-0.500187
+7
+NC_024398
+mitochondrion Pandita sinope
+15257
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Pandita}
+-0.0336343
+-0.858872
+0.422211
+0.463144
+-0.543572
+8
+NC_024399
+mitochondrion Lexias dirtea
+15250
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Adoliadini  Lexias}
+-0.209689
+-0.863738
+0.363043
+0.405028
+-0.324445
+9
+NC_024400
+mitochondrion Dophla evelina
+15320
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Adoliadini  Dophla}
+-1.
+0.760527
+1.
+0.560558
+-1.
+10
+NC_024401
+mitochondrion Neptis soma (sullied sailer)
+15130
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Neptini  Neptis}
+-0.609517
+0.359638
+0.640725
+-0.172703
+1.
+11
+NC_024402
+mitochondrion Pantoporia hordonia
+15603
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Neptini  Pantoporia}
+-0.175383
+-0.551753
+0.385643
+-0.631387
+-0.209695
+12
+NC_024404
+mitochondrion Abrota ganga
+15356
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Adoliadini  Abrota}
+0.539448
+0.306066
+0.469281
+-0.491926
+-0.675521
+13
+NC_024405
+mitochondrion Parasarpa dudu (white commodore)
+15236
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Parasarpa}
+0.475613
+0.289256
+0.509733
+-1.
+-0.691184
+14
+NC_024410
+mitochondrion Athyma asura (studded sergeant)
+15181
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+-0.688896
+1.
+-1.
+0.260618
+-0.583186
+15
+NC_024413
+mitochondrion Bhagadatta austenia (grey commodore)
+15615
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Parthenini  Bhagadatta}
+-0.0452618
+-0.969545
+0.341534
+0.356785
+-0.410951
+16
+NC_024416
+mitochondrion Tanaecia julii
+15316
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Adoliadini  Tanaecia}
+-0.122686
+-0.136023
+0.445175
+-0.367991
+-0.54031
+17
+NC_024417
+mitochondrion Parthenos sylvia
+15249
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Parthenini  Parthenos}
+1.
+0.540556
+0.518384
+-0.457354
+-0.414959
+18
+NC_024418
+mitochondrion Athyma opalina (Himalayan sergeant)
+15240
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Limenitidini  Athyma}
+-0.777539
+0.605503
+0.657203
+-0.512787
+-0.345428
+19
+NC_024419
+mitochondrion Neptis philyra
+15164
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Neptini  Neptis}
+-0.885049
+0.669228
+0.993814
+0.56686
+-0.713979
+20
+NC_025759
+mitochondrion Neptis clinia
+15189
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Lepidoptera  Glossata  Ditrysia  Papilionoidea  Nymphalidae  Limenitidinae  Neptini  Neptis}

@@ -1,0 +1,796 @@
+79
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Saccharomycetales (79)
+0.37012
+0.39084
+-1.
+-0.704073
+-0.104956
+1
+NC_001224
+mitochondrion Saccharomyces cerevisiae S288c
+85779
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Saccharomyces}
+0.6162
+-0.0827151
+-0.251914
+-0.544167
+-0.276036
+2
+NC_001762
+mitochondrion Wickerhamomyces canadensis (Hansenula wingei)
+27694
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Wickerhamomyces}
+-0.842476
+-0.322672
+-0.822598
+-0.658384
+-0.706893
+3
+NC_002653
+mitochondrion Candida albicans SC5314
+40420
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.115706
+-0.0474513
+-0.709523
+1.
+0.230641
+4
+NC_002659
+mitochondrion Yarrowia lipolytica
+47916
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Dipodascaceae  Yarrowia}
+0.747194
+0.0585597
+-0.497827
+-0.874932
+-0.0641028
+5
+NC_003920
+mitochondrion Naumovozyma castellii (Saccharomyces castellii)
+25753
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Naumovozyma}
+1.
+0.0255534
+-0.399593
+-1.
+-0.0187629
+6
+NC_004691
+mitochondrion Candida glabrata CBS 138
+20063
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Nakaseomyces  NakaseomycesCandida clade}
+0.549168
+0.11687
+-0.520689
+-0.708161
+-0.108403
+7
+NC_004918
+mitochondrion Kazachstania servazzii
+30782
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Kazachstania}
+-0.24248
+-0.89552
+0.831072
+-0.584532
+0.499372
+8
+NC_005253
+mitochondrion Candida parapsilosis
+32745
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.848972
+0.00442704
+-0.199257
+-0.890363
+-0.12819
+9
+NC_005789
+mitochondrion Ashbya gossypii ATCC 10895 (Eremothecium gossypii
+23564
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Eremothecium}
+0.23475
+0.132734
+0.0459981
+-0.444953
+-0.0456774
+10
+NC_005972
+mitochondrion Starmerella bacillaris
+23114
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetales incertae            sedis  Starmerella}
+-0.27819
+0.623524
+0.0430901
+-0.554423
+0.0176443
+11
+NC_006077
+mitochondrion Kluyveromyces lactis
+40291
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Kluyveromyces}
+0.774315
+0.081406
+-0.686609
+-0.926683
+0.0682223
+12
+NC_006626
+mitochondrion Lachancea thermotolerans
+23584
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Lachancea}
+-0.173558
+-0.970767
+0.934422
+-0.682972
+0.622282
+13
+NC_006971
+mitochondrion Candida metapsilosis
+24152
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.141166
+-1.
+0.968082
+-0.700341
+0.621133
+14
+NC_006972
+mitochondrion Candida orthopsilosis
+22528
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.00728801
+0.154279
+-0.117704
+-0.564984
+0.117489
+15
+NC_007780
+mitochondrion Hanseniaspora uvarum
+18844
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycodaceae  Hanseniaspora}
+0.891101
+0.0121074
+-0.300548
+-0.935204
+0.007531
+16
+NC_009638
+mitochondrion Vanderwaltozyma polyspora
+21684
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Vanderwaltozyma}
+-0.209839
+-0.139153
+-0.388498
+-0.446108
+-0.283208
+17
+NC_010166
+mitochondrion Debaryomyces hansenii
+29462
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  Debaryomyces}
+-0.28081
+-0.412825
+-0.331623
+-0.485056
+-0.864027
+18
+NC_011133
+mitochondrion Candida neerlandica
+32141
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.355092
+0.399777
+-0.936053
+-0.797011
+-0.0958159
+19
+NC_012145
+mitochondrion Saccharomyces pastorianus Weihenstephan 34/70
+70578
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Saccharomyces}
+0.871487
+0.0607507
+-0.479122
+-0.923704
+-0.0817848
+20
+NC_012619
+mitochondrion Nakaseomyces delphensis
+37016
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Nakaseomyces}
+0.450513
+0.177446
+-0.20346
+-0.761478
+-0.00101489
+21
+NC_012620
+mitochondrion Candida castellii
+50294
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Nakaseomyces  NakaseomycesCandida clade}
+-0.200656
+0.549262
+-0.0243373
+-0.62783
+-0.0721282
+22
+NC_012621
+mitochondrion Nakaseomyces bacillisporus
+107123
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Nakaseomyces}
+0.388429
+-0.0346813
+-0.240125
+-0.368637
+-0.259159
+23
+NC_013145
+mitochondrion Brettanomyces custersianus
+30058
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Pichiaceae  Brettanomyces}
+0.0346596
+0.398366
+0.0948286
+-0.39131
+-0.367885
+24
+NC_013147
+mitochondrion Brettanomyces bruxellensis (Dekkera bruxellensis)
+76453
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Pichiaceae  Brettanomyces}
+-0.0553654
+-0.238607
+-0.409425
+-0.235552
+-0.397551
+25
+NC_013255
+mitochondrion Millerozyma farinosa (Pichia farinosa)
+39107
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  Millerozyma}
+-0.424717
+-0.198807
+-0.479352
+-0.459296
+-0.648038
+26
+NC_013809
+mitochondrion Candida viswanathii
+39242
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.359946
+0.111243
+-0.338351
+-0.469586
+-0.431442
+27
+NC_013830
+mitochondrion Candida maltosa
+62949
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.614479
+-0.0506464
+-0.183131
+-0.550382
+-0.313202
+28
+NC_013839
+mitochondrion Candida sojae
+39415
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.75805
+0.573356
+-0.859833
+-0.879612
+0.934436
+29
+NC_014337
+mitochondrion Candida subhashii
+29795
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+0.158422
+-0.0306025
+0.0338049
+-0.443557
+-0.375502
+30
+NC_014612
+mitochondrion Candida alai
+30368
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+0.228536
+0.103919
+0.149807
+-0.444975
+-0.105025
+31
+NC_014613
+mitochondrion Candida salmanticensis
+27812
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+-0.291086
+-0.701523
+-0.100492
+-0.606199
+0.0191778
+32
+NC_014693
+mitochondrion Candida jiufengensis
+29672
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.0345445
+0.400175
+-0.0383632
+-0.214569
+-0.505211
+33
+NC_014805
+mitochondrion Ogataea angusta
+41719
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Pichiaceae  Ogataea}
+0.309362
+0.00447294
+-0.353491
+-0.279981
+-0.294888
+34
+NC_015384
+mitochondrion Komagataella pastoris CBS 7435 (Pichia pastoris CBS
+35683
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Komagataella}
+-0.307607
+-0.47623
+-0.386578
+-0.447505
+-0.993921
+35
+NC_015814
+mitochondrion Candida frijolesensis
+37215
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.0610383
+-0.0278442
+-0.740451
+0.98558
+0.235073
+36
+NC_016116
+mitochondrion Candida galli
+48508
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+0.23947
+-0.0813723
+-0.541757
+0.779317
+0.262841
+37
+NC_016124
+mitochondrion Candida alimentaria
+35173
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+0.352925
+-0.13823
+-0.442688
+0.647204
+0.219455
+38
+NC_016126
+mitochondrion Candida phangngaensis
+28017
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+0.174894
+-0.0904121
+-0.669804
+0.984227
+0.269917
+39
+NC_016130
+mitochondrion Candida deformans
+40665
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+0.850488
+0.0108152
+-0.192176
+-0.89256
+-0.13116
+40
+NC_016756
+mitochondrion Ashbya gossypii FDAG1 (Eremothecium gossypii FDAG1)
+23497
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Eremothecium}
+0.42548
+0.416357
+-0.782869
+-0.674835
+-0.190259
+41
+NC_018044
+mitochondrion Saccharomyces paradoxus
+71355
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Saccharomyces}
+-0.780506
+-0.358778
+-0.797099
+-0.668967
+-0.703876
+42
+NC_018046
+mitochondrion Candida albicans
+33928
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.697858
+0.135253
+-0.701448
+-0.812998
+-0.047387
+43
+NC_018056
+mitochondrion Lachancea kluyveri
+51679
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Lachancea}
+-0.604696
+0.492401
+-0.818785
+-0.512197
+0.673843
+44
+NC_020043
+mitochondrion Magnusiomyces magnusii
+42757
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Dipodascaceae  Magnusiomyces}
+-0.0788169
+0.469947
+-0.0843458
+-0.171225
+-0.500055
+45
+NC_022151
+mitochondrion Ogataea thermophila
+53262
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Pichiaceae  Ogataea}
+-0.306466
+-0.277783
+-0.407493
+-0.505776
+-0.652868
+46
+NC_022152
+mitochondrion Candida saraburiensis
+32135
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.502138
+0.0381772
+-0.456207
+-0.649025
+-0.31823
+47
+NC_022153
+mitochondrion Candida buenavistaensis
+46389
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.276638
+0.38508
+0.409251
+-0.490634
+-0.0659461
+48
+NC_022154
+mitochondrion Meyerozyma guilliermondii (Pichia guilliermondii)
+31070
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  Meyerozyma}
+-0.383898
+0.400794
+-0.440178
+-0.662534
+0.181291
+49
+NC_022155
+mitochondrion Candida santjacobensis
+64525
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+-0.342028
+-0.682274
+-0.156234
+-0.580181
+-0.0784672
+50
+NC_022156
+mitochondrion Candida pseudojiufengensis
+33625
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.50724
+0.116719
+-0.0663942
+-0.526042
+-0.218136
+51
+NC_022157
+mitochondrion Candida tetrigidarum
+52426
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.239649
+0.581311
+0.365019
+-0.432264
+-0.16851
+52
+NC_022158
+mitochondrion Pichia kluyveri
+43128
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Pichiaceae  Pichia}
+0.277326
+0.0717879
+-0.58967
+-0.336951
+-0.271497
+53
+NC_022159
+mitochondrion Barnettozyma californica (Williopsis californica)
+48471
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Barnettozyma}
+-0.996611
+0.00851253
+-0.99446
+-0.830298
+-0.195094
+54
+NC_022160
+mitochondrion Candida tropicalis
+54610
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.041536
+-0.333487
+-0.291472
+-0.543021
+-0.266006
+55
+NC_022161
+mitochondrion Clavispora lusitaniae
+24896
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Metschnikowiaceae  Clavispora}
+-0.554693
+0.143344
+-0.202732
+-0.381073
+-0.153614
+56
+NC_022162
+mitochondrion Candida oxycetoniae
+62593
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.114092
+0.889894
+1.
+-0.309126
+-0.440139
+57
+NC_022163
+mitochondrion Cyberlindnera jadinii
+41644
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Cyberlindnera}
+-0.156237
+0.902357
+0.977487
+-0.336246
+-0.381705
+58
+NC_022164
+mitochondrion Candida vartiovaarae
+33201
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Cyberlindnera  CyberlindneraCandida clade}
+0.0603142
+0.32018
+-0.0256779
+-0.387553
+-0.289877
+59
+NC_022165
+mitochondrion Ogataea philodendri
+27063
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Pichiaceae  Ogataea}
+-0.07816
+0.739774
+0.868299
+-0.459916
+-0.206603
+60
+NC_022166
+mitochondrion Wickerhamomyces pijperi
+23268
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Wickerhamomyces}
+-0.349768
+1.
+0.758495
+-0.240458
+-0.39429
+61
+NC_022167
+mitochondrion Cyberlindnera suaveolens
+51521
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Cyberlindnera}
+-0.102238
+0.1357
+0.345922
+-0.527274
+-0.0829732
+62
+NC_022168
+mitochondrion Candida sake
+26205
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  mitosporic Saccharomycetales  Candida}
+-0.18028
+-0.969715
+0.911899
+-0.645918
+0.592368
+63
+NC_022169
+mitochondrion Candida theae
+26234
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.247985
+-0.461962
+-0.362839
+-0.427888
+-1.
+64
+NC_022170
+mitochondrion Candida labiduridarum
+39443
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.155551
+0.863505
+0.892565
+-0.28704
+-0.432547
+65
+NC_022171
+mitochondrion Wickerhamomyces mucosus
+46416
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Wickerhamomyces}
+-0.504131
+-0.0997248
+-0.560528
+-0.326671
+-0.291956
+66
+NC_022172
+mitochondrion Candida corydali
+46389
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.156939
+-0.00620038
+0.208057
+-0.586841
+-0.0590888
+67
+NC_022173
+mitochondrion Candida blackwelliae
+32053
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.832623
+0.557093
+-0.801223
+-0.892605
+1.
+68
+NC_022174
+mitochondrion Candida gigantensis
+55125
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.415998
+0.0115622
+-0.397751
+-0.394004
+-0.333532
+69
+NC_022175
+mitochondrion Candida norvegica
+42180
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Phaffomycetaceae  Barnettozyma  BarnettozymaCandida clade}
+-0.71904
+0.325712
+-0.607881
+-0.491429
+-0.198723
+70
+NC_022176
+mitochondrion Candida chauliodis
+77153
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.491006
+0.0558643
+-0.295834
+-0.540787
+-0.051594
+71
+NC_022434
+mitochondrion Candida bohioensis
+69218
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+-0.445988
+-0.00894215
+-0.478675
+-0.587982
+-0.51386
+72
+NC_022435
+mitochondrion Candida prachuapensis
+90840
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}
+0.17739
+0.090329
+-0.353745
+-0.268048
+-0.0318739
+73
+NC_024093
+mitochondrion Magnusiomyces ingens
+37684
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Dipodascaceae  Magnusiomyces}
+-0.718079
+0.65841
+-0.828474
+-0.767186
+0.992457
+74
+NC_024094
+mitochondrion Magnusiomyces tetrasperma
+44469
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Dipodascaceae  Magnusiomyces}
+0.061656
+0.152931
+-0.37585
+-0.170093
+-0.090818
+75
+NC_024095
+mitochondrion Magnusiomyces capitatus
+43486
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Dipodascaceae  Magnusiomyces}
+0.611785
+0.136281
+-0.664171
+-0.819919
+-0.0474127
+76
+NC_025331
+mitochondrion Kluyveromyces marxianus
+46256
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Saccharomycetaceae  Kluyveromyces}
+0.00892157
+0.184806
+-0.392927
+-0.367704
+0.0641006
+77
+NC_025768
+mitochondrion Galactomyces candidum
+29008
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Dipodascaceae  Galactomyces}
+-0.340024
+-0.161191
+-0.292596
+-0.586386
+-0.169207
+78
+NW_001813686
+mitochondrion Lodderomyces elongisporus NRRL YB-4239
+35601
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Lodderomyces}
+-1.
+0.0415397
+-0.979313
+-0.847975
+-0.203472
+79
+NW_003020054
+mitochondrion Candida tropicalis MYA-3404
+50304
+{Eukaryota  Fungi  Dikarya  Ascomycota  Saccharomycotina  Saccharomycetes  Saccharomycetales  Debaryomycetaceae  CandidaLodderomyces clade  Candida}

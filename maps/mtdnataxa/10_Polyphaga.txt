@@ -1,0 +1,446 @@
+44
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Polyphaga (44)
+-0.393115
+-0.977985
+0.0861901
+1.
+0.513583
+1
+NC_003081
+mitochondrion Tribolium castaneum (red flour beetle)
+15881
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Tenebrionidae  Tenebrionidae incertae sedis  Tribolium}
+0.512895
+-0.68837
+-0.485193
+0.201481
+0.346829
+2
+NC_003372
+mitochondrion Crioceris duodecimpunctata (spotted asparagus beetle)
+15880
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Chrysomelidae  Criocerinae  Crioceris}
+0.498772
+-0.740753
+0.870397
+-0.0985262
+0.307212
+3
+NC_003970
+mitochondrion Pyrocoelia rufa (firefly)
+17739
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Lampyridae  Lampyrinae  Pyrocoelia}
+0.89143
+-0.878379
+-0.588952
+0.283949
+0.386873
+4
+NC_008221
+mitochondrion Anoplophora glabripennis (Asian longhorned beetle)
+15774
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Cerambycidae  Lamiinae  Lamiini  Anoplophora}
+-0.440911
+-0.840082
+0.840225
+-0.200874
+0.387171
+5
+NC_009964
+mitochondrion Pyrophorus divergens (Brazilian luminescent click
+16120
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Elateridae  Agrypninae  Pyrophorus}
+0.801641
+-0.790879
+1.
+-0.0521969
+0.297427
+6
+NC_010964
+mitochondrion Rhagophthalmus ohbai (firefly)
+15704
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Phengodidae  Rhagophthalminae  Rhagophthalmus}
+0.837981
+-0.853276
+0.971863
+0.002127
+0.289401
+7
+NC_010969
+mitochondrion Rhagophthalmus lufengensis (firefly)
+15982
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Phengodidae  Rhagophthalminae  Rhagophthalmus}
+0.203169
+-0.739494
+-0.23167
+0.0677907
+0.408467
+8
+NC_011320
+mitochondrion Contacyphon sp. BT0012 (marsh beetle)
+15919
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Scirtoidea  Scirtidae  Contacyphon}
+0.777462
+-0.825314
+-0.0899524
+0.143829
+0.364529
+9
+NC_011324
+mitochondrion Chaetosoma scaritides (checkered beetle)
+15511
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Melyridae  Chaetosomatinae  Chaetosoma}
+0.27849
+-0.787421
+-0.786629
+0.0972597
+0.454693
+10
+NC_011326
+mitochondrion Priasilpha obscura (beetle)
+16603
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Phloeostichidae  Priasilpha}
+-0.448266
+-0.798403
+0.105704
+-0.0322587
+0.121791
+11
+NC_012765
+mitochondrion Chrysochroa fulgidissima (Japanese jewel beetle)
+15592
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Buprestoidea  Buprestidae  Chalcophorinae  Chrysochroa}
+0.806731
+-0.917245
+-0.748591
+0.335067
+0.352786
+12
+NC_013070
+mitochondrion Psacothea hilaris (yellow-spotted longicorn beetle)
+15856
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Cerambycidae  Lamiinae  Agniini  Psacothea}
+0.3139
+-0.743918
+-0.618486
+-0.106606
+0.464637
+13
+NC_013252
+mitochondrion Rhopaea magnicornis (brown cockchafer)
+17522
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Scarabaeiformia  Scarabaeidae  Melolonthinae  Rhopaea}
+-0.10524
+-0.721701
+-0.0576859
+0.0243526
+0.428023
+14
+NC_013254
+mitochondrion Mordella atrata (tumbling flower beetle)
+15540
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Mordellidae  Mordella}
+-0.377272
+-0.896519
+0.219862
+0.953957
+0.487734
+15
+NC_013554
+mitochondrion Adelium sp. NCS-2009 (darkling beetle)
+16449
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Tenebrionidae  Adelium}
+0.525284
+-0.730315
+0.570235
+0.125649
+0.28226
+16
+NC_013576
+mitochondrion Chauliognathus opacus (soldier beetle)
+14893
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Cantharidae  Chauliognathinae  Chauliognathus}
+-0.614786
+-0.564924
+-0.476011
+-0.164184
+0.639683
+17
+NC_013578
+mitochondrion Lucanus mazama (cottonwood stag beetle)
+15261
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Scarabaeiformia  Lucanidae  Lucaninae  Lucanus}
+-0.900591
+-0.677094
+-0.902118
+0.0800762
+-1.
+18
+NC_013580
+mitochondrion Acmaeodera sp. NCS-2009 (jewel beetle)
+16217
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Buprestoidea  Buprestidae  Polycestinae  Acmaeodera}
+-0.710407
+-0.790362
+0.317991
+0.153238
+0.456964
+19
+NC_013582
+mitochondrion Apatides fortis (horned powder-post beetle)
+16171
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Bostrichiformia  Bostrichidae  Bostrichinae  Apatides}
+-0.0665284
+-0.47886
+0.386905
+0.00996787
+0.223439
+20
+NC_016919
+mitochondrion Dascillus cervinus (orchid beetle)
+10662
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Dascilloidea  Dascillidae  Dascillus}
+0.188047
+-0.979343
+0.302045
+0.289149
+0.430752
+21
+NC_018349
+mitochondrion Tropisternus sp. BYU-CO166
+16372
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Staphyliniformia  Hydrophilidae  Hydrophilinae  Tropisternus}
+0.583883
+-0.866265
+-0.507202
+0.179737
+0.374452
+22
+NC_018350
+mitochondrion Cucujus clavipes (red flat bark beetle)
+15642
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Cucujidae  Cucujus}
+0.561171
+-0.735148
+-0.702261
+0.296632
+0.291353
+23
+NC_018351
+mitochondrion Sphenophorus sp. BYU-CO246
+15052
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Curculionidae  Dryophthorinae  Sphenophorus}
+0.258608
+-0.824148
+-0.691298
+-0.113404
+0.360114
+24
+NC_018352
+mitochondrion Necrophila americana (American carrion beetle)
+16902
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Staphyliniformia  Silphidae  Silphinae  Necrophila}
+0.226477
+-0.771847
+-0.451001
+0.127854
+0.27001
+25
+NC_018353
+mitochondrion Euspilotus scissus (clown beetle)
+14763
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Staphyliniformia  Histeridae  Saprininae  Euspilotus}
+0.647169
+-0.784496
+-0.426678
+0.194968
+0.345256
+26
+NC_018354
+mitochondrion Naupactus xanthographus (South American fruit tree
+15026
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Curculionidae  Entiminae  Naupactini  Naupactus}
+0.165204
+1.
+-0.0884548
+0.624937
+0.445906
+27
+NC_018759
+mitochondrion Scolytus sp. APV-2011
+10567
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Curculionidae  Scolytinae  Scolytus}
+0.509727
+0.618626
+0.0136684
+0.404673
+0.394195
+28
+NC_018760
+mitochondrion Byctiscus populi
+9468
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Attelabidae  Rhynchitinae  Byctiscus}
+0.210165
+-0.798102
+0.885306
+-0.252063
+0.217604
+29
+NC_022472
+mitochondrion Luciola cruciata (Japanese firefly)
+15989
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Lampyridae  Luciolinae  Luciola}
+0.571625
+-0.852498
+-0.818129
+0.213732
+0.345058
+30
+NC_022671
+mitochondrion Batocera lineolata
+15418
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Cerambycidae  Lamiinae  Batocerini  Batocera}
+0.413753
+-0.799024
+-0.682991
+0.222789
+0.336421
+31
+NC_022680
+mitochondrion Hylobitelus xiaoi
+16123
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Curculionidae  Molytinae  Hylobiini  Hylobitelus}
+0.8275
+-0.815918
+-0.196863
+0.206419
+0.361001
+32
+NC_022935
+mitochondrion Diabrotica barberi (northern corn rootworm)
+16366
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Chrysomelidae  Galerucinae  Diabroticina  Diabroticites  Diabrotica}
+-1.
+-0.604839
+-0.922685
+-1.
+1.
+33
+NC_023246
+mitochondrion Cheirotonus jansoni
+17249
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Scarabaeiformia  Scarabaeidae  Melolonthinae  Cheirotonus}
+0.327875
+-0.843324
+-0.518516
+-0.125606
+0.58388
+34
+NC_023453
+mitochondrion Protaetia brevitarsis
+20319
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Scarabaeiformia  Scarabaeidae  Cetoniinae  Protaetia}
+0.675948
+-0.696384
+-0.218439
+0.0868619
+0.411136
+35
+NC_023469
+mitochondrion Henosepilachna pusillanima
+16216
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Coccinellidae  Epilachninae  Epilachnini  Henosepilachna}
+-0.097805
+-0.875653
+-1.
+0.711549
+0.473427
+36
+NC_023937
+mitochondrion Massicus raddei
+15858
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Cerambycidae  Cerambycinae  Cerambycini  Massicus}
+0.787136
+-0.851392
+-0.327255
+0.197351
+0.339309
+37
+NC_024271
+mitochondrion Dastarcus helophoroides
+15878
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Bothrideridae  Dastarcus}
+-0.0641746
+-0.967259
+0.308028
+0.850076
+0.550191
+38
+NC_024600
+mitochondrion Tribolium audax (American black flour beetle)
+15925
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Tenebrionidae  Tenebrionidae incertae sedis  Tribolium}
+-0.513601
+-0.977393
+0.425255
+0.866117
+0.493173
+39
+NC_024633
+mitochondrion Tenebrio molitor (yellow mealworm)
+15785
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Tenebrionidae  Tenebrio}
+1.
+-0.89393
+-0.546809
+0.282848
+0.356644
+40
+NC_024652
+mitochondrion Monochamus alternatus (Japanese pine sawyer)
+15874
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Cerambycidae  Lamiinae  Monochamini  Monochamus}
+-0.242395
+-0.898148
+-0.946719
+0.462686
+0.463353
+41
+NC_025243
+mitochondrion Aeolesthes oenochrous
+15747
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Chrysomeloidea  Cerambycidae  Cerambycinae  Cerambycini  Aeolesthes}
+0.467384
+-0.78506
+0.937605
+-0.184136
+0.310107
+42
+NC_025276
+mitochondrion Aquatica leii
+16856
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Elateriformia  Elateroidea  Lampyridae  Luciolinae  Aquatica}
+-0.146887
+-1.
+0.346765
+0.752734
+0.493174
+43
+NC_025332
+mitochondrion Ulomoides dermestoides
+15434
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Tenebrionidae  Diaperinae  Ulomoides}
+0.73538
+-0.756953
+-0.560359
+0.171654
+0.313899
+44
+NC_025945
+mitochondrion Eucryptorrhynchus brandti
+15122
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Coleoptera  Polyphaga  Cucujiformia  Curculionidae  Cryptorhynchinae  Eucryptorrhynchus}

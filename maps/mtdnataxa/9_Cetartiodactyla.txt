@@ -1,0 +1,2316 @@
+231
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Cetartiodactyla (231)
+0.00832985
+0.485278
+-0.995047
+-0.437355
+0.996862
+1
+NC_000845
+mitochondrion Sus scrofa (pig)
+16613
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Sus}
+0.0652292
+0.516314
+-0.288179
+0.0902096
+-0.0230898
+2
+NC_000889
+mitochondrion Hippopotamus amphibius (hippopotamus)
+16407
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Hippopotamidae  Hippopotamus}
+-0.560028
+0.389534
+-0.299961
+0.624433
+-0.908032
+3
+NC_001321
+mitochondrion Balaenoptera physalus (Fin whale)
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.579014
+0.376999
+-0.342344
+0.724471
+-0.894169
+4
+NC_001601
+mitochondrion Balaenoptera musculus (Blue whale)
+16402
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+0.780703
+0.86815
+0.345319
+0.506824
+0.0510773
+5
+NC_001941
+mitochondrion Ovis aries (sheep)
+16616
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Ovis}
+-0.328768
+0.40483
+-0.0957542
+0.22948
+-0.28826
+6
+NC_002503
+mitochondrion Physeter catodon (sperm whale)
+16428
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Physeteridae  Physeter}
+0.00723861
+0.454267
+-0.578612
+-0.257557
+0.321839
+7
+NC_002504
+mitochondrion Vicugna pacos (alpaca)
+16652
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Vicugna}
+0.826697
+-0.198188
+0.162266
+-0.0819437
+-0.112702
+8
+NC_004069
+mitochondrion Muntiacus reevesi (Reeves' muntjac)
+16354
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Muntiacinae  Muntiacus}
+0.78514
+-0.203221
+0.164015
+-0.0521269
+-0.0605868
+9
+NC_004563
+mitochondrion Muntiacus muntjak (muntjak)
+16354
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Muntiacinae  Muntiacus}
+0.785776
+-0.187103
+0.16484
+-0.0771685
+-0.10999
+10
+NC_004577
+mitochondrion Muntiacus crinifrons (black muntjac)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Muntiacinae  Muntiacus}
+0.840379
+0.960108
+0.429402
+0.971797
+0.257603
+11
+NC_005044
+mitochondrion Capra hircus (goat)
+16643
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+-0.552197
+0.407514
+-0.316754
+0.58739
+-0.795275
+12
+NC_005268
+mitochondrion Balaena mysticetus (bowhead whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Balaena}
+-0.472
+0.30568
+-0.214666
+0.468012
+-0.658478
+13
+NC_005269
+mitochondrion Caperea marginata (pygmy right whale)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Neobalaenidae  Caperea}
+-0.567612
+0.39561
+-0.316493
+0.632557
+-0.882977
+14
+NC_005270
+mitochondrion Eschrichtius robustus (grey whale)
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Eschrichtiidae  Eschrichtius}
+-0.555982
+0.381556
+-0.303202
+0.594442
+-0.860838
+15
+NC_005271
+mitochondrion Balaenoptera acutorostrata (minke whale)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.344857
+0.441363
+-0.139295
+0.263981
+-0.288237
+16
+NC_005272
+mitochondrion Kogia breviceps (pygmy sperm whale)
+16406
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Physeteridae  Kogia}
+-0.403665
+0.361122
+-0.000695932
+0.198313
+-0.340652
+17
+NC_005273
+mitochondrion Hyperoodon ampullatus (northern bottlenose whale)
+16346
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Hyperoodon}
+-0.412053
+0.354125
+-0.0231746
+0.165029
+-0.349268
+18
+NC_005274
+mitochondrion Berardius bairdii (Baird's beaked whale)
+16346
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Berardius}
+-0.328893
+0.388784
+-0.0576164
+0.217619
+-0.335781
+19
+NC_005275
+mitochondrion Platanista minor (Indus River dolphin)
+16324
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Platanistidae  Platanista}
+-0.35339
+0.42267
+-0.0187436
+0.116665
+-0.183804
+20
+NC_005276
+mitochondrion Inia geoffrensis (boutu)
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Iniidae  Inia}
+-0.311255
+0.382292
+-0.0409095
+0.0911408
+-0.180585
+21
+NC_005277
+mitochondrion Pontoporia blainvillei (franciscana)
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Pontoporiidae  Pontoporia}
+-0.845307
+0.228066
+0.803931
+-0.128944
+0.183766
+22
+NC_005278
+mitochondrion Lagenorhynchus albirostris (white-beaked dolphin)
+16393
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Lagenorhynchus}
+-0.589591
+0.336567
+0.319168
+0.0309636
+-0.0614464
+23
+NC_005279
+mitochondrion Monodon monoceros (narwhal)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Monodontidae  Monodon}
+-0.539837
+0.323828
+0.265632
+0.045706
+-0.0289367
+24
+NC_005280
+mitochondrion Phocoena phocoena (harbor porpoise)
+16382
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Phocoenidae  Phocoena}
+0.690443
+0.682104
+0.0317091
+-0.454287
+0.0282437
+25
+NC_005971
+mitochondrion Bos indicus (zebu cattle)
+16341
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}
+0.675599
+0.62582
+0.0788738
+-0.0681608
+0.0270879
+26
+NC_006295
+mitochondrion Bubalus bubalis (Swamp buffalo)
+16359
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bubalus}
+0.692549
+0.658827
+0.0158936
+-0.412326
+0.0353177
+27
+NC_006380
+mitochondrion Bos grunniens (domestic yak)
+16323
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}
+0.683015
+0.695257
+0.0315732
+-0.464814
+0.0257137
+28
+NC_006853
+mitochondrion Bos taurus (cattle)
+16338
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}
+-0.558384
+0.358829
+-0.311372
+0.606378
+-0.898786
+29
+NC_006926
+mitochondrion Balaenoptera bonaerensis (Antarctic minke whale)
+16421
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.567176
+0.354798
+-0.319406
+0.693214
+-0.906511
+30
+NC_006927
+mitochondrion Megaptera novaeangliae (humpback whale)
+16398
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Megaptera}
+-0.600875
+0.344027
+-0.340092
+0.753939
+-0.952494
+31
+NC_006928
+mitochondrion Balaenoptera brydei (Bryde's whale)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.607659
+0.332231
+-0.361696
+0.75228
+-1.
+32
+NC_006929
+mitochondrion Balaenoptera borealis (sei whale)
+16410
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.556666
+0.378804
+-0.31787
+0.634513
+-0.774576
+33
+NC_006930
+mitochondrion Eubalaena australis (Southern right whale)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Eubalaena}
+-0.54044
+0.388769
+-0.311036
+0.626911
+-0.769643
+34
+NC_006931
+mitochondrion Eubalaena japonica (North Pacific right whale)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenidae  Eubalaena}
+0.966275
+-0.982963
+0.239108
+0.363538
+-0.0298406
+35
+NC_006973
+mitochondrion Cervus nippon yesoensis (Hokkaido sika deer)
+16543
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.96202
+-0.9778
+0.233493
+0.36651
+-0.0238136
+36
+NC_006993
+mitochondrion Cervus nippon centralis (Hondo sika deer)
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.978393
+-0.950097
+0.250534
+0.368652
+-0.0211596
+37
+NC_007179
+mitochondrion Cervus nippon yakushimae (Yakushima sika deer)
+16440
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.738984
+0.806912
+0.321908
+0.40236
+0.00340898
+38
+NC_007441
+mitochondrion Pantholops hodgsonii (chiru)
+16498
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Pantholops}
+-0.344582
+0.360465
+0.0538157
+0.117469
+-0.242061
+39
+NC_007629
+mitochondrion Lipotes vexillifer (Yangtze River dolphin)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Lipotidae  Lipotes}
+0.761143
+-0.062895
+0.179783
+-0.210327
+-0.0915728
+40
+NC_007703
+mitochondrion Rangifer tarandus (reindeer)
+16362
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Rangifer}
+0.957651
+-0.843755
+0.260987
+0.330018
+-0.0199497
+41
+NC_007704
+mitochondrion Cervus elaphus (red deer)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+-0.543079
+0.347387
+-0.329854
+0.629902
+-0.859146
+42
+NC_007937
+mitochondrion Balaenoptera omurai (Omura's baleen whale)
+16404
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+-0.618123
+0.346488
+-0.368187
+0.739071
+-0.991626
+43
+NC_007938
+mitochondrion Balaenoptera edeni (pygmy Bryde's whale)
+16409
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Mysticeti  Balaenopteridae  Balaenoptera}
+0.960311
+-0.935037
+0.265696
+0.300269
+-0.0473937
+44
+NC_008414
+mitochondrion Rusa unicolor swinhoei (Formosan sambar)
+16505
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Rusa}
+0.950852
+-0.995655
+0.236247
+0.401637
+-0.0152538
+45
+NC_008462
+mitochondrion Cervus nippon taiouanus (Formosan sika deer)
+16436
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.823692
+-0.194617
+0.155609
+-0.0936838
+-0.115565
+46
+NC_008491
+mitochondrion Muntiacus reevesi micrurus (Formosan muntjac)
+16353
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Muntiacinae  Muntiacus}
+0.737697
+-0.142702
+0.168887
+0.0355481
+-0.0593619
+47
+NC_008749
+mitochondrion Elaphodus cephalophus (tufted deer)
+16347
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Muntiacinae  Elaphodus}
+0.0502357
+0.49455
+-0.589157
+-0.26712
+0.57017
+48
+NC_008830
+mitochondrion Phacochoerus africanus (Common warthog)
+16719
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Phacochoerus}
+0.761648
+0.937597
+0.33763
+0.610075
+0.0766134
+49
+NC_009510
+mitochondrion Ammotragus lervia (aoudad)
+16530
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Ammotragus}
+0.0198757
+0.474782
+-0.532895
+-0.197457
+0.212262
+50
+NC_009628
+mitochondrion Camelus bactrianus (Bactrian camel)
+16659
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Camelus}
+0.0272633
+0.476141
+-0.529217
+-0.186973
+0.203221
+51
+NC_009629
+mitochondrion Camelus ferus (Wild Bactrian camel)
+16680
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Camelus}
+0.0232634
+0.471231
+-0.486678
+-0.16823
+0.183184
+52
+NC_009849
+mitochondrion Camelus dromedarius (Arabian camel)
+16643
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Camelus}
+0.774185
+0.921001
+0.34169
+0.789742
+0.166788
+53
+NC_010640
+mitochondrion Capricornis swinhoei
+16524
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capricornis}
+0.721826
+-0.0186906
+0.145719
+-0.19306
+-0.109987
+54
+NC_011821
+mitochondrion Hydropotes inermis (Chinese water deer)
+16355
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Hydropotinae  Hydropotes}
+-0.0113348
+0.445277
+-0.57259
+-0.262993
+0.301061
+55
+NC_011822
+mitochondrion Lama guanicoe (guanaco)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Lama}
+-0.999775
+0.237798
+0.98444
+-0.255768
+0.298056
+56
+NC_012051
+mitochondrion Stenella attenuata (bridled dolphin)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Stenella}
+-1.
+0.249102
+0.998511
+-0.282188
+0.327421
+57
+NC_012053
+mitochondrion Stenella coeruleoalba (striped dolphin)
+16384
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Stenella}
+-0.978016
+0.266259
+0.976734
+-0.286125
+0.277868
+58
+NC_012057
+mitochondrion Sousa chinensis (Chinese white dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Sousa}
+-0.974196
+0.244348
+0.986545
+-0.291258
+0.323219
+59
+NC_012058
+mitochondrion Tursiops aduncus (Indo-pacific bottlenose dolphin)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+-0.99074
+0.249409
+0.98818
+-0.258961
+0.325513
+60
+NC_012059
+mitochondrion Tursiops truncatus (bottlenosed dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+-0.993847
+0.248024
+1.
+-0.263185
+0.306099
+61
+NC_012061
+mitochondrion Delphinus capensis (Longbeaked common dolphin)
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Delphinus}
+-0.947563
+0.20679
+0.898136
+-0.161054
+0.269286
+62
+NC_012062
+mitochondrion Grampus griseus (Risso's dolphin)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Grampus}
+0.00822848
+0.478399
+-1.
+-0.425483
+1.
+63
+NC_012095
+mitochondrion Sus scrofa domesticus (domestic pig)
+16770
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Sus}
+0.745128
+0.970849
+0.351564
+0.712639
+0.152361
+64
+NC_012096
+mitochondrion Capricornis crispus (Japanese serow)
+16453
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capricornis}
+0.761192
+0.72133
+0.319994
+-0.6135
+-0.528467
+65
+NC_012098
+mitochondrion Antilope cervicapra (blackbuck)
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Antilope}
+0.560594
+0.406039
+0.0679744
+-0.0584686
+-0.0476765
+66
+NC_012100
+mitochondrion Giraffa camelopardalis angolensis (Angolan giraffe)
+16433
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Giraffidae  Giraffa}
+0.00074574
+0.457024
+-0.579516
+-0.258633
+0.329986
+67
+NC_012102
+mitochondrion Lama glama (llama)
+16597
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Lama}
+0.0976793
+0.47005
+-0.271868
+-0.139199
+0.206402
+68
+NC_012103
+mitochondrion Pecari tajacu (collared peccary)
+16839
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Tayassuidae  Pecari}
+0.696721
+0.670514
+0.00292326
+-0.393734
+0.0497559
+69
+NC_012346
+mitochondrion Bison bison (American bison)
+16319
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bison}
+0.693591
+0.426436
+0.102301
+-0.0593494
+-0.089984
+70
+NC_012694
+mitochondrion Moschus berezovskii (Chinese forest musk deer)
+16354
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Moschidae  Moschus}
+0.685654
+0.69591
+0.0307676
+-0.46357
+0.0213589
+71
+NC_012706
+mitochondrion Bos javanicus (banteng)
+16339
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}
+0.726679
+0.898539
+0.359644
+0.4942
+0.12195
+72
+NC_013069
+mitochondrion Budorcas taxicolor (takin)
+16667
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Budorcas}
+0.00514399
+0.415405
+-0.562253
+-0.227943
+0.290184
+73
+NC_013558
+mitochondrion Vicugna vicugna (vicugna)
+16084
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Tylopoda  Camelidae  Vicugna}
+0.753572
+0.891402
+0.3459
+0.658796
+0.163966
+74
+NC_013751
+mitochondrion Naemorhedus caudatus (Long-tailed goral)
+16519
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Naemorhedus}
+0.645999
+0.474713
+0.100675
+-0.0738022
+-0.0822539
+75
+NC_013753
+mitochondrion Moschus moschiferus (Siberian musk deer)
+16351
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Moschidae  Moschus}
+0.978351
+-0.97831
+0.246658
+0.381717
+-0.0248044
+76
+NC_013834
+mitochondrion Cervus nippon hortulorum (Ussuri sika deer)
+16434
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.943419
+-0.92478
+0.250051
+0.338172
+-0.0343618
+77
+NC_013836
+mitochondrion Cervus elaphus xanthopygus (Manchurian Wapiti)
+16416
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.970694
+-0.908972
+0.243521
+0.339696
+-0.0534394
+78
+NC_013840
+mitochondrion Cervus elaphus yarkandensis (Yarkland deer)
+16351
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.687624
+0.697547
+0.0286973
+-0.468005
+0.0169996
+79
+NC_013996
+mitochondrion Bos primigenius (aurochs)
+16338
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}
+0.685704
+0.634109
+-0.000624414
+-0.415465
+0.0311396
+80
+NC_014044
+mitochondrion Bison bonasus (European bison)
+16326
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bison}
+0.00444135
+0.477741
+-0.988247
+-0.436557
+0.980484
+81
+NC_014692
+mitochondrion Sus scrofa taiwanensis (Taiwan pig)
+16480
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Sus}
+0.903168
+-0.675432
+0.258001
+0.201753
+-0.0336059
+82
+NC_014701
+mitochondrion Rucervus eldii
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Rucervus}
+0.992341
+-0.988316
+0.254797
+0.37134
+-0.0315083
+83
+NC_014703
+mitochondrion Cervus canadensis songaricus (Tian Shan wapiti)
+16419
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.754915
+0.674893
+0.325739
+-0.195668
+-0.228164
+84
+NC_014875
+mitochondrion Procapra przewalskii (Przewalski's Gazelle)
+16548
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Procapra}
+0.783609
+-0.0819617
+0.133555
+-0.343401
+-0.0933756
+85
+NC_015247
+mitochondrion Odocoileus virginianus (white-tailed deer)
+16477
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Odocoileus}
+0.765285
+0.885789
+0.342004
+0.54876
+0.0901026
+86
+NC_015889
+mitochondrion Ovis canadensis (bighorn sheep)
+16463
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Ovis}
+1.
+-0.997242
+0.254717
+0.362217
+-0.0299037
+87
+NC_016178
+mitochondrion Cervus nippon kopschi (South China sika deer)
+16429
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.725685
+0.828349
+0.275495
+0.214192
+0.0256512
+88
+NC_016421
+mitochondrion Oryx dammah (scimitar-horned oryx)
+16756
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Oryx}
+0.727359
+0.834111
+0.289751
+0.14124
+-0.010189
+89
+NC_016422
+mitochondrion Oryx gazella (gemsbok)
+16661
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Oryx}
+0.757261
+0.944029
+0.326938
+0.722584
+0.139959
+90
+NC_016689
+mitochondrion Pseudois schaeferi (dwarf bharal)
+16663
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Pseudois}
+0.982655
+-0.943649
+0.273883
+0.299983
+-0.0567691
+91
+NC_016707
+mitochondrion Przewalskium albirostris (white-lipped deer)
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Przewalskium}
+0.797097
+-0.177746
+0.160682
+-0.0785555
+-0.103363
+92
+NC_016920
+mitochondrion Muntiacus vuquangensis (giant muntjac)
+16361
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Muntiacinae  Muntiacus}
+0.719596
+-0.0301943
+0.139285
+-0.195727
+-0.112167
+93
+NC_018032
+mitochondrion Hydropotes inermis argyropus (Korean water deer)
+16356
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Hydropotinae  Hydropotes}
+0.927804
+-0.753104
+0.253279
+0.24017
+-0.0508596
+94
+NC_018358
+mitochondrion Elaphurus davidianus (Pere David's deer)
+16355
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Elaphurus}
+0.997601
+-1.
+0.256923
+0.365762
+-0.030622
+95
+NC_018595
+mitochondrion Cervus nippon sichuanicus (Sichuan sika deer)
+16429
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Cervus}
+0.731261
+0.619224
+0.215625
+-0.0584448
+-0.144481
+96
+NC_018603
+mitochondrion Kobus leche (lechwe)
+16426
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Reduncinae  Kobus}
+-0.948756
+0.230732
+0.927984
+-0.185815
+0.251803
+97
+NC_019441
+mitochondrion Globicephala melas (long-finned pilot whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Globicephala}
+-0.945612
+0.261499
+0.911169
+-0.175522
+0.26042
+98
+NC_019577
+mitochondrion Pseudorca crassidens (false killer whale)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Pseudorca}
+-0.957077
+0.220095
+0.927692
+-0.186594
+0.235424
+99
+NC_019578
+mitochondrion Globicephala macrorhynchus (short-finned pilot whale)
+16390
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Globicephala}
+-0.932113
+0.227976
+0.9423
+-0.167349
+0.261468
+100
+NC_019588
+mitochondrion Feresa attenuata (pygmy killer whale)
+16387
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Feresa}
+-0.94591
+0.236632
+0.935958
+-0.182807
+0.242023
+101
+NC_019589
+mitochondrion Peponocephala electra (melon-headed whale)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Peponocephala}
+-0.90749
+0.239523
+0.86356
+-0.179275
+0.20162
+102
+NC_019590
+mitochondrion Orcaella brevirostris (Irrawaddy dolphin)
+16383
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcaella}
+-0.910225
+0.238316
+0.878737
+-0.204015
+0.249417
+103
+NC_019591
+mitochondrion Orcaella heinsohni (Australian snubfin dolphin)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcaella}
+0.681926
+0.429513
+0.104018
+-0.0666042
+-0.0866642
+104
+NC_020017
+mitochondrion Moschus anhuiensis (Anhui musk deer)
+16351
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Moschidae  Moschus}
+0.691424
+0.442215
+0.097529
+-0.0589296
+-0.0850938
+105
+NC_020093
+mitochondrion Moschus chrysogaster (alpine musk deer)
+16353
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Moschidae  Moschus}
+0.658397
+0.554145
+0.153004
+-0.12405
+-0.0772542
+106
+NC_020614
+mitochondrion Boselaphus tragocamelus (nilgai)
+16322
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Boselaphus}
+0.663792
+0.623241
+0.0838447
+-0.0688692
+0.0183469
+107
+NC_020615
+mitochondrion Bubalus depressicornis (lowland anoa)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bubalus}
+0.645529
+0.59189
+0.125887
+-0.109165
+-0.0545013
+108
+NC_020616
+mitochondrion Pseudoryx nghetinhensis (saola)
+16358
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Pseudoryx}
+0.696067
+0.647349
+0.130452
+-0.0759341
+-0.0297718
+109
+NC_020617
+mitochondrion Syncerus caffer (African buffalo)
+16359
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Syncerus}
+0.600734
+0.590797
+0.0733095
+-0.13199
+-0.00209469
+110
+NC_020618
+mitochondrion Taurotragus derbianus (giant eland)
+16399
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Taurotragus}
+0.561732
+0.557713
+0.0726609
+-0.131954
+0.00489249
+111
+NC_020619
+mitochondrion Tragelaphus imberbis (lesser kudu)
+16405
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.62537
+0.540162
+0.0964531
+-0.156116
+0.0164095
+112
+NC_020620
+mitochondrion Tragelaphus spekii (Sitatunga)
+16408
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.76317
+0.879466
+0.346746
+0.616985
+0.0814579
+113
+NC_020621
+mitochondrion Hemitragus jayakari (Arabian tahr)
+16457
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Hemitragus}
+0.838432
+0.971885
+0.428386
+0.958409
+0.240815
+114
+NC_020622
+mitochondrion Capra falconeri (markhor)
+16640
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+0.825407
+0.984519
+0.419507
+1.
+0.25107
+115
+NC_020623
+mitochondrion Capra ibex (Alpine ibex)
+16716
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+0.812003
+0.974847
+0.412629
+0.926541
+0.233211
+116
+NC_020624
+mitochondrion Capra nubiana (Nubian ibex)
+16705
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+0.819091
+1.
+0.411079
+0.969795
+0.256181
+117
+NC_020625
+mitochondrion Capra pyrenaica (Spanish ibex)
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+0.803854
+0.958818
+0.395232
+0.836512
+0.198718
+118
+NC_020626
+mitochondrion Capra sibirica (Siberian ibex)
+16583
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+0.688345
+0.805857
+0.26811
+0.193801
+-0.0111457
+119
+NC_020627
+mitochondrion Damaliscus pygargus
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Alcelaphinae  Damaliscus}
+0.803185
+0.964698
+0.397727
+0.768912
+0.166631
+120
+NC_020628
+mitochondrion Hemitragus jemlahicus (Himalayan tahr)
+16712
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Hemitragus}
+0.786195
+0.93505
+0.342586
+0.809166
+0.156523
+121
+NC_020629
+mitochondrion Capricornis sumatraensis (Sumatran serow)
+16441
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capricornis}
+0.743322
+0.79016
+0.323482
+0.434074
+0.0854012
+122
+NC_020630
+mitochondrion Oreamnos americanus (mountain goat)
+16604
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Oreamnos}
+0.744574
+0.853314
+0.296674
+0.5908
+0.122158
+123
+NC_020631
+mitochondrion Ovibos moschatus (muskox)
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Ovibos}
+0.76801
+0.93981
+0.3324
+0.739553
+0.16073
+124
+NC_020632
+mitochondrion Pseudois nayaur (bharal)
+16737
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Pseudois}
+0.748838
+0.853954
+0.328627
+0.555596
+0.0793439
+125
+NC_020633
+mitochondrion Rupicapra rupicapra (chamois)
+16434
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Rupicapra}
+0.791978
+0.867155
+0.343406
+0.532352
+0.0794531
+126
+NC_020656
+mitochondrion Ovis ammon (argali)
+16613
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Ovis}
+0.738404
+0.818239
+0.303487
+0.206753
+0.00857175
+127
+NC_020674
+mitochondrion Addax nasomaculatus
+16751
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Addax}
+0.661276
+0.623787
+0.212999
+-0.00238143
+-0.0401731
+128
+NC_020675
+mitochondrion Aepyceros melampus (impala)
+16422
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Aepycerotinae  Aepyceros}
+0.678302
+0.849894
+0.304618
+0.228929
+0.00578018
+129
+NC_020676
+mitochondrion Alcelaphus buselaphus (hartebeest)
+16373
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Alcelaphinae  Alcelaphus}
+0.77753
+-0.0348908
+0.195748
+-0.146252
+-0.0998448
+130
+NC_020677
+mitochondrion Alces alces (Eurasian elk)
+16417
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Alces}
+0.720576
+0.691017
+0.273282
+-0.380647
+-0.351495
+131
+NC_020678
+mitochondrion Antidorcas marsupialis (springbok)
+16444
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Antidorcas}
+0.566057
+0.48934
+0.0956811
+-0.0402285
+-0.0173491
+132
+NC_020679
+mitochondrion Antilocapra americana (pronghorn)
+16352
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Antilocapridae  Antilocapra}
+0.857893
+-0.48418
+0.197829
+0.0894667
+-0.082016
+133
+NC_020680
+mitochondrion Axis axis (chital)
+16349
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Axis}
+0.846783
+-0.452635
+0.198644
+0.117518
+-0.0640973
+134
+NC_020681
+mitochondrion Axis porcinus (Hog deer)
+16375
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Axis}
+0.738856
+-0.0573418
+0.112888
+-0.318872
+-0.104379
+135
+NC_020682
+mitochondrion Blastocerus dichotomus (marsh deer)
+16359
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Blastocerus}
+0.82617
+0.970055
+0.411829
+0.933546
+0.233897
+136
+NC_020683
+mitochondrion Capra caucasica (West Caucasian tur)
+16624
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capra}
+0.745381
+0.0363834
+0.171732
+-0.168368
+-0.104473
+137
+NC_020684
+mitochondrion Capreolus capreolus (Western roe deer)
+16358
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Capreolus}
+0.792872
+0.80948
+0.292854
+0.0521719
+-0.0824529
+138
+NC_020685
+mitochondrion Cephalophus adersi (Aders's duiker)
+16435
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.798891
+0.866768
+0.314712
+0.000773693
+-0.0975731
+139
+NC_020686
+mitochondrion Cephalophus callipygus (Peters' duiker)
+16427
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.787991
+0.800213
+0.309749
+0.0283415
+-0.134673
+140
+NC_020687
+mitochondrion Cephalophus dorsalis (bay duiker)
+16434
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.764288
+0.799623
+0.312282
+0.00432652
+-0.094251
+141
+NC_020688
+mitochondrion Cephalophus jentinki (Jentink's duiker)
+16425
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.747503
+0.891157
+0.287648
+-0.000798781
+-0.156067
+142
+NC_020689
+mitochondrion Cephalophus leucogaster (white-bellied duiker)
+16427
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.767316
+0.912438
+0.282818
+0.0216608
+-0.135218
+143
+NC_020690
+mitochondrion Cephalophus natalensis (Natal duiker)
+16429
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.760606
+0.92844
+0.278772
+0.0212469
+-0.135788
+144
+NC_020691
+mitochondrion Cephalophus nigrifrons (black-fronted duiker)
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.775932
+0.861878
+0.296331
+0.000626465
+-0.106878
+145
+NC_020692
+mitochondrion Cephalophus ogilbyi (Ogilby's duiker)
+16426
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.759043
+0.914941
+0.284321
+0.0211088
+-0.140322
+146
+NC_020693
+mitochondrion Cephalophus rufilatus (red-flanked duiker)
+16431
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.781564
+0.838453
+0.3297
+-0.0281946
+-0.117658
+147
+NC_020694
+mitochondrion Cephalophus silvicultor (yellow-backed duiker)
+16426
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+0.781281
+0.814901
+0.290991
+-0.0253122
+-0.111889
+148
+NC_020695
+mitochondrion Cephalophus spadix (Abbott's duiker)
+16430
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Cephalophus}
+-0.912732
+0.244097
+0.838694
+-0.15256
+0.22076
+149
+NC_020696
+mitochondrion Cephalorhynchus heavisidii (Heaviside's dolphin)
+16371
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Cephalorhynchus}
+0.0663813
+0.522596
+-0.272973
+0.0373122
+-0.0118142
+150
+NC_020697
+mitochondrion Hexaprotodon liberiensis (pygmy hippopotamus)
+16396
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Hippopotamidae  Hexaprotodon}
+0.762404
+0.849596
+0.256206
+0.226338
+-0.0269062
+151
+NC_020698
+mitochondrion Connochaetes gnou (black wildebeest)
+16412
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Alcelaphinae  Connochaetes}
+0.74213
+0.867668
+0.264258
+0.229558
+-0.0237275
+152
+NC_020699
+mitochondrion Connochaetes taurinus (brindled gnu)
+16410
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Alcelaphinae  Connochaetes}
+0.860511
+-0.509038
+0.257103
+0.132737
+-0.0486789
+153
+NC_020700
+mitochondrion Dama dama (fallow deer)
+16330
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Dama}
+0.707965
+0.618514
+0.247934
+-0.264885
+-0.232953
+154
+NC_020701
+mitochondrion Dorcatragus megalotis (beira)
+16378
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Dorcatragus}
+0.717517
+0.707214
+0.286631
+-0.58686
+-0.531297
+155
+NC_020702
+mitochondrion Eudorcas rufifrons (Red-fronted gazelle)
+16418
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Eudorcas}
+0.776031
+0.777814
+0.360567
+-0.974689
+-0.786523
+156
+NC_020703
+mitochondrion Gazella bennettii (chinkara)
+16435
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.820892
+0.789391
+0.372331
+-0.951332
+-0.804811
+157
+NC_020704
+mitochondrion Gazella cuvieri (Cuvier's gazelle)
+16427
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.785408
+0.776349
+0.356714
+-0.952765
+-0.807193
+158
+NC_020705
+mitochondrion Gazella dorcas (Dorcas gazelle)
+16432
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.793075
+0.759002
+0.358951
+-0.986738
+-0.84118
+159
+NC_020706
+mitochondrion Gazella erlangeri (Neumann's gazelle)
+16434
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.786308
+0.759763
+0.360297
+-1.
+-0.845886
+160
+NC_020707
+mitochondrion Gazella gazella (mountain gazelle)
+16447
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.814725
+0.786099
+0.371241
+-0.963278
+-0.804027
+161
+NC_020708
+mitochondrion Gazella leptoceros (Rhim gazelle)
+16439
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.778895
+0.771648
+0.371364
+-0.951984
+-0.794942
+162
+NC_020709
+mitochondrion Gazella spekei (Speke's gazelle)
+16440
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.790194
+0.786594
+0.353615
+-0.981371
+-0.775182
+163
+NC_020710
+mitochondrion Gazella subgutturosa (goitered gazelle)
+16433
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Gazella}
+0.748562
+-0.0500341
+0.110565
+-0.334128
+-0.0673564
+164
+NC_020711
+mitochondrion Hippocamelus antisensis (Peruvian guemal)
+16410
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Hippocamelus}
+0.720597
+0.811758
+0.263253
+0.139862
+-0.0233562
+165
+NC_020712
+mitochondrion Hippotragus equinus (roan antelope)
+16436
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Hippotragus}
+0.699679
+0.803945
+0.236869
+0.147304
+-0.0155481
+166
+NC_020713
+mitochondrion Hippotragus niger (sable antelope)
+16507
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Hippotragus}
+0.217441
+0.448754
+-0.0838795
+-0.0515763
+0.0404003
+167
+NC_020714
+mitochondrion Hyemoschus aquaticus (Water chevrotain)
+16225
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Tragulina  Tragulidae  Hyemoschus}
+0.728844
+0.594381
+0.22661
+-0.051737
+-0.111238
+168
+NC_020715
+mitochondrion Kobus ellipsiprymnus (waterbuck)
+16427
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Reduncinae  Kobus}
+0.768304
+0.670422
+0.268815
+-0.411252
+-0.347501
+169
+NC_020716
+mitochondrion Litocranius walleri (gerenuk)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Litocranius}
+0.671782
+0.65839
+0.209081
+-0.111142
+-0.19127
+170
+NC_020717
+mitochondrion Madoqua kirkii (Kirk's dik-dik)
+16468
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Madoqua}
+0.679771
+0.663589
+0.280033
+-0.101691
+-0.170357
+171
+NC_020718
+mitochondrion Madoqua saltiana (Salt's dikdik)
+16402
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Madoqua}
+0.748674
+-0.082517
+0.138399
+-0.337082
+-0.10685
+172
+NC_020719
+mitochondrion Mazama americana (red brocket)
+16478
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Mazama}
+0.778256
+-0.00914914
+0.122682
+-0.345022
+-0.0935676
+173
+NC_020720
+mitochondrion Mazama gouazoupira (gray brocket)
+16355
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Mazama}
+0.751567
+-0.0912114
+0.152654
+-0.342087
+-0.107438
+174
+NC_020721
+mitochondrion Mazama rufina (Ecuador red brocket)
+16429
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Mazama}
+0.751745
+0.912172
+0.34254
+0.674751
+0.148986
+175
+NC_020722
+mitochondrion Naemorhedus baileyi (red goral)
+16448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Naemorhedus}
+0.755554
+0.883276
+0.361134
+0.668017
+0.122989
+176
+NC_020723
+mitochondrion Naemorhedus griseus (Chinese goral)
+16448
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Naemorhedus}
+0.75121
+0.743855
+0.324688
+-0.722779
+-0.578706
+177
+NC_020724
+mitochondrion Nanger dama (Dama gazelle)
+16377
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Nanger}
+0.735783
+0.755606
+0.306329
+-0.745931
+-0.59417
+178
+NC_020725
+mitochondrion Nanger granti (Grant's gazelle)
+16381
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Nanger}
+0.7461
+0.74425
+0.325243
+-0.739273
+-0.58845
+179
+NC_020726
+mitochondrion Nanger soemmerringii (Soemmerring's gazelle)
+16379
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Nanger}
+0.627264
+0.532583
+0.206522
+-0.138512
+-0.0807817
+180
+NC_020727
+mitochondrion Neotragus batesi (Bate's dwarf antelope)
+16389
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Neotragus}
+0.674792
+0.681196
+0.195952
+-0.00819489
+-0.0621418
+181
+NC_020728
+mitochondrion Neotragus moschatus (suni)
+16399
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Neotragus}
+0.760054
+-0.0748256
+0.134414
+-0.341481
+-0.0923631
+182
+NC_020729
+mitochondrion Odocoileus hemionus (mule deer)
+16482
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Odocoileus}
+0.522272
+0.534317
+0.0819312
+-0.0212696
+-0.0243994
+183
+NC_020730
+mitochondrion Okapia johnstoni (okapi)
+16422
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Giraffidae  Okapia}
+0.647888
+0.635697
+0.198391
+-0.00214743
+-0.0476762
+184
+NC_020731
+mitochondrion Oreotragus oreotragus (klipspringer)
+16526
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Oreotragus}
+0.729261
+0.81718
+0.29859
+0.173411
+-0.0392361
+185
+NC_020732
+mitochondrion Oryx leucoryx (Arabian oryx)
+16680
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Oryx}
+0.703543
+0.68931
+0.2207
+-0.105261
+-0.193568
+186
+NC_020733
+mitochondrion Ourebia ourebi (oribi)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Ourebia}
+0.733598
+0.668869
+0.238032
+0.0483524
+-0.105578
+187
+NC_020734
+mitochondrion Pelea capreolus (common rhebok)
+16589
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Peleinae  Pelea}
+0.793476
+0.804481
+0.284998
+-0.0543172
+-0.118537
+188
+NC_020735
+mitochondrion Philantomba maxwellii
+16440
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Philantomba}
+0.772339
+0.802817
+0.287602
+-0.00938711
+-0.113387
+189
+NC_020736
+mitochondrion Philantomba monticola (Blue duiker)
+16451
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Philantomba}
+0.0538363
+0.453487
+-0.608625
+-0.236575
+0.537339
+190
+NC_020737
+mitochondrion Potamochoerus porcus (red river hog)
+16693
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Potamochoerus}
+0.738843
+0.670201
+0.325462
+-0.197188
+-0.242616
+191
+NC_020738
+mitochondrion Procapra gutturosa
+16546
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Procapra}
+0.757506
+-0.0746266
+0.141868
+-0.358059
+-0.113963
+192
+NC_020739
+mitochondrion Pudu mephistophiles (northern pudu)
+16426
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Pudu}
+0.768491
+-0.00563806
+0.150233
+-0.289732
+-0.0621902
+193
+NC_020740
+mitochondrion Pudu puda
+16347
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Pudu}
+0.68675
+0.652623
+0.246327
+-0.210593
+-0.202703
+194
+NC_020741
+mitochondrion Raphicerus campestris (steenbok)
+16392
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Raphicerus}
+0.68688
+0.709834
+0.206619
+-0.0653065
+-0.0619583
+195
+NC_020742
+mitochondrion Redunca fulvorufula (mountain reedbuck)
+16434
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Reduncinae  Redunca}
+0.873657
+-0.474612
+0.221426
+0.0936478
+-0.0853915
+196
+NC_020743
+mitochondrion Rucervus duvaucelii (barasingha)
+16342
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Rucervus}
+0.919842
+-0.792889
+0.245383
+0.249534
+-0.0633596
+197
+NC_020744
+mitochondrion Rusa alfredi (Visayan spotted deer)
+16355
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Rusa}
+0.95464
+-0.905099
+0.25383
+0.287615
+-0.0690064
+198
+NC_020745
+mitochondrion Rusa timorensis (Javan rusa)
+16434
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Rusa}
+0.702905
+0.675356
+0.248178
+-0.400317
+-0.322157
+199
+NC_020746
+mitochondrion Saiga tatarica
+16375
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Antilopinae  Saiga}
+0.749416
+0.838509
+0.301219
+-0.00223099
+-0.111568
+200
+NC_020747
+mitochondrion Sylvicapra grimmia (bush duiker)
+16437
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Cephalophinae  Sylvicapra}
+0.590823
+0.525085
+0.0869776
+-0.126574
+-0.0260909
+201
+NC_020748
+mitochondrion Tragelaphus angasii (nyala)
+16399
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.617292
+0.547476
+0.107396
+-0.166181
+-0.0098856
+202
+NC_020749
+mitochondrion Tragelaphus eurycerus (bongo)
+16349
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.622166
+0.574403
+0.113753
+-0.091988
+-0.0362192
+203
+NC_020750
+mitochondrion Tragelaphus oryx (eland)
+16397
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.62352
+0.553642
+0.0956818
+-0.153938
+0.0222555
+204
+NC_020751
+mitochondrion Tragelaphus scriptus (bushbuck)
+16402
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.599217
+0.557539
+0.0933162
+-0.128442
+-0.0277982
+205
+NC_020752
+mitochondrion Tragelaphus strepsiceros (greater kudu)
+16382
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tragelaphus}
+0.259033
+0.485629
+-0.141179
+-0.0571292
+-0.019732
+206
+NC_020753
+mitochondrion Tragulus kanchil
+16333
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Tragulina  Tragulidae  Tragulus}
+0.758804
+-0.00880211
+0.141344
+-0.296222
+-0.0829551
+207
+NC_020766
+mitochondrion Ozotoceros bezoarticus (pampas deer)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Ozotoceros}
+0.649342
+0.56163
+0.161032
+-0.164688
+-0.0864409
+208
+NC_020788
+mitochondrion Tetracerus quadricornis (four-horned antelope)
+16343
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Tetracerus}
+0.75568
+0.911038
+0.302551
+0.550445
+0.0756107
+209
+NC_020789
+mitochondrion Rupicapra pyrenaica (Pyrenean chamois)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Rupicapra}
+0.7568
+0.82009
+0.301951
+0.181008
+-0.0284798
+210
+NC_020793
+mitochondrion Oryx beisa
+16518
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Hippotraginae  Oryx}
+0.719359
+0.687458
+0.242947
+-0.0522632
+-0.101347
+211
+NC_020794
+mitochondrion Redunca arundinum (southern reedbuck)
+16439
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Reduncinae  Redunca}
+0.752978
+0.875504
+0.33313
+0.658176
+0.157008
+212
+NC_021381
+mitochondrion Naemorhedus goral
+16555
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Naemorhedus}
+-0.392858
+0.314819
+0.0108441
+0.189507
+-0.353126
+213
+NC_021434
+mitochondrion Mesoplodon europaeus (Gervais' beaked whale)
+16343
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Mesoplodon}
+-0.43129
+0.371606
+-0.0262072
+0.258167
+-0.327799
+214
+NC_021435
+mitochondrion Ziphius cavirostris (Cuvier's beaked whale)
+16349
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Ziphius}
+-0.528934
+0.333977
+0.215788
+0.0222412
+-0.0755413
+215
+NC_021461
+mitochondrion Neophocaena phocaenoides (Indo-Pacific finless
+16385
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Phocoenidae  Neophocaena}
+-0.372776
+0.294884
+0.0449794
+0.120217
+-0.348045
+216
+NC_021974
+mitochondrion Mesoplodon densirostris (Blainville's beaked whale)
+16347
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Mesoplodon}
+-0.967332
+0.25926
+0.936143
+-0.265689
+0.302082
+217
+NC_022805
+mitochondrion Tursiops australis (Burrunan dolphin)
+16388
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Tursiops}
+0.802153
+0.94482
+0.346036
+0.820323
+0.160198
+218
+NC_023457
+mitochondrion Capricornis milneedwardsii (Chinese serow)
+16444
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Caprinae  Capricornis}
+0.0179413
+0.483744
+-0.954457
+-0.424262
+0.977422
+219
+NC_023536
+mitochondrion Sus verrucosus (Java warty pig)
+16479
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Sus}
+0.0108173
+0.484017
+-0.918526
+-0.394267
+0.923273
+220
+NC_023541
+mitochondrion Sus cebifrons (Visayan warty pig)
+16473
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Sus}
+0.729465
+0.833857
+0.277297
+0.234321
+-0.00693401
+221
+NC_023542
+mitochondrion Beatragus hunteri
+16359
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Alcelaphinae  Beatragus}
+0.680366
+0.810315
+0.278872
+0.249982
+0.00607681
+222
+NC_023543
+mitochondrion Damaliscus lunatus (topi)
+16419
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Alcelaphinae  Damaliscus}
+-0.375037
+0.28992
+0.0211031
+0.159629
+-0.320095
+223
+NC_023830
+mitochondrion Mesoplodon grayi (Gray's beaked whale)
+16347
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Ziphiidae  Mesoplodon}
+-0.845904
+0.248405
+0.8067
+-0.18184
+0.200798
+224
+NC_023889
+mitochondrion Orcinus orca (killer whale)
+16386
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Cetacea  Odontoceti  Delphinidae  Orcinus}
+0.750988
+-0.0153708
+0.144385
+-0.289377
+-0.0414283
+225
+NC_024812
+mitochondrion Mazama nemorivaga
+16361
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Mazama}
+0.643582
+0.611544
+0.0376145
+-0.378629
+0.0249885
+226
+NC_024818
+mitochondrion Bos gaurus (gaur)
+16345
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}
+0.881298
+-0.544077
+0.223862
+0.133995
+-0.0535503
+227
+NC_024819
+mitochondrion Dama mesopotamica (Mesopotamian fallow deer)
+16355
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Cervinae  Dama}
+0.561347
+0.383773
+0.056063
+-0.0541645
+-0.0438556
+228
+NC_024820
+mitochondrion Giraffa camelopardalis (giraffe)
+16433
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Giraffidae  Giraffa}
+0.017423
+0.502913
+-0.955783
+-0.39694
+0.954582
+229
+NC_024860
+mitochondrion Sus celebensis (Celebes wild boar)
+16481
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Suina  Suidae  Sus}
+0.751538
+0.0382631
+0.179477
+-0.195318
+-0.0972645
+230
+NC_025271
+mitochondrion Capreolus pygargus (Eastern roe deer)
+16357
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Cervidae  Odocoileinae  Capreolus}
+0.686489
+0.657683
+0.00976495
+-0.421468
+0.0326846
+231
+NC_025563
+mitochondrion Bos mutus
+16322
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Cetartiodactyla  Ruminantia  Pecora  Bovidae  Bovinae  Bos}

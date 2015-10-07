@@ -1,0 +1,356 @@
+35
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified ssDNA viruses (35)
+-0.886247
+-0.9624
+-0.0866234
+0.612386
+0.369368
+1
+NC_012094
+Sea turtle tornovirus 1
+1898
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.514932
+-0.813442
+-0.359847
+-0.59455
+0.151682
+2
+NC_012558
+Halorubrum pleomorphic virus 1 (HRPV-1)
+7048
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.907961
+-0.844579
+0.342173
+0.25452
+0.268429
+3
+NC_013018
+Circovirus-like genome SAR-B
+1833
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.978447
+-0.809605
+0.884469
+-0.234667
+-0.0936565
+4
+NC_013020
+Circovirus-like genome BBC-A
+1815
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.892346
+-0.802669
+-0.213359
+0.754584
+0.177811
+5
+NC_013023
+Circovirus-like genome RW-A
+2162
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.862828
+-1.
+0.0274827
+0.177775
+-0.303261
+6
+NC_013024
+Circovirus-like genome RW-B
+2819
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.991187
+-0.833361
+0.895157
+0.113114
+-0.684756
+7
+NC_013025
+Circovirus-like genome RW-C
+1803
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.933865
+-0.827061
+0.420475
+0.140223
+0.189406
+8
+NC_013026
+Circovirus-like genome RW-D
+2072
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.943962
+-0.953893
+0.498844
+-0.244126
+0.9741
+9
+NC_013027
+Circovirus-like genome RW-E
+2782
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.915595
+-0.893355
+0.383023
+0.133888
+0.324421
+10
+NC_013028
+Circovirus-like genome CB-A
+2160
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.89348
+-0.827831
+-0.0856019
+0.330036
+0.258736
+11
+NC_013029
+Circovirus-like genome CB-B
+2757
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.932864
+-0.909885
+0.383909
+0.337542
+-0.655639
+12
+NC_013030
+Circovirus-like genome SAR-A
+1739
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.886692
+-0.854089
+-0.0151201
+0.719734
+0.218237
+13
+NC_013116
+Sclerotinia sclerotiorum hypovirulence associated DNA virus 1
+2166
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+1.
+-0.648099
+0.519056
+0.482595
+0.07656
+14
+NC_017087
+Halorubrum pleomorphic virus 2
+10656
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.486044
+-0.945846
+-1.
+-1.
+-0.254049
+15
+NC_017088
+Halorubrum pleomorphic virus 3
+8770
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+0.995917
+-0.646025
+0.543028
+0.524195
+0.0935287
+16
+NC_017089
+Halorubrum pleomorphic virus 6
+8549
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.397753
+-0.918301
+-0.981617
+-0.997177
+-0.307305
+17
+NC_017090
+Halogeometricum pleomorphic virus 1
+9694
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.887283
+-0.770814
+-0.24296
+0.284487
+0.173993
+18
+NC_017916
+Pig stool associated circular ssDNA virus GER2011
+2459
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.870535
+-0.680139
+-0.361692
+0.446771
+0.134016
+19
+NC_018617
+Porcine associated stool circular virus
+2589
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.722763
+-0.859106
+-0.903143
+-0.324004
+-0.118355
+20
+NC_018862
+Dragonfly-associated microphage 1
+4472
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.877246
+-0.857474
+-0.393997
+0.671264
+-0.0400138
+21
+NC_020472
+Gastropod associated circular ssDNA virus
+2351
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.902452
+-0.902902
+-0.0200548
+0.148623
+-0.209001
+22
+NC_021074
+Acheta domesticus volvovirus
+2517
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.965126
+1.
+-0.00397212
+0.12015
+0.0992528
+23
+NC_021203
+Porcine stool-associated circular virus 2
+2539
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.968206
+0.993438
+-0.0151359
+0.160877
+-0.00861752
+24
+NC_021204
+Porcine stool-associated circular virus 3
+2495
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-1.
+-0.872613
+1.
+-0.736143
+0.0557636
+25
+NC_021793
+Cellulophaga phage phi48:2
+11703
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.919802
+-0.878191
+0.403995
+-0.29651
+0.666717
+26
+NC_023427
+Dragonfly larvae associated circular virus-1
+2668
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.937162
+-0.971674
+0.53715
+-0.195898
+1.
+27
+NC_023428
+Dragonfly larvae associated circular virus-2
+2398
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.889703
+-0.862853
+-0.293692
+0.881197
+0.268844
+28
+NC_023429
+Dragonfly larvae associated circular virus-3
+2249
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.945493
+-0.775496
+0.416315
+0.0782897
+-0.00269858
+29
+NC_023430
+Dragonfly larvae associated circular virus-4
+2121
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.84418
+-0.948027
+-0.368419
+0.907518
+-0.0157748
+30
+NC_023431
+Dragonfly larvae associated circular virus-5
+1960
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.907338
+-0.898171
+0.106162
+0.768816
+-1.
+31
+NC_023432
+Dragonfly larvae associated circular virus-6
+1700
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.861912
+-0.944756
+-0.297303
+0.804484
+0.0340157
+32
+NC_023433
+Dragonfly larvae associated circular virus-7
+2253
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.900108
+-0.927536
+-0.345408
+1.
+0.416667
+33
+NC_023434
+Dragonfly larvae associated circular virus-8
+1628
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.975485
+-0.858495
+0.814016
+0.014456
+-0.954745
+34
+NC_023435
+Dragonfly larvae associated circular virus-9
+1722
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}
+-0.910467
+-0.883297
+0.23487
+0.452922
+-0.110718
+35
+NC_023436
+Dragonfly larvae associated circular virus-10
+2259
+{root  Viruses  ssDNA viruses  unclassified ssDNA viruses}

@@ -1,0 +1,186 @@
+18
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Agaricomycetes (18)
+-1.
+0.0504203
+0.152523
+-0.628068
+-0.0438793
+1
+NC_002135
+mitochondrion Pleurotus ostreatus (oyster mushroom)
+9879
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Pleurotaceae  Pleurotus}
+0.285205
+0.409228
+0.371121
+0.454146
+-0.1326
+2
+NC_003049
+mitochondrion Schizophyllum commune
+49704
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Schizophyllaceae  Schizophyllum}
+0.939046
+-0.605931
+1.
+-0.710593
+-0.564802
+3
+NC_005927
+mitochondrion Moniliophthora perniciosa (Crinipellis perniciosa)
+109103
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Marasmiaceae  mitosporic Marasmiaceae  Moniliophthora}
+0.801501
+0.270485
+0.253271
+0.0236521
+0.0838703
+4
+NC_009905
+mitochondrion Pleurotus ostreatus (oyster mushroom)
+73242
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Pleurotaceae  Pleurotus}
+0.942242
+0.601791
+-0.0540646
+-0.711738
+-0.11563
+5
+NC_013933
+mitochondrion Trametes cingulata
+91500
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Polyporales  Trametes}
+-0.970406
+0.0107084
+0.149194
+-0.65864
+-0.0423324
+6
+NC_015333
+mitochondrion Moniliophthora roreri
+9745
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Marasmiaceae  mitosporic Marasmiaceae  Moniliophthora}
+-0.976927
+0.0644436
+0.165951
+-0.596349
+-0.0450456
+7
+NC_015334
+mitochondrion Moniliophthora roreri
+11500
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Marasmiaceae  mitosporic Marasmiaceae  Moniliophthora}
+-0.965662
+0.0182461
+0.19069
+-0.641065
+-0.07938
+8
+NC_015335
+mitochondrion Moniliophthora roreri
+10090
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Marasmiaceae  mitosporic Marasmiaceae  Moniliophthora}
+1.
+-0.550575
+0.963408
+-0.685996
+-0.501643
+9
+NC_015400
+mitochondrion Moniliophthora roreri
+93722
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Marasmiaceae  mitosporic Marasmiaceae  Moniliophthora}
+0.974537
+-0.32985
+0.12853
+-0.596619
+0.549299
+10
+NC_018365
+mitochondrion Lentinula edodes (shiitake mushroom)
+121394
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Marasmiaceae  Lentinula}
+0.881886
+-0.471029
+-0.335073
+-0.713471
+1.
+11
+NC_020148
+mitochondrion Phlebia radiata
+156348
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Corticiales  Corticiaceae  Phlebia}
+0.543708
+0.337944
+0.130098
+0.322534
+-0.0533974
+12
+NC_020368
+mitochondrion Cantharellus cibarius (chanterelle)
+58656
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Cantharellales  Cantharellaceae  Cantharellus}
+0.549209
+0.279458
+0.357637
+-0.0341471
+0.165482
+13
+NC_021373
+mitochondrion Flammulina velutipes
+88508
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Physalacriaceae  Flammulina}
+0.561255
+-1.
+-1.
+-0.0255835
+-1.
+14
+NC_021436
+mitochondrion Rhizoctonia solani
+235849
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Cantharellales  Ceratobasidiaceae  mitosporic            Ceratobasidiaceae  Rhizoctonia}
+0.799013
+1.
+-0.0747638
+-0.825746
+-0.598933
+15
+NC_021750
+mitochondrion Ganoderma lucidum
+60635
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Polyporales  Ganodermataceae  Ganoderma}
+0.98073
+0.855197
+-0.158068
+-1.
+-0.474562
+16
+NC_022933
+mitochondrion Ganoderma sinense
+86451
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Polyporales  Ganodermataceae  Ganoderma}
+0.932448
+0.0920076
+0.0339058
+-0.259674
+0.406694
+17
+NC_024555
+mitochondrion Heterobasidion irregulare
+114193
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Russulales  Bondarzewiaceae  Heterobasidion  Heterobasidion annosum species complex}
+0.122115
+0.150394
+0.25984
+1.
+-0.164808
+18
+NW_003307477
+mitochondrion Coprinopsis cinerea okayama7#130 (Coprinus cinereus
+42448
+{Eukaryota  Fungi  Dikarya  Basidiomycota  Agaricomycotina  Agaricomycetes  Agaricomycetidae  Agaricales  Psathyrellaceae  Coprinopsis}

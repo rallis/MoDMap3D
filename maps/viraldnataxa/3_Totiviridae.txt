@@ -1,0 +1,366 @@
+36
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Totiviridae (36)
+-0.923669
+-0.702855
+0.680187
+-0.354836
+-0.670173
+1
+NC_001641
+Saccharomyces cerevisiae virus L-BC (La)
+4615
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.760094
+1.
+0.375231
+-0.338867
+0.31441
+2
+NC_001963
+Sphaeropsis sapinea RNA virus 1
+5163
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.601538
+0.896813
+0.366535
+-0.279376
+0.152441
+3
+NC_001964
+Sphaeropsis sapinea RNA virus 2
+5202
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.963826
+-0.870403
+-1.
+-0.307527
+0.0509754
+4
+NC_002063
+Leishmania RNA virus 1 - 1
+5284
+{root  Viruses  dsRNA viruses  Totiviridae  Leishmaniavirus}
+-0.906406
+-0.433616
+0.528824
+-0.57663
+-0.798655
+5
+NC_002064
+Leishmania RNA virus 2 - 1
+5241
+{root  Viruses  dsRNA viruses  Totiviridae  Leishmaniavirus}
+-0.798682
+0.223566
+0.511877
+-0.486564
+-1.
+6
+NC_002701
+Eimeria brunetti RNA virus 1
+5358
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.88737
+-0.107604
+0.615575
+-0.0479972
+-0.411168
+7
+NC_003555
+Giardia lamblia virus
+6277
+{root  Viruses  dsRNA viruses  Totiviridae  Giardiavirus}
+-0.984318
+-0.882694
+-0.97998
+-0.379783
+0.0882275
+8
+NC_003601
+Leishmania RNA virus 1 - 4
+5283
+{root  Viruses  dsRNA viruses  Totiviridae  Leishmaniavirus}
+-0.793084
+0.644898
+0.534425
+-0.554081
+-0.333848
+9
+NC_003607
+Helminthosporium victoriae virus 190S
+5179
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.89949
+-0.386628
+0.637866
+-0.196412
+-0.444782
+10
+NC_003745
+Saccharomyces cerevisiae virus L-A
+4579
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.866086
+-0.157928
+0.685191
+-0.480287
+0.163597
+11
+NC_003823
+Ustilago maydis virus H1
+6099
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.89332
+-0.384334
+0.767583
+0.132858
+0.39224
+12
+NC_003824
+Trichomonas vaginalis virus
+4647
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.896095
+-0.190315
+0.626575
+0.237918
+0.812108
+13
+NC_003873
+Trichomonas vaginalis virus 2
+4674
+{root  Viruses  dsRNA viruses  Totiviridae  Trichomonasvirus}
+-0.959068
+-0.594363
+0.804491
+0.781525
+-0.0786327
+14
+NC_003874
+Zygosaccharomyces bailii virus Z
+3157
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+1.
+-0.501215
+0.521806
+-0.290394
+-0.0316981
+15
+NC_003876
+Gremmeniella abietina RNA virus L1
+5133
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.850136
+-0.23433
+0.629318
+0.100729
+1.
+16
+NC_004034
+Trichomonas vaginalis virus 3
+4844
+{root  Viruses  dsRNA viruses  Totiviridae  Trichomonasvirus}
+-0.796459
+0.203815
+0.586036
+-0.599564
+-0.273418
+17
+NC_005074
+Helicobasidium mompa totivirus 1-17
+5207
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.830524
+0.245097
+0.626805
+1.
+-0.420059
+18
+NC_005075
+Helicobasidium mompa totivirus 1-17
+2096
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.811625
+0.273304
+0.511187
+-0.414139
+-0.634555
+19
+NC_005883
+Chalara elegans RNA Virus 1
+5310
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+0.99771
+-0.533115
+0.526844
+-0.300083
+-0.054562
+20
+NC_005965
+Gremmeniella abietina RNA virus L2
+5129
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.788547
+0.742442
+0.375947
+-0.195007
+0.375348
+21
+NC_006367
+Magnaporthe oryzae virus 1
+5359
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-0.72034
+0.755236
+0.399432
+-0.241027
+0.013956
+22
+NC_007523
+Coniothyrium minitans RNA virus
+4975
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus}
+-1.
+-1.
+0.926689
+-0.806757
+0.156443
+23
+NC_007915
+Penaeid shrimp infectious myonecrosis virus
+7561
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.839508
+0.413562
+0.609403
+-0.553031
+-0.0876155
+24
+NC_009224
+Botryotinia fuckeliana totivirus 1
+5261
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.914875
+-0.537215
+0.686185
+0.250374
+-0.548099
+25
+NC_009890
+Black raspberry virus F
+5077
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.590565
+0.739272
+0.235201
+-0.24436
+-0.117688
+26
+NC_010246
+Magnaporthe oryzae virus 2
+5193
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.982559
+-0.741073
+1.
+-0.613317
+0.413656
+27
+NC_013499
+Drosophila melanogaster totivirus SW-2009a
+6780
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.791638
+0.636377
+0.480807
+-0.649263
+0.18869
+28
+NC_013999
+Phlebiopsis gigantea mycovirus dsRNA 1
+11563
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.891041
+-0.518275
+0.803219
+-0.977325
+0.379581
+29
+NC_014609
+Armigeres subalbatus virus SaX06-AK20
+7510
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.743431
+0.947249
+0.499359
+-0.312168
+-0.0826467
+30
+NC_014823
+Tolypocladium cylindrosporum virus 1
+5196
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus  unclassified            Victorivirus}
+-0.9264
+-0.355904
+0.829599
+-0.865079
+-0.108475
+31
+NC_015639
+Piscine myocarditis virus AL V-708
+6688
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.867647
+-0.284325
+0.740904
+-1.
+0.225596
+32
+NC_017084
+Tianjin totivirus
+7611
+{root  Viruses  dsRNA viruses  Totiviridae}
+-0.948047
+-0.560026
+0.827513
+-0.157494
+-0.140607
+33
+NC_020903
+Xanthophyllomyces dendrorhous virus L1A (XdV-L1A)
+4655
+{root  Viruses  dsRNA viruses  Totiviridae  Totivirus}
+-0.832087
+0.0380885
+0.367246
+-0.388509
+-0.321731
+34
+NC_020997
+Ustilaginoidea virens RNA virus 1
+5142
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus  unclassified            Victorivirus}
+-0.728699
+0.990636
+0.415129
+-0.43028
+-0.0170326
+35
+NC_021565
+Rosellinia necatrix victorivirus 1
+5329
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus  unclassified            Victorivirus}
+-0.751023
+0.747996
+0.492538
+-0.292
+0.0528955
+36
+NC_023547
+Ustilaginoidea virens RNA virus 3
+5075
+{root  Viruses  dsRNA viruses  Totiviridae  Victorivirus  unclassified            Victorivirus}

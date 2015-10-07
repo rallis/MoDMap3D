@@ -1,0 +1,356 @@
+35
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Pospiviroidae (35)
+0.996131
+0.0403452
+-0.155362
+-0.922939
+-0.4543
+1
+NC_000885
+Tomato chlorotic dwarf viroid
+360
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.677622
+0.504269
+-0.838245
+-0.678914
+-0.443003
+2
+NC_001340
+Apple scar skin viroid
+329
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.442248
+0.122849
+-0.727719
+0.154052
+-0.201705
+3
+NC_001351
+Hop stunt viroid
+302
+{root  Viroids  Pospiviroidae  Hostuviroid}
+-0.212494
+0.0580778
+-0.925403
+0.90103
+-0.56195
+4
+NC_001462
+Coconut cadang-cadang viroid
+246
+{root  Viroids  Pospiviroidae  Cocadviroid}
+0.309165
+0.112291
+-0.553039
+0.358523
+-0.389408
+5
+NC_001464
+Citrus exocortis viroid
+371
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.186655
+0.0711612
+-0.943632
+0.944692
+-0.57277
+6
+NC_001471
+Coconut tinangaja viroid
+254
+{root  Viroids  Pospiviroidae  Cocadviroid}
+0.631979
+0.0676019
+-0.413225
+-0.112844
+-0.361924
+7
+NC_001553
+Tomato apical stunt viroid
+360
+{root  Viroids  Pospiviroidae  Pospiviroid}
+0.912463
+0.0225398
+-0.163747
+-0.805824
+-0.424354
+8
+NC_001558
+Tomato planta macho viroid
+360
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.802906
+0.929186
+1.
+0.295413
+-0.578079
+9
+NC_001651
+Citrus bent leaf viroid
+315
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.555294
+0.399469
+-0.701888
+-0.305009
+0.0998267
+10
+NC_001830
+Pear blister canker viroid (PBCVd)
+315
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.855961
+1.
+0.960549
+0.232789
+-0.523578
+11
+NC_001907
+Citrus viroid Ia (CVd-Ia)
+326
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.636415
+0.459809
+-0.729796
+-0.56177
+1.
+12
+NC_001920
+Grapevine yellow speckle viroid 1
+366
+{root  Viroids  Pospiviroidae  Apscaviroid}
+0.372526
+0.0825057
+-0.441942
+-0.150156
+-0.384078
+13
+NC_002015
+Chrysanthemum stunt viroid
+356
+{root  Viroids  Pospiviroidae  Pospiviroid}
+0.964698
+0.0344934
+-0.160539
+-0.918063
+-0.462575
+14
+NC_002030
+Potato spindle tuber viroid
+359
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.755402
+0.651875
+-0.960546
+-0.98911
+-0.859796
+15
+NC_003264
+Citrus dwarfing viroid (CDVd)
+292
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.754396
+0.653591
+-0.984582
+-1.
+-0.936881
+16
+NC_003463
+Apple dimple fruit viroid
+306
+{root  Viroids  Pospiviroidae  Apscaviroid}
+0.295392
+0.0597061
+-0.322167
+-0.66439
+-0.197729
+17
+NC_003538
+Columnea latent viroid
+370
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.191047
+0.0772579
+-0.932869
+1.
+-0.487024
+18
+NC_003539
+Citrus bark cracking viroid (CBCVd)
+284
+{root  Viroids  Pospiviroidae  Cocadviroid}
+-0.586515
+0.378288
+-0.697896
+-0.358489
+-0.0239634
+19
+NC_003553
+Australian grapevine viroid (AGVd)
+369
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.274626
+-0.0971986
+-0.857353
+0.785577
+-0.623403
+20
+NC_003611
+Hop latent viroid
+256
+{root  Viroids  Pospiviroidae  Cocadviroid}
+-0.655534
+0.414297
+-0.648513
+-0.624782
+0.986245
+21
+NC_003612
+Grapevine yellow speckle viroid 2
+363
+{root  Viroids  Pospiviroidae  Apscaviroid}
+0.0251667
+0.06444
+-0.739532
+0.401732
+-0.437049
+22
+NC_003613
+Iresine viroid 1
+370
+{root  Viroids  Pospiviroidae  Pospiviroid}
+1.
+0.0387047
+-0.132209
+-0.926136
+-0.44413
+23
+NC_003637
+Mexican papita viroid
+360
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.86531
+-0.780966
+-0.346237
+-0.260282
+-0.516951
+24
+NC_003681
+Coleus blumei viroid 1
+248
+{root  Viroids  Pospiviroidae  Coleviroid}
+-0.939094
+-0.909388
+-0.0906257
+-0.58956
+-0.397317
+25
+NC_003682
+Coleus blumei viroid 2
+301
+{root  Viroids  Pospiviroidae  Coleviroid}
+-0.890556
+-0.824539
+-0.137841
+-0.663549
+-0.357809
+26
+NC_003683
+Coleus blumei viroid 3
+364
+{root  Viroids  Pospiviroidae  Coleviroid}
+-0.863034
+-0.737396
+-0.296801
+-0.38688
+-0.503627
+27
+NC_003882
+Coleus blumei viroid
+295
+{root  Viroids  Pospiviroidae  Coleviroid}
+-0.749187
+0.825828
+0.502908
+0.0187389
+-0.456749
+28
+NC_004358
+Citrus viroid-I-LSS
+327
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.729573
+0.63059
+-0.972789
+-0.963252
+-0.883448
+29
+NC_004359
+Citrus viroid VI
+330
+{root  Viroids  Pospiviroidae  Apscaviroid}
+-0.707425
+0.5669
+-0.884504
+-0.844455
+-0.682413
+30
+NC_010165
+Citrus viroid V
+294
+{root  Viroids  Pospiviroidae  Apscaviroid}
+0.285004
+0.0422667
+-0.606575
+0.165622
+-0.459844
+31
+NC_011590
+Pepper chat fruit viroid
+348
+{root  Viroids  Pospiviroidae  Pospiviroid}
+-0.845436
+-0.74165
+-0.319986
+-0.347001
+-0.531962
+32
+NC_012127
+Coleus blumei viroid 5
+274
+{root  Viroids  Pospiviroidae  Coleviroid  unclassified Coleviroid}
+-1.
+-1.
+-0.0680982
+-0.659942
+-0.443371
+33
+NC_012805
+Coleus blumei viroid 6
+342
+{root  Viroids  Pospiviroidae  Coleviroid  unclassified Coleviroid}
+-0.445437
+0.127783
+-0.630577
+0.0701541
+-0.083496
+34
+NC_020160
+Dahlia latent viroid
+342
+{root  Viroids  Pospiviroidae  unclassified Pospiviroidae}
+-0.726389
+0.627846
+-1.
+-0.978639
+-1.
+35
+NC_021720
+Persimmon viroid 2
+358
+{root  Viroids  Pospiviroidae  Apscaviroid}

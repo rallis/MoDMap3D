@@ -1,0 +1,546 @@
+54
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Herpesviridae (54)
+-0.717687
+-0.472896
+-0.975927
+-0.13961
+-0.973268
+1
+NC_000898
+Human herpesvirus 6B (HHV-6B)
+162114
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Roseolovirus}
+-0.480428
+-0.254826
+-0.645187
+0.0711628
+0.223318
+2
+NC_001348
+Human herpesvirus 3 (HHV-3)
+124884
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-1.
+0.849085
+-0.864468
+0.159939
+0.556725
+3
+NC_001350
+Saimiriine herpesvirus 2 (Herpesvirus saimiri)
+112930
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Rhadinovirus}
+0.0332832
+-0.539209
+0.787335
+0.930315
+0.237415
+4
+NC_001491
+Equid herpesvirus 1 (Equine abortion virus)
+150224
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.0398575
+0.45632
+0.0193648
+-0.27449
+0.895403
+5
+NC_001650
+Equid herpesvirus 2 (Equine herpesvirus 2)
+184427
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Percavirus}
+-0.72712
+-0.47145
+-0.997041
+-0.132149
+-1.
+6
+NC_001664
+Human herpesvirus 6A (HHV-6A)
+159322
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Roseolovirus}
+-0.972712
+0.199293
+-0.892951
+0.0345309
+0.194499
+7
+NC_001716
+Human herpesvirus 7 (HHV-7)
+153080
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Roseolovirus}
+0.728533
+0.0318164
+-0.59528
+-0.109746
+0.524918
+8
+NC_001798
+Human herpesvirus 2 (Herpes simplex virus type 2)
+154746
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+0.60298
+-0.0283685
+-0.451143
+-0.127171
+0.520938
+9
+NC_001806
+Human herpesvirus 1 (Herpes simplex virus 1)
+152261
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.603268
+0.792826
+-0.170628
+-0.141262
+0.931366
+10
+NC_001826
+Murid herpesvirus 4 (Murine gammaherpesvirus 68)
+119451
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Rhadinovirus}
+-0.305608
+-0.241756
+0.143404
+0.405036
+0.385187
+11
+NC_001844
+Equid herpesvirus 4 (EHV-4)
+145597
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.715353
+0.239798
+-0.639456
+0.151242
+0.270531
+12
+NC_001847
+Bovine herpesvirus 1 (Infectious bovine rhinotracheitis virus)
+135301
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.946248
+0.84394
+-0.789035
+0.131276
+0.562939
+13
+NC_001987
+Ateline herpesvirus 3
+108409
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Rhadinovirus}
+-0.628074
+-0.457116
+-0.515437
+-0.174059
+0.372666
+14
+NC_002229
+Gallid herpesvirus 2 (Marek's disease virus type 1)
+177874
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+0.181641
+-0.726375
+-0.494108
+-0.405556
+0.548255
+15
+NC_002512
+Murid herpesvirus 2 (Rat cytomegalovirus)
+230138
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Muromegalovirus}
+-0.593981
+0.76448
+-0.0935172
+-0.084063
+0.959085
+16
+NC_002531
+Alcelaphine herpesvirus 1 (Malignant catarrhal fever virus)
+130608
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Macavirus}
+-0.138485
+-0.755572
+-0.452728
+-0.200012
+0.33194
+17
+NC_002577
+Gallid herpesvirus 3 (Marek's disease virus type 2)
+164270
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-0.445361
+-0.546697
+-0.504621
+-0.151035
+0.411622
+18
+NC_002641
+Meleagrid herpesvirus 1 (MeHV-1)
+159160
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-0.809261
+1.
+-0.42283
+-0.0435383
+0.815178
+19
+NC_002665
+Bovine herpesvirus 4
+108873
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Rhadinovirus}
+-0.699171
+-0.0852185
+-0.825302
+0.154916
+0.172163
+20
+NC_002686
+Cercopithecine herpesvirus 9 (CeHV-9)
+124784
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.501026
+-0.575395
+-0.479241
+-0.293215
+0.492942
+21
+NC_002794
+Tupaiid herpesvirus 1 (Tupaia herpesvirus)
+195859
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae}
+-0.157457
+-0.282967
+-0.385472
+-0.0961279
+0.502937
+22
+NC_003401
+Macacine herpesvirus 5 (Rhesus rhadinovirus)
+133719
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Rhadinovirus}
+0.25439
+-0.643542
+-0.150075
+-0.426301
+0.714231
+23
+NC_003521
+Panine herpesvirus 2 (PnHV-2; CCMV)
+241087
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus}
+0.142441
+-0.803899
+-0.274338
+-0.438041
+0.636981
+24
+NC_004065
+Murid herpesvirus 1 (Mouse cytomegalovirus)
+230278
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Muromegalovirus}
+-0.568006
+0.244068
+-0.226755
+-0.162616
+0.707967
+25
+NC_004367
+Callitrichine herpesvirus 3 (Marmoset lymphocryptovirus)
+149696
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Lymphocryptovirus}
+0.931572
+0.267567
+-0.887117
+-0.0246816
+0.360771
+26
+NC_004812
+Macacine herpesvirus 1 (McHV-1)
+156789
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+0.837427
+0.369247
+-0.716381
+0.119126
+0.278001
+27
+NC_005261
+Bovine herpesvirus 5 (BoHV-5)
+137821
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.256241
+-0.526148
+-0.234529
+-0.196475
+0.510423
+28
+NC_005264
+Psittacid herpesvirus 1 (PsHV-1)
+163025
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Iltovirus}
+0.161903
+0.434454
+0.379436
+-0.572994
+0.218605
+29
+NC_006146
+Macacine herpesvirus 4 (Rhesus lymphocryptovirus)
+171096
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Lymphocryptovirus}
+-0.398097
+-0.86509
+-0.0993647
+-0.488387
+1.
+30
+NC_006150
+Macacine herpesvirus 3 (Rhesus cytomegalovirus)
+221454
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus}
+0.845807
+0.382527
+-0.704054
+-0.000923326
+0.370591
+31
+NC_006151
+Suid herpesvirus 1 (Pseudorabies virus)
+143461
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.0274813
+-0.837169
+-0.126494
+-0.399647
+0.686507
+32
+NC_006273
+Human herpesvirus 5 (HHV-5; HCMV)
+235646
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus}
+0.996088
+0.39343
+-1.
+0.00522655
+0.332156
+33
+NC_006560
+Cercopithecine herpesvirus 2 (Simian agent 8)
+150715
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.412618
+-0.334097
+-0.402779
+-0.172956
+0.456042
+34
+NC_006623
+Gallid herpesvirus 1 (Infectious laryngotracheitis virus)
+148687
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Iltovirus}
+0.005666
+0.753633
+1.
+-0.998827
+-0.570078
+35
+NC_007605
+Human herpesvirus 4 (Epstein-Barr virus)
+171823
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Lymphocryptovirus}
+-0.236738
+0.533444
+0.0648039
+-0.212228
+0.966644
+36
+NC_007646
+Ovine herpesvirus 2 (OvHV-2)
+135135
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Macavirus}
+1.
+0.390029
+-0.996753
+0.00168268
+0.335971
+37
+NC_007653
+Papiine herpesvirus 2 (Herpesvirus papio 2)
+156487
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.171085
+0.0355659
+-0.0840957
+-0.210801
+0.796764
+38
+NC_009333
+Human herpesvirus 8 (Kaposi's sarcoma-associated herpesvirus)
+137969
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Rhadinovirus}
+0.00310061
+0.762061
+0.999085
+-1.
+-0.569825
+39
+NC_009334
+Human herpesvirus 4 type 2 (Epstein-Barr virus type 2)
+172764
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae  Lymphocryptovirus}
+0.0154475
+-0.549978
+0.853485
+1.
+0.217933
+40
+NC_011644
+Equid herpesvirus 9 (EHV-9)
+148371
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.291766
+-0.783827
+-0.134044
+-0.383468
+0.743812
+41
+NC_012783
+Cercopithecine herpesvirus 5 (CeHV-5; GMCMV; SCMV)
+226205
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus}
+-0.565992
+-0.462472
+-0.569379
+-0.0386677
+0.38277
+42
+NC_013036
+Anatid herpesvirus 1 (Duck enteritis virus)
+158091
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Mardivirus}
+-0.539567
+-0.198829
+-0.515053
+-0.0583883
+0.382511
+43
+NC_013590
+Felid herpesvirus 1
+135797
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+0.546681
+-0.239809
+-0.382414
+-0.0985445
+0.469002
+44
+NC_014567
+Saimiriine herpesvirus 1 (Marmoset herpesvirus)
+156742
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Simplexvirus}
+-0.661921
+0.864323
+-0.159535
+-0.139885
+0.885577
+45
+NC_015049
+Rodent herpesvirus Peru (RHVP)
+124335
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Gammaherpesvirinae}
+-0.380115
+-0.866525
+-0.105394
+-0.489956
+0.997495
+46
+NC_016154
+Cynomolgus macaque cytomegalovirus strain Ottawa
+218041
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus  unclassified Cytomegalovirus}
+-0.0183452
+-0.667825
+-0.115151
+-0.369346
+0.698579
+47
+NC_016447
+Aotine herpesvirus 1 (AoHV-1; OMCMV)
+219474
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus}
+-0.484808
+-0.719435
+-0.389464
+-0.322175
+0.514514
+48
+NC_016448
+Saimiriine herpesvirus 3 (SaHV-3; SMCMV)
+196691
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus  unclassified Cytomegalovirus}
+-0.0719834
+-0.52295
+0.799381
+0.960714
+0.238793
+49
+NC_017826
+Equid herpesvirus 8
+149332
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae  Varicellovirus}
+-0.470455
+-0.863768
+-0.476487
+-0.312888
+0.456277
+50
+NC_019559
+Murid herpesvirus 8
+202946
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Muromegalovirus}
+-0.0421208
+-1.
+-0.432784
+-0.393786
+0.525361
+51
+NC_020231
+Caviid herpesvirus 2
+233501
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae}
+-0.647514
+-0.441432
+-0.496579
+-0.20176
+0.500488
+52
+NC_020474
+Elephantid herpesvirus 1
+180421
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Proboscivirus}
+-0.466447
+-0.206622
+-0.61285
+-0.247511
+0.449684
+53
+NC_022233
+Porcine cytomegalovirus
+128367
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Betaherpesvirinae  Cytomegalovirus  unclassified Cytomegalovirus}
+0.644178
+-0.0327031
+-0.518542
+-0.131353
+0.539023
+54
+NC_023677
+Chimpanzee alpha-1 herpesvirus
+153158
+{root  Viruses  dsDNA viruses no RNA stage  Herpesvirales  Herpesviridae  Alphaherpesvirinae}

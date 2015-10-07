@@ -1,0 +1,386 @@
+38
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Testudinoidea (38)
+-0.83493
+-0.424914
+0.996256
+-0.370368
+-0.518154
+1
+NC_002073
+mitochondrion Chrysemys picta (painted turtle)
+16866
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Emydidae  Chrysemys}
+0.850604
+0.28197
+-0.256235
+0.99816
+-0.485288
+2
+NC_006082
+mitochondrion Mauremys reevesii (Reeves' turtle)
+16576
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+-0.936021
+0.912525
+-0.685218
+-0.174358
+-0.501487
+3
+NC_007692
+mitochondrion Testudo graeca (Mediterranean spur-thighed tortoise)
+19278
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Testudo}
+-0.498494
+0.329789
+-0.422292
+-0.162803
+-0.111522
+4
+NC_007693
+mitochondrion Manouria emys (brown tortoise)
+16455
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Manouria}
+-0.667345
+0.431484
+-0.528618
+-0.22449
+-0.441346
+5
+NC_007694
+mitochondrion Stigmochelys pardalis (leopard tortoise)
+19403
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Stigmochelys}
+-0.928008
+0.831073
+-0.69864
+-0.155087
+-0.403074
+6
+NC_007695
+mitochondrion Indotestudo elongata (elongated tortoise)
+16788
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Indotestudo}
+-0.910837
+0.852636
+-0.72383
+-0.164775
+-0.413101
+7
+NC_007696
+mitochondrion Indotestudo forstenii (Travancore tortoise)
+16952
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Indotestudo}
+-0.889374
+0.765525
+-0.638199
+-0.173157
+-0.453585
+8
+NC_007697
+mitochondrion Testudo horsfieldii (Horsfield's tortoise)
+17093
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Testudo}
+-1.
+1.
+-0.745313
+-0.132676
+-0.529972
+9
+NC_007698
+mitochondrion Testudo marginata (marginated tortoise)
+19438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Testudo}
+-0.957207
+0.957474
+-0.694336
+-0.143875
+-0.555918
+10
+NC_007699
+mitochondrion Testudo kleinmanni (Egyptian tortoise)
+17670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Testudo}
+-0.834986
+0.648244
+-0.535245
+-0.112321
+-0.464021
+11
+NC_007700
+mitochondrion Malacochersus tornieri (pancake tortoise)
+19202
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Malacochersus}
+-0.553648
+0.100391
+-0.0710492
+-0.256548
+-0.226786
+12
+NC_007970
+mitochondrion Platysternon megacephalum (big-headed turtle)
+19043
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Platysternidae  Platysternon}
+0.717277
+0.2303
+-0.353407
+0.306811
+-0.460475
+13
+NC_009330
+mitochondrion Mauremys mutica (Asian Yellow Pond Turtle)
+16609
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+0.987953
+0.764378
+-0.195701
+-0.843283
+-0.493707
+14
+NC_009509
+mitochondrion Cuora aurocapitata (golden-headed box turtle)
+16890
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.108149
+-0.874512
+-0.883111
+-0.51126
+-0.794969
+15
+NC_010970
+mitochondrion Cyclemys atripons (black-bridged leaf turtle)
+16500
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cyclemys}
+0.798668
+0.519407
+-0.297691
+-0.665523
+-0.342441
+16
+NC_010973
+mitochondrion Cuora mouhotii
+16837
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+-0.707995
+-0.219515
+0.59903
+-0.378362
+-0.499042
+17
+NC_011573
+mitochondrion Trachemys scripta (red-eared slider turtle)
+16810
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Emydidae  Trachemys}
+-0.515389
+0.23352
+-0.427187
+-0.174373
+-0.101123
+18
+NC_011815
+mitochondrion Manouria impressa (impressed tortoise)
+16642
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Testudinidae  Manouria}
+0.151228
+-0.43
+-0.637068
+-0.327966
+1.
+19
+NC_011819
+mitochondrion Sacalia quadriocellata (four eyed turtle)
+16816
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Sacalia}
+0.784621
+0.581373
+-0.299674
+-0.788395
+-0.387083
+20
+NC_012054
+mitochondrion Cuora flavomarginata (Chinese box turtle)
+16721
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.898033
+0.645839
+-0.249677
+-0.880259
+-0.397077
+21
+NC_014102
+mitochondrion Cuora galbinifrons (flowerback box turtle)
+17244
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+1.
+0.765832
+-0.21637
+-1.
+-0.496193
+22
+NC_014401
+mitochondrion Cuora pani (Pan's box turtle)
+16922
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.659652
+0.483275
+-0.34371
+-0.582756
+-0.366464
+23
+NC_014769
+mitochondrion Cuora amboinensis (Malayan box turtle)
+16708
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.888865
+0.268518
+-0.258393
+1.
+-0.471992
+24
+NC_015101
+mitochondrion Mauremys megalocephala (Chinese broad-headed pond
+16783
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+0.902906
+0.284637
+-0.256393
+0.999151
+-0.484496
+25
+NC_016681
+mitochondrion Mauremys reevesii (Reeves's turtle)
+16783
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+0.77716
+0.324809
+-0.266874
+0.723199
+-0.457024
+26
+NC_016685
+mitochondrion Mauremys sinensis (Chinese striped-necked turtle)
+16461
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+0.154309
+-0.443148
+-0.63656
+-0.32598
+0.99393
+27
+NC_016691
+mitochondrion Sacalia bealei (Beal's-eyed turtle)
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Sacalia}
+0.752283
+0.26447
+-0.307953
+0.68755
+-0.470628
+28
+NC_016951
+mitochondrion Mauremys japonica (Japanese pond turtle)
+16443
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+0.72423
+0.232613
+-0.323517
+0.270003
+-0.384543
+29
+NC_017875
+mitochondrion Mauremys annamensis (Annam leaf turtle)
+16844
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Mauremys}
+0.902888
+0.685605
+-0.248344
+-0.954281
+-0.381174
+30
+NC_017878
+mitochondrion Cuora picturata (Vietnamese box turtle)
+16623
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.917137
+0.689893
+-0.257359
+-0.966004
+-0.392448
+31
+NC_017885
+mitochondrion Cuora bourreti (Bourret's box turtle)
+16649
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.140053
+-0.86753
+-0.905252
+-0.530022
+-0.828704
+32
+NC_018793
+mitochondrion Cyclemys dentata (Asian leaf turtle)
+16489
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cyclemys}
+0.0497179
+-0.218473
+-0.562759
+-0.308262
+-0.0667383
+33
+NC_020665
+mitochondrion Notochelys platynota
+16981
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Notochelys}
+-0.0197733
+-0.105752
+-0.548226
+-0.273463
+-0.111455
+34
+NC_020668
+mitochondrion Heosemys annandalii (Yellow-headed temple turtle)
+16604
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Heosemys}
+0.946248
+0.722418
+-0.219052
+-0.982618
+-0.460375
+35
+NC_022857
+mitochondrion Cuora trifasciata (three-banded box turtle)
+16675
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cuora}
+0.171535
+-0.999999
+-0.984106
+-0.511995
+-0.984484
+36
+NC_023220
+mitochondrion Cyclemys oldhami (Oldham's leaf turtle)
+16656
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cyclemys}
+0.137733
+-1.
+-1.
+-0.553527
+-1.
+37
+NC_023221
+mitochondrion Cyclemys tcheponensis (stripeneck leaf turtle)
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Geoemydidae  Geoemydinae  Cyclemys}
+-0.82959
+-0.424826
+1.
+-0.359062
+-0.524376
+38
+NC_023890
+mitochondrion Chrysemys picta bellii (western painted turtle)
+16875
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Archelosauria  Testudines  Cryptodira  Durocryptodira  Testudinoidea  Emydidae  Chrysemys}

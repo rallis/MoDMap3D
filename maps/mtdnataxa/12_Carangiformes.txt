@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Carangiformes (21)
+-0.997569
+0.00659496
+-0.994382
+0.408582
+0.719586
+1
+NC_002813
+mitochondrion Trachurus japonicus (Japanese jack mackerel)
+16559
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Trachurus}
+-0.544626
+0.0410928
+0.338678
+0.68804
+-0.992364
+2
+NC_004405
+mitochondrion Carangoides armatus (longfin trevally)
+16556
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Carangoides}
+-0.698704
+0.0489395
+0.991871
+1.
+0.92514
+3
+NC_004406
+mitochondrion Caranx melampygus (bluefin trevally)
+16593
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Caranx}
+-1.
+-0.00221427
+-1.
+0.416049
+0.716405
+4
+NC_006818
+mitochondrion Trachurus trachurus (Atlantic horse mackerel)
+16559
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Trachurus}
+0.336424
+0.0850802
+0.638385
+-1.
+0.690736
+5
+NC_011219
+mitochondrion Rachycentron canadum (cobia)
+16758
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Rachycentridae  Rachycentron}
+0.978322
+-0.983802
+-0.103052
+0.785852
+0.285512
+6
+NC_016868
+mitochondrion Seriola quinqueradiata (Japanese amberjack)
+16537
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Seriola}
+1.
+-1.
+-0.107628
+0.780749
+0.291506
+7
+NC_016869
+mitochondrion Seriola lalandi (yellowtail amberjack)
+16532
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Seriola}
+0.856853
+-0.829725
+-0.0572615
+0.713345
+0.217665
+8
+NC_016870
+mitochondrion Seriola dumerili (greater amberjack)
+16530
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Seriola}
+0.158065
+0.164316
+0.526249
+-0.331649
+-0.194729
+9
+NC_022508
+mitochondrion Echeneis naucrates (live sharksucker)
+16612
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Echeneidae  Echeneis}
+0.952872
+1.
+-0.152325
+0.842637
+0.233114
+10
+NC_022707
+mitochondrion Trachinotus ovatus (derbio)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Trachinotus}
+-0.667022
+0.0171942
+1.
+0.987964
+1.
+11
+NC_022932
+mitochondrion Caranx ignobilis (giant trevally)
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Caranx}
+-0.729499
+-0.00428657
+-0.624027
+0.557101
+0.294495
+12
+NC_023458
+mitochondrion Decapterus macrosoma (shortfin scad)
+16545
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Decapterus}
+-0.500978
+0.0586255
+0.558612
+0.672679
+0.302564
+13
+NC_023524
+mitochondrion Alepes kleinii (razorbelly scad)
+16571
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Alepes}
+-0.32839
+-0.011687
+0.0181547
+0.416561
+-0.553471
+14
+NC_023954
+mitochondrion Selar crumenophthalmus (bigeye scad)
+16610
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Selar}
+-0.529815
+-0.0475651
+0.199091
+0.696775
+-1.
+15
+NC_023968
+mitochondrion Carangoides malabaricus (Malabar trevally)
+16561
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Carangoides}
+0.935993
+0.979952
+-0.18244
+0.85264
+0.246523
+16
+NC_024026
+mitochondrion Trachinotus blochii (snubnose pompano)
+16558
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Trachinotus}
+0.894632
+0.903693
+-0.214097
+0.814544
+0.250249
+17
+NC_024184
+mitochondrion Trachinotus carolinus (Florida pompano)
+16544
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Trachinotus}
+-0.77627
+0.000157901
+-0.666467
+0.502219
+0.450341
+18
+NC_024556
+mitochondrion Decapterus maruadsi (Japanese scad)
+16541
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Decapterus}
+-0.614826
+0.0501381
+0.95515
+0.899903
+0.743007
+19
+NC_025565
+mitochondrion Megalaspis cordyla (torpedo scad)
+16566
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Megalaspis}
+-0.52153
+0.0323924
+0.349382
+0.67251
+-0.82195
+20
+NC_025566
+mitochondrion Alectis ciliaris (African pompano)
+16570
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Alectis}
+-0.54291
+-0.00239305
+-0.100932
+0.624471
+-0.417953
+21
+NC_025644
+mitochondrion Carangoides equula (whitefin trevally)
+16588
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Carangaria  Carangiformes  Carangidae  Carangoides}

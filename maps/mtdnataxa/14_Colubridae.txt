@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Colubridae (12)
+-0.966734
+0.98261
+-1.
+0.0578162
+0.0243859
+1
+NC_001945
+mitochondrion Lycodon semicarinatus (colubrid snake)
+17191
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Lycodon}
+-0.88192
+-0.694432
+-0.745598
+-0.757102
+-1.
+2
+NC_009769
+mitochondrion Pantherophis slowinskii (Slowinski's corn snake)
+17189
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Pantherophis}
+-0.929443
+-0.731534
+-0.792392
+-1.
+0.39774
+3
+NC_012770
+mitochondrion Oreocryptophis porphyraceus (Black-banded rat snake)
+17167
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Oreocryptophis}
+-0.494588
+-0.122958
+1.
+0.0448871
+0.0713596
+4
+NC_015793
+mitochondrion Nerodia sipedon (Brown Water Snake)
+17706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Natricinae  Nerodia}
+0.993141
+-0.287438
+-0.912485
+-0.152763
+0.0915194
+5
+NC_016424
+mitochondrion Sibynophis collaris (collared black-headed snake)
+17163
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Sibynophiinae  Sibynophis}
+-0.901902
+-0.679945
+-0.865519
+-0.606861
+-0.575713
+6
+NC_022146
+mitochondrion Oocatochus rufodorsatus (frog-eating rat snake)
+17159
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Oocatochus}
+1.
+-0.28696
+-0.911468
+-0.163633
+0.0928779
+7
+NC_022430
+mitochondrion Sibynophis chinensis (Chinese many-tooth snake)
+17163
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Sibynophiinae  Sibynophis}
+-0.875884
+-0.40996
+-0.778963
+-0.598912
+1.
+8
+NC_024546
+mitochondrion Euprepiophis perlacea (Szechwan rat snake)
+17160
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Euprepiophis}
+-1.
+1.
+-0.985776
+0.058156
+0.0279925
+9
+NC_024559
+mitochondrion Lycodon rufozonatus (red-banded snake)
+17188
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Lycodon}
+-0.883136
+-0.994118
+-0.942499
+0.871827
+0.086233
+10
+NC_024743
+mitochondrion Elaphe bimaculata
+17183
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Elaphe}
+-0.891291
+-0.718009
+-0.797935
+-0.412159
+0.859851
+11
+NC_025275
+mitochondrion Orthriophis taeniurus (beauty snake)
+17183
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Orthriophis}
+-0.886246
+-1.
+-0.883176
+1.
+0.038267
+12
+NC_025643
+mitochondrion Elaphe davidi
+17117
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Lepidosauria  Squamata  Bifurcata  Unidentata  Episquamata  Toxicofera  Serpentes  Colubroidea  Colubridae  Colubrinae  Elaphe}

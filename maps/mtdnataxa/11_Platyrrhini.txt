@@ -1,0 +1,266 @@
+26
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Platyrrhini (26)
+-0.63754
+-0.62972
+-0.903397
+-0.891426
+-0.49056
+1
+NC_002763
+mitochondrion Cebus albifrons (white-fronted capuchin)
+16554
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Cebinae  Cebus}
+0.997698
+-0.245316
+-0.253811
+0.208396
+-0.20549
+2
+NC_012775
+mitochondrion Saimiri sciureus (common squirrel monkey)
+16474
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+-0.641159
+-0.686875
+-1.
+-1.
+-0.554946
+3
+NC_016666
+mitochondrion Sapajus apella (Tufted capuchin)
+16538
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Cebinae  Sapajus}
+1.
+-0.243118
+-0.255989
+0.212343
+-0.202447
+4
+NC_018096
+mitochondrion Saimiri boliviensis boliviensis (Bolivian squirrel
+16473
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+-1.
+0.996596
+-0.305962
+0.206565
+-0.247248
+5
+NC_018115
+mitochondrion Aotus azarai azarai (Azara's night monkey)
+16585
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.935204
+0.78148
+-0.326144
+0.167755
+-0.219721
+6
+NC_018116
+mitochondrion Aotus nancymaae (Ma's night monkey)
+16469
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.934013
+0.828831
+-0.299218
+0.167165
+-0.248398
+7
+NC_019799
+mitochondrion Aotus lemurinus (gray-bellied night monkey)
+16580
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.663685
+-0.440774
+-0.341823
+0.0589859
+-0.175002
+8
+NC_019800
+mitochondrion Ateles belzebuth (white-bellied spider monkey)
+16560
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Atelinae  Ateles}
+-0.811367
+-0.805134
+-0.746343
+0.362773
+0.992111
+9
+NC_019801
+mitochondrion Callicebus donacophilus (Bolivian titi)
+16563
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Callicebinae  Callicebus}
+-0.639616
+-0.540034
+-0.38005
+0.174262
+-0.115274
+10
+NC_021938
+mitochondrion Alouatta caraya (black howler monkey)
+16517
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Alouattinae  Alouatta}
+-0.994232
+1.
+-0.304183
+0.201491
+-0.249644
+11
+NC_021939
+mitochondrion Aotus azarai (Azara's night monkey)
+16555
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Aotidae  Aotus}
+-0.838718
+-0.858439
+1.
+-0.14865
+-0.254452
+12
+NC_021941
+mitochondrion Callithrix geoffroyi (Geoffroy's marmoset)
+16502
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+-0.806625
+-0.66218
+0.55799
+-0.112158
+-0.216343
+13
+NC_021942
+mitochondrion Callithrix pygmaea (pygmy marmoset)
+16520
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}
+-0.87283
+-0.945
+-0.665824
+1.
+-0.995427
+14
+NC_021946
+mitochondrion Chiropotes albinasus
+16706
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Pitheciinae  Chiropotes}
+-0.698325
+-0.395744
+-0.314479
+0.0445306
+-0.125528
+15
+NC_021951
+mitochondrion Lagothrix lagotricha (brown woolly monkey)
+16595
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Atelidae  Atelinae  Lagothrix}
+-0.736375
+-0.533763
+-0.233051
+0.144229
+-0.186882
+16
+NC_021952
+mitochondrion Leontopithecus rosalia (golden lion tamarin)
+16872
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Leontopithecus}
+-0.682554
+-0.684803
+-0.0163548
+0.0781981
+-0.246125
+17
+NC_021960
+mitochondrion Saguinus oedipus (cotton-top tamarin)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Saguinus}
+-0.628357
+-0.649498
+-0.937419
+-0.940413
+-0.532893
+18
+NC_021961
+mitochondrion Sapajus xanthosternos (yellow-breasted capuchin)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Cebinae  Sapajus}
+-0.820232
+-0.821359
+-0.718394
+0.352586
+1.
+19
+NC_021965
+mitochondrion Callicebus cupreus (coppery titi)
+16551
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Callicebinae  Callicebus}
+0.995591
+-0.247723
+-0.25214
+0.211601
+-0.201478
+20
+NC_021966
+mitochondrion Saimiri boliviensis (Bolivian squirrel monkey)
+16471
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+-0.840387
+-0.851444
+-0.662201
+0.790467
+-0.772585
+21
+NC_021967
+mitochondrion Cacajao calvus (Bald Uacari)
+16702
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Pitheciinae  Cacajao}
+0.867021
+-0.290431
+-0.267892
+0.163856
+-0.207013
+22
+NC_023211
+mitochondrion Saimiri oerstedii citrinellus
+16472
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Saimiriinae  Saimiri}
+-0.743599
+-0.621192
+0.00899544
+0.0202386
+-0.17183
+23
+NC_024628
+mitochondrion Callimico goeldii (Goeldi's marmoset)
+16523
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callimico}
+-0.86508
+-1.
+-0.681235
+0.972082
+-1.
+24
+NC_024629
+mitochondrion Chiropotes israelita
+16670
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Pitheciinae  Chiropotes}
+-0.779145
+-0.72553
+-0.60371
+0.29282
+0.597612
+25
+NC_024630
+mitochondrion Callicebus lugens
+16689
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Pitheciidae  Callicebinae  Callicebus}
+-0.857354
+-0.837541
+0.984439
+-0.146048
+-0.251122
+26
+NC_025586
+mitochondrion Callithrix jacchus (white-tufted-ear marmoset)
+16499
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Euarchontoglires  Primates  Haplorrhini  Platyrrhini  Cebidae  Callitrichinae  Callithrix}

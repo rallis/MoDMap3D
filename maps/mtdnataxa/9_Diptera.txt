@@ -1,0 +1,826 @@
+82
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Diptera (82)
+0.273704
+-0.24892
+0.283713
+-0.00362581
+-0.220262
+1
+NC_000857
+mitochondrion Ceratitis capitata (Mediterranean fruit fly)
+15980
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Ceratitis  Ceratitis}
+-0.949577
+-0.478387
+0.991471
+0.627687
+0.270158
+2
+NC_000875
+mitochondrion Anopheles quadrimaculatus A (mosquito)
+15455
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.101199
+-0.518073
+-0.817393
+0.95893
+-0.0185027
+3
+NC_001322
+mitochondrion Drosophila yakuba (fruit fly)
+16019
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+-0.897248
+-0.520659
+0.964823
+0.805992
+0.0490141
+4
+NC_002084
+mitochondrion Anopheles gambiae (African malaria mosquito)
+15363
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.650281
+-0.730677
+0.640598
+0.046622
+-0.00504606
+5
+NC_002660
+mitochondrion Cochliomyia hominivorax (primary screw-worm)
+16022
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Cochliomyia}
+0.878025
+-0.920356
+0.871754
+0.259306
+-0.174541
+6
+NC_002697
+mitochondrion Chrysomya putoria (tropical African latrine blowfly)
+15837
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+0.335825
+0.256576
+0.414023
+-0.160795
+0.301443
+7
+NC_005333
+mitochondrion Bactrocera oleae (olive fruit fly)
+15815
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Daculus}
+0.101319
+-0.559945
+-0.936169
+0.980929
+-0.072651
+8
+NC_005779
+mitochondrion Drosophila mauritiana (fruitfly)
+14964
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+0.0607665
+-0.545566
+-0.99539
+1.
+-0.0142975
+9
+NC_005780
+mitochondrion Drosophila sechellia (fruitfly)
+14950
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+0.0728892
+-0.570752
+-1.
+0.994443
+-0.0455886
+10
+NC_005781
+mitochondrion Drosophila simulans (fruitfly)
+14972
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+0.258774
+-0.527129
+0.250911
+-0.15947
+-0.188573
+11
+NC_006378
+mitochondrion Dermatobia hominis (human botfly)
+16360
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Oestridae  Cuterebrinae  Dermatobia}
+-0.863669
+-0.475094
+0.676063
+0.21122
+-0.447867
+12
+NC_006817
+mitochondrion Aedes albopictus (Asian tiger mosquito)
+16665
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Stegomyia}
+0.374443
+-0.788606
+0.413561
+0.0983757
+-0.35876
+13
+NC_007102
+mitochondrion Haematobia irritans irritans (horn fly)
+16078
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Muscoidea  Muscidae  Haematobia}
+-0.862358
+-0.515898
+0.773355
+0.561008
+-0.120238
+14
+NC_008070
+mitochondrion Anopheles funestus (African malaria mosquito)
+15354
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.777311
+0.985989
+0.742754
+0.680745
+-0.5223
+15
+NC_008748
+mitochondrion Bactrocera dorsalis (oriental fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+-0.172031
+-0.626704
+0.141581
+-0.132177
+-0.607679
+16
+NC_008754
+mitochondrion Simosyrphus grandicornis (common hover fly)
+16141
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Syrphoidea  Syrphidae  Syrphinae  Syrphini  Simosyrphus}
+-0.166225
+-0.215321
+0.342889
+-0.621907
+0.162019
+17
+NC_008755
+mitochondrion Trichophthalma punctata (tangle-veined fly)
+16396
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Nemestrinoidea  Nemestrinidae  Nemestrininae  Trichophthalma  Lichtwardtiomyia}
+-0.203314
+-0.480654
+0.332802
+0.00262298
+-0.157685
+18
+NC_008756
+mitochondrion Cydistomyia duplonotata (horse fly)
+16247
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Tabanomorpha  Tabanoidea  Tabanidae  Cydistomyia}
+0.773794
+-0.910898
+0.69416
+0.176314
+-0.243045
+19
+NC_009733
+mitochondrion Lucilia sericata (common green bottle fly)
+15945
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Luciliinae  Lucilia}
+0.781413
+1.
+0.737324
+0.721502
+-0.524593
+20
+NC_009770
+mitochondrion Bactrocera papayae (papaya fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+0.770911
+0.990323
+0.730923
+0.716823
+-0.511946
+21
+NC_009771
+mitochondrion Bactrocera philippinensis (Philippines fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+0.764567
+0.999373
+0.745
+0.688134
+-0.503524
+22
+NC_009772
+mitochondrion Bactrocera carambolae (carambola fruit fly)
+15915
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+-0.464811
+-0.123226
+0.298532
+-1.
+0.145528
+23
+NC_009809
+mitochondrion Culicoides arakawae (biting midge)
+18135
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Chironomoidea  Ceratopogonidae  Ceratopogoninae  Culicoides  Beltranmyia}
+-0.901969
+-0.459713
+0.815161
+0.346605
+-0.53988
+24
+NC_010241
+mitochondrion Aedes aegypti (yellow fever mosquito)
+16655
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Stegomyia}
+0.0679374
+-0.370753
+-0.286967
+0.216039
+0.173556
+25
+NC_011596
+mitochondrion Drosophila littoralis (fruit fly)
+16017
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila}
+-0.580017
+-0.449238
+0.158399
+-0.641028
+-1.
+26
+NC_013063
+mitochondrion Rhopalomyia pomum (sponge gall midge)
+14503
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Sciaroidea  Cecidomyiidae  Rhopalomyia}
+-0.589332
+-0.424703
+0.169123
+-0.702378
+-0.894951
+27
+NC_013066
+mitochondrion Mayetiola destructor (Hessian fly)
+14759
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Sciaroidea  Cecidomyiidae  Mayetiola}
+0.0907603
+-0.547115
+0.233201
+-0.284881
+-0.294392
+28
+NC_013932
+mitochondrion Hypoderma lineatum (early cattle grub)
+16354
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Oestridae  Hypodermatinae  Hypoderma}
+-0.951247
+-0.575293
+0.936635
+0.868268
+0.0361891
+29
+NC_014275
+mitochondrion Anopheles darlingi (American malaria mosquito)
+15386
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.158358
+-0.321878
+0.0312663
+-0.672
+0.0221375
+30
+NC_014283
+mitochondrion Liriomyza trifolii (celery leafminer)
+16141
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Opomyzoidea  Agromyzidae  Phytomyzinae  Liriomyza}
+0.12207
+0.416664
+0.536862
+-0.57934
+1.
+31
+NC_014402
+mitochondrion Bactrocera minax (Oriental citrus fly)
+16043
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Tetradacus}
+-0.891392
+-0.513122
+0.818216
+0.400794
+-0.793576
+32
+NC_014574
+mitochondrion Culex quinquefasciatus (southern house mosquito)
+15587
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Culicini  Culex  Culex}
+0.515629
+0.658255
+0.605338
+0.262741
+-0.0508347
+33
+NC_014611
+mitochondrion Bactrocera tryoni (Queensland fruit fly)
+15925
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+0.207467
+-0.600117
+-0.0976288
+0.339803
+-0.19871
+34
+NC_014704
+mitochondrion Exorista sorbillans (uzi fly)
+14960
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Tachinidae  Exoristinae  Exoristini  Exorista}
+-0.836161
+-0.548859
+0.762297
+0.39094
+-0.747415
+35
+NC_015079
+mitochondrion Culex pipiens pipiens
+14856
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Culicini  Culex  Culex}
+-0.123072
+-0.349621
+0.147207
+-0.559063
+-0.0207846
+36
+NC_015926
+mitochondrion Liriomyza sativae (vegetable leafminer)
+15551
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Opomyzoidea  Agromyzidae  Phytomyzinae  Liriomyza}
+0.327319
+0.184995
+0.411772
+0.0130417
+0.244031
+37
+NC_016056
+mitochondrion Bactrocera cucurbitae (melon fly)
+15825
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Zeugodacus}
+-0.381364
+-0.29424
+0.33338
+-0.593089
+-0.262911
+38
+NC_016167
+mitochondrion Chironomus tepperi (rice midge)
+15652
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Chironomoidea  Chironomidae  Chironominae  Chironomus}
+-0.424311
+-0.219681
+0.365267
+-0.463912
+0.421742
+39
+NC_016169
+mitochondrion Trichocera bimacula (winter crane fly)
+16140
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Trichoceroidea  Trichoceridae  Trichocera}
+-0.575324
+-0.324736
+0.209126
+-0.705943
+-0.207014
+40
+NC_016173
+mitochondrion Paracladura trichoptera (winter crane fly)
+16143
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Trichoceroidea  Trichoceridae  Paracladura}
+-0.440106
+-0.298139
+0.331272
+-0.459483
+0.100477
+41
+NC_016176
+mitochondrion Sylvicola fenestralis (window gnat)
+16234
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Trichoceroidea  Anisopodidae  Sylvicola}
+-0.34054
+-0.351269
+0.386761
+-0.407963
+0.0838534
+42
+NC_016201
+mitochondrion Ptychoptera sp. ATB-2011 (phantom crane fly)
+15214
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Ptychopteridae  Ptychopterinae  Ptychoptera}
+-0.459004
+-0.30697
+0.353391
+-0.545904
+0.0745548
+43
+NC_016202
+mitochondrion Protoplasa fitchii (primitive crane fly)
+16154
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Tanyderidae  Protoplasa}
+-0.443143
+-0.233065
+0.335778
+-0.898687
+0.0270837
+44
+NC_016203
+mitochondrion Cramptonomyia spenceri (dark-winged fungus gnat)
+16274
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Pachyneuroidea  Pachyneuridae  Cramptonomyia}
+-0.560624
+-0.409246
+0.187266
+-0.628189
+-0.603297
+45
+NC_016204
+mitochondrion Arachnocampa flava (prey-luring glowworm)
+16923
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Sciaroidea  Keroplatidae  Arachnocampinae  Arachnocampa}
+-0.131404
+-0.40048
+0.127355
+-0.483305
+-0.117896
+46
+NC_016713
+mitochondrion Liriomyza bryoniae (tomato leaf miner)
+16183
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Opomyzoidea  Agromyzidae  Phytomyzinae  Liriomyza}
+-0.158239
+-0.376799
+0.138957
+-0.582339
+-0.0466252
+47
+NC_016716
+mitochondrion Liriomyza huidobrensis (pea leafminer)
+16236
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Opomyzoidea  Agromyzidae  Phytomyzinae  Liriomyza}
+-0.227413
+-0.32088
+0.144015
+-0.504097
+-0.373804
+48
+NC_016865
+mitochondrion Fergusonina taylori (eucalypt gall-forming fly)
+16000
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Opomyzoidea  Fergusoninidae  Fergusonina}
+0.607717
+-0.589753
+0.561926
+-0.244989
+0.240943
+49
+NC_017605
+mitochondrion Sarcophaga impatiens (flesh fly)
+15169
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Sarcophagidae  Sarcophaga  Sarcorohdendrofia}
+0.0381569
+-0.657307
+0.150153
+-0.0599565
+-0.622055
+50
+NC_018118
+mitochondrion Elodia flavipalpis (parasitic fly)
+14932
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Tachinidae  Exoristinae  Goniini  Elodia}
+0.0819601
+-0.474679
+-0.375973
+0.431465
+-0.0907164
+51
+NC_018348
+mitochondrion Drosophila pseudoobscura (fruit fly)
+14914
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+0.529166
+0.549118
+0.582017
+0.317036
+-0.137136
+52
+NC_018787
+mitochondrion Bactrocera correcta (guava fruit fly)
+15936
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Bactrocera  Bactrocera}
+0.769871
+-0.884797
+0.696338
+0.141962
+-0.215899
+53
+NC_019573
+mitochondrion Lucilia cuprina (Australian sheep blowfly)
+15952
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Luciliinae  Lucilia}
+0.772186
+-0.882043
+0.724436
+0.215191
+-0.230307
+54
+NC_019631
+mitochondrion Chrysomya albiceps (hairy maggot blowfly)
+15491
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+0.902787
+-0.909284
+0.895159
+0.19598
+-0.14631
+55
+NC_019632
+mitochondrion Chrysomya bezziana (Old World screwworm)
+15236
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+0.98542
+-0.998813
+0.969411
+0.290432
+-0.173848
+56
+NC_019633
+mitochondrion Chrysomya megacephala (oriental latrine fly)
+15273
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+0.728706
+-0.861852
+0.69885
+0.20382
+-0.21616
+57
+NC_019634
+mitochondrion Chrysomya rufifacies (hairy maggot blowfly)
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+1.
+-1.
+0.975273
+0.301586
+-0.18487
+58
+NC_019635
+mitochondrion Chrysomya saffranea (steelblue blowfly)
+15839
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+0.815964
+-0.868594
+0.780234
+0.17571
+-0.0729921
+59
+NC_019636
+mitochondrion Protophormia terraenovae (northern blowfly)
+15170
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Protophormia}
+0.796323
+-0.751362
+0.688104
+-0.0163771
+-0.0880007
+60
+NC_019637
+mitochondrion Lucilia porphyrina (porphyrina blow fly)
+15877
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Luciliinae  Lucilia}
+0.744961
+-0.769274
+0.671831
+0.11965
+-0.239658
+61
+NC_019638
+mitochondrion Hemipyrellia ligurriens (blow fly)
+15938
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Luciliinae  Hemipyrellia}
+0.680757
+-0.805016
+0.60089
+0.161183
+-0.178399
+62
+NC_019639
+mitochondrion Calliphora vicina (urban bluebottle blowfly)
+16112
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Calliphorinae  Calliphora}
+0.097347
+-0.553545
+0.251531
+-0.210758
+-0.424429
+63
+NC_019640
+mitochondrion Rutilia goerlingiana (parasitic fly)
+15331
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Tachinidae  Dexiinae  Rutiliini  Rutilia}
+-0.188186
+-0.350074
+0.131875
+-0.340029
+-0.561521
+64
+NC_020463
+mitochondrion Procecidochares utilis
+15922
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Tephritoidea  Tephritidae  Procecidochares}
+-0.994213
+-0.564752
+1.
+0.918698
+0.236662
+65
+NC_020662
+mitochondrion Anopheles albitarsis
+15413
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-1.
+-0.555147
+0.974083
+0.94691
+0.202089
+66
+NC_020663
+mitochondrion Anopheles deaneorum
+15424
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.905853
+-0.552693
+0.928514
+0.73555
+0.0633079
+67
+NC_020768
+mitochondrion Anopheles cracens
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.961412
+-0.512121
+0.882708
+0.764605
+0.149055
+68
+NC_020769
+mitochondrion Anopheles hinesorum
+15336
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.95977
+-0.483158
+0.92925
+0.705756
+0.122384
+69
+NC_020770
+mitochondrion Anopheles farauti No. 4
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.621937
+-0.678424
+0.585088
+-0.24921
+0.210174
+70
+NC_023532
+mitochondrion Sarcophaga peregrina
+14922
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Sarcophagidae  Sarcophaga  Boettcherisca}
+-0.0349281
+-0.429016
+0.275693
+-0.296539
+-0.0471403
+71
+NC_023794
+mitochondrion Megaselia scalaris
+15599
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Platypezoidea  Phoridae  Megaseliini  Megaselia}
+0.099319
+-0.518587
+-0.818018
+0.962475
+-0.0196624
+72
+NC_023825
+mitochondrion Drosophila santomea
+16022
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+0.0378541
+-0.556782
+-0.789914
+0.8734
+-0.132171
+73
+NC_024511
+mitochondrion Drosophila melanogaster (fruit fly)
+19524
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila  Sophophora}
+-0.928295
+-0.513079
+0.825267
+0.559129
+-0.0052147
+74
+NC_024740
+mitochondrion Anopheles cruzii
+15449
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+0.465949
+-0.762079
+0.472824
+0.100439
+-0.328646
+75
+NC_024855
+mitochondrion Musca domestica (house fly)
+16108
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Muscoidea  Muscidae  Musca}
+0.537919
+-0.768212
+0.456212
+0.263688
+-0.158938
+76
+NC_024856
+mitochondrion Scathophaga stercoraria (yellow dung fly)
+16223
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Muscoidea  Scathophagidae  Scathophaginae  Scathophaga}
+0.998568
+-0.979233
+0.962935
+0.247885
+-0.130278
+77
+NC_025338
+mitochondrion Chrysomya pinguis
+15838
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Calliphoridae  Chrysomyinae  Chrysomya}
+-0.818564
+-0.518998
+0.639836
+0.313912
+-0.542488
+78
+NC_025473
+mitochondrion Aedes notoscriptus
+15846
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Finlaya}
+0.632543
+-0.701956
+0.58988
+-0.150615
+0.0507329
+79
+NC_025573
+mitochondrion Sarcophaga similis
+15158
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Sarcophagidae  Sarcophaga  Pandelleisca}
+0.620144
+-0.738065
+0.538457
+-0.142683
+-0.0327292
+80
+NC_025574
+mitochondrion Sarcophaga portschinskyi
+14929
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Sarcophagidae  Sarcophaga  Parasarcophaga}
+0.0690747
+-0.46172
+-0.289613
+0.403394
+-0.0615885
+81
+NC_025936
+mitochondrion Drosophila incompta
+15640
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Ephydroidea  Drosophilidae  Drosophila}
+0.636662
+-0.683438
+0.531905
+-0.136331
+0.0877973
+82
+NC_025944
+mitochondrion Sarcophaga africa (Bercaea africa)
+15144
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Brachycera  Muscomorpha  Oestroidea  Sarcophagidae  Sarcophaga  Bercaea}

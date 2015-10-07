@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Teuthida (11)
+-1.
+0.728572
+-0.00288818
+-0.283607
+-1.
+1
+NC_002507
+mitochondrion Heterololigo bleekeri
+17211
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Heterololigo}
+-0.107472
+0.0578857
+-0.596393
+0.0854704
+-0.65292
+2
+NC_006354
+mitochondrion Todarodes pacificus (Japanese flying squid)
+20254
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Todarodes}
+-0.421371
+-1.
+0.802932
+-0.970341
+-0.75369
+3
+NC_007893
+mitochondrion Watasenia scintillans (sparkling enope)
+20093
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Enoploteuthidae  Watasenia}
+-0.75673
+0.525168
+-0.0759795
+-0.562819
+1.
+4
+NC_007894
+mitochondrion Sepioteuthis lessoniana (reef squid)
+16631
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Sepioteuthis}
+0.377849
+0.225992
+-0.726159
+-0.306987
+-0.754205
+5
+NC_009734
+mitochondrion Dosidicus gigas (jumbo flying squid)
+20324
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Dosidicus}
+0.50292
+0.217136
+-1.
+-1.
+-0.580784
+6
+NC_010636
+mitochondrion Sthenoteuthis oualaniensis (purpleback squid)
+20306
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Sthenoteuthis}
+-0.403006
+-0.10849
+-0.162642
+1.
+-0.357141
+7
+NC_011581
+mitochondrion Architeuthis dux (giant squid)
+20331
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Architeuthidae  Architeuthis}
+-0.901774
+0.819511
+-0.0487161
+-0.574068
+-0.957116
+8
+NC_012840
+mitochondrion Doryteuthis opalescens (California market squid)
+17387
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Doryteuthis}
+-0.492783
+-0.100617
+-0.252568
+0.674115
+-0.637554
+9
+NC_016423
+mitochondrion Bathyteuthis abyssicola (deepsea squid)
+20075
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Bathyteuthidae  Bathyteuthis}
+-0.963644
+0.767639
+-0.0932137
+-0.291484
+-0.999394
+10
+NC_017746
+mitochondrion Uroteuthis edulis (swordtip squid)
+17360
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Myopsina  Loliginidae  Uroteuthis}
+1.
+1.
+1.
+0.0684144
+-0.543345
+11
+NC_020348
+mitochondrion Ommastrephes bartramii (red flying squid)
+20308
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Cephalopoda  Coleoidea  Neocoleoidea  Decapodiformes  Teuthida  Oegopsina  Ommastrephidae  Ommastrephes}

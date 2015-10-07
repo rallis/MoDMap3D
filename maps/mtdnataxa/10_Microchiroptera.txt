@@ -1,0 +1,366 @@
+36
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Microchiroptera (36)
+-0.220855
+-0.99675
+0.370803
+1.
+-0.282774
+1
+NC_002009
+mitochondrion Artibeus jamaicensis (Jamaican fruit-eating bat)
+16651
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Stenodermatinae  Artibeus}
+-0.628644
+0.459115
+0.400571
+-0.142619
+0.209621
+2
+NC_002626
+mitochondrion Chalinolobus tuberculatus (New Zealand long-tailed
+16818
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Chalinolobus}
+0.944559
+0.969212
+0.364039
+0.0356229
+-0.0304231
+3
+NC_005433
+mitochondrion Rhinolophus monoceros (Formosan Lesser Horseshoe Bat)
+16851
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Rhinolophinae  Rhinolophus}
+0.939362
+0.968664
+0.365153
+0.0338482
+-0.0281456
+4
+NC_005434
+mitochondrion Rhinolophus pumilus (Okinawa least horseshoe bat)
+16869
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Rhinolophinae  Rhinolophus}
+-0.661017
+0.45831
+0.401229
+-0.0860215
+0.0935178
+5
+NC_005436
+mitochondrion Pipistrellus abramus (Japanese house bat)
+16976
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Pipistrellus}
+-0.128211
+-0.240141
+0.364838
+-0.218227
+0.112555
+6
+NC_006925
+mitochondrion Mystacina tuberculata (New Zealand lesser
+16784
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Mystacinidae  Mystacina}
+0.706206
+0.753699
+0.4375
+-0.0390497
+-0.0269458
+7
+NC_011304
+mitochondrion Rhinolophus formosae (Formosan woolly horseshoe bat)
+16915
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Rhinolophinae  Rhinolophus}
+-0.643326
+0.495375
+0.488823
+-0.193503
+0.473294
+8
+NC_015484
+mitochondrion Plecotus auritus (brown big-eared bat)
+16900
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Plecotus}
+-0.784756
+0.50723
+0.861421
+-0.0532776
+-0.0696231
+9
+NC_015828
+mitochondrion Myotis formosus (Hodgson's bat)
+17159
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+0.999167
+1.
+0.390184
+0.0172437
+0.257215
+10
+NC_016191
+mitochondrion Rhinolophus ferrumequinum korai (Korean greater
+16839
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Rhinolophinae  Rhinolophus}
+-0.2235
+-1.
+0.377921
+0.985927
+-0.288127
+11
+NC_016871
+mitochondrion Artibeus lituratus (great fruit-eating bat)
+16709
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Stenodermatinae  Artibeus}
+-0.544946
+0.35288
+0.456922
+-0.526263
+0.652576
+12
+NC_016872
+mitochondrion Plecotus rafinesquii (Rafinesque's big-eared bat)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Plecotus}
+-0.714562
+0.447902
+0.477864
+-0.125983
+0.259005
+13
+NC_016873
+mitochondrion Lasiurus borealis (red bat)
+17048
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Lasiurus}
+0.704071
+0.691497
+0.412326
+-0.0192256
+0.00879262
+14
+NC_018539
+mitochondrion Rhinolophus luctus (Woolly horseshoe bat)
+16775
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Rhinolophinae  Rhinolophus}
+0.248712
+0.267433
+0.380366
+-0.122878
+0.1514
+15
+NC_018540
+mitochondrion Hipposideros armiger (great roundleaf bat)
+16784
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Hipposiderinae  Hipposideros}
+1.
+0.9982
+0.389869
+0.0205199
+0.257763
+16
+NC_020326
+mitochondrion Rhinolophus ferrumequinum quelpartis (Jeju Island
+16870
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Rhinolophidae  Rhinolophinae  Rhinolophus}
+-0.629133
+0.37265
+0.593136
+-0.158908
+0.38116
+17
+NC_021119
+mitochondrion Murina ussuriensis (Ussurian tube-nosed bat)
+17285
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Murina}
+0.0410707
+-0.637398
+0.353698
+-0.349087
+0.188588
+18
+NC_022419
+mitochondrion Micronycteris megalotis (little big-eared bat)
+16589
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Phyllostominae  Micronycteris}
+-0.133849
+-0.726813
+0.321321
+-0.00816199
+0.278043
+19
+NC_022420
+mitochondrion Anoura caudifer (tailed tailless bat)
+16546
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Glossophaginae  Anoura}
+-0.0518438
+-0.750265
+0.308868
+-0.0688788
+0.339552
+20
+NC_022421
+mitochondrion Brachyphylla cavernarum (Antillean fruit-eating bat)
+16785
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Brachyphyllinae  Brachyphylla}
+-0.0717807
+-0.785998
+0.29904
+-0.011994
+0.284818
+21
+NC_022422
+mitochondrion Carollia perspicillata (Seba's short-tailed bat)
+16711
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Carolliinae  Carollia}
+0.0350561
+-0.490362
+0.215201
+-0.568342
+1.
+22
+NC_022423
+mitochondrion Desmodus rotundus (common vampire bat)
+16659
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Desmodontinae  Desmodus}
+-0.0000235631
+-0.811346
+0.3531
+-0.225871
+0.307193
+23
+NC_022424
+mitochondrion Lophostoma silvicolum
+16666
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Phyllostominae  Lophostoma}
+0.00628209
+-0.610841
+0.321758
+-0.963501
+-0.956504
+24
+NC_022425
+mitochondrion Pteronotus rubiginosus
+16616
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Mormoopidae  Pteronotus}
+-0.258626
+-0.549804
+0.32763
+0.146093
+0.100588
+25
+NC_022426
+mitochondrion Rhinophylla pumilio
+16671
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Carolliinae  Rhinophylla}
+0.0270796
+-0.82368
+0.281914
+-0.0670533
+0.303905
+26
+NC_022427
+mitochondrion Sturnira tildae (Tilda yellow-shouldered bat)
+16637
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Stenodermatinae  Sturnira}
+-0.0806307
+-0.733236
+0.37842
+-0.115054
+0.317028
+27
+NC_022428
+mitochondrion Tonatia saurophila (stripe-headed round-eared bat)
+16629
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Phyllostominae  Tonatia}
+-0.0112948
+-0.764467
+0.152737
+-0.352016
+0.838343
+28
+NC_022429
+mitochondrion Vampyrum spectrum
+16637
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Phyllostomidae  Phyllostominae  Vampyrum}
+-0.988
+0.945037
+-1.
+0.000874164
+-0.0690045
+29
+NC_022474
+mitochondrion Eptesicus serotinus (Common serotine)
+16673
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Eptesicus}
+-0.889403
+0.603539
+1.
+-0.0380946
+-0.119356
+30
+NC_022694
+mitochondrion Myotis macrodactylus
+17562
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+-0.881948
+0.591484
+0.936638
+0.0180285
+-0.0296425
+31
+NC_022698
+mitochondrion Myotis ikonnikovi
+16584
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+-0.0326594
+-0.629852
+0.355252
+-1.
+-1.
+32
+NC_023368
+mitochondrion Pteronotus parnellii (Parnell's mustached bat)
+16564
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Mormoopidae  Pteronotus}
+-1.
+0.939642
+-0.999215
+0.00503758
+-0.0529653
+33
+NC_024558
+mitochondrion Vespertilio sinensis (Vespertilio superans)
+16971
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Vespertilio}
+-0.820443
+0.543027
+0.895661
+-0.0894066
+0.0932387
+34
+NC_025308
+mitochondrion Myotis brandtii (Brandt's bat)
+17470
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+-0.848953
+0.640346
+0.957274
+-0.00260882
+-0.0737231
+35
+NC_025568
+mitochondrion Myotis davidii
+17531
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Myotis}
+-0.628164
+0.405963
+0.592341
+-0.220973
+0.493949
+36
+NC_025949
+mitochondrion Murina leucogaster (Greater tube-nosed bat)
+16823
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Mammalia  Eutheria  Laurasiatheria  Chiroptera  Microchiroptera  Vespertilionidae  Murina}

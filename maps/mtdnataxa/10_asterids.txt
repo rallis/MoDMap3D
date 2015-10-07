@@ -1,0 +1,126 @@
+12
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+asterids (12)
+-0.228319
+0.935789
+0.292614
+1.
+0.381014
+1
+NC_006581
+mitochondrion Nicotiana tabacum (common tobacco)
+430597
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Nicotianoideae  Nicotianeae  Nicotiana}
+-0.753577
+-0.115051
+0.222612
+-0.189236
+0.526537
+2
+NC_016741
+mitochondrion Boea hygrometrica
+510519
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Gesneriaceae  Didymocarpoideae  Trichosporeae  Loxocarpinae  Boea}
+1.
+0.58433
+0.191916
+-1.
+1.
+3
+NC_017855
+mitochondrion Daucus carota subsp. sativus
+281132
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Apiales  Apiaceae  Apioideae  Scandiceae  Daucinae  Daucus}
+-0.545496
+-0.0474947
+-0.15003
+0.0529021
+0.626251
+4
+NC_018041
+mitochondrion Erythranthe guttata (spotted monkey flower)
+525671
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Phrymaceae  Erythranthe}
+-1.
+0.0980076
+-0.558871
+-0.433767
+0.570711
+5
+NC_022796
+mitochondrion Asclepias syriaca
+682498
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Gentianales  Apocynaceae  Asclepiadoideae  Asclepiadeae  Asclepiadinae  Asclepias}
+0.0517928
+-1.
+1.
+0.445002
+0.258337
+6
+NC_023103
+mitochondrion Ajuga reptans (bugle)
+352069
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Lamiaceae  Teucrioideae  Ajuga}
+-0.487857
+0.0175325
+0.835288
+-0.1474
+0.637217
+7
+NC_023209
+mitochondrion Salvia miltiorrhiza
+499236
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Lamiales  Lamiaceae  Nepetoideae  Mentheae  Salvia}
+0.621621
+-0.247347
+-1.
+0.671813
+-0.21163
+8
+NC_023337
+mitochondrion Helianthus annuus (common sunflower)
+300945
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Asterales  Asteraceae  Asteroideae  Heliantheae alliance  Heliantheae  Helianthus}
+-0.290197
+0.363461
+0.573298
+-0.702602
+-1.
+9
+NC_023338
+mitochondrion Vaccinium macrocarpon
+459678
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  Ericales  Ericaceae  Vaccinioideae  Vaccinieae  Vaccinium}
+-0.732629
+-0.0495521
+-0.540535
+-0.274518
+0.411787
+10
+NC_024293
+mitochondrion Rhazya stricta
+548608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Gentianales  Apocynaceae  Rauvolfioideae  Amsonieae  Rhazya}
+-0.498533
+1.
+0.37279
+0.557505
+0.177719
+11
+NC_024624
+mitochondrion Capsicum annuum
+511530
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  lamiids  Solanales  Solanaceae  Solanoideae  Capsiceae  Capsicum}
+-0.340821
+0.197244
+-0.0627929
+-0.630963
+-0.315989
+12
+NC_025248
+mitochondrion Panax ginseng
+464680
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Tracheophyta  Spermatophyta  Magnoliophyta  eudicotyledons  Gunneridae  Pentapetalae  asterids  campanulids  Apiales  Araliaceae  Panax}

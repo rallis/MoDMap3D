@@ -1,0 +1,266 @@
+26
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Nematocera (26)
+-0.744129
+-0.877714
+-0.265001
+-0.675771
+-0.157403
+1
+NC_000875
+mitochondrion Anopheles quadrimaculatus A (mosquito)
+15455
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.846763
+-0.711032
+-0.130768
+-0.669356
+-0.150201
+2
+NC_002084
+mitochondrion Anopheles gambiae (African malaria mosquito)
+15363
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.298899
+0.16723
+-0.241411
+-0.629493
+-0.190051
+3
+NC_006817
+mitochondrion Aedes albopictus (Asian tiger mosquito)
+16665
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Stegomyia}
+-0.590048
+-0.68652
+0.0531944
+-0.707531
+-0.147897
+4
+NC_008070
+mitochondrion Anopheles funestus (African malaria mosquito)
+15354
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+1.
+-0.91261
+-0.223634
+1.
+-0.152645
+5
+NC_009809
+mitochondrion Culicoides arakawae (biting midge)
+18135
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Chironomoidea  Ceratopogonidae  Ceratopogoninae  Culicoides  Beltranmyia}
+-0.450645
+0.574154
+-0.444904
+-0.531211
+-0.179886
+6
+NC_010241
+mitochondrion Aedes aegypti (yellow fever mosquito)
+16655
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Stegomyia}
+0.647618
+-0.232313
+0.957143
+-0.864725
+-0.285366
+7
+NC_013063
+mitochondrion Rhopalomyia pomum (sponge gall midge)
+14503
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Sciaroidea  Cecidomyiidae  Rhopalomyia}
+0.705807
+-0.295111
+1.
+-0.893308
+-0.280593
+8
+NC_013066
+mitochondrion Mayetiola destructor (Hessian fly)
+14759
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Sciaroidea  Cecidomyiidae  Mayetiola}
+-0.918039
+-0.796928
+-0.0400624
+-0.681315
+-0.160308
+9
+NC_014275
+mitochondrion Anopheles darlingi (American malaria mosquito)
+15386
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.504884
+1.
+-0.468687
+-0.508784
+-0.143781
+10
+NC_014574
+mitochondrion Culex quinquefasciatus (southern house mosquito)
+15587
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Culicini  Culex  Culex}
+-0.460356
+0.763844
+-0.377526
+-0.566104
+-0.157153
+11
+NC_015079
+mitochondrion Culex pipiens pipiens
+14856
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Culicini  Culex  Culex}
+0.67745
+-0.502862
+-0.109214
+-0.71441
+-0.165949
+12
+NC_016167
+mitochondrion Chironomus tepperi (rice midge)
+15652
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Chironomoidea  Chironomidae  Chironominae  Chironomus}
+0.597448
+-0.793342
+-1.
+-0.901721
+-1.
+13
+NC_016169
+mitochondrion Trichocera bimacula (winter crane fly)
+16140
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Trichoceroidea  Trichoceridae  Trichocera}
+0.705622
+-0.641428
+-0.133049
+-0.966651
+-0.329412
+14
+NC_016173
+mitochondrion Paracladura trichoptera (winter crane fly)
+16143
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Trichoceroidea  Trichoceridae  Paracladura}
+0.601935
+-0.572072
+-0.832401
+-0.957144
+-0.386298
+15
+NC_016176
+mitochondrion Sylvicola fenestralis (window gnat)
+16234
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Trichoceroidea  Anisopodidae  Sylvicola}
+0.509714
+-0.663861
+-0.612704
+-0.925127
+-0.314325
+16
+NC_016201
+mitochondrion Ptychoptera sp. ATB-2011 (phantom crane fly)
+15214
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Ptychopteridae  Ptychopterinae  Ptychoptera}
+0.621335
+-0.685532
+-0.64564
+-0.842563
+-0.0367163
+17
+NC_016202
+mitochondrion Protoplasa fitchii (primitive crane fly)
+16154
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Tanyderidae  Protoplasa}
+0.903846
+-0.624318
+-0.643776
+-1.
+1.
+18
+NC_016203
+mitochondrion Cramptonomyia spenceri (dark-winged fungus gnat)
+16274
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Pachyneuroidea  Pachyneuridae  Cramptonomyia}
+0.664638
+-0.3093
+0.160377
+-0.774996
+-0.175823
+19
+NC_016204
+mitochondrion Arachnocampa flava (prey-luring glowworm)
+16923
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Sciaroidea  Keroplatidae  Arachnocampinae  Arachnocampa}
+-0.988055
+-0.994252
+-0.120547
+-0.636338
+-0.223076
+20
+NC_020662
+mitochondrion Anopheles albitarsis
+15413
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-1.
+-1.
+-0.0976078
+-0.622732
+-0.193094
+21
+NC_020663
+mitochondrion Anopheles deaneorum
+15424
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.791029
+-0.763373
+-0.164524
+-0.684969
+-0.138524
+22
+NC_020768
+mitochondrion Anopheles cracens
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.787998
+-0.836694
+-0.220484
+-0.681509
+-0.0979778
+23
+NC_020769
+mitochondrion Anopheles hinesorum
+15336
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.751617
+-0.89381
+-0.197169
+-0.695093
+-0.0295678
+24
+NC_020770
+mitochondrion Anopheles farauti No. 4
+15412
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.613752
+-0.678221
+-0.170883
+-0.652951
+-0.110688
+25
+NC_024740
+mitochondrion Anopheles cruzii
+15449
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Anophelinae  Anopheles}
+-0.304157
+0.14991
+-0.210942
+-0.630639
+-0.213482
+26
+NC_025473
+mitochondrion Aedes notoscriptus
+15846
+{Eukaryota  Metazoa  Ecdysozoa  Arthropoda  Hexapoda  Insecta  Pterygota  Neoptera  Endopterygota  Diptera  Nematocera  Culicoidea  Culicidae  Culicinae  Aedini  Aedes  Finlaya}

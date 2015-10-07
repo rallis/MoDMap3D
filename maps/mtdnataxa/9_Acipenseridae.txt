@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Acipenseridae (11)
+0.016153
+1.
+-0.488133
+-0.00210258
+-0.677341
+1
+NC_004420
+mitochondrion Scaphirhynchus cf. albus (pallid sturgeon)
+16493
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Scaphirhynchus}
+0.959308
+-0.991046
+-0.276222
+0.18538
+-0.893877
+2
+NC_004743
+mitochondrion Acipenser transmontanus (white sturgeon)
+16692
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+-0.480692
+-0.68406
+-0.112228
+1.
+0.778639
+3
+NC_005252
+mitochondrion Huso huso (beluga)
+16760
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Huso}
+0.904692
+-0.82698
+-0.70038
+-1.
+1.
+4
+NC_005451
+mitochondrion Acipenser dabryanus (Yangtze sturgeon)
+16438
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+-0.525455
+-0.815286
+1.
+-0.841048
+-0.905357
+5
+NC_005795
+mitochondrion Acipenser stellatus (stellate sturgeon)
+16537
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+-0.975279
+-0.942743
+-0.918995
+-0.130783
+-0.641747
+6
+NC_012576
+mitochondrion Acipenser gueldenstaedtii (Russian sturgeon)
+16594
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+-1.
+-0.968521
+-1.
+-0.0937578
+-0.727039
+7
+NC_012646
+mitochondrion Acipenser sinensis (Chinese sturgeon)
+16682
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+-0.96112
+-0.919366
+-0.769174
+-0.027124
+-0.660148
+8
+NC_017603
+mitochondrion Acipenser baerii (Siberian sturgeon)
+16763
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+1.
+-1.
+-0.326765
+0.242601
+-1.
+9
+NC_021757
+mitochondrion Acipenser schrenckii (Amur sturgeon)
+16684
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+-0.653902
+-0.767432
+0.425818
+0.60365
+0.118435
+10
+NC_022453
+mitochondrion Acipenser ruthenus (sterlet)
+16790
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Acipenser}
+0.783423
+-0.876982
+-0.442084
+0.778316
+-0.85418
+11
+NC_023837
+mitochondrion Huso dauricus
+16691
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Chondrostei  Acipenseriformes  Acipenseridae  Huso}

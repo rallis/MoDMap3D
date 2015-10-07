@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Asterozoa (15)
+0.375977
+0.106862
+0.00025996
+0.378296
+0.553265
+1
+NC_001627
+mitochondrion Patiria pectinifera (starfish)
+16260
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Valvatida  Asterinidae  Patiria}
+-0.0153106
+0.907254
+0.0253282
+0.257387
+-0.894112
+2
+NC_004610
+mitochondrion Pisaster ochraceus (ochreous starfish)
+14837
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Forcipulatacea  Forcipulatida  Asteriidae  Pisaster}
+-0.781158
+-0.354892
+-0.977176
+0.988931
+-0.626146
+3
+NC_005334
+mitochondrion Ophiopholis aculeata (daisy brittle star)
+16472
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Gnathophiurina  Gnathophiuridea  Ophiactidae  Ophiopholis}
+-0.948048
+-0.277612
+1.
+-0.0751281
+-0.119808
+4
+NC_005930
+mitochondrion Ophiura lutkeni (grey brittle star)
+17329
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Chilophiurina  Ophiuridae  Ophiurinae  Ophiura}
+0.166474
+0.339526
+-0.0271183
+0.455565
+1.
+5
+NC_006664
+mitochondrion Luidia quinaria (seastar)
+16524
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Paxillosida  Luidiidae  Luidia}
+0.0646617
+0.989622
+-0.0024519
+0.083842
+-1.
+6
+NC_006665
+mitochondrion Asterias amurensis (Northern Pacific seastar)
+16427
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Forcipulatacea  Forcipulatida  Asteriidae  Asterias}
+0.168813
+0.302562
+-0.0424445
+0.563107
+0.851843
+7
+NC_006666
+mitochondrion Astropecten polyacanthus (seastar)
+16304
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Paxillosida  Astropectinidae  Astropecten}
+1.
+-1.
+0.154896
+0.287722
+-0.718532
+8
+NC_007788
+mitochondrion Acanthaster planci (crown of thorns starfish)
+16234
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Valvatida  Acanthasteridae  Acanthaster}
+0.982167
+-0.986357
+0.212693
+0.315705
+-0.751917
+9
+NC_007789
+mitochondrion Acanthaster brevispinus (starfish)
+16254
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Valvatacea  Valvatida  Acanthasteridae  Acanthaster}
+-1.
+-0.22587
+0.977703
+0.131419
+-0.318509
+10
+NC_010691
+mitochondrion Ophiura albida (brittlestar)
+16580
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Chilophiurina  Ophiuridae  Ophiurinae  Ophiura}
+-0.763105
+-0.540506
+-1.
+-1.
+-0.0228667
+11
+NC_013874
+mitochondrion Ophiocomina nigra (black brittle star)
+17383
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Gnathophiurina  Ophiocomidea  Ophiocomidae  Ophiocomina}
+-0.803979
+-0.204908
+-0.103926
+1.
+-0.538655
+12
+NC_013876
+mitochondrion Amphipholis squamata (dwarf brittle star)
+16907
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Gnathophiurina  Gnathophiuridea  Amphiuridae  Amphipholis}
+-0.823848
+-0.16032
+0.284479
+0.519244
+-0.316575
+13
+NC_013878
+mitochondrion Astrospartus mediterraneus
+16238
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Euryalida  Gorgonocephalidae  Astrospartus}
+-0.831684
+-0.223349
+-0.180871
+0.681894
+-0.401304
+14
+NC_023254
+mitochondrion Ophiacantha linea
+15845
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Ophiuroidea  Ophiuridea  Ophiurida  Ophiurina  Ophiacanthidae  Ophiacantha}
+0.175887
+1.
+-0.0448275
+0.0749354
+-0.816222
+15
+NC_025766
+mitochondrion Aphelasterias japonica
+16215
+{Eukaryota  Metazoa  Echinodermata  Eleutherozoa  Asterozoa  Asteroidea  Forcipulatacea  Forcipulatida  Asteriidae  Aphelasterias}

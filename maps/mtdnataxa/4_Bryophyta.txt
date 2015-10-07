@@ -1,0 +1,156 @@
+15
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Bryophyta (15)
+0.456449
+-0.532511
+-0.982305
+0.465031
+-0.137085
+1
+NC_007945
+mitochondrion Physcomitrella patens
+105340
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Funariidae  Funariales  Funariaceae  Physcomitrella}
+0.999421
+-0.106905
+0.157641
+-0.130583
+-0.0388959
+2
+NC_016121
+mitochondrion Anomodon rugelii
+104239
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Anomodontaceae  Anomodon}
+1.
+-0.105816
+0.154238
+-0.129037
+-0.0375214
+3
+NC_021931
+mitochondrion Anomodon attenuatus
+104252
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Anomodontaceae  Anomodon}
+-0.510932
+-0.692964
+-0.271466
+-1.
+-1.
+4
+NC_024290
+mitochondrion Tetraphis pellucida
+107730
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Tetraphidopsida  Tetraphidales  Tetraphidaceae  Tetraphis}
+0.832812
+-0.0919637
+0.348434
+-0.167002
+-0.132582
+5
+NC_024514
+mitochondrion Ptychomnion cygnisetum
+104480
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Ptychomniales  Ptychomniaceae  Ptychomnion}
+0.985347
+-0.113088
+0.141639
+-0.120271
+-0.0175466
+6
+NC_024515
+mitochondrion Climacium americanum
+105048
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Climaciaceae  Climacium}
+0.988205
+-0.114391
+0.153145
+-0.108298
+-0.0326421
+7
+NC_024516
+mitochondrion Hypnum imponens
+103830
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Hypnanae  Hypnales  Hypnaceae  Hypnum}
+0.793896
+-0.260738
+-0.383073
+0.219128
+-0.109851
+8
+NC_024517
+mitochondrion Ulota hutchinsiae
+104608
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Ulota}
+-0.570356
+-1.
+1.
+1.
+-0.0390715
+9
+NC_024518
+mitochondrion Buxbaumia aphylla
+100725
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Buxbaumiidae  Buxbaumiales  Buxbaumiaceae  Buxbaumia}
+0.700298
+-0.296719
+-0.499717
+0.240205
+-0.0721947
+10
+NC_024519
+mitochondrion Bartramia pomiformis
+106198
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Bartramiales  Bartramiaceae  Bartramia}
+-0.511291
+-0.55312
+-0.470212
+-0.758307
+1.
+11
+NC_024520
+mitochondrion Atrichum angustatum
+115146
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Polytrichopsida  Polytrichales  Polytrichaceae  Atrichum}
+-1.
+1.
+-0.276596
+0.417841
+-0.168946
+12
+NC_024521
+mitochondrion Sphagnum palustre
+141276
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Sphagnophytina  Sphagnopsida  Sphagnales  Sphagnaceae  Sphagnum}
+0.792173
+-0.258476
+-0.377516
+0.223406
+-0.117495
+13
+NC_024522
+mitochondrion Orthotrichum stellatum
+104131
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Bryidae  Bryanae  Orthotrichales  Orthotrichaceae  Orthotrichum}
+0.428656
+-0.531587
+-1.
+0.505002
+-0.134473
+14
+NC_024523
+mitochondrion Funaria hygrometrica
+109586
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Funariidae  Funariales  Funariaceae  Funaria}
+0.438595
+-0.461086
+-0.857891
+0.415212
+-0.129884
+15
+NC_025931
+mitochondrion Codriophorus laevigatus
+106809
+{Eukaryota  Viridiplantae  Streptophyta  Embryophyta  Bryophyta  Bryophytina  Bryopsida  Dicranidae  Grimmiales  Grimmiaceae  Codriophorus}

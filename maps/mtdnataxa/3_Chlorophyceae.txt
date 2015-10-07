@@ -1,0 +1,216 @@
+21
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Chlorophyceae (21)
+-0.197127
+-1.
+0.122624
+1.
+-0.296593
+1
+NC_001638
+mitochondrion Chlamydomonas reinhardtii
+15758
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Chlamydomonas}
+-0.250443
+-0.381863
+0.779166
+-0.720996
+0.203966
+2
+NC_001872
+mitochondrion Chlamydomonas moewusii
+22897
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Chlamydomonas}
+-0.729834
+0.595609
+0.751039
+0.29253
+0.341749
+3
+NC_002254
+mitochondrion Acutodesmus obliquus
+42781
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Scenedesmaceae  Acutodesmus}
+0.108514
+0.340672
+-0.264635
+-0.305161
+-1.
+4
+NC_010357
+mitochondrion Polytomella capuana
+12998
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+-0.358447
+-0.388485
+0.827803
+-1.
+0.323468
+5
+NC_012930
+mitochondrion Dunaliella salina
+28331
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Dunaliellaceae  Dunaliella}
+0.619221
+0.817362
+0.46039
+0.30747
+0.111739
+6
+NC_013472
+mitochondrion Polytomella sp. SAG 63-10
+13004
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+0.672239
+0.858272
+0.465772
+0.273232
+0.080723
+7
+NC_016916
+mitochondrion Polytomella parva
+13135
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+1.
+0.800002
+0.465765
+0.189696
+0.0328544
+8
+NC_016917
+mitochondrion Polytomella parva
+3018
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+0.950266
+0.757206
+0.470156
+0.196838
+0.0779564
+9
+NC_016918
+mitochondrion Polytomella sp. SAG 63-10
+3079
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+-0.090695
+-0.948282
+0.43378
+0.707964
+-0.0322901
+10
+NC_020437
+mitochondrion Gonium pectorale
+15993
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Volvocaceae  Gonium}
+-0.294469
+-0.84681
+0.484298
+0.431981
+-0.166186
+11
+NC_021108
+mitochondrion Pleodorina starrii
+20375
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Volvocaceae  Pleodorina}
+-0.817725
+0.692034
+0.192405
+-0.177916
+-0.688451
+12
+NC_022862
+mitochondrion Microspora stagnorum
+87405
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Microsporaceae  Microspora}
+-0.192775
+-0.177666
+0.594723
+-0.291097
+-0.253542
+13
+NC_023091
+mitochondrion Polytomella magna
+24370
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Chlamydomonadales  Chlamydomonadaceae  Polytomella}
+-0.646004
+0.44982
+-1.
+-0.242526
+0.0405204
+14
+NC_024755
+mitochondrion Bracteacoccus aerius
+47158
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Sphaeropleales incertae sedis  Bracteacoccus}
+-0.814182
+0.564373
+-0.155045
+0.177672
+0.285782
+15
+NC_024756
+mitochondrion Bracteacoccus minor
+45175
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Sphaeropleales incertae sedis  Bracteacoccus}
+-0.791892
+0.585199
+0.571731
+0.492037
+0.101198
+16
+NC_024757
+mitochondrion Chlorotetraedron incus
+38406
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Neochloridaceae  Chlorotetraedron}
+-0.744475
+0.411659
+0.710953
+0.0686046
+0.521702
+17
+NC_024758
+mitochondrion Chromochloris zofingiensis
+44840
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Sphaeropleales incertae sedis  Chromochloris}
+-1.
+1.
+0.953773
+0.377978
+-0.595388
+18
+NC_024759
+mitochondrion Kirchneriella aperta
+52927
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Selenastraceae  Kirchneriella}
+-0.586633
+0.471473
+-0.0894703
+0.375825
+1.
+19
+NC_024760
+mitochondrion Mychonastes homosphaera
+25149
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Mychonastes}
+-0.937226
+0.876379
+1.
+0.358283
+-0.49574
+20
+NC_024762
+mitochondrion Ourococcus multisporus
+49705
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Sphaeropleales  Sphaeropleaceae  Ourococcus}
+-0.813464
+0.687191
+0.198732
+0.378003
+0.111093
+21
+NC_024763
+mitochondrion Pseudomuriella schumacherensis
+43134
+{Eukaryota  Viridiplantae  Chlorophyta  Chlorophyceae  Pseudomuriella}

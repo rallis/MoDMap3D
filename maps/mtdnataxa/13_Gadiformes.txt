@@ -1,0 +1,196 @@
+19
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Gadiformes (19)
+0.992893
+0.314187
+0.00416385
+0.111461
+-0.493397
+1
+NC_002081
+mitochondrion Gadus morhua (Atlantic cod)
+16696
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Gadus}
+-0.946299
+0.672153
+-0.727859
+0.403006
+-1.
+2
+NC_003169
+mitochondrion Coelorinchus kishinouyei (Mugura grenadier)
+15942
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Macrouroidei  Macrouridae  Macrourinae  Coelorinchus}
+-0.85759
+0.413245
+0.204331
+-0.344367
+0.863492
+3
+NC_004377
+mitochondrion Physiculus japonicus (Japanese codling)
+16999
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Moridae  Physiculus}
+-0.11397
+-0.244773
+-0.416444
+0.0427985
+0.53358
+4
+NC_004379
+mitochondrion Lota lota (burbot)
+16527
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Lotidae  Lota}
+1.
+0.28353
+-0.0134533
+0.108797
+-0.463951
+5
+NC_004449
+mitochondrion Gadus chalcogrammus (walleye pollock)
+16571
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Gadus}
+0.766743
+0.216914
+-0.0313719
+0.122595
+-0.160748
+6
+NC_007395
+mitochondrion Merlangius merlangus (whiting)
+16569
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Merlangius}
+0.707057
+0.210577
+-0.00701846
+0.138581
+-0.101432
+7
+NC_007396
+mitochondrion Melanogrammus aeglefinus (haddock)
+16585
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Melanogrammus}
+-0.989935
+1.
+0.255156
+-1.
+-0.816903
+8
+NC_008124
+mitochondrion Bregmaceros nectabanus (smallscale codlet)
+16030
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Bregmacerotidae  Bregmaceros}
+-0.890862
+0.941301
+1.
+1.
+0.53873
+9
+NC_008222
+mitochondrion Bathygadus antrodes (grenadier)
+17596
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Macrouroidei  Macrouridae  Bathygadinae  Bathygadus}
+-0.790915
+-1.
+0.357589
+0.155262
+-0.82464
+10
+NC_008223
+mitochondrion Squalogadus modificatus (grenadier)
+16550
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Macrouroidei  Macrouridae  Macrouroidinae  Squalogadus}
+-0.775501
+-0.977248
+0.398468
+0.169586
+-0.88324
+11
+NC_008224
+mitochondrion Trachyrincus murrayi (roughnose grenadier)
+16677
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Macrouroidei  Macrouridae  Trachyrincinae  Trachyrincus}
+-1.
+0.617482
+-1.
+0.608678
+-0.888432
+12
+NC_008225
+mitochondrion Ventrifossa garmani (Sagami grenadier)
+17230
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Macrouroidei  Macrouridae  Macrourinae  Ventrifossa}
+0.949887
+0.276734
+-0.0119937
+0.11061
+-0.399899
+13
+NC_010121
+mitochondrion Boreogadus saida (Polar cod)
+16745
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Boreogadus}
+0.987008
+0.271451
+0.0190406
+0.113899
+-0.452732
+14
+NC_010122
+mitochondrion Arctogadus glacialis (Arctic cod)
+16644
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Arctogadus}
+0.949362
+0.283091
+-0.0136368
+0.110468
+-0.471458
+15
+NC_012323
+mitochondrion Gadus ogac (Greenland cod)
+15564
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Gadus}
+0.762047
+0.109969
+-0.143838
+0.15442
+-0.0338745
+16
+NC_015094
+mitochondrion Pollachius virens (saithe)
+16556
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Pollachius}
+0.696658
+0.111165
+-0.168253
+0.1611
+0.0339257
+17
+NC_015097
+mitochondrion Pollachius pollachius (pollack)
+16539
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Pollachius}
+0.21044
+0.0182684
+-0.477087
+0.0438822
+0.263446
+18
+NC_015102
+mitochondrion Micromesistius poutassou (blue whiting)
+16573
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Gadidae  Micromesistius}
+-0.548665
+-0.312466
+-0.824285
+-0.0178747
+1.
+19
+NC_015120
+mitochondrion Merluccius merluccius (European hake)
+17078
+{Eukaryota  Metazoa  Chordata  Craniata  Vertebrata  Euteleostomi  Actinopterygii  Neopterygii  Teleostei  Neoteleostei  Acanthomorphata  Zeiogadaria  Gadariae  Gadiformes  Gadoidei  Merlucciidae  Merluccius}

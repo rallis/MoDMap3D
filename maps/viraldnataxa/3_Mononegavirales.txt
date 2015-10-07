@@ -1,0 +1,886 @@
+88
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Mononegavirales (88)
+0.858659
+0.432483
+0.592785
+-0.548247
+-0.191498
+1
+NC_000855
+Viral hemorrhagic septicemia virus Fil3
+11158
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Novirhabdovirus}
+0.744064
+0.416168
+0.610495
+-0.535597
+0.00705366
+2
+NC_000903
+Snakehead virus
+11550
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Novirhabdovirus}
+0.436879
+0.578421
+-0.265055
+-0.651436
+0.834921
+3
+NC_001498
+Measles virus
+15894
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+0.865512
+-0.802181
+-0.600854
+-0.425582
+0.395567
+4
+NC_001542
+Rabies virus
+11932
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.374948
+0.363631
+0.26758
+-0.444861
+0.668128
+5
+NC_001552
+Sendai virus
+15384
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+0.307127
+-0.113838
+0.744322
+-0.58369
+0.659121
+6
+NC_001560
+Vesicular stomatitis Indiana virus
+11161
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Vesiculovirus}
+0.721783
+0.445219
+0.120654
+-0.551091
+-0.0667325
+7
+NC_001607
+Borna disease virus
+8910
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Bornaviridae  Bornavirus}
+-0.180894
+0.0859659
+-0.338863
+-0.722184
+0.519829
+8
+NC_001608
+Marburg marburgvirus
+19111
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  Marburgvirus}
+0.0786245
+0.0684217
+0.338031
+-0.422317
+0.549409
+9
+NC_001615
+Sonchus yellow net virus
+13720
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+0.865088
+0.530765
+0.667206
+-0.565344
+-0.559964
+10
+NC_001652
+Infectious hematopoietic necrosis virus
+11131
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Novirhabdovirus}
+-0.993582
+-0.215323
+-0.422815
+-0.208292
+-1.
+11
+NC_001781
+Human respiratory syncytial virus
+15225
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus}
+-0.723273
+-0.223283
+0.263577
+-0.321445
+0.852395
+12
+NC_001796
+Human parainfluenza virus 3
+15462
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+-1.
+-0.219034
+-0.436277
+-0.175498
+-0.950308
+13
+NC_001803
+Respiratory syncytial virus
+15191
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus  unclassified            Pneumovirus}
+-0.183649
+0.0926021
+-0.0758948
+-0.637392
+0.956908
+14
+NC_001906
+Hendra virus
+18234
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Henipavirus}
+0.161802
+0.365498
+-0.0947719
+-0.717107
+0.860884
+15
+NC_001921
+Canine distemper virus
+15690
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+-0.851029
+-0.195163
+-0.312673
+-0.246805
+-0.591975
+16
+NC_001989
+Bovine respiratory syncytial virus
+15140
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus}
+-0.632979
+-0.174636
+0.23393
+-0.318704
+0.859286
+17
+NC_002161
+Bovine parainfluenza virus 3
+15456
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+-0.227122
+0.144886
+-0.163957
+-0.584597
+0.73174
+18
+NC_002199
+Tupaia paramyxovirus
+17904
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+0.0827669
+0.379487
+-0.347796
+-0.582741
+0.644938
+19
+NC_002200
+Mumps virus
+15384
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+0.201451
+0.00834035
+0.36889
+-0.473813
+0.650663
+20
+NC_002251
+Northern cereal mosaic virus
+13222
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Cytorhabdovirus}
+-0.569004
+-0.459692
+0.655717
+-0.433818
+0.675176
+21
+NC_002526
+Bovine ephemeral fever virus
+14900
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Ephemerovirus}
+-0.128178
+0.323224
+-0.82789
+-0.944546
+0.364634
+22
+NC_002549
+Ebola virus - Mayinga  Zaire  1976
+18959
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  Ebolavirus}
+0.438748
+0.932833
+-0.457328
+1.
+0.826965
+23
+NC_002617
+Newcastle disease virus B1
+15186
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus}
+-0.299829
+0.0686932
+0.00803588
+-0.622173
+1.
+24
+NC_002728
+Nipah virus
+18246
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Henipavirus}
+0.34738
+-0.190168
+1.
+-0.490591
+0.580361
+25
+NC_002803
+Spring viraemia of carp virus
+11019
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Vesiculovirus}
+0.299657
+0.505432
+-0.195317
+-0.494954
+0.468761
+26
+NC_003043
+Avian paramyxovirus 6 (APMV-6)
+16236
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus}
+0.819098
+-0.86233
+-0.593017
+-0.385896
+0.48558
+27
+NC_003243
+Australian bat lyssavirus
+11822
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+-0.220274
+0.250507
+-0.491114
+-0.472651
+0.72423
+28
+NC_003443
+Human parainfluenza virus 2
+15646
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.352889
+0.0345969
+0.24674
+-0.447741
+0.701834
+29
+NC_003461
+Human parainfluenza virus 1 (HPIV-1)
+15600
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Respirovirus}
+0.208205
+0.222588
+0.179172
+-0.378369
+0.413206
+30
+NC_003746
+Rice yellow stunt virus (Rice transitory yellowing virus)
+14042
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+0.15989
+0.438304
+-0.29535
+-0.531797
+0.599555
+31
+NC_004074
+Tioman virus
+15522
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus  unclassified            Rubulavirus}
+-0.509548
+-0.106845
+0.0301517
+-0.428158
+-0.0475355
+32
+NC_004148
+Human metapneumovirus
+13335
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Metapneumovirus}
+-0.138609
+0.302657
+-0.705761
+-0.901807
+0.461766
+33
+NC_004161
+Reston ebolavirus (REBOV)
+18891
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  Ebolavirus}
+0.436171
+1.
+-0.493452
+0.972805
+0.788884
+34
+NC_005036
+Goose paramyxovirus SF02
+15192
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus  unclassified            Avulavirus}
+0.17675
+0.281665
+0.0764992
+-0.514266
+0.775336
+35
+NC_005084
+Fer-de-Lance paramyxovirus
+15378
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Ferlavirus}
+0.895052
+0.492548
+0.821721
+-0.553925
+-0.484306
+36
+NC_005093
+Hirame rhabdovirus
+11034
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Novirhabdovirus}
+0.1382
+0.371761
+-0.136606
+-0.650137
+0.934443
+37
+NC_005283
+Dolphin morbillivirus
+15702
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus  Cetacean            morbillivirus}
+-0.0473705
+0.355964
+-0.299632
+-0.553967
+0.771468
+38
+NC_005339
+Mossman virus
+16650
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+0.0504821
+0.0349002
+0.275891
+-0.452576
+0.486613
+39
+NC_005974
+Maize fine streak virus
+13782
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+0.613906
+0.403395
+0.445969
+-0.406551
+0.481036
+40
+NC_005975
+Maize mosaic virus
+12133
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+0.467799
+0.654725
+-0.119829
+-0.605318
+0.797059
+41
+NC_006296
+Rinderpest virus (strain Kabete O)
+15882
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+0.490201
+0.57898
+-0.126001
+-0.618883
+0.806294
+42
+NC_006383
+Peste-des-petits-ruminants virus
+15948
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Morbillivirus}
+0.112071
+0.448301
+-0.276386
+-0.518425
+0.738443
+43
+NC_006428
+Simian virus 41
+15450
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+0.802092
+-0.688111
+-0.457072
+-0.441248
+0.412168
+44
+NC_006429
+Mokola virus
+11940
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.0434243
+0.406163
+-0.204119
+-0.527303
+0.752847
+45
+NC_006430
+Parainfluenza virus 5
+15246
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.0693931
+0.35004
+-0.716995
+-0.968126
+0.523809
+46
+NC_006432
+Sudan ebolavirus (SEBOV)
+18875
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  Ebolavirus}
+-0.0542358
+0.0634969
+-0.148193
+-0.436945
+0.213524
+47
+NC_006579
+Pneumonia virus of mice J3666
+14885
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Pneumovirus}
+0.497915
+0.314052
+0.391193
+-0.413707
+0.468227
+48
+NC_006942
+Taro vein chlorosis virus
+12020
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+0.434737
+-0.0998931
+0.475936
+-0.649371
+0.431754
+49
+NC_007020
+Tupaia virus
+11440
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  unassigned Rhabdoviridae}
+0.00323886
+0.166517
+-0.185206
+-0.565437
+0.805962
+50
+NC_007454
+J-virus
+18954
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+0.0818527
+0.357988
+-0.123844
+-0.552917
+0.769422
+51
+NC_007620
+Menangle virus
+15516
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus  unclassified            Rubulavirus}
+0.285629
+-0.0331102
+0.514423
+-0.525672
+0.57828
+52
+NC_007642
+Lettuce necrotic yellows virus
+12807
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Cytorhabdovirus}
+-0.106137
+0.0574908
+0.172896
+-0.466271
+0.149507
+53
+NC_007652
+Avian metapneumovirus
+14071
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Pneumovirinae  Metapneumovirus}
+0.105151
+0.257476
+-0.296219
+-0.619995
+0.892218
+54
+NC_007803
+Beilong virus
+19212
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae}
+0.333172
+-0.00241702
+0.721824
+-0.525237
+0.533608
+55
+NC_008514
+Siniperca chuatsi rhabdovirus
+11545
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  unclassified Rhabdoviridae}
+0.232985
+0.509513
+-0.349335
+-0.576104
+0.558818
+56
+NC_009489
+Mapuera virus
+15486
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+0.859184
+-1.
+-0.778726
+-0.436735
+0.578434
+57
+NC_009527
+European bat lyssavirus 1
+11966
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.884657
+-0.899867
+-0.775496
+-0.366002
+0.367941
+58
+NC_009528
+European bat lyssavirus 2
+11930
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.391261
+0.577927
+-0.365839
+-0.568395
+0.657095
+59
+NC_009640
+Porcine rubulavirus (PoRV)
+15180
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+0.316483
+-0.0354893
+0.539095
+-0.471709
+0.603136
+60
+NC_011532
+Lettuce yellow mottle virus
+12926
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Cytorhabdovirus}
+0.551651
+0.306831
+0.544842
+-0.416853
+0.408536
+61
+NC_011542
+Maize Iranian mosaic virus (MIMV)
+12381
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+-0.338185
+-0.500395
+0.542601
+-0.547924
+0.654728
+62
+NC_011639
+Wongabel virus
+13196
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  unassigned Rhabdoviridae}
+0.914921
+0.500305
+0.0956592
+-0.75724
+-0.042742
+63
+NC_012702
+Midway virus
+11752
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  unclassified Mononegavirales}
+1.
+0.545435
+0.0874366
+-0.770826
+-0.0845812
+64
+NC_012703
+Nyamanini virus
+11631
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  unclassified Mononegavirales}
+0.401721
+0.074256
+0.610119
+-0.497
+0.471003
+65
+NC_013135
+Drosophila melanogaster sigmavirus AP30
+12390
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Sigmavirus}
+-0.101193
+-0.195155
+0.301833
+-0.509239
+0.688783
+66
+NC_013955
+Ngaingan virus
+15764
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  unassigned Rhabdoviridae}
+-0.0511903
+0.529136
+-0.84609
+-0.979468
+0.357112
+67
+NC_014372
+Tai Forest ebolavirus (CIEBOV)
+18935
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  Ebolavirus}
+-0.0530366
+0.474664
+-1.
+-1.
+0.306468
+68
+NC_014373
+Bundibugyo ebolavirus
+18940
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  Ebolavirus}
+0.351952
+0.0722361
+0.194412
+-0.402769
+0.434023
+69
+NC_016136
+Potato yellow dwarf virus
+12875
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Nucleorhabdovirus}
+0.231321
+0.514546
+-0.435798
+-0.77604
+0.187252
+70
+NC_016144
+Lloviu virus
+18927
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Filoviridae  unclassified Filoviridae}
+-0.558208
+-0.435414
+0.444319
+-0.42591
+0.706775
+71
+NC_017685
+Obodhiang virus
+14717
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Ephemerovirus}
+-0.603499
+-0.433512
+0.511071
+-0.458302
+0.655827
+72
+NC_017714
+Kotonkan virus
+15867
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Ephemerovirus}
+0.258848
+0.421482
+-0.184868
+-0.566445
+0.795373
+73
+NC_017937
+Nariva virus
+15276
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  unclassified Paramyxoviridae}
+0.0762214
+-0.152097
+0.601302
+-0.504315
+0.538134
+74
+NC_018381
+Persimmon virus A
+13467
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Cytorhabdovirus  unclassified Cytorhabdovirus}
+0.489351
+-0.666422
+-0.169348
+-0.450496
+0.632622
+75
+NC_018629
+Ikoma lyssavirus
+11902
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.389694
+0.490913
+-0.190378
+-0.58136
+0.40151
+76
+NC_019531
+Avian paramyxovirus 4 (APMV-4)
+15048
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Avulavirus}
+0.295835
+-0.218599
+0.907349
+-0.533205
+0.561612
+77
+NC_020803
+Perch rhabdovirus
+11487
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Perhabdovirus}
+-0.387156
+-0.364796
+0.359203
+-0.555139
+0.67633
+78
+NC_020804
+Tibrogargan virus
+13298
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Tibrovirus}
+0.339452
+-0.255618
+0.947885
+-0.544597
+0.714059
+79
+NC_020805
+Chandipura virus
+11120
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Vesiculovirus}
+0.270943
+-0.275998
+0.807897
+-0.508525
+0.745111
+80
+NC_020806
+Isfahan virus (ISFV)
+11088
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Vesiculovirus}
+0.754216
+-0.734953
+-0.393341
+-0.521364
+0.650578
+81
+NC_020807
+Lagos bat virus
+12016
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.940488
+-0.974929
+-0.831758
+-0.44731
+0.549473
+82
+NC_020808
+Aravan virus (ARAV)
+11918
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.836295
+-0.872644
+-0.642849
+-0.44114
+0.501611
+83
+NC_020809
+Irkut virus (IRKV)
+11980
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+0.867187
+-0.946293
+-0.758671
+-0.339621
+0.420225
+84
+NC_020810
+Duvenhage virus
+11976
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Lyssavirus}
+-0.514409
+0.0687065
+-0.310826
+-0.542817
+0.659483
+85
+NC_021928
+Human parainfluenza virus 4a
+17052
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Paramyxoviridae  Paramyxovirinae  Rubulavirus}
+-0.00446665
+-0.17671
+0.405889
+-0.538449
+0.632857
+86
+NC_022580
+Drosophila obscura sigmavirus 10A
+12676
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Sigmavirus}
+0.265069
+-0.234803
+0.829091
+-0.531304
+0.444984
+87
+NC_022581
+Eel virus European X
+11806
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Perhabdovirus}
+0.351439
+-0.190818
+0.801178
+-0.606797
+0.50724
+88
+NC_022755
+American bat vesiculovirus TFFN-2013
+10692
+{root  Viruses  ssRNA negative strand viruses  Mononegavirales  Rhabdoviridae  Vesiculovirus}

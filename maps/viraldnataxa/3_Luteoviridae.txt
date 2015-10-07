@@ -1,0 +1,296 @@
+29
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Luteoviridae (29)
+-0.52948
+0.546114
+0.2829
+0.58679
+0.577449
+1
+NC_000874
+Sugarcane yellow leaf virus
+5899
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.629407
+0.451073
+0.190359
+0.354861
+0.391166
+2
+NC_001747
+Potato leafroll virus
+5987
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+0.391947
+0.168349
+0.165444
+0.390758
+0.425559
+3
+NC_002160
+Barley yellow dwarf virus-PAS
+5695
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus}
+-0.690047
+0.957868
+-1.
+-0.056797
+0.442155
+4
+NC_002198
+Cereal yellow dwarf virus-RPS
+5662
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.839285
+-0.546683
+-0.0185446
+0.420898
+0.365566
+5
+NC_002766
+Beet chlorosis virus
+5776
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.450961
+0.57495
+0.392337
+0.97805
+0.945478
+6
+NC_003056
+Soybean dwarf virus
+5853
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus}
+-0.444373
+0.511961
+0.425265
+1.
+1.
+7
+NC_003369
+Bean leafroll virus
+5964
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus}
+-0.887285
+-0.565106
+-0.0423678
+0.381476
+0.167752
+8
+NC_003491
+Beet mild yellowing virus (BMYV)
+5722
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.47842
+0.52204
+0.402822
+0.758756
+0.804228
+9
+NC_003629
+Pea enation mosaic virus-1 (PEMV-1)
+5706
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Enamovirus}
+1.
+-0.0570538
+0.00468496
+0.0992556
+0.211453
+10
+NC_003680
+Barley yellow dwarf virus-MAV
+5273
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus}
+-0.710949
+0.458532
+0.459477
+0.416277
+-0.790046
+11
+NC_003688
+Cucurbit aphid-borne yellows virus
+5669
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-1.
+-1.
+-0.128316
+0.151123
+0.821421
+12
+NC_003743
+Turnip yellows virus
+5641
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+0.985256
+-0.0498641
+0.00140798
+0.116585
+0.189278
+13
+NC_004666
+Barley yellow dwarf virus-GAV
+5685
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus  unclassified Luteovirus}
+0.888073
+-0.0119943
+0.0325685
+0.203075
+0.253116
+14
+NC_004750
+Barley yellow dwarf virus-PAV
+5677
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus}
+-0.670355
+1.
+-0.999443
+-0.0281012
+0.41123
+15
+NC_004751
+Cereal yellow dwarf virus-RPV
+5723
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.905452
+-0.544741
+-0.0139301
+0.368102
+-0.075961
+16
+NC_004756
+Beet western yellows virus
+5666
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.575912
+0.53653
+0.258415
+0.45081
+0.412278
+17
+NC_006265
+Carrot red leaf virus
+5723
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.590697
+0.457633
+0.368235
+0.496566
+0.213931
+18
+NC_008249
+Chickpea chlorotic stunt virus
+5900
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.671408
+0.555404
+0.979389
+-1.
+0.703837
+19
+NC_010732
+Tobacco vein distorting virus
+5920
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.427553
+0.525132
+0.344813
+0.819253
+0.904894
+20
+NC_010806
+Rose spring dwarf-associated virus
+5808
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus}
+-0.711498
+0.391584
+0.483824
+0.534375
+-1.
+21
+NC_010809
+Melon aphid-borne yellows virus
+5674
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.636319
+0.94625
+-0.824445
+0.068898
+0.344904
+22
+NC_012931
+Wheat yellow dwarf virus-GPV
+5673
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.642164
+0.327516
+0.211594
+0.50247
+0.0605188
+23
+NC_014545
+Cotton leafroll dwarf virus
+5866
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.670518
+0.565009
+1.
+-0.985152
+0.618277
+24
+NC_015050
+Pepper vein yellows virus
+6244
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.89703
+-0.803607
+-0.0976048
+0.148738
+0.891723
+25
+NC_016038
+Brassica yellows virus
+5666
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.633839
+0.501126
+0.375602
+0.660262
+-0.395426
+26
+NC_018571
+Suakwa aphid-borne yellows virus
+5822
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.10755
+0.351042
+0.290957
+0.672857
+0.722778
+27
+NC_021481
+Barley yellow dwarf virus Ker-II
+5736
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Luteovirus  unclassified Luteovirus}
+-0.557775
+0.468183
+0.282754
+0.460008
+0.52115
+28
+NC_021484
+Maize yellow dwarf virus-RMV
+5612
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  Polerovirus}
+-0.499139
+0.552725
+0.376249
+0.726794
+0.842089
+29
+NC_021564
+Citrus vein enation virus
+5983
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Luteoviridae  unclassified Luteoviridae}

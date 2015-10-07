@@ -1,0 +1,226 @@
+22
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Unionoida (22)
+-0.1935
+0.0576443
+0.0503749
+-0.835417
+1.
+1
+NC_005335
+mitochondrion Lampsilis ornata (sharp-ridged pocketbook)
+16060
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Lampsilinae  Lampsilis}
+-0.439336
+-1.
+0.0266384
+1.
+0.175169
+2
+NC_011763
+mitochondrion Hyriopsis cumingii (triangleshell pearl mussel)
+15954
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Hyriopsis}
+0.832767
+0.256983
+0.217368
+0.0178141
+-0.151781
+3
+NC_012716
+mitochondrion Cristaria plicata (cockscomb pearl mussel)
+15712
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Anodontinae  Cristaria}
+-0.143628
+0.0358197
+0.16532
+-0.770049
+0.664395
+4
+NC_013658
+mitochondrion Quadrula quadrula (mapleleaf mussel)
+16033
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Ambleminae  Quadrula}
+-0.567454
+0.93877
+-0.866666
+0.09162
+0.0752064
+5
+NC_013659
+mitochondrion Venustaconcha ellipsiformis (ellipse)
+17174
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Lampsilinae  Venustaconcha}
+0.91303
+0.389363
+0.16143
+0.227414
+-0.12376
+6
+NC_013661
+mitochondrion Pyganodon grandis (giant floater mussel)
+15848
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Anodontinae  Pyganodon}
+-0.457181
+-0.99156
+0.0238633
+0.994237
+0.15296
+7
+NC_015110
+mitochondrion Hyriopsis schlegelii (Biwa pearly mussel)
+15939
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Hyriopsis}
+0.692891
+0.186678
+0.236489
+-0.278741
+0.101417
+8
+NC_015310
+mitochondrion Unio pictorum (painter's mussel)
+15760
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Unio}
+-1.
+0.977739
+0.994697
+0.303328
+0.053085
+9
+NC_015476
+mitochondrion Margaritifera falcata (western pearlshell)
+16121
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Margaritiferidae  Margaritifera}
+-0.454475
+1.
+-1.
+0.252775
+-0.201548
+10
+NC_015477
+mitochondrion Utterbackia peninsularis (peninsular floater)
+16803
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Anodontinae  Utterbackia}
+0.832371
+0.334262
+0.105902
+0.166377
+-0.0734468
+11
+NC_015479
+mitochondrion Utterbackia imbecillis (paper pondshell)
+16103
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Anodontinae  Utterbackia}
+1.
+0.370529
+0.1631
+0.163629
+-0.0459683
+12
+NC_015481
+mitochondrion Lasmigona compressa (creek heelsplitter)
+15903
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Anodontinae  Lasmigona}
+-0.119827
+0.0455777
+0.0586413
+-0.966162
+0.995134
+13
+NC_015483
+mitochondrion Toxolasma parvus (lilliput)
+15949
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Lampsilinae  Toxolasma}
+0.74184
+0.189177
+0.220586
+-0.252453
+0.0449262
+14
+NC_021404
+mitochondrion Lamprotula tortuosa
+15722
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Ambleminae  Lamprotula}
+-0.381474
+-0.249658
+0.124238
+-0.958809
+-1.
+15
+NC_022701
+mitochondrion Solenaia oleivora
+16392
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Solenaia}
+0.910513
+0.277597
+0.225392
+0.0972721
+-0.00143373
+16
+NC_022803
+mitochondrion Anodonta anatina
+15653
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Anodontinae  Anodonta}
+-0.356606
+-0.227945
+0.126522
+-1.
+-0.76588
+17
+NC_023250
+mitochondrion Solenaia carinatus
+16716
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Solenaia}
+-0.373399
+-0.192684
+0.127117
+-0.792374
+-0.45144
+18
+NC_023346
+mitochondrion Lamprotula leai
+16530
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Ambleminae  Lamprotula}
+0.688123
+0.298447
+0.236062
+-0.177043
+0.00366635
+19
+NC_023806
+mitochondrion Lamprotula gottschei
+15915
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Ambleminae  Lamprotula}
+-0.972192
+0.966845
+1.
+0.325168
+-0.0527679
+20
+NC_023942
+mitochondrion Dahurinaia dahurica
+16112
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Margaritiferidae  Dahurinaia}
+0.737189
+0.172341
+0.210846
+-0.224054
+0.0247566
+21
+NC_023955
+mitochondrion Arconaia lanceolata
+15782
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Arconaia}
+0.746205
+0.274549
+0.169124
+0.0236882
+-0.0657154
+22
+NC_024943
+mitochondrion Sinanodonta woodiana
+16256
+{Eukaryota  Metazoa  Lophotrochozoa  Mollusca  Bivalvia  Palaeoheterodonta  Unionoida  Unionoidea  Unionidae  Unioninae  Sinanodonta}

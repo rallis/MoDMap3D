@@ -1,0 +1,356 @@
+35
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Poxviridae (35)
+0.221429
+-0.112457
+0.939259
+1.
+1.
+1
+NC_001132
+Myxoma virus
+161773
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Leporipoxvirus}
+0.441918
+-0.119009
+0.897479
+0.89155
+0.9432
+2
+NC_001266
+Rabbit fibroma virus
+159857
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Leporipoxvirus}
+0.847103
+0.890894
+0.237878
+-0.467755
+0.0410284
+3
+NC_001611
+Variola virus
+185578
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+-0.799047
+-0.284935
+0.421206
+-0.176027
+0.234581
+4
+NC_001731
+Molluscum contagiosum virus subtype 1
+190289
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Molluscipoxvirus}
+1.
+-0.939905
+0.527856
+-1.
+0.143941
+5
+NC_001993
+Melanoplus sanguinipes entomopoxvirus
+236120
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae}
+0.71941
+-0.118692
+0.745282
+0.0855318
+0.518632
+6
+NC_002188
+Fowlpox virus
+288539
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Avipoxvirus}
+0.985244
+-0.871978
+0.622491
+-0.89849
+0.257507
+7
+NC_002520
+Amsacta moorei entomopoxvirus 'L'
+232392
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae  Betaentomopoxvirus}
+0.904287
+-0.809764
+0.997401
+0.462313
+-1.
+8
+NC_002642
+Yaba-like disease virus
+144575
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Yatapoxvirus}
+0.974609
+-0.977095
+-1.
+0.140088
+0.279388
+9
+NC_003027
+Lumpy skin disease virus NI-2490
+150773
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Capripoxvirus}
+0.819538
+0.877436
+0.260671
+-0.428609
+0.078883
+10
+NC_003310
+Monkeypox virus Zaire-96-I-16
+196858
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+0.897
+-0.585931
+0.640706
+-0.336561
+0.338571
+11
+NC_003389
+Swinepox virus
+146454
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Suipoxvirus}
+0.820351
+0.963356
+0.24263
+-0.433285
+0.0554684
+12
+NC_003391
+Camelpox virus
+205719
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+0.784615
+0.883717
+0.290053
+-0.361426
+0.116405
+13
+NC_003663
+Cowpox virus
+224499
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+0.999368
+-1.
+-0.94191
+0.0853671
+0.242648
+14
+NC_004002
+Sheeppox virus
+149955
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Capripoxvirus}
+0.990555
+-0.9922
+-0.967878
+0.0858486
+0.254846
+15
+NC_004003
+Goatpox virus Pellor
+149599
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Capripoxvirus}
+0.80221
+0.831003
+0.287168
+-0.382852
+0.1193
+16
+NC_004105
+Ectromelia virus
+209771
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+0.779027
+-0.588888
+0.777542
+0.207622
+-0.0217908
+17
+NC_005179
+Yaba monkey tumor virus
+134721
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Yatapoxvirus}
+0.752421
+-0.0875511
+0.705889
+0.0677242
+0.473994
+18
+NC_005309
+Canarypox virus
+359853
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Avipoxvirus}
+-0.897073
+-0.449772
+0.315676
+-0.588162
+0.00968122
+19
+NC_005336
+Orf virus
+139962
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Parapoxvirus}
+-0.929997
+-0.46562
+0.336809
+-0.548556
+0.0787788
+20
+NC_005337
+Bovine papular stomatitis virus
+134431
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Parapoxvirus}
+0.93526
+-0.695465
+0.731905
+-0.596512
+0.344123
+21
+NC_006966
+Deerpox virus W-848-83
+166259
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Cervidpoxvirus  unclassified Cervidpoxvirus}
+0.912363
+-0.660931
+0.756695
+-0.523339
+0.361192
+22
+NC_006967
+Deerpox virus W-1170-84
+170560
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Cervidpoxvirus  unclassified Cervidpoxvirus}
+0.815229
+0.960163
+0.235805
+-0.442325
+0.057442
+23
+NC_006998
+Vaccinia virus
+194711
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+-0.69527
+-0.309527
+0.466808
+-0.151822
+0.339317
+24
+NC_008030
+Nile crocodilepox virus
+190054
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Crocodylidpoxvirus}
+0.819818
+1.
+0.22521
+-0.451697
+0.0391397
+25
+NC_008291
+Taterapox virus
+198050
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus}
+0.90515
+-0.808359
+1.
+0.459185
+-0.998367
+26
+NC_009888
+Tanapox virus
+144565
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Yatapoxvirus}
+-0.937513
+-0.490547
+0.291734
+-0.6751
+-0.00518344
+27
+NC_013804
+Pseudocowpox virus
+145289
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Parapoxvirus}
+0.948354
+-0.571565
+0.565408
+-0.605907
+0.209639
+28
+NC_015960
+Yoka poxvirus
+175699
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  Orthopoxvirus  unclassified Orthopoxvirus}
+0.968537
+-0.71282
+0.519314
+-0.603873
+0.175027
+29
+NC_016924
+Cotia virus SPAn232 (COTV)
+185139
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  unclassified            Poxviridae}
+0.934602
+-0.611218
+0.735614
+-0.517015
+0.433874
+30
+NC_021246
+Mythimna separata entomopoxvirus 'L'
+281182
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae  Betaentomopoxvirus  unclassified Betaentomopoxvirus}
+0.90333
+-0.615588
+0.72288
+-0.638967
+0.413141
+31
+NC_021247
+Adoxophyes honmai entomopoxvirus 'L'
+228750
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae  Betaentomopoxvirus  unclassified Betaentomopoxvirus}
+0.972332
+-0.664476
+0.792474
+-0.841058
+0.535976
+32
+NC_021248
+Choristoneura biennis entomopoxvirus 'L'
+307691
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae  Betaentomopoxvirus}
+0.975753
+-0.69601
+0.793932
+-0.880176
+0.530871
+33
+NC_021249
+Choristoneura rosaceana entomopoxvirus 'L'
+282895
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae  Betaentomopoxvirus  unclassified Betaentomopoxvirus}
+-1.
+-0.480304
+0.31123
+-0.548047
+0.121195
+34
+NC_022563
+Squirrelpox virus
+148803
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Chordopoxvirinae  unassigned Chordopoxvirinae}
+0.966848
+-0.725728
+0.620406
+-0.776827
+0.27947
+35
+NC_023426
+Anomala cuprea entomopoxvirus
+245717
+{root  Viruses  dsDNA viruses no RNA stage  Poxviridae  Entomopoxvirinae  Alphaentomopoxvirus}

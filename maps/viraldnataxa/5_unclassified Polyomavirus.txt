@@ -1,0 +1,386 @@
+38
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified Polyomavirus (38)
+-0.149723
+-1.
+-0.776896
+-0.824366
+0.892965
+1
+NC_004800
+Goose hemorrhagic polyomavirus
+5256
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.145554
+-0.955129
+-0.750721
+-0.898634
+0.923998
+2
+NC_007922
+Crow polyomavirus
+5079
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.0905842
+-0.953763
+-0.89897
+-0.88168
+0.81264
+3
+NC_007923
+Finch polyomavirus
+5278
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.0991425
+-0.735461
+-0.807578
+-0.652908
+-1.
+4
+NC_009238
+KI polyomavirus
+5040
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.121138
+-0.759668
+-0.833625
+-0.648838
+-0.995414
+5
+NC_009539
+WU Polyomavirus
+5229
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.149217
+-0.646007
+-0.726305
+-0.405976
+0.0267358
+6
+NC_009951
+Squirrel monkey polyomavirus
+5075
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.198683
+-0.690479
+-0.877212
+-0.682354
+0.100224
+7
+NC_010277
+Merkel cell polyomavirus
+5387
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.198537
+-0.594251
+-0.761307
+-0.605852
+0.201995
+8
+NC_011310
+Myotis polyomavirus VM-2008
+5081
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.273012
+-0.701602
+0.989773
+-1.
+0.12584
+9
+NC_013439
+Orangutan polyomavirus
+5168
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.132451
+-0.726796
+-0.844143
+-0.776589
+0.18439
+10
+NC_013796
+California sea lion polyomavirus 1
+5112
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.275976
+-0.657928
+1.
+-0.960845
+0.0927754
+11
+NC_014361
+Trichodysplasia spinulosa-associated polyomavirus
+5232
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.116602
+-0.809945
+-1.
+-0.74919
+0.17199
+12
+NC_014406
+Polyomavirus HPyV6
+4926
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.108041
+-0.799924
+-0.900574
+-0.792217
+0.0725696
+13
+NC_014407
+Polyomavirus HPyV7
+4952
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+0.386806
+0.18125
+-0.600251
+-0.58814
+0.2071
+14
+NC_014743
+Chimpanzee polyomavirus
+5086
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.971024
+0.976311
+-0.778053
+-0.797852
+0.321272
+15
+NC_015150
+Human polyomavirus 9
+5026
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.131696
+-0.991558
+-0.791267
+-0.774484
+0.70334
+16
+NC_017085
+Canary polyomavirus
+5421
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.185651
+-0.786407
+-0.770452
+-0.609452
+0.161411
+17
+NC_017982
+Equine polyomavirus
+4987
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.105956
+-0.529883
+-0.677362
+-0.478082
+-0.117561
+18
+NC_018102
+MW polyomavirus
+4927
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+1.
+0.975903
+-0.537841
+-0.822043
+0.298591
+19
+NC_019844
+Vervet monkey polyomavirus 1
+5157
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+0.969483
+1.
+-0.581944
+-0.781748
+0.316443
+20
+NC_019850
+Piliocolobus rufomitratus polyomavirus 1
+5140
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.935791
+0.794658
+-0.703932
+-0.695685
+0.275714
+21
+NC_019851
+Macaca fascicularis polyomavirus 1
+5087
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.205556
+-0.64668
+-0.0633174
+-0.816832
+0.391554
+22
+NC_019853
+Ateles paniscus polyomavirus 1
+5273
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.176461
+-0.572488
+-0.808873
+-0.387413
+-0.112213
+23
+NC_019854
+Cebus albifrons polyomavirus 1
+5013
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.216072
+-0.372905
+-0.33404
+1.
+0.507804
+24
+NC_019855
+Pan troglodytes verus polyomavirus 3
+5333
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.188974
+-0.31406
+-0.326457
+0.990692
+0.432417
+25
+NC_019856
+Pan troglodytes verus polyomavirus 4
+5349
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-1.
+0.945879
+-0.76116
+-0.782112
+0.352481
+26
+NC_019857
+Pan troglodytes verus polyomavirus 5
+4994
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.596806
+0.291864
+-0.662
+-0.748487
+0.186923
+27
+NC_019858
+Pan troglodytes schweinfurthii polyomavirus 2
+4970
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+0.194881
+-0.232621
+-0.594915
+-0.496443
+0.173171
+28
+NC_020065
+Chaerephon polyomavirus 1
+4899
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+0.235813
+-0.251689
+-0.561147
+-0.51218
+0.317579
+29
+NC_020066
+Otomops polyomavirus 2
+4914
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.0411691
+-0.524513
+-0.589813
+-0.394281
+0.33355
+30
+NC_020067
+Cardioderma polyomavirus
+5372
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.0768265
+-0.597667
+-0.589511
+-0.378563
+0.185924
+31
+NC_020068
+Eidolon polyomavirus 1
+5294
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.203523
+-0.612682
+-0.699501
+-0.615127
+0.156138
+32
+NC_020069
+Miniopterus polyomavirus
+5213
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.162448
+-0.657242
+-0.730883
+-0.662702
+0.264538
+33
+NC_020070
+Pteronotus polyomavirus
+5136
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.0828205
+-0.59767
+-0.653951
+-0.490249
+0.317213
+34
+NC_020071
+Otomops polyomavirus 1
+5176
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.190196
+-0.588799
+-0.753512
+-0.55721
+-0.0575517
+35
+NC_020106
+STL polyomavirus
+4776
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.172577
+-0.490517
+-0.540644
+-0.578145
+0.090924
+36
+NC_020890
+Human polyomavirus 12
+5033
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.121303
+-0.813029
+-0.766316
+-0.680282
+0.204081
+37
+NC_022519
+African elephant polyomavirus 1
+5722
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}
+-0.090752
+-0.955423
+-0.798858
+-0.847008
+1.
+38
+NC_023008
+Butcherbird polyomavirus
+5084
+{root  Viruses  dsDNA viruses no RNA stage  Polyomaviridae  Polyomavirus  unclassified Polyomavirus}

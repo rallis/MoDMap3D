@@ -1,0 +1,116 @@
+11
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+unclassified Astroviridae (11)
+1.
+-0.81682
+-0.319173
+-0.124291
+-0.339532
+1
+NC_011400
+Astrovirus MLB1
+6171
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.987756
+-1.
+-1.
+-0.201946
+-0.238359
+2
+NC_013060
+Astrovirus VA1
+6586
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+0.997274
+-0.806042
+-0.326148
+-0.12376
+-0.339187
+3
+NC_014320
+Astrovirus MLB1 HK05
+6171
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.884586
+-0.357144
+-0.216127
+-0.579459
+1.
+4
+NC_015935
+Mouse astrovirus M-52/USA/2008
+6543
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.450648
+1.
+-0.94133
+-0.123832
+-0.51795
+5
+NC_016155
+Astrovirus MLB2
+6119
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-1.
+-0.907575
+-0.946708
+0.0267206
+-0.782689
+6
+NC_018669
+Astrovirus VA2
+6531
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.94616
+-0.338454
+1.
+-1.
+-1.
+7
+NC_018702
+Murine astrovirus
+6838
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.968124
+-0.961975
+-0.949385
+-0.234905
+-0.193709
+8
+NC_019026
+Astrovirus VA3
+6581
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.997611
+-0.967751
+-0.973887
+0.0208986
+-0.759388
+9
+NC_019027
+Astrovirus VA4
+6518
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.360419
+0.908006
+-0.949634
+-0.156098
+-0.424336
+10
+NC_019028
+Astrovirus MLB3
+6124
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}
+-0.947838
+-0.252277
+0.805945
+1.
+-0.178504
+11
+NC_023636
+Porcine astrovirus 5 (PoAstV 5)
+6500
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Astroviridae  unclassified Astroviridae}

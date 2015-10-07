@@ -1,0 +1,306 @@
+30
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Nepovirus (30)
+-0.430282
+-0.238114
+-0.130451
+0.201633
+-0.59619
+1
+NC_003502
+Blackcurrant reversion virus (BRAV)
+6405
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+-0.419107
+-0.32277
+-0.158544
+0.138182
+-0.586491
+2
+NC_003509
+Blackcurrant reversion virus (BRAV)
+7711
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+-0.741214
+0.25275
+-0.343039
+-1.
+0.990833
+3
+NC_003615
+Grapevine fanleaf virus (GFLV)
+7342
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.912658
+-0.71591
+-0.249786
+0.606509
+0.768755
+4
+NC_003621
+Grapevine chrome mosaic virus
+4441
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.767126
+-0.655034
+-0.228588
+0.266148
+0.471871
+5
+NC_003622
+Grapevine chrome mosaic virus
+7212
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.708594
+1.
+-0.299597
+1.
+0.616418
+6
+NC_003623
+Grapevine fanleaf virus (GFLV)
+3774
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.952352
+-0.971284
+-0.31643
+0.327389
+0.953417
+7
+NC_003693
+Beet ringspot virus
+7362
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.999869
+-0.843229
+-0.29434
+0.66193
+0.835288
+8
+NC_003694
+Beet ringspot virus
+4662
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.684135
+-0.435702
+-0.227412
+0.157637
+0.196218
+9
+NC_003791
+Cycas necrotic stunt virus (CNSV)
+7471
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.676498
+-0.40608
+-0.21928
+0.328407
+0.249564
+10
+NC_003792
+Cycas necrotic stunt virus (CNSV)
+4667
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+1.
+-0.466827
+-0.987744
+0.431237
+0.788798
+11
+NC_003839
+Tomato ringspot virus
+7271
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+0.970745
+-0.492087
+-1.
+0.365126
+0.747727
+12
+NC_003840
+Tomato ringspot virus
+8214
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+-0.980248
+-1.
+-0.339492
+0.326503
+0.914818
+13
+NC_004439
+Tomato black ring virus
+7358
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-1.
+-0.93921
+-0.286158
+0.650396
+0.938015
+14
+NC_004440
+Tomato black ring virus
+4633
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.462078
+-0.269236
+-0.153372
+0.395816
+-0.990291
+15
+NC_005096
+Tobacco ringspot virus
+3929
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.465057
+-0.397354
+-0.217921
+0.0725114
+-0.845499
+16
+NC_005097
+Tobacco ringspot virus
+7514
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.480269
+-0.342351
+-0.140979
+0.152609
+0.049287
+17
+NC_005266
+Raspberry ringspot virus
+7935
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.54483
+-0.263065
+-0.0857504
+0.266139
+0.00445332
+18
+NC_005267
+Raspberry ringspot virus
+3914
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.730424
+0.777474
+-0.292982
+0.93117
+0.568637
+19
+NC_006056
+Arabis mosaic virus
+3820
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.629445
+0.0567334
+-0.280838
+-0.41455
+0.684166
+20
+NC_006057
+Arabis mosaic virus
+7334
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+0.30866
+-0.368539
+0.962358
+0.308561
+1.
+21
+NC_015414
+Cherry leaf roll virus
+7918
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+0.331516
+-0.315054
+1.
+0.335391
+0.999264
+22
+NC_015415
+Cherry leaf roll virus
+6360
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+-0.431821
+-0.297654
+-0.142604
+0.136819
+-0.072308
+23
+NC_015492
+Grapevine Bulgarian latent virus (GBLV)
+7452
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+-0.455007
+-0.278476
+-0.161583
+0.291021
+-0.168324
+24
+NC_015493
+Grapevine Bulgarian latent virus (GBLV)
+5821
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup C}
+-0.711454
+0.987574
+-0.291289
+0.936885
+0.659151
+25
+NC_017938
+Grapevine deformation virus
+3753
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.752726
+0.352813
+-0.331195
+-0.939385
+0.99188
+26
+NC_017939
+Grapevine deformation virus
+7386
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.729582
+-0.643199
+-0.222909
+0.27713
+0.609748
+27
+NC_018383
+Grapevine Anatolian ringspot virus
+7288
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.869611
+-0.637641
+-0.244876
+0.598182
+0.635732
+28
+NC_018384
+Grapevine Anatolian ringspot virus
+4607
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup B}
+-0.451798
+-0.402713
+-0.208887
+0.117263
+-0.876446
+29
+NC_022798
+Potato black ringspot virus
+7598
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}
+-0.469709
+-0.282992
+-0.145968
+0.390138
+-1.
+30
+NC_022799
+Potato black ringspot virus
+3876
+{root  Viruses  ssRNA positive strand viruses no DNA stage  Picornavirales  Secoviridae  Comovirinae  Nepovirus  Subgroup A}

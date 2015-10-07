@@ -1,0 +1,636 @@
+63
+blue
+5
+Index,Acc,Name,Length,Taxa
+blue
+Baculoviridae (63)
+-0.580413
+1.
+-0.0287261
+-0.211169
+0.238882
+1
+NC_001623
+Autographa californica nucleopolyhedrovirus
+133894
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.99921
+-0.830919
+0.0439021
+-0.815263
+0.521805
+2
+NC_001875
+Orgyia pseudotsugata multiple nucleopolyhedrovirus
+131995
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.543024
+0.937458
+-0.0128234
+-0.261431
+0.257137
+3
+NC_001962
+Bombyx mori nucleopolyhedrovirus
+128413
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-1.
+-1.
+0.0333286
+-0.336121
+0.230985
+4
+NC_001973
+Lymantria dispar multiple nucleopolyhedrovirus
+161046
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.201422
+-0.658682
+0.39497
+0.130342
+0.396951
+5
+NC_002169
+Spodoptera exigua multiple nucleopolyhedrovirus
+135611
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.110493
+-0.626188
+0.611043
+0.185865
+0.0989868
+6
+NC_002331
+Xestia c-nigrum granulovirus
+178733
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.113854
+-0.591688
+0.653196
+-0.518899
+0.144995
+7
+NC_002593
+Plutella xylostella granulovirus
+100999
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+0.999589
+-0.694346
+-1.
+-0.443953
+0.326703
+8
+NC_002654
+Helicoverpa armigera nucleopolyhedrovirus G4
+131405
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.273597
+-0.683088
+0.566594
+-0.40803
+0.00052923
+9
+NC_002816
+Cydia pomonella granulovirus
+123500
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.239364
+-0.430557
+0.412944
+-0.769772
+0.71699
+10
+NC_003083
+Epiphyas postvittana nucleopolyhedrovirus
+118584
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.624566
+-0.858961
+0.344142
+-0.516658
+0.0171434
+11
+NC_003084
+Culex nigripalpus nucleopolyhedrovirus
+108252
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Deltabaculovirus}
+1.
+-0.689494
+-0.992767
+-0.447178
+0.327053
+12
+NC_003094
+Helicoverpa armigera nucleopolyhedrovirus
+130759
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.12306
+-0.58756
+0.390946
+-0.0601031
+0.318486
+13
+NC_003102
+Spodoptera litura nucleopolyhedrovirus
+139342
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.992558
+-0.69181
+-0.991811
+-0.443078
+0.327567
+14
+NC_003349
+Helicoverpa zea single nucleopolyhedrovirus (HzSNPV)
+130869
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.153601
+-0.616044
+0.453723
+0.642227
+0.763576
+15
+NC_003529
+Mamestra configurata nucleopolyhedrovirus A
+155060
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.218075
+-0.427433
+0.767837
+-0.476345
+0.351045
+16
+NC_004062
+Phthorimaea operculella granulovirus
+119217
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.0878778
+-0.577845
+0.530818
+1.
+0.994918
+17
+NC_004117
+Mamestra configurata nucleopolyhedrovirus B
+158482
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.439047
+0.808494
+0.085217
+-0.283072
+0.31162
+18
+NC_004323
+Rachiplusia ou MNPV
+131526
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.272103
+-0.365983
+0.81498
+-0.657051
+0.837386
+19
+NC_004690
+Adoxophyes honmai nucleopolyhedrovirus
+113220
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.776997
+-0.71787
+0.137649
+-0.700184
+0.590626
+20
+NC_004778
+Choristoneura fumiferana multiple nucleopolyhedrovirus
+129593
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.337202
+-0.334552
+0.841614
+-0.677257
+0.484638
+21
+NC_005038
+Adoxophyes orana granulovirus
+99657
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+0.454954
+-0.315488
+0.974657
+-0.569309
+0.308387
+22
+NC_005068
+Cryptophlebia leucotreta granulovirus
+110907
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.644542
+-0.598868
+0.219296
+-0.899386
+0.836038
+23
+NC_005137
+Choristoneura fumiferana DEF multiple nucleopolyhedrovirus
+131160
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.122962
+-0.451146
+0.795758
+-0.33297
+0.272683
+24
+NC_005839
+Agrotis segetum granulovirus
+131680
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+0.527641
+-0.282708
+0.982707
+-0.7997
+0.463314
+25
+NC_005905
+Neodiprion sertifer nucleopolyhedrovirus
+86462
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Gammabaculovirus}
+0.524386
+-0.252406
+0.960563
+-1.
+0.591191
+26
+NC_005906
+Neodiprion lecontei nucleopolyhedrovirus
+81755
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Gammabaculovirus}
+0.116643
+-0.50805
+0.589897
+0.138807
+0.337613
+27
+NC_007151
+Chrysodeixis chalcites nucleopolyhedrovirus (ChchNPV)
+149622
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.121963
+-0.48878
+0.609251
+0.0566725
+0.368898
+28
+NC_007383
+Trichoplusia ni single nucleopolyhedrovirus
+134394
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.555623
+-0.629702
+0.239476
+-0.757706
+0.713458
+29
+NC_007767
+Hyphantria cunea nucleopolyhedrovirus
+132959
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.438901
+-0.726554
+0.309731
+0.0541313
+0.409558
+30
+NC_007921
+Agrotis segetum nucleopolyhedrovirus
+147544
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.915484
+-0.776776
+0.0709799
+-0.856425
+0.604764
+31
+NC_008035
+Antheraea pernyi nucleopolyhedrovirus (AnpeNPV)
+126629
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.35531
+-0.316538
+0.93846
+-0.739013
+0.452038
+32
+NC_008168
+Choristoneura occidentalis granulovirus
+104710
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+0.541537
+-0.247312
+1.
+-0.960998
+0.578988
+33
+NC_008252
+Neodiprion abietis NPV
+84264
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Gammabaculovirus  unclassified Gammabaculovirus}
+0.0789029
+-0.455276
+0.614769
+-0.233961
+0.409525
+34
+NC_008293
+Clanis bilineata nucleopolyhedrovirus
+135454
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.468783
+-0.803941
+0.242085
+0.127039
+0.172474
+35
+NC_008348
+Leucania separata nucleopolyhedrovirus
+168041
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.575603
+0.983757
+-0.0313121
+-0.212005
+0.239508
+36
+NC_008349
+Plutella xylostella multiple nucleopolyhedrovirus
+134417
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.575633
+-0.57413
+0.243207
+-0.893623
+0.856054
+37
+NC_008520
+Anticarsia gemmatalis nucleopolyhedrovirus
+132239
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.0710159
+-0.447077
+0.525434
+-0.370888
+0.564102
+38
+NC_008586
+Ectropis obliqua nucleopolyhedrovirus (EoNPV)
+131204
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.168876
+0.219755
+0.33369
+-0.445895
+0.400622
+39
+NC_008725
+Maruca vitrata nucleopolyhedrovirus
+111953
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.011045
+-0.550805
+0.517094
+-0.00661797
+0.395812
+40
+NC_009011
+Spodoptera frugiperda multiple nucleopolyhedrovirus
+131331
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.0920474
+-0.500773
+0.739399
+-0.203939
+0.24043
+41
+NC_009503
+Spodoptera litura granulovirus
+124121
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.0987058
+-0.624838
+0.623868
+0.187171
+0.0820275
+42
+NC_010240
+Helicoverpa armigera granulovirus
+169794
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+-0.128038
+-0.517775
+0.391115
+-0.309991
+0.571593
+43
+NC_010276
+Orgyia leucostigma NPV
+156179
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.543682
+-0.81604
+0.255595
+0.153211
+0.310552
+44
+NC_011345
+Agrotis ipsilon multiple nucleopolyhedrovirus (AgipMNPV)
+155122
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.991772
+-0.696312
+-0.992418
+-0.437798
+0.326656
+45
+NC_011354
+Helicoverpa armigera NPV NNg1
+132425
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.28965
+-0.342355
+0.815476
+-0.676677
+0.858322
+46
+NC_011423
+Adoxophyes orana nucleopolyhedrovirus
+111724
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.0827207
+-0.573939
+0.530318
+0.998979
+1.
+47
+NC_011615
+Helicoverpa armigera multiple nucleopolyhedrovirus
+154196
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.338465
+-0.727862
+0.347832
+0.173917
+0.314323
+48
+NC_011616
+Spodoptera litura nucleopolyhedrovirus II
+148634
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.157365
+-0.508554
+0.380546
+-0.366998
+0.589973
+49
+NC_012639
+Euproctis pseudoconspersa nucleopolyhedrovirus
+141291
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.535506
+0.952686
+-0.0060058
+-0.262913
+0.256339
+50
+NC_012672
+Bombyx mandarina nucleopolyhedrovirus
+126770
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.0407739
+-0.564662
+0.603252
+0.0403645
+0.210654
+51
+NC_013772
+Pseudaletia unipuncta granulovirus
+176677
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus}
+0.287567
+-0.336782
+0.809296
+-0.784717
+0.513452
+52
+NC_013797
+Pieris rapae granulovirus
+108592
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.871831
+-0.898856
+0.0654123
+-0.337581
+0.343404
+53
+NC_013953
+Lymantria xylina MNPV
+156344
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus  unclassified Alphabaculovirus}
+-0.192971
+-0.724636
+0.697778
+-0.641102
+-0.934387
+54
+NC_015398
+Clostera anachoreta granulovirus
+101487
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+0.347782
+-0.300847
+0.741994
+-0.455665
+0.608681
+55
+NC_018504
+Apocheima cinerarium nucleopolyhedrovirus
+123876
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+-0.0940018
+-0.56698
+0.594275
+-0.367757
+0.239612
+56
+NC_018875
+Epinotia aporema granulovirus
+119082
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.243149
+-0.131661
+0.330991
+-0.467932
+0.546272
+57
+NC_019945
+Thysanoplusia orichalcea nucleopolyhedrovirus
+132978
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
+0.168518
+-0.490272
+0.624113
+-0.074721
+0.338295
+58
+NC_021923
+Hemileuca sp. nucleopolyhedrovirus
+140633
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae}
+-0.734409
+-0.787875
+0.161887
+-0.756653
+0.704479
+59
+NC_021924
+Choristoneura rosaceana alphabaculovirus
+129052
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus  unclassified Alphabaculovirus}
+-0.843649
+-0.84886
+0.117737
+-0.832542
+0.721542
+60
+NC_021925
+Choristoneura occidentalis alphabaculovirus
+128446
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus  unclassified Alphabaculovirus}
+-0.307186
+-0.787725
+0.640964
+-0.612153
+-1.
+61
+NC_022646
+Clostera anastomosis granulovirus
+101818
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Betabaculovirus  unclassified Betabaculovirus}
+-0.829843
+-0.849468
+0.129187
+-0.865363
+0.707602
+62
+NC_023177
+Choristoneura murinana alphabaculovirus
+124688
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus  unclassified Alphabaculovirus}
+0.0942768
+-0.416106
+0.55253
+-0.464911
+0.657752
+63
+NC_023442
+Buzura suppressaria nucleopolyhedrovirus
+120420
+{root  Viruses  dsDNA viruses no RNA stage  Baculoviridae  Alphabaculovirus}
