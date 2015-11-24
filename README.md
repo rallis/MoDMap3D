@@ -1,2 +1,4 @@
 # MoDMap3D
-Three dimensional Molecular Distance Maps from paper "TITLE" by "AUTHORS" , (demo available <a href="https://dl.dropboxusercontent.com/u/34456847/maps3D/index.html" target="_blank">here</a> ) 
+Three dimensional Molecular Distance Maps from paper "TITLE" by "AUTHORS" .
+
+Demo available at <a href="http://www.csd.uwo.ca/MoDMap/3D/index.html" target="_blank">http://www.csd.uwo.ca/MoDMap/3D/index.html</a> 
