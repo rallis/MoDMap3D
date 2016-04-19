@@ -8,7 +8,7 @@
 % 3D Molecular Distance Maps (3D MoD Maps). 
 % Please refer to / cite the following paper
 %
-% [TO COMPLETE] 
+% Additive Methods to Overcome the Limitations of Genomic Signatures
 %----------------------------------------------------------*/
 
 
@@ -27,13 +27,13 @@ var globalScaledPointsCoord;  // CONTAINS COORDINATES OF POINTS IN THE MAP
 var globalPointsLabels;       // CONTAINS META DATA FOR ALL POINTS IN THE MAP
 var intersectedPoint;         // THE POINT FOUND AFTER 'selection' FROM USER 
 var geometries, materials, meshes, offsets, scene;         // FOR 3D DRAWING
-var camera, meshesRotX, meshesRotY, cameraX, cameraY, cameraZ;  // FOR URL PARAMETERS
+var renderer, mouse, raycaster, camera, meshesRotX, meshesRotY, cameraX, cameraY, cameraZ;  // FOR URL PARAMETERS
 var selectedIndex, minDistance, allHits;   // FOR RAYCASTING aka 'selection' BY USER 
 var selectedGeometry, selectedMaterial, selectedMesh, selected1, protoSelectedSphereGeometry, protoVertexCount, searchOffsets, axisUnit;  // FOR SELECTION AFTER SEARCH
 var fcgrInfo='undefined';                   
 var linkNCBI = 'http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nuccore&id=';
 var linkAssemblyNCBI = 'http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=assembly&id=';
-var baseLink = 'https://dl.dropboxusercontent.com/u/34456847/maps3D/';
+var baseLink = 'http://www.csd.uwo.ca/MoDMap/3D/';
 var allAccessionNums, allNames, allBioInfo, allSearchHits;     // FOR SEARCH
 var taxaTree=[], taxaSearch=false;  // FOR TAXA TREE SEARCH 
 var realtimeHighlight=true;
@@ -41,6 +41,12 @@ var fromIndex="", toIndex="", dists, howmany;
 var highlightColor = parseInt("0x28EE2F");   // 28EE2F=flashing green E8EE3C=YELLOW  EE22B0=MAGENTA
 var dxTimer, dyTimer, dzTimer;     // TIMERS FOR AUTONAVIGATION
 
+window.addEventListener('resize', onWindowResize, false);
+function onWindowResize() {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+}
 
 // CREATE VARIOUS INFO DIVS AND SET THEIR IDs
 var leftmenu = document.createElement('div');
@@ -179,9 +185,9 @@ function initGraphics(){
 
     scene = new THREE.Scene();
     camera = new THREE.PerspectiveCamera(45, window.innerWidth/window.innerHeight, 0.1, 1000);
-    var mouse = new THREE.Vector2();
-    var raycaster = new THREE.Raycaster();
-    var renderer = new THREE.WebGLRenderer();
+    mouse = new THREE.Vector2();
+    raycaster = new THREE.Raycaster();
+    renderer = new THREE.WebGLRenderer();
     
     renderer.setSize(window.innerWidth, window.innerHeight);
     document.body.appendChild(renderer.domElement);
@@ -1267,4 +1273,3 @@ function add(place){
     }
     computeDist(false);
 }
-
