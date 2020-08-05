@@ -1,6 +1,7 @@
-# MoDMap3D
-Three dimensional Molecular Distance Maps from paper "Additive Methods for Genomic Signatures" by "Rallis Karamichalis, Lila Kari, Stavros Konstantinidis, Steffen Kopecki and Stephen Solis-Reyes" .
+Supplementary Material for "Additive Methods for Genomic Signatures"
+======
 
+Rallis Karamichalis, Lila Kari, Stavros Konstantinidis, Steffen Kopecki and Stephen Solis-Reyes: "Additive Methods for Genomic Signatures", [BMC Bioinformatics, 17:313 (2016)](http://dx.doi.org/10.1186/s12859-016-1157-8)
 
 ## How to use
 
